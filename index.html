@@ -169,7 +169,7 @@ body::before {
   position: relative; z-index: 1;
   max-width: 600px;
   margin: 0 auto;
-  padding: 40px 20px 64px;
+  padding: calc(40px + var(--safe-top)) 20px 64px;
 }
 
 /* ── Glass ── */
@@ -513,8 +513,8 @@ body::before {
 .quiz-bar {
   position: sticky; top: 0; z-index: 20;
   margin: calc(-40px - var(--safe-top)) -20px 16px;
-  padding: calc(14px + var(--safe-top)) 20px 10px;
-  background: linear-gradient(180deg, rgba(13,8,11,0.96) 60%, rgba(13,8,11,0) 100%);
+  padding: calc(14px + var(--safe-top)) 20px 12px;
+  background: linear-gradient(180deg, rgba(13,8,11,0.97) 0%, rgba(13,8,11,0.97) 72%, rgba(13,8,11,0) 100%);
   backdrop-filter: blur(14px); -webkit-backdrop-filter: blur(14px);
 }
 .quiz-top {
@@ -805,7 +805,7 @@ body::before {
 
 /* Altezza viewport corretta su iOS Safari (100vh include la barra URL) */
 body { min-height: 100dvh; }
-.container { padding-bottom: max(64px, env(safe-area-inset-bottom)); }
+.container { padding-bottom: calc(64px + var(--safe-bottom)); }
 
 /* Performance mobile: blur pesante = scroll a scatti su Android medio */
 @media (max-width: 520px) {
