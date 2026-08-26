@@ -1,0 +1,20 @@
+{
+  "name": "Quiz — Ripasso esami",
+  "short_name": "Quiz",
+  "description": "Quiz di ripasso per esami universitari, funziona offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d080b",
+  "theme_color": "#0d080b",
+  "lang": "it",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' rx='112' fill='%230d080b'/%3E%3Ctext x='256' y='370' font-size='300' text-anchor='middle'%3E%F0%9F%93%9A%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bubble Pop 🫧</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  min-height: 100vh;
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(160deg, #e0f7fa 0%, #fce4ec 50%, #f3e5f5 100%);
+  overflow: hidden;
+  position: relative;
+  cursor: none;
+}
+
+/* Custom cursor */
+.cursor {
+  position: fixed;
+  width: 28px; height: 28px;
+  border-radius: 50%;
+  background: radial-gradient(circle at 35% 35%, rgba(255,255,255,0.9), rgba(244,114,182,0.6));
+  box-shadow: 0 0 12px rgba(244,114,182,0.5), inset 0 0 8px rgba(255,255,255,0.4);
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  transition: transform 0.08s ease;
+  z-index: 9999;
+  border: 1.5px solid rgba(244,114,182,0.4);
+}
+
+/* Header */
+.header {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 24px;
+  z-index: 100;
+  background: rgba(255,255,255,0.35);
+  backdrop-filter: blur(16px);
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: #c2185b;
+}
+
+.score-wrap {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.score-item {
+  text-align: center;
+}
+
+.score-val {
+  font-size: 1.2rem;
+  font-weight: 900;
+  color: #c2185b;
+  line-height: 1;
+}
+
+.score-lbl {
+  font-size: 0.6rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #e91e8c;
+  opacity: 0.7;
+}
+
+.btn-new {
+  background: linear-gradient(135deg, #f48fb1, #c2185b);
+  color: white;
+  border: none;
+  border-radius: 99px;
+  padding: 7px 16px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 3px 10px rgba(194,24,91,0.30);
+  transition: transform 0.15s;
+}
+.btn-new:hover { transform: scale(1.05); }
+
+/* Canvas */
+canvas {
+  display: block;
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/* Pop particles */
+.pop-particle {
+  position: fixed;
+  pointer-events: none;
+  border-radius: 50%;
+  animation: popOut 0.5s ease-out forwards;
+  z-index: 50;
+}
+
+@keyframes popOut {
+  0%   { opacity: 1; transform: scale(1) translate(0,0); }
+  100% { opacity: 0; transform: scale(0) translate(var(--tx), var(--ty)); }
+}
+
+/* Ripple on pop */
+.ripple {
+  position: fixed;
+  border-radius: 50%;
+  border: 2px solid rgba(244,114,182,0.6);
+  pointer-events: none;
+  animation: rippleOut 0.4s ease-out forwards;
+  z-index: 49;
+}
+
+@keyframes rippleOut {
+  0%   { opacity: 0.8; transform: scale(0.5); }
+  100% { opacity: 0; transform: scale(2.5); }
+}
+
+/* Hint text */
+.hint {
+  position: fixed;
+  bottom: 24px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: rgba(194,24,91,0.6);
+  pointer-events: none;
+  z-index: 100;
+  white-space: nowrap;
+  animation: fadeHint 4s ease forwards;
+}
+
+@keyframes fadeHint {
+  0%   { opacity: 0; }
+  20%  { opacity: 1; }
+  80%  { opacity: 1; }
+  100% { opacity: 0; }
+}
+</style>
+</head>
+<body>
+
+<canvas id="canvas"></canvas>
+
+<div class="cursor" id="cursor"></div>
+
+<div class="header">
+  <div class="title">🫧 Bubble Pop</div>
+  <div class="score-wrap">
+    <div class="score-item">
+      <div class="score-val" id="popped">0</div>
+      <div class="score-lbl">Bolla scoppiata</div>
+    </div>
+    <div class="score-item">
+      <div class="score-val" id="combo">×1</div>
+      <div class="score-lbl">Combo</div>
+    </div>
+    <button class="btn-new" onclick="init()">✨ Nuove bolle</button>
+  </div>
+</div>
+
+<script>
+const canvas = document.getElementById('canvas');
+const ctx    = canvas.getContext('2d');
+const cursor = document.getElementById('cursor');
+
+let W, H, bubbles = [], poppedCount = 0, combo = 1, comboTimer = null;
+let mouse = { x: -999, y: -999 };
+
+// Palette di colori pastello
+const PALETTES = [
+  { fill: 'rgba(244,114,182,0.28)', stroke: 'rgba(244,114,182,0.55)', shine: 'rgba(255,200,230,0.7)' },
+  { fill: 'rgba(167,139,250,0.28)', stroke: 'rgba(167,139,250,0.55)', shine: 'rgba(220,200,255,0.7)' },
+  { fill: 'rgba(96,165,250,0.28)',  stroke: 'rgba(96,165,250,0.55)',  shine: 'rgba(180,220,255,0.7)' },
+  { fill: 'rgba(52,211,153,0.28)',  stroke: 'rgba(52,211,153,0.55)',  shine: 'rgba(180,245,220,0.7)' },
+  { fill: 'rgba(251,191,36,0.28)',  stroke: 'rgba(251,191,36,0.55)',  shine: 'rgba(255,235,160,0.7)' },
+  { fill: 'rgba(248,113,113,0.28)', stroke: 'rgba(248,113,113,0.55)', shine: 'rgba(255,200,200,0.7)' },
+];
+
+const EMOJIS = ['🌸','🌺','🦋','⭐','🍓','🌈','💖','🍩','🐱','🌙','✨','🫐'];
+
+class Bubble {
+  constructor() { this.reset(true); }
+
+  reset(initial = false) {
+    this.r  = 28 + Math.random() * 38;
+    this.x  = this.r + Math.random() * (W - this.r * 2);
+    this.y  = initial ? Math.random() * H : H + this.r + Math.random() * 60;
+    this.vx = (Math.random() - 0.5) * 0.6;
+    this.vy = -(0.4 + Math.random() * 0.7);
+    this.wobble = Math.random() * Math.PI * 2;
+    this.wobbleSpeed = 0.015 + Math.random() * 0.015;
+    this.palette = PALETTES[Math.floor(Math.random() * PALETTES.length)];
+    this.emoji = Math.random() < 0.45 ? EMOJIS[Math.floor(Math.random() * EMOJIS.length)] : null;
+    this.alive = true;
+    this.scale = 1;
+    this.opacity = 0;
+    this.fadeIn = true;
+  }
+
+  update() {
+    this.wobble += this.wobbleSpeed;
+    this.x += this.vx + Math.sin(this.wobble) * 0.4;
+    this.y += this.vy;
+    if (this.fadeIn) {
+      this.opacity = Math.min(1, this.opacity + 0.03);
+      if (this.opacity >= 1) this.fadeIn = false;
+    }
+    if (this.y + this.r < 0) this.reset();
+    if (this.x - this.r < 0 || this.x + this.r > W) this.vx *= -1;
+  }
+
+  draw() {
+    ctx.save();
+    ctx.globalAlpha = this.opacity * 0.92;
+    ctx.translate(this.x, this.y);
+    ctx.scale(this.scale, this.scale);
+
+    // Body
+    ctx.beginPath();
+    ctx.arc(0, 0, this.r, 0, Math.PI * 2);
+    ctx.fillStyle = this.palette.fill;
+    ctx.fill();
+
+    // Border
+    ctx.strokeStyle = this.palette.stroke;
+    ctx.lineWidth = 1.5;
+    ctx.stroke();
+
+    // Shine top-left
+    ctx.beginPath();
+    ctx.ellipse(-this.r * 0.28, -this.r * 0.3, this.r * 0.22, this.r * 0.13, -Math.PI/4, 0, Math.PI*2);
+    ctx.fillStyle = this.palette.shine;
+    ctx.fill();
+
+    // Shine bottom-right smaller
+    ctx.beginPath();
+    ctx.ellipse(this.r * 0.32, this.r * 0.32, this.r * 0.10, this.r * 0.06, Math.PI/4, 0, Math.PI*2);
+    ctx.fillStyle = 'rgba(255,255,255,0.45)';
+    ctx.fill();
+
+    // Emoji
+    if (this.emoji) {
+      ctx.font = `${this.r * 0.75}px serif`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.globalAlpha = this.opacity * 0.85;
+      ctx.fillText(this.emoji, 0, this.r * 0.08);
+    }
+
+    ctx.restore();
+  }
+
+  contains(mx, my) {
+    return Math.hypot(mx - this.x, my - this.y) < this.r;
+  }
+}
+
+function createParticles(x, y, palette) {
+  const count = 8;
+  for (let i = 0; i < count; i++) {
+    const p = document.createElement('div');
+    p.className = 'pop-particle';
+    const size = 5 + Math.random() * 7;
+    const angle = (i / count) * Math.PI * 2;
+    const dist  = 30 + Math.random() * 30;
+    const tx = Math.cos(angle) * dist + 'px';
+    const ty = Math.sin(angle) * dist + 'px';
+    p.style.cssText = `
+      left: ${x}px; top: ${y}px;
+      width: ${size}px; height: ${size}px;
+      background: ${palette.stroke};
+      --tx: ${tx}; --ty: ${ty};
+    `;
+    document.body.appendChild(p);
+    setTimeout(() => p.remove(), 500);
+  }
+
+  // Ripple
+  const rip = document.createElement('div');
+  rip.className = 'ripple';
+  rip.style.cssText = `left:${x}px; top:${y}px; width:60px; height:60px; margin:-30px 0 0 -30px;`;
+  document.body.appendChild(rip);
+  setTimeout(() => rip.remove(), 400);
+}
+
+function popBubble(b, mx, my) {
+  if (!b.alive) return;
+  b.alive = false;
+  createParticles(b.x, b.y, b.palette);
+
+  poppedCount++;
+  document.getElementById('popped').textContent = poppedCount;
+
+  clearTimeout(comboTimer);
+  combo++;
+  document.getElementById('combo').textContent = '×' + combo;
+  comboTimer = setTimeout(() => {
+    combo = 1;
+    document.getElementById('combo').textContent = '×1';
+  }, 1200);
+
+  // Show floating score
+  const el = document.createElement('div');
+  el.style.cssText = `
+    position:fixed; left:${b.x}px; top:${b.y}px;
+    font-family:'Nunito',sans-serif; font-size:${14 + combo*2}px; font-weight:900;
+    color:${combo > 3 ? '#c2185b' : '#e91e8c'};
+    pointer-events:none; z-index:200;
+    transform:translate(-50%,-50%);
+    animation: floatScore 0.8s ease-out forwards;
+  `;
+  el.textContent = combo > 1 ? `+${combo} 🔥` : '+1';
+  document.body.appendChild(el);
+  setTimeout(() => el.remove(), 800);
+
+  setTimeout(() => {
+    b.reset();
+  }, 200);
+}
+
+function init() {
+  W = canvas.width  = window.innerWidth;
+  H = canvas.height = window.innerHeight;
+  const count = Math.min(22, Math.floor(W * H / 28000));
+  bubbles = Array.from({ length: count }, () => new Bubble());
+  poppedCount = 0; combo = 1;
+  document.getElementById('popped').textContent = '0';
+  document.getElementById('combo').textContent = '×1';
+}
+
+function loop() {
+  ctx.clearRect(0, 0, W, H);
+  bubbles.forEach(b => { b.update(); b.draw(); });
+  requestAnimationFrame(loop);
+}
+
+// Events
+window.addEventListener('resize', () => {
+  W = canvas.width  = window.innerWidth;
+  H = canvas.height = window.innerHeight;
+});
+
+window.addEventListener('mousemove', e => {
+  mouse.x = e.clientX; mouse.y = e.clientY;
+  cursor.style.left = e.clientX + 'px';
+  cursor.style.top  = e.clientY + 'px';
+});
+
+function tryPop(x, y) {
+  // Pop topmost bubble
+  for (let i = bubbles.length - 1; i >= 0; i--) {
+    if (bubbles[i].alive && bubbles[i].contains(x, y)) {
+      popBubble(bubbles[i], x, y);
+      break;
+    }
+  }
+}
+
+canvas.addEventListener('click',     e => tryPop(e.clientX, e.clientY));
+canvas.addEventListener('touchstart', e => {
+  e.preventDefault();
+  Array.from(e.touches).forEach(t => tryPop(t.clientX, t.clientY));
+}, { passive: false });
+
+// Floating score animation
+const style = document.createElement('style');
+style.textContent = `@keyframes floatScore {
+  0%   { opacity:1; transform:translate(-50%,-50%) scale(1); }
+  100% { opacity:0; transform:translate(-50%,-120%) scale(1.3); }
+}`;
+document.head.appendChild(style);
+
+// Hint
+setTimeout(() => {
+  const h = document.createElement('div');
+  h.className = 'hint';
+  h.textContent = '🫧 Scoppia tutte le bolle che vuoi!';
+  document.body.appendChild(h);
+  setTimeout(() => h.remove(), 4000);
+}, 800);
+
+init();
+loop();
+</script>
+</body>
+</html>

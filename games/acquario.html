@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acquario 🐠</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Nunito', sans-serif;
+  background: #0a1628;
+  overflow: hidden;
+  height: 100vh;
+  cursor: none;
+}
+
+canvas { display: block; }
+
+/* UI overlay */
+.ui {
+  position: fixed;
+  top: 16px; left: 50%;
+  transform: translateX(-50%);
+  display: flex; gap: 10px; align-items: center;
+  background: rgba(255,255,255,0.10);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 99px;
+  padding: 8px 20px;
+  z-index: 10;
+}
+
+.ui-text {
+  font-size: 0.8rem; font-weight: 700;
+  color: rgba(255,255,255,0.75);
+}
+
+.ui-count {
+  font-size: 1rem; font-weight: 900;
+  color: #7ee8fa;
+}
+
+.hint {
+  position: fixed;
+  bottom: 20px; left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.78rem; font-weight: 700;
+  color: rgba(255,255,255,0.45);
+  pointer-events: none;
+  z-index: 10;
+  white-space: nowrap;
+}
+
+/* Custom cursor */
+.cursor {
+  position: fixed;
+  width: 24px; height: 24px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.25);
+  border: 2px solid rgba(255,255,255,0.5);
+  pointer-events: none;
+  transform: translate(-50%,-50%);
+  z-index: 9999;
+  transition: transform 0.06s;
+}
+.cursor.feed {
+  background: rgba(255,220,100,0.4);
+  border-color: rgba(255,220,100,0.8);
+  transform: translate(-50%,-50%) scale(1.4);
+}
+</style>
+</head>
+<body>
+
+<canvas id="c"></canvas>
+<div class="cursor" id="cursor"></div>
+
+<div class="ui">
+  <span class="ui-text">🐠 Pesciolini</span>
+  <span class="ui-count" id="fish-count">5</span>
+  <span class="ui-text">·</span>
+  <span class="ui-text">🍭 Cibo dato</span>
+  <span class="ui-count" id="food-count">0</span>
+</div>
+
+<div class="hint">Clicca per dar da mangiare 🍭 · Ogni tanto appaiono conchiglie e coralli!</div>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx    = canvas.getContext('2d');
+const cursor = document.getElementById('cursor');
+
+let W, H;
+function resize() {
+  W = canvas.width  = window.innerWidth;
+  H = canvas.height = window.innerHeight;
+}
+resize();
+window.addEventListener('resize', resize);
+
+// ── Colours & helpers ──────────────────────────────────
+const lerp = (a,b,t) => a + (b-a)*t;
+const rand  = (a,b)  => a + Math.random()*(b-a);
+const randInt=(a,b)  => Math.floor(rand(a,b+1));
+
+// ── Bubbles ────────────────────────────────────────────
+class Bubble {
+  constructor(x,y,big=false) {
+    this.x=x; this.y=y;
+    this.r = big ? rand(6,14) : rand(2,6);
+    this.vy = -rand(0.4,1.0);
+    this.vx = (Math.random()-0.5)*0.3;
+    this.alpha=0.7; this.wobble=Math.random()*Math.PI*2;
+  }
+  update(){
+    this.wobble+=0.04;
+    this.x+=this.vx+Math.sin(this.wobble)*0.3;
+    this.y+=this.vy;
+    this.alpha-=0.004;
+  }
+  draw(){
+    ctx.save();
+    ctx.globalAlpha=this.alpha;
+    ctx.beginPath();
+    ctx.arc(this.x,this.y,this.r,0,Math.PI*2);
+    ctx.strokeStyle='rgba(150,230,255,0.6)';
+    ctx.lineWidth=1;
+    ctx.stroke();
+    ctx.beginPath();
+    ctx.arc(this.x-this.r*0.3,this.y-this.r*0.3,this.r*0.22,0,Math.PI*2);
+    ctx.fillStyle='rgba(255,255,255,0.5)';
+    ctx.fill();
+    ctx.restore();
+  }
+  get dead(){ return this.alpha<=0||this.y<-10; }
+}
+
+// ── Food pellets ───────────────────────────────────────
+class Food {
+  constructor(x,y){
+    this.x=x; this.y=y;
+    this.vy=rand(0.6,1.2);
+    this.alpha=1; this.eaten=false;
+    this.r=5;
+    this.wobble=Math.random()*Math.PI*2;
+  }
+  update(){
+    this.wobble+=0.05;
+    this.x+=Math.sin(this.wobble)*0.4;
+    this.y+=this.vy;
+    if(this.y>H-120) this.vy*=0.96;
+    if(this.y>H-80)  this.alpha-=0.02;
+  }
+  draw(){
+    ctx.save();
+    ctx.globalAlpha=this.alpha;
+    ctx.font='14px serif';
+    ctx.textAlign='center'; ctx.textBaseline='middle';
+    ctx.fillText('🍭',this.x,this.y);
+    ctx.restore();
+  }
+  get dead(){ return this.alpha<=0||this.eaten; }
+}
+
+// ── Fish ───────────────────────────────────────────────
+const FISH_EMOJIS = ['🐠','🐟','🐡','🦈','🐙','🦑','🐬','🫧'];
+class Fish {
+  constructor(){
+    this.reset(true);
+    this.emoji = FISH_EMOJIS[randInt(0,FISH_EMOJIS.length-1)];
+    this.size  = rand(22,40);
+    this.happy = 0; // 0-1, fade
+    this.target = null;
+  }
+  reset(init=false){
+    this.x  = init ? rand(60,W-60) : (Math.random()<0.5 ? -60 : W+60);
+    this.y  = rand(80, H-100);
+    this.vx = (Math.random()-0.5)*1.8;
+    this.vy = (Math.random()-0.5)*0.5;
+    this.wobble = Math.random()*Math.PI*2;
+    this.wobbleAmp = rand(0.3,0.8);
+    this.dir = this.vx > 0 ? 1 : -1;
+    this.target = null;
+  }
+  update(foods){
+    // seek nearest food
+    let nearest=null, nearDist=120;
+    foods.forEach(f=>{
+      if(f.dead) return;
+      const d=Math.hypot(f.x-this.x, f.y-this.y);
+      if(d<nearDist){ nearDist=d; nearest=f; }
+    });
+
+    if(nearest){
+      const dx=nearest.x-this.x, dy=nearest.y-this.y;
+      const d=Math.hypot(dx,dy);
+      this.vx=lerp(this.vx, dx/d*2.5, 0.08);
+      this.vy=lerp(this.vy, dy/d*2.5, 0.08);
+      if(d<12){ nearest.eaten=true; this.happy=1; spawnBubbles(this.x,this.y,3); }
+    } else {
+      this.wobble+=0.02;
+      this.vy+=Math.sin(this.wobble)*this.wobbleAmp*0.03;
+      // gentle random drift
+      this.vx+=(Math.random()-0.5)*0.04;
+      this.vy+=(Math.random()-0.5)*0.03;
+      // clamp speed
+      const spd=Math.hypot(this.vx,this.vy);
+      if(spd>1.2){ this.vx*=1.2/spd; this.vy*=1.2/spd; }
+    }
+
+    this.x+=this.vx; this.y+=this.vy;
+    if(this.vx!==0) this.dir=this.vx>0?1:-1;
+
+    // bounce walls
+    if(this.y<70)    { this.vy=Math.abs(this.vy); }
+    if(this.y>H-90)  { this.vy=-Math.abs(this.vy); }
+    if(this.x<-80||this.x>W+80) this.reset();
+
+    if(this.happy>0) this.happy-=0.015;
+  }
+  draw(){
+    ctx.save();
+    ctx.translate(this.x,this.y);
+    ctx.scale(this.dir,1);
+    ctx.font=`${this.size}px serif`;
+    ctx.textAlign='center'; ctx.textBaseline='middle';
+    ctx.fillText(this.emoji,0,0);
+    if(this.happy>0.05){
+      ctx.globalAlpha=this.happy;
+      ctx.font=`${12+this.happy*8}px serif`;
+      ctx.fillText('💖',0,-this.size*0.8);
+    }
+    ctx.restore();
+  }
+}
+
+// ── Decorations (coral, shells) ────────────────────────
+const DECORS = ['🪸','🐚','⭐','🪨','🌿','🦀','🪨'];
+class Decor {
+  constructor(){
+    this.emoji = DECORS[randInt(0,DECORS.length-1)];
+    this.x = rand(20,W-20);
+    this.y = H - rand(20,55);
+    this.size = rand(20,36);
+    this.wobble = Math.random()*Math.PI*2;
+  }
+  draw(){
+    this.wobble+=0.008;
+    ctx.save();
+    ctx.translate(this.x,this.y);
+    ctx.rotate(Math.sin(this.wobble)*0.06);
+    ctx.font=`${this.size}px serif`;
+    ctx.textAlign='center'; ctx.textBaseline='bottom';
+    ctx.fillText(this.emoji,0,0);
+    ctx.restore();
+  }
+}
+
+// ── State ──────────────────────────────────────────────
+let bubbles=[], foods=[], fishes=[], decors=[];
+let foodCount=0, mx=-999, my=-999;
+
+function spawnBubbles(x,y,n=1){
+  for(let i=0;i<n;i++) bubbles.push(new Bubble(x+rand(-10,10),y));
+}
+
+function init(){
+  fishes = Array.from({length:5},()=>new Fish());
+  decors = Array.from({length:randInt(5,9)},()=>new Decor());
+  bubbles=[]; foods=[];
+
+  // ambient bubble emitter
+  setInterval(()=>{
+    const f=fishes[randInt(0,fishes.length-1)];
+    if(Math.random()<0.4) spawnBubbles(f.x,f.y);
+    // random ambient
+    if(Math.random()<0.3) bubbles.push(new Bubble(rand(0,W),H-rand(20,80),true));
+  },1200);
+}
+
+// ── Draw ocean background ──────────────────────────────
+function drawBg(){
+  // deep gradient
+  const g=ctx.createLinearGradient(0,0,0,H);
+  g.addColorStop(0,'#0a1628');
+  g.addColorStop(0.5,'#0d2140');
+  g.addColorStop(1,'#071018');
+  ctx.fillStyle=g; ctx.fillRect(0,0,W,H);
+
+  // Light rays
+  ctx.save();
+  ctx.globalAlpha=0.04;
+  for(let i=0;i<5;i++){
+    const x=W*0.1+W*0.2*i;
+    const gRay=ctx.createLinearGradient(x,0,x+60,H*0.7);
+    gRay.addColorStop(0,'rgba(100,200,255,0.8)');
+    gRay.addColorStop(1,'transparent');
+    ctx.fillStyle=gRay;
+    ctx.beginPath();
+    ctx.moveTo(x,0); ctx.lineTo(x+80,H*0.7); ctx.lineTo(x-20,H*0.7);
+    ctx.closePath(); ctx.fill();
+  }
+  ctx.restore();
+
+  // Sand floor
+  const sand=ctx.createLinearGradient(0,H-60,0,H);
+  sand.addColorStop(0,'#c8a96e');
+  sand.addColorStop(1,'#a07840');
+  ctx.fillStyle=sand;
+  ctx.beginPath();
+  ctx.moveTo(0,H-50);
+  for(let x=0;x<=W;x+=40){
+    ctx.lineTo(x, H-50+Math.sin(x*0.05)*8);
+  }
+  ctx.lineTo(W,H); ctx.lineTo(0,H); ctx.closePath();
+  ctx.fill();
+}
+
+// ── Main loop ──────────────────────────────────────────
+let t=0;
+function loop(){
+  t++;
+  ctx.clearRect(0,0,W,H);
+  drawBg();
+
+  decors.forEach(d=>d.draw());
+
+  bubbles=bubbles.filter(b=>!b.dead);
+  bubbles.forEach(b=>{b.update();b.draw();});
+
+  foods=foods.filter(f=>!f.dead);
+  foods.forEach(f=>{f.update();f.draw();});
+
+  fishes.forEach(f=>{f.update(foods);f.draw();});
+
+  document.getElementById('fish-count').textContent=fishes.length;
+
+  requestAnimationFrame(loop);
+}
+
+// ── Events ─────────────────────────────────────────────
+window.addEventListener('mousemove',e=>{
+  mx=e.clientX; my=e.clientY;
+  cursor.style.left=mx+'px'; cursor.style.top=my+'px';
+  // fishes mildly attracted
+  fishes.forEach(f=>{
+    const d=Math.hypot(f.x-mx,f.y-my);
+    if(d<100){ f.vx+=((mx-f.x)/d)*0.05; f.vy+=((my-f.y)/d)*0.05; }
+  });
+});
+
+canvas.addEventListener('click',e=>{
+  const x=e.clientX, y=e.clientY;
+  if(y<H-80){
+    foods.push(new Food(x,y));
+    foodCount++;
+    document.getElementById('food-count').textContent=foodCount;
+    cursor.classList.add('feed');
+    setTimeout(()=>cursor.classList.remove('feed'),300);
+    // splash
+    for(let i=0;i<4;i++) bubbles.push(new Bubble(x+rand(-15,15),y));
+  }
+});
+
+canvas.addEventListener('touchstart',e=>{
+  e.preventDefault();
+  Array.from(e.touches).forEach(t=>{
+    const x=t.clientX, y=t.clientY;
+    if(y<H-80){
+      foods.push(new Food(x,y));
+      foodCount++;
+      document.getElementById('food-count').textContent=foodCount;
+    }
+  });
+},{passive:false});
+
+init();
+loop();
+</script>
+</body>
+</html>

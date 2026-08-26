@@ -1,0 +1,4378 @@
+{
+ "schema": 2,
+ "key": "storiapedagogia",
+ "nome": "Storia della Pedagogia",
+ "sub": "Scienze dell'Educazione e della Formazione",
+ "emoji": "📚",
+ "domande": [
+  {
+   "id": "mushas",
+   "q": "Cosa segna convenzionalmente il passaggio dalla Preistoria alla Storia?",
+   "opts": [
+    "La comparsa della civiltà sumera",
+    "L'invenzione della scrittura",
+    "Il passaggio dalla vita nomade a quella sedentaria",
+    "L'estinzione dei dinosauri"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n7soms",
+   "q": "Cosa rappresenta il segno geroglifico che indica la parola scriba?",
+   "opts": [
+    "Un tavolo e una sedia",
+    "Piuma e inchiostro",
+    "Una tavoletta sumerica",
+    "Calamo, vaso per l'acqua, tavoletta con due scodelline"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vddi78",
+   "q": "La scrittura nel mondo antico veniva inizialmente utilizzata per",
+   "opts": [
+    "Scrivere le liturgie",
+    "Nessuna di queste opzioni",
+    "Determinare le rotte nautiche",
+    "Catalogare i prodotti"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n88ykc",
+   "q": "Nella civiltà sumerica la scuola aveva un'organizzazione",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "basata sul principio di autorità",
+    "democratica",
+    "dittatoriale"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gsx72y",
+   "q": "In che ordine compaiono queste popolazioni nell'antica Grecia?",
+   "opts": [
+    "Micenei, Dori, Cretesi",
+    "Cretesi, Micenei, Dori",
+    "Cretesi, Dori, Micenei",
+    "Dori, Cretesi, Micenei"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vtfihq",
+   "q": "In quale arco temporale si colloca il \"Medioevo ellenico\"?",
+   "opts": [
+    "Dal 322 a.C. al 31 a.C.",
+    "Dal 476 d.C. al 1492 d.C.",
+    "Dal 1200 a.C. al 750 a.C.",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "70roaw",
+   "q": "Da cosa deriva la parola \"Mentore\"?",
+   "opts": [
+    "Dal nome di un grande pedagogo ateniese",
+    "Dal nome del consigliere di Ulisse",
+    "Dal verbo mentire",
+    "Dal nome del centauro educatore di Achille"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wkj6og",
+   "q": "Omero, secondo Platone, fu",
+   "opts": [
+    "Un grande politico",
+    "Tutte le opzioni",
+    "Un grande drammaturgo",
+    "Il vero educatore della Grecia"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6t3or0",
+   "q": "Cosa significa \"Aretè\"?",
+   "opts": [
+    "Coraggio",
+    "Libertà",
+    "Virtù o valore",
+    "Dolore"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vuik8p",
+   "q": "Quali erano le figure in possesso della tecnica della scrittura nel mondo antico?",
+   "opts": [
+    "Gli scribi",
+    "I guerrieri",
+    "I giudici",
+    "I sacerdoti"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c7v7gy",
+   "q": "A Sparta il cittadino era innanzitutto un",
+   "opts": [
+    "Uomo di cultura",
+    "Soldato",
+    "Uomo di fede",
+    "Cacciatore"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g7ga8w",
+   "q": "Cosa significa \"Paideia\"?",
+   "opts": [
+    "Educazione",
+    "Libertà",
+    "Autonomia",
+    "Valore"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sxdfi5",
+   "q": "A Sparta, dopo i 7 anni, il bambino veniva educato",
+   "opts": [
+    "nelle scuole della polis",
+    "dalle balie della polis",
+    "in una comunità-caserma",
+    "Isolato, nella natura"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13kxe0o",
+   "q": "Cosa significa \"Pedagogo\"?",
+   "opts": [
+    "Colui che conduce per mano il bambino",
+    "Colui che accudisce",
+    "Colui che insegna",
+    "Colui che impara"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p3zfs8",
+   "q": "Cosa promettevano i sofisti ai loro allievi?",
+   "opts": [
+    "Superiorità in politica",
+    "Vittorie sportive",
+    "Conoscenza della poesia",
+    "Conoscenza della verità"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k8gbhk",
+   "q": "Chi era Gorgia?",
+   "opts": [
+    "Uno stratega militare",
+    "Un sofista",
+    "Uno scrittore",
+    "Un discepolo di Socrate"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nhppz0",
+   "q": "A Sparta veniva trascurata la preparazione culturale, ad eccezione",
+   "opts": [
+    "della poesia",
+    "dell'educazione musicale",
+    "del teatro",
+    "della letteratura"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hzcr9w",
+   "q": "Quando nacquero le polis?",
+   "opts": [
+    "III secolo a.C.",
+    "VIII secolo a.C.",
+    "II millennio a.C.",
+    "I millennio a.C."
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "100z6tk",
+   "q": "Isocrate era un logografo, cioè",
+   "opts": [
+    "Scriveva i discorsi per le orazioni in tribunale",
+    "Nessuna di queste opzioni",
+    "Insegnava calligrafia",
+    "Insegnava la scrittura della musica"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18v6d38",
+   "q": "Come Socrate chiamava il suo metodo pedagogico?",
+   "opts": [
+    "Didattica",
+    "Insegnamento",
+    "Retorica",
+    "Maieutica"
+   ],
+   "answ": 3,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e1sx7u",
+   "q": "Cosa scrisse Socrate?",
+   "opts": [
+    "L'Emilio",
+    "Non scrisse nulla",
+    "Il Pedagogo",
+    "Il De Magistro"
+   ],
+   "answ": 1,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13oi9c0",
+   "q": "Aristotele fondò",
+   "opts": [
+    "Il Liceo",
+    "L'Accademia",
+    "La prima università",
+    "Il conservatorio"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yef9ix",
+   "q": "Quali erano le tre classi sociali immaginate da Platone?",
+   "opts": [
+    "Lavoratori, guerrieri, governanti",
+    "Agricoltori, commercianti, tessitori",
+    "Oratori, guerrieri, sacerdoti",
+    "Militari, cittadini, governanti"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "428vss",
+   "q": "In età ellenistica fino a che età il bambino poteva rimanere in famiglia?",
+   "opts": [
+    "12 anni",
+    "7 anni",
+    "8 anni",
+    "3 anni"
+   ],
+   "answ": 1,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "95hdnb",
+   "q": "Quali furono le due principali filosofie ellenistiche?",
+   "opts": [
+    "Illuminismo e Positivismo",
+    "Pragmatismo e idealismo",
+    "Stoicismo ed epicureismo",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qex75g",
+   "q": "Nel mondo ebraico l'educazione era",
+   "opts": [
+    "Aperta a tutti",
+    "Gratuita",
+    "Fortemente legata alla religione",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cszcz5",
+   "q": "Su quali testi si basava l'educazione nel mondo ebraico?",
+   "opts": [
+    "Bibbia",
+    "Vangelo",
+    "Torah e Talmud",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 2,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iya1qs",
+   "q": "Qual è il primo imprescindibile luogo di formazione per l'uomo romano in età monarchica?",
+   "opts": [
+    "La polis",
+    "La famiglia",
+    "La gens",
+    "Lo stato"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nz4oyk",
+   "q": "Dopo i 16 anni, il ragazzo romano in età monarchica affrontava",
+   "opts": [
+    "La carriera politica",
+    "Un anno di tirocinio nella vita pubblica con un amico di famiglia",
+    "Gli studi superiori",
+    "Il servizio militare"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mi0a7k",
+   "q": "Cosa prevedeva l'istruzione di base in età monarchica?",
+   "opts": [
+    "Lettura e scrittura",
+    "Grammatica, Matematica, Musica",
+    "Lettura, Scrittura, Educazione fisica",
+    "Lettura, scrittura e apprendimento a memoria delle leggi delle 12 tavole"
+   ],
+   "answ": 3,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13mm114",
+   "q": "Quali erano i valori del Mos Maiorum?",
+   "opts": [
+    "Fides",
+    "Tutte le opzioni",
+    "Auctoritas",
+    "Pietas"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11gv920",
+   "q": "Chi nel II secolo a.C. scrisse il De Liberis Educandis?",
+   "opts": [
+    "Petronio",
+    "Quintiliano",
+    "Catone il Censore",
+    "Augusto"
+   ],
+   "answ": 2,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k61l48",
+   "q": "Nel 155 a.C. Catone il Censore riuscì a",
+   "opts": [
+    "Far espellere i filosofi greci da Roma con l'accusa di corruzione dei giovani",
+    "Rendere obbligatorio lo studio del greco nell'istruzione romana",
+    "Effettuare il primo censimento della popolazione romana",
+    "Far passare una legge contro gli eccessi delle donne romane"
+   ],
+   "answ": 0,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lfvvms",
+   "q": "Come era chiamato il maestro elementare nella Roma del II secolo a.C.?",
+   "opts": [
+    "Grammaticus",
+    "Didascalos",
+    "Grammatikòs",
+    "Ludimagister"
+   ],
+   "answ": 3,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xru5w",
+   "q": "Secondo Quintiliano, se il bambino non ha imparato quanto gli è stato insegnato, la causa va ricercata",
+   "opts": [
+    "In un \"difetto di carattere\"",
+    "In un \"difetto di disciplina\"",
+    "In un \"difetto di educazione\"",
+    "In un \"difetto di natura\""
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "48bdeo",
+   "q": "Come si chiama il trattato pedagogico di Quintiliano?",
+   "opts": [
+    "Institutio Pedagogica",
+    "Institutio Grammatica",
+    "Institutio Educativa",
+    "Institutio Oratoria"
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cvc5hk",
+   "q": "Chi sosteneva che l'oratore dovesse essere un \"vir bonus dicendi perito\"?",
+   "opts": [
+    "Quintiliano",
+    "Socrate",
+    "Augusto",
+    "Mecenate"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ueyau8",
+   "q": "Quintiliano era contrario a",
+   "opts": [
+    "All'educazione in casa e non a scuola",
+    "Alle pene corporali",
+    "Tutte le opzioni",
+    "Alla retorica separata dall'etica"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10y2iwc",
+   "q": "Quando deve iniziare l'istruzione secondo Quintiliano?",
+   "opts": [
+    "A 12 anni",
+    "A 10 anni",
+    "A 7 anni",
+    "A 3 anni"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e9gg91",
+   "q": "Chi si occupava della formazione dei catecumeni nelle prime comunità cristiane?",
+   "opts": [
+    "Gli anziani del presbiterio",
+    "I sacerdoti",
+    "I vescovi",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1abldkd",
+   "q": "Nelle prime comunità cristiane qual era il centro dell'educazione cristiana?",
+   "opts": [
+    "La sequela del magistero di Cristo",
+    "Le buone opere",
+    "Le preghiere",
+    "I riti"
+   ],
+   "answ": 0,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i4rwts",
+   "q": "Quale fu l'accusa che il Sinedrio rivolse a Gesù?",
+   "opts": [
+    "Calunnia",
+    "Sobillazione del popolo",
+    "Tradimento",
+    "Bestemmia"
+   ],
+   "answ": 0,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nr9l4g",
+   "q": "Quali imperatori sono ricordati per aver perseguitato i Cristiani?",
+   "opts": [
+    "Augusto, Tiberio, Caligola",
+    "Nerone, Tiberio, Vespasiano",
+    "Nerone, Domiziano, Diocleziano",
+    "Nerone, Domiziano, Giuliano l'Apostata"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wf8jz8",
+   "q": "Secondo Clemente Alessandrino, il vero maestro è",
+   "opts": [
+    "Il vescovo",
+    "L'imperatore",
+    "Cristo",
+    "Il padre"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ybqd6y",
+   "q": "Clemente Alessandrino ritiene che la pedagogia sia",
+   "opts": [
+    "Un percorso sotto la guida del vero maestro, Cristo",
+    "Tutte le opzioni",
+    "un processo di perfezionamento spirituale",
+    "una buona formazione che guida dall'infanzia alla virtù"
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hxbf8q",
+   "q": "Clemente Alessandrino scrisse",
+   "opts": [
+    "Il De Liberis Educandis",
+    "Il pedagogo",
+    "Il De Magistro",
+    "L'Institutio Oratoria"
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vkreg",
+   "q": "Costantino, con l'Editto di Milano del 313, rese il cristianesimo",
+   "opts": [
+    "Superstizione non autorizzata",
+    "Culto illecito",
+    "Culto lecito",
+    "Religione di stato"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yf45g9",
+   "q": "Con l'Editto di Tessalonica, il cristianesimo diventa",
+   "opts": [
+    "Culto lecito",
+    "Culto illecito",
+    "Religione di stato",
+    "Superstizione non autorizzata"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1r4m1y8",
+   "q": "Scrisse un trattato pedagogico immaginando un dialogo con il figlio Adeodato",
+   "opts": [
+    "S. Ambrogio",
+    "Cicerone",
+    "S. Agostino",
+    "Clemente Alessandrino"
+   ],
+   "answ": 2,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3mp4os",
+   "q": "Chi ritiene che si conosce solo ciò che si ama?",
+   "opts": [
+    "S. Ambrogio",
+    "Clemente Alessandrino",
+    "Cicerone",
+    "S. Agostino"
+   ],
+   "answ": 3,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jlfg9k",
+   "q": "Secondo Agostino, un insegnante è tale solo se",
+   "opts": [
+    "è dedito al suo mestiere",
+    "è compreso dagli alunni",
+    "ha fede in Dio",
+    "è attento agli alunni"
+   ],
+   "answ": 1,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p14l18",
+   "q": "Secondo S. Agostino",
+   "opts": [
+    "La verità è già in noi",
+    "La verità è trasmessa dal maestro all'alunno",
+    "La verità è inconoscibile",
+    "La verità non esiste"
+   ],
+   "answ": 0,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bct3td",
+   "q": "Carlo Magno affidò l'insegnamento",
+   "opts": [
+    "Agli ecclesiastici",
+    "Ai vescovi",
+    "Ai laici",
+    "Ai dotti"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fvux9h",
+   "q": "Cosa non sapeva fare Carlo Magno?",
+   "opts": [
+    "Leggere",
+    "Scrivere",
+    "Parlare latino",
+    "Capire il greco"
+   ],
+   "answ": 1,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14vng0g",
+   "q": "Quando viene incoronato Carlo Magno?",
+   "opts": [
+    "Notte di Natale del 800 a.C.",
+    "Notte di Natale del 1800",
+    "Notte di Natale dell'800 d.C.",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 2,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bfg6ga",
+   "q": "Il capitolare Admonitio Generalis fu emanato da",
+   "opts": [
+    "Papa Innocenzo III",
+    "Papa Bonifacio",
+    "Carlo Magno",
+    "Augusto"
+   ],
+   "answ": 2,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k5v32g",
+   "q": "Carlo Magno fondò",
+   "opts": [
+    "La scuola Palatina",
+    "Nessuna di queste opzioni",
+    "Il Liceo",
+    "L'Accademia"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1c1plqs",
+   "q": "Il Papa incoronò Carlo Magno imperatore per",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "Arrogarsi il diritto di nominare l'imperatore",
+    "Riconoscere i suoi meriti",
+    "Proteggersi dai longobardi"
+   ],
+   "answ": 1,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q3lxft",
+   "q": "Cosa prevedeva la Regola di San Benedetto?",
+   "opts": [
+    "Moderazione, per evitare condizioni di vita estreme tipiche del monachesimo orientale",
+    "Preghiera e lavoro",
+    "Tutte le opzioni",
+    "Molte eccezioni, per adattarsi ad ogni contesto e alla diversità di ognuno"
+   ],
+   "answ": 2,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "148n9z8",
+   "q": "Chi scrisse la Regola?",
+   "opts": [
+    "San Francesco",
+    "San Benedetto",
+    "San Tommaso",
+    "Sant'Agostino"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7c1h82",
+   "q": "Dalla vita di Ermanno lo Storpio si può evincere che l'educazione cristiana in epoca alto-medievale",
+   "opts": [
+    "avveniva anche e soprattutto nei monasteri",
+    "prevedeva l'accoglienza e assistenza dei più fragili",
+    "affermava il valore della vita umana al di là della sua forma esteriore",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mqhw09",
+   "q": "Tra le categorie sociali individuate da Adalberone di Laon, qual era la più importante nella società medievale?",
+   "opts": [
+    "Laboratores",
+    "Oratores",
+    "Bellatores",
+    "Agricoltores"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dzefdk",
+   "q": "In età comunale, chi intendeva intraprendere la carriera forense doveva",
+   "opts": [
+    "Frequentare la Scuola d'abaco",
+    "Fare un apprendistato in bottega",
+    "Frequentare la scuola di grammatica e poi l'università",
+    "Fare un apprendistato in tribunale"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "untkpk",
+   "q": "Cos'era la scuola d'abaco, sviluppatasi nel XII secolo?",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "La scuola urbana per quanti intendessero intraprendere la carriera mercantile",
+    "Un'università dove si apprendeva la matematica",
+    "La scuola elementare, dove si apprendeva il calcolo"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n1r0g8",
+   "q": "I comuni italiani si affrancarono dall'autorità del vescovo ed elessero",
+   "opts": [
+    "un signore",
+    "un podestà",
+    "due re",
+    "due consoli"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hk7u4",
+   "q": "Nel 1176 i comuni vinsero contro",
+   "opts": [
+    "Il papa",
+    "Federico II",
+    "Ottone I",
+    "Federico Barbarossa"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9s2tc4",
+   "q": "San Tommaso, per spiegare la sua teoria della conoscenza, paragona il maestro al",
+   "opts": [
+    "Mercante",
+    "Pittore",
+    "Medico",
+    "Sarto"
+   ],
+   "answ": 2,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kj8fm8",
+   "q": "Le Università erano fonte di ricchezza economica per le città perché",
+   "opts": [
+    "Tutte le opzioni",
+    "Gli studenti frequentavano le tabernae",
+    "Gli studenti alimentavano la compravendita di manoscritti",
+    "Gli studenti vi affittavano alloggi"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18m7nck",
+   "q": "Le prime Università erano chiamate",
+   "opts": [
+    "Studia Generalia",
+    "Alma Mater Studiorum",
+    "Studia Universalia",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jtsg2s",
+   "q": "Le prime Università nacquero come",
+   "opts": [
+    "Gruppi ristretti a pochi adepti, aperti poi a tutti",
+    "Corporazioni di persone",
+    "Scuole professionali",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g29ic8",
+   "q": "Le Università nacquero nel",
+   "opts": [
+    "XII secolo",
+    "V secolo",
+    "Novecento",
+    "X secolo"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g2fw4o",
+   "q": "Dove si sviluppò principalmente la Scolastica?",
+   "opts": [
+    "Nelle scuole del Settecento",
+    "Nelle università medievali",
+    "Nelle scuole di età contemporanea",
+    "Nelle scuole d'abaco urbane in età comunale"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ycnfam",
+   "q": "Anselmo d'Aosta fu l'autore",
+   "opts": [
+    "Del De Magistro",
+    "Del Pedagogo",
+    "Della Summa Teologica",
+    "Della prima dimostrazione dell'esistenza di Dio"
+   ],
+   "answ": 3,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "evdhh0",
+   "q": "Nell'articolazione dell'insegnamento delle università medievali, che cos'era la disputatio?",
+   "opts": [
+    "La discussione",
+    "La spiegazione",
+    "L'analisi",
+    "L'esegesi"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ateayp",
+   "q": "Cos'erano le Madrase?",
+   "opts": [
+    "Scuole coraniche",
+    "Le botteghe artigiane",
+    "Scuole riservate alle donne",
+    "Le università del mondo arabo"
+   ],
+   "answ": 3,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15uuxms",
+   "q": "Qual è la differenza tra le università europee medievali e le Case della Scienza?",
+   "opts": [
+    "Le prime erano più numerose",
+    "Le prime erano indipendenti dal potere politico e religioso",
+    "Le prime erano composte solo da religiosi",
+    "Le seconde erano più specializzate in materie umanistiche"
+   ],
+   "answ": 1,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "mb0vwp",
+   "q": "In che anno venne stabilito l'inizio dell'era musulmana?",
+   "opts": [
+    "632, morte di Maometto",
+    "732, Battaglia di Poitiers",
+    "570, nascita di Maometto",
+    "622, Egira di Maometto"
+   ],
+   "answ": 3,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cqns00",
+   "q": "Chi era Erasmo da Rotterdam?",
+   "opts": [
+    "Un monaco agostiniano come Lutero",
+    "Un teologo olandese",
+    "Un conte tedesco",
+    "Un abate tedesco"
+   ],
+   "answ": 1,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uftres",
+   "q": "Chi era Martin Lutero?",
+   "opts": [
+    "Un vescovo tedesco",
+    "Un monaco agostiniano tedesco",
+    "Un professore universitario francese",
+    "Un importante pensatore gesuita"
+   ],
+   "answ": 1,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xfik76",
+   "q": "Cosa Lutero riteneva essere il fine dell'istruzione di base?",
+   "opts": [
+    "Che tutti sapessero leggere il latino",
+    "Che tutti imparassero i fondamenti del catechismo cattolico",
+    "Che tutti potessero leggere la Bibbia tradotta nelle lingue locali",
+    "Che tutti rispettassero gli insegnamenti della Chiesa Cattolica"
+   ],
+   "answ": 2,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mrzhi0",
+   "q": "Chi fondò la Compagnia di Gesù?",
+   "opts": [
+    "S. Benedetto",
+    "S. Francesco",
+    "S. Ignazio di Loyola",
+    "S. Antonio da Padova"
+   ],
+   "answ": 2,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13x1sq0",
+   "q": "Chi solitamente frequentava i collegi dei Gesuiti?",
+   "opts": [
+    "I figli degli aristocratici",
+    "I bambini delle campagne",
+    "I figli di mercanti e artigiani",
+    "I figli del popolo"
+   ],
+   "answ": 0,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5xxv5f",
+   "q": "Cos'è l'Orbis Sensualium Pictus?",
+   "opts": [
+    "Un atlante del mondo fatto a scopo didattico",
+    "Un saggio pedagogico scritto da Comenio",
+    "Un saggio pedagogico scritto da Montaigne",
+    "Il primo libro illustrato per bambini scritto da Comenio"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vgfu0",
+   "q": "Montaigne critica",
+   "opts": [
+    "Il principio di autorità",
+    "Lo studio del greco e del latino al posto delle lingue moderne",
+    "Lo studio mnemonico dei Gesuiti",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ex0sq0",
+   "q": "Chi scrisse la Didactica Magna pubblicata nel 1657?",
+   "opts": [
+    "San Tommaso",
+    "S. Agostino",
+    "Comenio",
+    "S. Benedetto"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1os86sw",
+   "q": "Comenio riteneva che l'istruzione",
+   "opts": [
+    "Andasse riservata agli aristocratici",
+    "Dovesse essere facoltativa",
+    "Dovesse essere per tutti e obbligatoria",
+    "Dovesse avere al centro la religione"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fwsvn4",
+   "q": "Come Comenio intendeva dividere gli alunni nelle classi?",
+   "opts": [
+    "In gruppi di cinquanta",
+    "In base al sesso",
+    "In base all'età",
+    "In gruppi di dieci, con un alunno \"caposquadra\""
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bt8n1k",
+   "q": "Chi ha scritto il Leviatano del 1651?",
+   "opts": [
+    "John Locke",
+    "Erasmo da Rotterdam",
+    "Thomas Hobbes",
+    "Martin Lutero"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "aab158",
+   "q": "Chi scrisse i Pensieri sull'educazione del 1693?",
+   "opts": [
+    "John Locke",
+    "Thomas Hobbes",
+    "Martin Lutero",
+    "Erasmo da Rotterdam"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hpvm3g",
+   "q": "Locke pensa innanzitutto all'educazione",
+   "opts": [
+    "del re",
+    "del gentleman",
+    "dei giovani aristocratici",
+    "del popolo"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "thf5s0",
+   "q": "Locke sostiene il valore educativo",
+   "opts": [
+    "dei rimproveri",
+    "delle pene corporali",
+    "della natura",
+    "dell'abitudine"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15py3yo",
+   "q": "A che cosa Locke riserva il primo posto nella formazione integrale del gentleman?",
+   "opts": [
+    "Religione",
+    "Moralità",
+    "Cultura",
+    "Educazione fisica"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wt3btw",
+   "q": "Charles Perrault nel 1697 scrisse",
+   "opts": [
+    "Lo cunto de li cunti",
+    "Le piacevoli notti",
+    "Il Pentamerone",
+    "I racconti di Mamma Oca"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tadxvf",
+   "q": "La Salle, similmente ai Gesuiti, diede spazio alla",
+   "opts": [
+    "Tutte le opzioni",
+    "moralizzazione del bambino",
+    "educazione religiosa",
+    "acquisizione di un adeguato contegno sociale"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "a9ahns",
+   "q": "Jean Baptiste de La Salle riteneva che la scuola elementare dovesse essere",
+   "opts": [
+    "obbligatoria e aperta a tutti",
+    "riservata solo ai nobili",
+    "obbligatoria solo per le classi dirigenti",
+    "riservata solo ai borghesi"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p8eadf",
+   "q": "Le Piccole scuole dei giansenisti erano rivolte",
+   "opts": [
+    "ai poveri",
+    "al popolo",
+    "alle classi sociali elevate",
+    "a tutti"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wzv9nk",
+   "q": "Giansenio fu",
+   "opts": [
+    "Un gesuita",
+    "Un teologo con posizioni vicine a quelle calviniste",
+    "Un educatore spagnolo",
+    "Un vescovo spagnolo"
+   ],
+   "answ": 1,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ee7sj7",
+   "q": "Kant definisce l'illuminismo come",
+   "opts": [
+    "L'età della ragione",
+    "L'età della verità",
+    "L'uscita dell'uomo dallo stato di minorità",
+    "L'illuminazione della ragione"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xpm485",
+   "q": "Furono gli autori dell'Enciclopedia del 1751",
+   "opts": [
+    "Montesquieu e Rousseau",
+    "Diderot e D'Alembert",
+    "Newton e Voltaire",
+    "Voltaire e Rousseau"
+   ],
+   "answ": 1,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1q5tkj4",
+   "q": "Scrisse l'Emilio",
+   "opts": [
+    "Rousseau",
+    "Montesquieu",
+    "Locke",
+    "Comenio"
+   ],
+   "answ": 0,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1aepubs",
+   "q": "Qual era l'unico libro che Rousseau riteneva adatto per gli educandi?",
+   "opts": [
+    "La Bibbia",
+    "Viaggio al centro della terra",
+    "Robinson Crusoe",
+    "Il libro della giungla"
+   ],
+   "answ": 0,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ollib8",
+   "q": "L'Emilio immaginato da Rousseau è un bambino",
+   "opts": [
+    "orfano e povero",
+    "abbandonato nelle campagne",
+    "dei sobborghi di Parigi",
+    "nobile e benestante"
+   ],
+   "answ": 3,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11noru0",
+   "q": "Nell'Emilio di Rousseau, il protagonista in età adulta conoscerà",
+   "opts": [
+    "Geltrude",
+    "Clara",
+    "Sofia",
+    "Emilia"
+   ],
+   "answ": 2,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13h4kl8",
+   "q": "Rousseau sostiene che nello stato di natura l'uomo è",
+   "opts": [
+    "inadatto alla socialità",
+    "incapace di relazione",
+    "malvagio",
+    "buono"
+   ],
+   "answ": 3,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "og85qc",
+   "q": "In che anno venne redatta la Dichiarazione di Indipendenza americana?",
+   "opts": [
+    "1789",
+    "1776",
+    "1783",
+    "1861"
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1d44hu0",
+   "q": "Per quali motivi gli europei emigrarono in America tra Seicento e Settecento?",
+   "opts": [
+    "economici e religiosi",
+    "Nessuna di queste opzioni",
+    "turistici",
+    "politici"
+   ],
+   "answ": 0,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "osn3os",
+   "q": "Anno della presa della Bastiglia",
+   "opts": [
+    "1879",
+    "1798",
+    "1789",
+    "1776"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1s1mvzg",
+   "q": "Condorcet ipotizzò che il primo grado dell'istruzione venisse aperto",
+   "opts": [
+    "anche alle bambine",
+    "anche ai ceti inferiori",
+    "anche agli adulti",
+    "Tutte le opzioni"
+   ],
+   "answ": 2,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lz3few",
+   "q": "Secondo Pestalozzi, le tre dimensioni in cui si articola l'umano sono",
+   "opts": [
+    "Cuore, anima, mente",
+    "Cuore, mente, mano",
+    "Anima, mente, corpo",
+    "Corpo, cuore, mano"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16vwfoq",
+   "q": "A quale di questi luoghi è legata la figura di Pestalozzi?",
+   "opts": [
+    "Parigi",
+    "Mosca",
+    "Jasnaja Poljana",
+    "Neuhof"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7ywvgc",
+   "q": "Pestalozzi scrisse",
+   "opts": [
+    "La pedagogia generale dedotta dal fine dell'educazione",
+    "Anna Karenina",
+    "Leonardo e Geltrude",
+    "L'Emilio"
+   ],
+   "answ": 2,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "eqzg6h",
+   "q": "L'educazione elementare, secondo il metodo intuitivo-oggettivo di Pestalozzi, si compone di tre elementi:",
+   "opts": [
+    "lettera, parola, discorso",
+    "forma, contorno, disegno",
+    "forma, numero, parola",
+    "lettura, scrittura, conto"
+   ],
+   "answ": 2,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zzp1bk",
+   "q": "Il piano per l'istruzione di Condorcet era aperto",
+   "opts": [
+    "a tutti, uomini e donne",
+    "solo alla nobiltà",
+    "solo agli ecclesiastici",
+    "solo alla borghesia"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "x0pdzc",
+   "q": "Victor, il ragazzo selvaggio dell'Aveyron, fu oggetto di studi pedagogici compiuti da",
+   "opts": [
+    "Rousseau",
+    "Froebel",
+    "Itard",
+    "Herbart"
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hm9yc4",
+   "q": "Itard è considerato",
+   "opts": [
+    "il padre della pedagogia speciale",
+    "il padre della psicologia",
+    "uno dei più importanti pedagogisti del Seicento",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ashxao",
+   "q": "Itard si discosta dal pensiero di Rousseau riguardo la concezione",
+   "opts": [
+    "del lavoro",
+    "Nessuna di queste opzioni",
+    "della figura femminile",
+    "dello stato di natura"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f4i3gg",
+   "q": "Chi per primo sostenne che la pedagogia doveva servirsi degli strumenti forniti dalla psicologia?",
+   "opts": [
+    "Froebel",
+    "Rousseau",
+    "Itard",
+    "Herbart"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f6qd4o",
+   "q": "Chi introdusse i Kindergarten?",
+   "opts": [
+    "Tolstoj",
+    "Pestalozzi",
+    "Froebel",
+    "Herbart"
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fjdihk",
+   "q": "Quali sono gli strumenti di cui può servirsi l'educatore secondo Herbart?",
+   "opts": [
+    "i mezzi esteriori e gli strumenti vivi",
+    "le masse appercettive",
+    "l'interesse",
+    "Nessuna di queste opzioni"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7staxc",
+   "q": "Cosa intende Herbart quando parla di strumenti vivi?",
+   "opts": [
+    "la conversazione e il componimento",
+    "la minaccia e la sorveglianza",
+    "la pazienza e la disciplina",
+    "l'amore e l'autorità"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "m3uj9k",
+   "q": "Cosa sono le masse appercettive nella riflessione di Herbart?",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "Le stimolazioni dei sensi",
+    "Le categorie della mente",
+    "Le intuizioni della mente"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j5tvkk",
+   "q": "Cosa intende Herbart quando parla di mezzi esteriori?",
+   "opts": [
+    "la conversazione e il componimento",
+    "l'amore e l'autorità",
+    "la pazienza e la disciplina",
+    "la minaccia e la sorveglianza"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15zy6ik",
+   "q": "Quale deve essere l'unica preoccupazione degli insegnanti secondo Herbart?",
+   "opts": [
+    "far rispettare le regole",
+    "suscitare l'interesse degli allievi",
+    "fornire un programma didattico completo",
+    "mantenere la disciplina in classe"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1womrj8",
+   "q": "Cosa sono i doni froebeliani?",
+   "opts": [
+    "dei solidi geometrici",
+    "delle scatole a sorpresa",
+    "delle scatole ad incastro",
+    "dei regali per i bambini dei kindergarten"
+   ],
+   "answ": 0,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wfv26g",
+   "q": "Parlando di \"libero ordine\" Tolstoj intendeva che",
+   "opts": [
+    "L'alunno era libero di non ascoltare il maestro",
+    "Tutte le opzioni",
+    "L'alunno era libero di arrivare in ritardo",
+    "Non c'erano compiti a casa"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jo0tl4",
+   "q": "A Jasnaja Poljana Tolstoj fonda",
+   "opts": [
+    "una scuola gratuita per bambini di 3-6 anni",
+    "una scuola gratuita per bambini di 6-12 anni",
+    "Nessuna di queste opzioni",
+    "una scuola gratuita per bambini di 0-3 anni"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g8z42x",
+   "q": "Il metodo pedagogico proposto da Tolstoj è di derivazione",
+   "opts": [
+    "Itardiana, per l'applicazione di un metodo medico-scientifico",
+    "Nessuna di queste opzioni",
+    "Rousseauiana, per il puerocentrismo",
+    "Herbartiana, per l'importanza data alla psicologia"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dulqy9",
+   "q": "Tolstoj scrisse",
+   "opts": [
+    "Azbuka (Sillabario)",
+    "Guerra e Pace",
+    "Tutte le opzioni",
+    "Anna Karenina"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ps4x80",
+   "q": "Chi scrisse Pierino Porcospino?",
+   "opts": [
+    "Hoffmann",
+    "Herbart",
+    "I fratelli Grimm",
+    "Tolstoj"
+   ],
+   "answ": 0,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ceashu",
+   "q": "Dove ebbe inizio la rivoluzione industriale?",
+   "opts": [
+    "Spagna",
+    "Inghilterra",
+    "Italia",
+    "Germania"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pfpzbs",
+   "q": "Robert Owen fu un",
+   "opts": [
+    "imprenditore inglese",
+    "insegnante americano",
+    "medico britannico",
+    "pedagogista americano"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "39hs1k",
+   "q": "Robert Owen alzò l'età minima di assunzione per i lavoratori della sua fabbrica a",
+   "opts": [
+    "16 anni",
+    "10 anni",
+    "18 anni",
+    "6 anni"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sddayc",
+   "q": "Robert Owen fu una personalità legata alle correnti del",
+   "opts": [
+    "socialismo utopistico",
+    "positivismo",
+    "socialismo rivoluzionario",
+    "romanticismo"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15rutuw",
+   "q": "Edouard Séguin fondò",
+   "opts": [
+    "Un ospedale per bambini con disabilità",
+    "la prima scuola speciale in Europa per disabili intellettivi gravi",
+    "una scuola legata alla sua azienda",
+    "un orfanotrofio"
+   ],
+   "answ": 1,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1alwo3k",
+   "q": "Secondo Séguin la disabilità intellettiva era dovuta",
+   "opts": [
+    "ad un arresto dello sviluppo mentale prima, durante o dopo la nascita",
+    "alla mancanza di educazione",
+    "ad una anomalia anatomica",
+    "ad una malformazione congenita"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1od13do",
+   "q": "Secondo Durkheim, cosa può contrastare l'anomia?",
+   "opts": [
+    "le corporazioni",
+    "una morale nuova e laica",
+    "i valori religiosi",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "aaz1ks",
+   "q": "Che cos'è l'anomia, secondo Durkheim?",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "l'incapacità di identificarsi con il proprio nome",
+    "la totale assenza di regole di comportamento nei bambini",
+    "la mancanza di norme sociali, che produce un grave stato di malessere negli individui"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zex2vh",
+   "q": "Secondo Durkheim, quante tipologie di suicidio esistono?",
+   "opts": [
+    "4",
+    "2",
+    "6",
+    "3"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kjbf0k",
+   "q": "Chi per primo parlò di Scienze dell'Educazione e non più di Pedagogia?",
+   "opts": [
+    "Herbart",
+    "Durkheim",
+    "Froebel",
+    "Séguin"
+   ],
+   "answ": 1,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8oz1m8",
+   "q": "Data dell'Unità d'Italia",
+   "opts": [
+    "1861",
+    "1888",
+    "1870",
+    "1961"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8i66k4",
+   "q": "Data della breccia di Porta Pia",
+   "opts": [
+    "1861",
+    "1970",
+    "1870",
+    "1961"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wfrs0k",
+   "q": "Chi guidò la spedizione dei Mille?",
+   "opts": [
+    "Vittorio Emanuele II",
+    "Cavour",
+    "Giuseppe Garibaldi",
+    "Giuseppe Mazzini"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jyagik",
+   "q": "Chi è ricordato come il primo criminologo italiano?",
+   "opts": [
+    "Giuseppe Mazzini",
+    "Roberto Ardigò",
+    "Aristide Gabelli",
+    "Cesare Lombroso"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17roqic",
+   "q": "Lombroso riteneva che la criminalità",
+   "opts": [
+    "avesse un'origine biologica e genetica",
+    "Tutte le opzioni",
+    "fosse un fattore ereditabile",
+    "fosse riscontrabile nell'anatomia dell'individuo"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ly32r4",
+   "q": "Il positivismo pedagogico italiano incontrò l'opposizione",
+   "opts": [
+    "entrambe le opzioni",
+    "Nessuna delle due opzioni",
+    "del cattolicesimo",
+    "del neoidealismo"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7pjhc",
+   "q": "Quando iniziarono a penetrare in Italia le idee socialiste e comuniste?",
+   "opts": [
+    "Primi decenni del '900",
+    "Ultimi decenni dell'800",
+    "Dopo il 1945",
+    "Dopo il 1917"
+   ],
+   "answ": 1,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sfv2c8",
+   "q": "Quando venne pubblicato il Manifesto di Marx e Engels?",
+   "opts": [
+    "1945",
+    "1870",
+    "1917",
+    "1848"
+   ],
+   "answ": 3,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8crhws",
+   "q": "Nel 1881 Ernesta Galletti Stoppa fondò",
+   "opts": [
+    "un kindergarten di ispirazione pestalozziana",
+    "un kindergarten di ispirazione froebeliana",
+    "Nessuna di queste opzioni",
+    "una sala di custodia"
+   ],
+   "answ": 1,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rqjq5s",
+   "q": "Marx e Engels parlarono di socialismo",
+   "opts": [
+    "programmatico",
+    "umanistico",
+    "scientifico",
+    "utopistico"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vga75g",
+   "q": "Cos'era la cassa di maternità gestita dalle società di mutuo soccorso?",
+   "opts": [
+    "Nessuna di queste opzioni",
+    "un sussidio per iniziative di propaganda per incrementare le nascite",
+    "un sostegno economico alle donne che non potevano lavorare perché in gravidanza",
+    "una cassa dove si potevano donare vestiti e utensili utili per le donne in maternità"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7s244",
+   "q": "Don Bosco fondò nel 1859",
+   "opts": [
+    "una Congregazione intitolata a San Francesco di Sales",
+    "Un carcere minorile",
+    "una Congregazione intitolata a Sant'Ignazio di Loyola",
+    "un orfanotrofio"
+   ],
+   "answ": 0,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19byt50",
+   "q": "Chi ha scritto \"Il sistema preventivo nell'educazione della gioventù\"?",
+   "opts": [
+    "Cesare Lombroso",
+    "Don Bosco",
+    "Aristide Gabelli",
+    "Filippo Turati"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8vhw9n",
+   "q": "Quali sono i due sistemi usati nell'educazione della gioventù secondo Don Bosco?",
+   "opts": [
+    "Preventivo e Repressivo",
+    "Puerocentrico e Adultocentrico",
+    "Nessuna di queste opzioni",
+    "Libertario e Oppressivo"
+   ],
+   "answ": 0,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4t6ebc",
+   "q": "Su cosa si fonda il sistema preventivo di Don Bosco?",
+   "opts": [
+    "la ragione, in caso la correzione e i castighi",
+    "la ragione, la religione e l'amorevolezza",
+    "l'affetto, la tolleranza e il libero arbitrio",
+    "l'autorità, la religione e i castighi all'evenienza"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rt5808",
+   "q": "Chi prese il potere dopo la Rivoluzione d'Ottobre?",
+   "opts": [
+    "Lenin",
+    "Hitler",
+    "Stalin",
+    "Gorbačëv"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9z5fug",
+   "q": "Alla fine della Prima guerra mondiale, la Germania",
+   "opts": [
+    "Nessuna delle opzioni",
+    "Fu divisa in due, sotto il controllo di Russia e Stati Uniti",
+    "fu controllata militarmente dalla Francia",
+    "fu costretta a pagare pesanti riparazioni di guerra"
+   ],
+   "answ": 3,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rw5suc",
+   "q": "Quando scoppiò la prima guerra mondiale?",
+   "opts": [
+    "1914",
+    "1938",
+    "1945",
+    "1915"
+   ],
+   "answ": 0,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lte3u5",
+   "q": "Quale di queste frasi è attribuibile ad Ellen Key",
+   "opts": [
+    "La vita dei bambini è sacra",
+    "I bambini sono la nostra vita",
+    "lasciamo che i bambini vivano",
+    "viviamo per i nostri bambini"
+   ],
+   "answ": 2,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8rzz6o",
+   "q": "Quale pedagogista riteneva che i bambini avessero il diritto di scegliersi i propri genitori?",
+   "opts": [
+    "Rousseau",
+    "Ellen Key",
+    "Maria Montessori",
+    "Froebel"
+   ],
+   "answ": 1,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1urtu9k",
+   "q": "Quale di queste frasi è attribuibile ad Ellen Key",
+   "opts": [
+    "il matrimonio deve essere libero",
+    "L'amore è grande solo se viene coltivato ogni giorno",
+    "La libertà non nuoce alla fedeltà",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uix69g",
+   "q": "Ellen Key fu una pedagogista",
+   "opts": [
+    "italiana",
+    "finlandese",
+    "tedesca",
+    "Svedese"
+   ],
+   "answ": 3,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wfuunr",
+   "q": "Secondo Ellen Key, il padre sarà in grado di diventare un educatore dei figli",
+   "opts": [
+    "quando diventerà più simile alla madre",
+    "Nessuna delle opzioni",
+    "solo quando le cure della vita materiale lo opprimeranno di meno",
+    "Quando la madre avrà più tempo da dedicare a sé stessa"
+   ],
+   "answ": 2,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "oj70e4",
+   "q": "Secondo Ellen Key, la cura dei figli",
+   "opts": [
+    "non è obbligatoria per i genitori",
+    "è un dovere della madre",
+    "è un servizio che la madre compie a vantaggio della società",
+    "è un dovere del padre"
+   ],
+   "answ": 2,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "55koz3",
+   "q": "Ellen Key propose l'istituzione di una scuola",
+   "opts": [
+    "unica per tutti, dai 9 ai 16 anni",
+    "Aperta a tutte le classi sociali",
+    "per tutti, maschi e femmine",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "140waos",
+   "q": "Cecil Reddie fondò la New School a",
+   "opts": [
+    "Chicago",
+    "New Lanark",
+    "Denver",
+    "Abbotsholme"
+   ],
+   "answ": 3,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sieglc",
+   "q": "Chi scrisse Scouting for boys?",
+   "opts": [
+    "Robert Baden Powell",
+    "Robert Owen",
+    "Cecil Reddie",
+    "John Dewey"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jfv5bo",
+   "q": "Chi erano i Wanderwogel?",
+   "opts": [
+    "gruppi di scout tedeschi",
+    "dei rivoluzionari comunisti",
+    "gruppi di giovani studenti che fuggivano dalle imposizioni della società borghese",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 2,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "squgbs",
+   "q": "Chi era Baden Powell?",
+   "opts": [
+    "Un medico dell'esercito",
+    "Un generale dell'esercito britannico",
+    "Un maestro elementare",
+    "Un industriale"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "84w9wk",
+   "q": "Tra le caratteristiche comuni alle scuole nuove fondate a cavallo tra Ottocento e Novecento troviamo",
+   "opts": [
+    "entrambe le opzioni",
+    "polemica con la scuola tradizionale",
+    "Nessuna delle opzioni",
+    "la valorizzazione del bambino come soggetto attivo"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "htkc8k",
+   "q": "Chi fondò la Rinnovata?",
+   "opts": [
+    "Maria Montessori",
+    "le sorelle Agazzi",
+    "Giuseppina Pizzigoni",
+    "Maria Boschetti Alberti"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p5kmes",
+   "q": "Quale di queste pedagogiste non fu apprezzata da Lombardo Radice?",
+   "opts": [
+    "Maria Boschetti Alberti",
+    "Ellen Key",
+    "Maria Montessori",
+    "Rosa Agazzi"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i6e3ec",
+   "q": "A quale pedagogista si ispirò Maria Boschetti Alberti?",
+   "opts": [
+    "Froebel",
+    "Herbart",
+    "Montessori",
+    "Dewey"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8w3ts4",
+   "q": "La scuola materna di Mompiano era gestita da",
+   "opts": [
+    "Maria Boschetti Alberti",
+    "Maria Montessori",
+    "Giuseppina Pizzigoni",
+    "le sorelle Agazzi"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4beqe0",
+   "q": "Quali erano i materiali utilizzati dalle sorelle Agazzi?",
+   "opts": [
+    "Le cianfrusaglie",
+    "I nastrini",
+    "Le matriosche",
+    "I ritagli"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12awtbc",
+   "q": "Chi scrisse Il diario di Muzzano?",
+   "opts": [
+    "Giuseppina Pizzigoni",
+    "Rosa Agazzi",
+    "Maria Boschetti Alberti",
+    "Maria Montessori"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f64rvk",
+   "q": "Chi fondò la Scuola Serena?",
+   "opts": [
+    "Maria Boschetti Alberti",
+    "Giuseppina Pizzigoni",
+    "Maria Montessori",
+    "le sorelle Agazzi"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "h8i2z8",
+   "q": "Anno della marcia su Roma di Mussolini",
+   "opts": [
+    "1922",
+    "1933",
+    "1914",
+    "1945"
+   ],
+   "answ": 0,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3gsjcq",
+   "q": "Tra i fattori che fanno ritenere il regime mussoliniano un totalitarismo imperfetto possiamo individuare",
+   "opts": [
+    "la presenza della chiesa cattolica",
+    "Entrambe le opzioni",
+    "la presenza della monarchia",
+    "nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y7dwac",
+   "q": "Tra i fattori che contribuirono a consolidare il consenso al regime di Hitler possiamo individuare",
+   "opts": [
+    "il miglioramento dei livelli di istruzione",
+    "la ripresa economica",
+    "gli interventi a favore dell'integrazione",
+    "nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r3ga0k",
+   "q": "Come si chiamava la scuola fondata da Dewey a Chicago?",
+   "opts": [
+    "Active school",
+    "Democracy school",
+    "University laboratory school",
+    "New school"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1u9lo2",
+   "q": "Quale di questi non è uno dei caratteri generali dell'attivismo?",
+   "opts": [
+    "autorità",
+    "esperienza",
+    "socialità",
+    "puerocentrismo"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w66lvw",
+   "q": "Secondo Dewey il puerocentrismo iniziò con",
+   "opts": [
+    "Rousseau",
+    "Copernico",
+    "Froebel",
+    "Cartesio"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14i00dw",
+   "q": "L'attivismo come teoria pedagogica si diffuse",
+   "opts": [
+    "Nel Seicento",
+    "alla fine del Settecento",
+    "Tra Ottocento e Novecento",
+    "all'inizio dell'Ottocento"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14bco8",
+   "q": "Quale fu la principale innovazione metodologica introdotta da Stanley Hall?",
+   "opts": [
+    "L'utilizzo di strumenti innovativi (ad es. i questionari)",
+    "L'applicazione delle recenti scoperte in campo medico",
+    "La combinazione tra pedagogia e medicina",
+    "L'utilizzo del metodo delle scienze naturali"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17fwr84",
+   "q": "Quale momento è ritenuto da Dewey come spartiacque nell'evoluzione del rapporto tra individuo e società?",
+   "opts": [
+    "La rivoluzione industriale",
+    "La rivoluzione francese",
+    "La scoperta dell'America",
+    "La prima guerra mondiale"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lriwti",
+   "q": "Dewey paragonò il puerocentrismo alla rivoluzione",
+   "opts": [
+    "copernicana",
+    "francese",
+    "industriale",
+    "americana"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12b6c3w",
+   "q": "Secondo Dewey l'educazione avviene attraverso",
+   "opts": [
+    "il libero confronto democratico",
+    "l'esperienza",
+    "l'attivismo",
+    "la coercizione"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1o2i5tw",
+   "q": "Che cos'è la democrazia secondo Dewey?",
+   "opts": [
+    "la fiducia nell'intelligenza umana posta al servizio della comunità",
+    "la fiducia nel destino di felicità dell'uomo",
+    "la fiducia nel progresso dell'uomo",
+    "semplicemente una forma di governo"
+   ],
+   "answ": 0,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "846ik0",
+   "q": "L'educazione secondo Dewey avviene nell'incontro tra il polo sociologico e",
+   "opts": [
+    "il polo psicologico",
+    "il polo personalistico",
+    "il polo individuale",
+    "il polo psicanalitico"
+   ],
+   "answ": 0,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f6j8q0",
+   "q": "Quale di queste non è una fase del pensiero riflessivo secondo Dewey?",
+   "opts": [
+    "la scoperta",
+    "il controllo mediante l'azione",
+    "la suggestione",
+    "la formulazione dell'ipotesi"
+   ],
+   "answ": 0,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1btjxu0",
+   "q": "Chi scrisse \"La scuola su misura\"?",
+   "opts": [
+    "Piaget",
+    "Ferrière",
+    "Dewey",
+    "Claparede"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qefkyg",
+   "q": "Chi scrisse la Carta per l'educazione nuova nel 1919?",
+   "opts": [
+    "Ferrière",
+    "Piaget",
+    "Rousseau",
+    "Claparede"
+   ],
+   "answ": 0,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rgvpxg",
+   "q": "Qual era il motto dell'istituto Jean Jacques Rousseau di Ginevra?",
+   "opts": [
+    "Ad astra per aspera",
+    "Discat a puero magister",
+    "Non scholae, sed vitae discimus",
+    "Nosce te ipsum"
+   ],
+   "answ": 1,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hdgfy8",
+   "q": "Quale di queste non è una legge dell'intelligenza razionale secondo Claparede?",
+   "opts": [
+    "dell'interesse",
+    "del tatonnement",
+    "del tentativo",
+    "del bisogno"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tenxuk",
+   "q": "Da chi venne fondata la Maison des petits a Ginevra nel 1913?",
+   "opts": [
+    "Dewey",
+    "Piaget",
+    "Claparede",
+    "Rousseau"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sjps4x",
+   "q": "Quale di questi non è uno dei centri di interesse di Decroly",
+   "opts": [
+    "L'uomo e gli animali",
+    "L'uomo e le macchine",
+    "L'uomo e la famiglia",
+    "L'uomo e le piante"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12xdz44",
+   "q": "Come si chiamava la scuola fondata da Decroly a Bruxelles?",
+   "opts": [
+    "école de l'Ermitage",
+    "University laboratory school",
+    "école active",
+    "new school"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3da268",
+   "q": "Decroly definì",
+   "opts": [
+    "Nessuna delle opzioni",
+    "il metodo globale",
+    "4 bisogni e 7 centri di interesse",
+    "entrambe le opzioni"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mejdhw",
+   "q": "Cousinet sostiene che il lavoro per gruppi abolisca la distinzione tra",
+   "opts": [
+    "la società e la scuola",
+    "il cortile e la scuola",
+    "la famiglia e la scuola",
+    "il giardino e la scuola"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ekohn4",
+   "q": "La principale innovazione di Cousinet fu l'importanza data",
+   "opts": [
+    "ai centri di interesse",
+    "al lavoro per gruppi",
+    "ai bisogni del bambino",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ihrcqo",
+   "q": "Nel 1900 insieme a Giuseppe Montesano, Maria Montessori fondò",
+   "opts": [
+    "la prima facoltà di pedagogia a Roma",
+    "la scuola materna di Mompiano",
+    "la casa dei bambini",
+    "la scuola magistrale ortofrenica"
+   ],
+   "answ": 3,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kno2b4",
+   "q": "Maria Montessori si laureò in",
+   "opts": [
+    "pedagogia",
+    "medicina",
+    "matematica",
+    "ingegneria"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tjksvw",
+   "q": "Montessori sosteneva che il problema dei bambini \"frenastenici\" fosse principalmente di natura",
+   "opts": [
+    "biologica",
+    "pedagogica",
+    "medica",
+    "congenita"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ypq3jk",
+   "q": "Quando venne fondata la prima casa dei bambini?",
+   "opts": [
+    "1807",
+    "1907",
+    "1897",
+    "1947"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "63p2sw",
+   "q": "Qual è uno dei motti più conosciuti del metodo Montessori?",
+   "opts": [
+    "Chi fa da sé fa per tre",
+    "Aiutiamoli a fare da soli",
+    "il maestro impara dal bambino",
+    "si conosce solo ciò che si ama"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1er92tg",
+   "q": "Come si chiama l'educatrice montessoriana?",
+   "opts": [
+    "pedagoga",
+    "insegnante",
+    "maestra",
+    "direttrice"
+   ],
+   "answ": 3,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11z999",
+   "q": "è incluso nei materiali brevettati da Montessori",
+   "opts": [
+    "il dono froebeliano",
+    "la torre rosa",
+    "il punteruolo",
+    "le forbici dalla punta arrotondata"
+   ],
+   "answ": 1,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nqvoa8",
+   "q": "Cosa si impose al termine della Seconda Guerra Mondiale?",
+   "opts": [
+    "Un nuovo ordine mondiale bipolare fondato sulla contrapposizione tra USA e URSS",
+    "L'ascesa della potenza giapponese",
+    "L'ascesa dell'Impero Cinese",
+    "La società delle Nazioni"
+   ],
+   "answ": 0,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z2mo2s",
+   "q": "Quale tra questi fu uno dei momenti di massima tensione della Guerra fredda?",
+   "opts": [
+    "Attacco a Pearl Harbour",
+    "Invasione della Polonia",
+    "Crollo del Muro di Berlino",
+    "Crisi di Cuba"
+   ],
+   "answ": 3,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5ecpgk",
+   "q": "Quando si concluse la Seconda Guerra Mondiale?",
+   "opts": [
+    "1938",
+    "1945",
+    "1918",
+    "1915"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d06ncr",
+   "q": "Quando crollò il muro di Berlino?",
+   "opts": [
+    "1989",
+    "1961",
+    "1991",
+    "1945"
+   ],
+   "answ": 0,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dtkkug",
+   "q": "Jella Lepman dopo la fine del Secondo conflitto mondiale tornò in Germania come",
+   "opts": [
+    "Consulente per gli Stati Uniti per i bisogni di donne e bambini",
+    "maestra elementare",
+    "bibliotecaria",
+    "Giornalista di guerra"
+   ],
+   "answ": 0,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2vqwic",
+   "q": "Jella Lepman fu",
+   "opts": [
+    "una pedagogista svedese",
+    "un'ebrea tedesca",
+    "un'ebrea statunitense",
+    "una pedagogista belga"
+   ],
+   "answ": 1,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3z7g80",
+   "q": "Perché inizialmente il Belgio si rifiutò di inviare i suoi libri per bambini per il progetto di Jella Lepman del 1946?",
+   "opts": [
+    "Perché erano andati tutti distrutti",
+    "Perché non credeva nel progetto educativo",
+    "Perché era stato invaso due volte dai tedeschi",
+    "Perché li riteneva inutili ai fini della costruzione della pace"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5hawe9",
+   "q": "Chi realizzò la Mostra Internazionale di Libri per Bambini a Monaco nel 1946?",
+   "opts": [
+    "Carolina Agazzi",
+    "Ellen Key",
+    "Jella Lepman",
+    "Maria Montessori"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15oemjo",
+   "q": "Quale di queste caratteristiche non era propria del collettivo pedagogico unitario di Makarenko?",
+   "opts": [
+    "autogestione",
+    "autoeducazione",
+    "rigida disciplina militare",
+    "importanza del giudizio dei pari e dei capi reparto"
+   ],
+   "answ": 1,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lxfzz0",
+   "q": "Quale di queste caratteristiche era propria del collettivo pedagogico unitario di Makarenko?",
+   "opts": [
+    "autogestione",
+    "importanza del giudizio dei pari e dei capi reparto",
+    "Tutte le opzioni",
+    "rigida disciplina militare"
+   ],
+   "answ": 2,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uqwzvc",
+   "q": "Chi parlò del collettivo pedagogico unitario?",
+   "opts": [
+    "Baden Powell",
+    "Mounier",
+    "Dewey",
+    "Makarenko"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ro4xgo",
+   "q": "Scrisse \"Poema pedagogico\"",
+   "opts": [
+    "Lodi",
+    "Dewey",
+    "Makarenko",
+    "Piaget"
+   ],
+   "answ": 2,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3p1onc",
+   "q": "Makarenko riteneva che il lavoro fosse",
+   "opts": [
+    "formativo",
+    "controproducente in ambito educativo",
+    "una forma di schiavitù dell'individuo",
+    "terapeutico e necessario"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qlpls4",
+   "q": "L'uomo, secondo Maritain, è una persona dotata di",
+   "opts": [
+    "libertà e spiritualità",
+    "ragione e libertà",
+    "intelligenza",
+    "libero arbitrio"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1akgmuo",
+   "q": "Quale corrente filosofica novecentesca si pose come terza via tra il comunismo e il capitalismo?",
+   "opts": [
+    "il socialismo",
+    "il positivismo",
+    "il personalismo",
+    "il razionalismo"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p9jmjg",
+   "q": "Secondo Maritain ogni teoria pedagogica ha alle spalle",
+   "opts": [
+    "delle esperienze spontanee antecedenti",
+    "una visione antropologica",
+    "un grande educatore",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3765iw",
+   "q": "Scrisse l'Educazione al bivio",
+   "opts": [
+    "Maritain",
+    "Froebel",
+    "Makarenko",
+    "Mounier"
+   ],
+   "answ": 0,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y81jrx",
+   "q": "Rispetto a quello di Maritain, il pensiero di Mounier diede maggiore enfasi",
+   "opts": [
+    "all'individuo",
+    "alla comunità",
+    "alla persona",
+    "alla libertà"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tx8o14",
+   "q": "Chi fu il fondatore della CTS (Cooperativa della tipografia a scuola)?",
+   "opts": [
+    "Giuseppe Tamagnini",
+    "Giuseppe Lombardo Radice",
+    "Bruno Ciari",
+    "Mario Lodi"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10jxrda",
+   "q": "Celestin Freinet fu un educatore che operò in contesti",
+   "opts": [
+    "benestanti",
+    "urbani",
+    "rurali",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18u9qb1",
+   "q": "Celestin Freinet era contrario alla scrittura con il tema deciso dall'insegnante perché",
+   "opts": [
+    "gli insegnanti proponevano sempre gli stessi temi",
+    "i bambini non erano all'altezza dei temi proposti",
+    "limitava le capacità espressive dei bambini",
+    "gli insegnanti erano impreparati"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tjk24o",
+   "q": "Le tecniche Freinet aiutavano i bambini",
+   "opts": [
+    "a percepire meno distanza tra ciò che era dentro la scuola e ciò che era fuori",
+    "ad imparare la matematica calcolando i costi dei giornalini",
+    "a sperimentare concretamente la democrazia",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19m3hbc",
+   "q": "Quale di queste non è una tecnica proposta da Freinet?",
+   "opts": [
+    "tipografia a scuola",
+    "calcolo vivente",
+    "il lavoro agricolo",
+    "testo libero"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "484ema",
+   "q": "Fu autore del Paese sbagliato",
+   "opts": [
+    "Bruno Ciari",
+    "Maritain",
+    "Mario Lodi",
+    "Mounier"
+   ],
+   "answ": 2,
+   "lez": 70,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19imb60",
+   "q": "Da un'esercitazione di scrittura collettiva nacque Cipì, dove?",
+   "opts": [
+    "San Giovanni in Croce",
+    "Mompiano",
+    "Vho di Piadena",
+    "Quartiere San Lorenzo di Roma"
+   ],
+   "answ": 2,
+   "lez": 70,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y88h8w",
+   "q": "Ha scritto L'interpretazione dei sogni",
+   "opts": [
+    "Mounier",
+    "Freud",
+    "Morin",
+    "Maritain"
+   ],
+   "answ": 1,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11gy3bk",
+   "q": "La scuola di Francoforte operò una sintesi tra le riflessioni prodotte da",
+   "opts": [
+    "Positivismo e Marxismo",
+    "Marxismo e Psicanalisi",
+    "Marxismo e Personalismo",
+    "Marxismo e Liberalismo"
+   ],
+   "answ": 1,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nnrlfa",
+   "q": "Secondo Freud l'educazione è necessaria ma non desiderabile perché",
+   "opts": [
+    "Perpetua il potere delle classi dominanti",
+    "perché causa il prevalere dell'Es sul Super-io",
+    "reprimendo le pulsioni può essere causa di nevrosi",
+    "perché può proporre modelli sbagliati"
+   ],
+   "answ": 2,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1umhwk4",
+   "q": "Secondo Freud, è l'elemento libidinoso della psiche che non conosce negazione né contraddizione",
+   "opts": [
+    "Non-io",
+    "Es",
+    "Io",
+    "Super-io"
+   ],
+   "answ": 1,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xxoy61",
+   "q": "Scrisse La pedagogia degli oppressi",
+   "opts": [
+    "Morin",
+    "Marcuse",
+    "Freud",
+    "Freire"
+   ],
+   "answ": 3,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14btkj8",
+   "q": "Chi inventò il Teatro dell'Oppresso?",
+   "opts": [
+    "Boal",
+    "Freinet",
+    "Freud",
+    "Freire"
+   ],
+   "answ": 0,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1oj9agu",
+   "q": "Possedere la parola, secondo Freire",
+   "opts": [
+    "è necessario per vivere degnamente",
+    "è possibile solo con la conquista del potere politico e la liberazione dall'oppressione",
+    "è segno di appartenenza alla classe dominante",
+    "è l'esito di un processo di liberazione e di presa di coscienza dell'oppressione"
+   ],
+   "answ": 3,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1svk42l",
+   "q": "Secondo Freire, le fasi di apprendimento del linguaggio sono",
+   "opts": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answ": 1,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9bmcqm",
+   "q": "Parla di educazione liberatrice o problematizzante in opposizione a quella depositaria",
+   "opts": [
+    "Tutte le opzioni",
+    "Tolstoj",
+    "Freire",
+    "Froebel"
+   ],
+   "answ": 2,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7fy2ps",
+   "q": "Quali metodi utilizzava don Milani nella sua scuola?",
+   "opts": [
+    "la lettura dei quotidiani",
+    "il dialogo",
+    "la lettura della Costituzione",
+    "Tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jsev2k",
+   "q": "In che anno fu pubblicata Lettera ad una professoressa?",
+   "opts": [
+    "1967",
+    "1907",
+    "1876",
+    "1976"
+   ],
+   "answ": 0,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1d0lpx8",
+   "q": "Chi sono i \"Pierini\" di Lettera ad una professoressa?",
+   "opts": [
+    "i figli dei politici",
+    "i figli dei ricchi",
+    "i figli degli operai",
+    "i figli dei contadini"
+   ],
+   "answ": 2,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1an4vyd",
+   "q": "I ragazzi di Barbiana invocavano una nuova scuola che",
+   "opts": [
+    "avesse il tempo pieno",
+    "non bocciasse",
+    "Tutte le opzioni",
+    "desse uno scopo agli alunni"
+   ],
+   "answ": 2,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ypsp60",
+   "q": "Nelle Skinner box, il cibo per il topo era chiamato",
+   "opts": [
+    "rinforzo",
+    "interesse",
+    "incentivo",
+    "premio"
+   ],
+   "answ": 0,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ozazdx",
+   "q": "Chi ideò il concetto di \"riflesso condizionato\"?",
+   "opts": [
+    "Skinner",
+    "Cover Jones",
+    "Watson",
+    "Pavlov"
+   ],
+   "answ": 3,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ig1d5w",
+   "q": "Chi è ritenuto il padre del comportamentismo?",
+   "opts": [
+    "Bruner",
+    "Watson",
+    "Skinner",
+    "Freud"
+   ],
+   "answ": 1,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17o17fd",
+   "q": "Chi è ritenuta la madre della terapia comportamentale?",
+   "opts": [
+    "Maria Montessori",
+    "Anna Freud",
+    "Ellen Key",
+    "Mary Cover Jones"
+   ],
+   "answ": 3,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sg6bxq",
+   "q": "Secondo Thorndike non è tanto lo stimolo a generare apprendimento quanto",
+   "opts": [
+    "la paura",
+    "il soddisfacimento del bisogno",
+    "il riflesso condizionato",
+    "il riflesso incondizionato"
+   ],
+   "answ": 1,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n8hwmo",
+   "q": "Chi scrisse \"Psychology as the behaviorist views it\" noto anche come il manifesto del comportamentismo?",
+   "opts": [
+    "Freud",
+    "Watson",
+    "Skinner",
+    "Bruner"
+   ],
+   "answ": 1,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5izodp",
+   "q": "Chi ideò le teaching machines?",
+   "opts": [
+    "Skinner",
+    "Thorndike",
+    "Pavlov",
+    "Watson"
+   ],
+   "answ": 0,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ydttx8",
+   "q": "Chi alla massima \"sbagliando s'impara\" sostituì \"indovinando s'impara\"?",
+   "opts": [
+    "Watson",
+    "Skinner",
+    "Thorndike",
+    "Pavlov"
+   ],
+   "answ": 1,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15rcvi2",
+   "q": "L'istruzione programmata di Skinner venne criticata perché portava",
+   "opts": [
+    "all'errore continuo",
+    "al paragone improprio tra uomini e animali",
+    "alla mortificazione dell'interesse personale",
+    "alla meccanizzazione dell'apprendimento"
+   ],
+   "answ": 3,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r0ydl4",
+   "q": "Chi presiedette la conferenza di Woods Hole nel 1959?",
+   "opts": [
+    "Dewey",
+    "Thorndike",
+    "Bruner",
+    "Vygotskij"
+   ],
+   "answ": 2,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ccnjio",
+   "q": "Gli studi di Bruner sullo sviluppo del bambino erano in opposizione a quelli di",
+   "opts": [
+    "Freud",
+    "Piaget",
+    "Vygotskij",
+    "Freire"
+   ],
+   "answ": 1,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j1zedw",
+   "q": "I programmi di insegnamento ideati da Bruner avevano una struttura",
+   "opts": [
+    "circolare",
+    "lineare",
+    "piramidale",
+    "a spirale"
+   ],
+   "answ": 3,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13dubtd",
+   "q": "I cognitivisti furono gli eredi dei",
+   "opts": [
+    "psicanalisti",
+    "gestaltisti",
+    "costruttivisti",
+    "comportamentisti"
+   ],
+   "answ": 1,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y0fj6g",
+   "q": "La conoscenza creativa, secondo Bruner è",
+   "opts": [
+    "uguale a quella logica",
+    "alternativa a quella logica",
+    "complementare a quella logica",
+    "Tutte le opzioni"
+   ],
+   "answ": 2,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yrpom0",
+   "q": "Quale di questi pensatori è legato al paradigma della complessità",
+   "opts": [
+    "Mounier",
+    "Maritain",
+    "Bruner",
+    "Morin"
+   ],
+   "answ": 3,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cqptxs",
+   "q": "Quale di questi studiosi ha parlato di intelligenze multiple?",
+   "opts": [
+    "Dewey",
+    "Gardner",
+    "Skinner",
+    "Vygotskij"
+   ],
+   "answ": 1,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18mp968",
+   "q": "Chi ha scritto \"Descolarizzare la società\" pubblicato nel 1970?",
+   "opts": [
+    "Illich",
+    "Freud",
+    "Gardner",
+    "Morin"
+   ],
+   "answ": 0,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "123xv2r",
+   "q": "In che anno Antonio Faeti ha pubblicato il suo famoso testo \"Guardare le figure\"?",
+   "opts": [
+    "1872",
+    "2002",
+    "1672",
+    "1972"
+   ],
+   "answ": 3,
+   "lez": 81,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18nrwpa",
+   "q": "La letteratura per l'infanzia del Secondo dopoguerra italiano risentì",
+   "opts": [
+    "dell'influsso dei valori nazionalisti",
+    "degli influssi delle culture del Terzo Mondo",
+    "degli orientamenti contrapposti della Guerra Fredda",
+    "dei lasciti della tradizione settecentesca"
+   ],
+   "answ": 2,
+   "lez": 81,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11lyz0",
+   "q": "Chi ha scritto le bellissime avventure di Caterì dalla trecciolina?",
+   "opts": [
+    "Elsa Morante",
+    "Donatella Ziliotto",
+    "Elena Ferrante",
+    "Katherine Rundell"
+   ],
+   "answ": 0,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qpf99o",
+   "q": "In origine le fiabe popolari",
+   "opts": [
+    "erano pensate solo per gli adulti",
+    "Erano adatte solo ai bambini",
+    "erano proibite ai bambini",
+    "erano per tutti, non avevano destinazione d'età"
+   ],
+   "answ": 3,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y87d8l",
+   "q": "Le Fiabe Italiane furono raccolte e riscritte da",
+   "opts": [
+    "Giulio Einaudi",
+    "Elsa Morante",
+    "Italo Calvino",
+    "Gianni Rodari"
+   ],
+   "answ": 2,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ltw1rk",
+   "q": "Calvino, nel riuso creativo che fece delle fiabe della tradizione popolare italiana, eliminò",
+   "opts": [
+    "i tratti discriminatori delle altre culture",
+    "Tutte le opzioni",
+    "i finali non lieti",
+    "i contenuti truculenti e scurrili"
+   ],
+   "answ": 3,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pw5ar4",
+   "q": "Quale di questi strumenti linguistici è proprio della scrittura rodariana?",
+   "opts": [
+    "uso di filastrocche in rima baciata",
+    "utilizzo del non-sense",
+    "Tutte le opzioni",
+    "la tecnica dell'errore"
+   ],
+   "answ": 2,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "161nvyw",
+   "q": "In quale nazione Rodari ebbe più successo, oltre all'Italia?",
+   "opts": [
+    "Francia",
+    "Inghilterra",
+    "Unione Sovietica",
+    "Germania"
+   ],
+   "answ": 2,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "176yeqg",
+   "q": "Chi ha scritto La grammatica della fantasia?",
+   "opts": [
+    "Munari",
+    "Morante",
+    "Calvino",
+    "Rodari"
+   ],
+   "answ": 3,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gk625g",
+   "q": "Perché Cipollino ebbe successo in URSS dopo la morte di Stalin?",
+   "opts": [
+    "Perché Cipollino era portatore di ideali democratici di stampo americano",
+    "Perché l'avventura di Cipollino poteva essere metaforicamente intesa come una ribellione al sistema stalinista",
+    "Perché Stalin aveva vietato la traduzione di testi italiani",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j9p6hk",
+   "q": "Cosa successe in URSS dopo la morte di Stalin?",
+   "opts": [
+    "Salì al potere Putin",
+    "L'URSS iniziò la transizione verso la democrazia",
+    "Ci fu un periodo di distensione di chiamato disgelo, che culminò con la denuncia dei crimini commessi da Stalin",
+    "Salì al potere Lenin"
+   ],
+   "answ": 2,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13802h4",
+   "q": "Quale di questi è un tema molto presente nella scrittura rodariana?",
+   "opts": [
+    "la primissima infanzia",
+    "l'aldilà",
+    "la morte",
+    "il lavoro"
+   ],
+   "answ": 3,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ie73xw",
+   "q": "Rodari insieme a Dina Rinaldi nel 1953 fondò un periodico per ragazzi chiamato",
+   "opts": [
+    "Il Corriere dei Piccoli",
+    "L'esploratore",
+    "Le giovani marmotte",
+    "Il Pioniere"
+   ],
+   "answ": 3,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xdm8h0",
+   "q": "Bruno Munari fu",
+   "opts": [
+    "Tutte le opzioni",
+    "un designer",
+    "un artista",
+    "un autore di libri per bambini"
+   ],
+   "answ": 0,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p8ra4w",
+   "q": "L'ordine delle lettere nell'Alfabetiere di Munari era",
+   "opts": [
+    "casuale",
+    "al contrario, dalla Z alla A",
+    "classico, dalla A alla Z",
+    "in base alla difficoltà di apprendimento delle lettere"
+   ],
+   "answ": 3,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qitb04",
+   "q": "Le macchine inutili di Munari possono essere interpretate come",
+   "opts": [
+    "Nessuna delle opzioni",
+    "un esperimento con valenza scientifica",
+    "un'interpretazione della corsa allo spazio",
+    "un'ironia sul mito del progresso"
+   ],
+   "answ": 3,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xetzfw",
+   "q": "Quale di questi libri non venne pubblicato dalla Emme Edizioni?",
+   "opts": [
+    "Fiabe Italiane",
+    "Il palloncino rosso",
+    "Piccolo blu, piccolo giallo",
+    "Sembra questo, sembra quello"
+   ],
+   "answ": 0,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zhnjag",
+   "q": "Quale critica venne rivolta ai libri della Emme Edizioni?",
+   "opts": [
+    "tutte le opzioni",
+    "che erano troppo costosi",
+    "che erano libri \"per i figli degli architetti\"",
+    "che erano troppo sofisticati"
+   ],
+   "answ": 2,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16c0xg",
+   "q": "Quale di questi libri venne pubblicato dalla Emme Edizioni?",
+   "opts": [
+    "Le bellissime avventure di Caterì dalla trecciolina",
+    "Nessuna delle opzioni",
+    "Piccolo blu, piccolo giallo",
+    "Fiabe Italiane"
+   ],
+   "answ": 2,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ojxvh0",
+   "q": "Quale fu il motivo per cui Rosellina Archinto fondò una casa editrice?",
+   "opts": [
+    "per pubblicare i libri da lei scritti",
+    "Perché in Italia mancavano libri adeguati alla prima infanzia",
+    "per continuare il mestiere del padre",
+    "perché era un mercato emergente e prometteva importanti guadagni"
+   ],
+   "answ": 1,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1046vd",
+   "q": "Rosellina Archinto introdusse in Italia",
+   "opts": [
+    "Pippi Calzelunghe",
+    "una nuova concezione dell'albo illustrato",
+    "Harry Potter",
+    "i lavori di Bruno Munari"
+   ],
+   "answ": 1,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1124t2g",
+   "q": "I libri della collana Tantibambini venivano venduti",
+   "opts": [
+    "nei supermercati",
+    "nelle edicole",
+    "per corrispondenza",
+    "nelle librerie"
+   ],
+   "answ": 1,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1igp03s",
+   "q": "Sulla collana Tantibambini Natalia Ginzburg espresse un giudizio",
+   "opts": [
+    "entusiasta",
+    "incerto",
+    "molto critico",
+    "favorevole"
+   ],
+   "answ": 0,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1thfv04",
+   "q": "I libri della collana Tantibambini",
+   "opts": [
+    "avevano tutti lo stesso stile illustrativo",
+    "erano principalmente traduzioni straniere",
+    "erano molto economici",
+    "erano estremamente dispendiosi"
+   ],
+   "answ": 1,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1f3gkg8",
+   "q": "Chi ideò la collana Tantibambini?",
+   "opts": [
+    "Rosellina Archinto",
+    "Donatella Ziliotto",
+    "Gianni Rodari",
+    "Bruno Munari"
+   ],
+   "answ": 3,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6yjd68",
+   "q": "La legge Lanza del Regno di Sardegna (1857) aveva l'obbiettivo di",
+   "opts": [
+    "rendere la scuola obbligatoria e gratuita",
+    "laicizzare la scuola",
+    "agevolare l'accesso all'Università",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 1,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1q1l96s",
+   "q": "Quale legge del Regno di Sardegna rimase per lungo tempo inattuata perché affidava la gestione della scuola ai comuni, privi di mezzi?",
+   "opts": [
+    "Legge Casati",
+    "Legge Lanza",
+    "Legge Boncompagni",
+    "Legge Gentile"
+   ],
+   "answ": 0,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1frkiko",
+   "q": "Fu promulgata nel Regno di Sardegna nel 1859",
+   "opts": [
+    "Legge Lanza",
+    "Legge Boncompagni",
+    "Legge Gentile",
+    "Legge Casati"
+   ],
+   "answ": 3,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m9m4vs",
+   "q": "Qual era lo stato italiano preunitario più progredito sul piano dell'istruzione?",
+   "opts": [
+    "Svizzera",
+    "Regno delle due Sicilie",
+    "Lombardo-Veneto",
+    "Stato Pontificio"
+   ],
+   "answ": 2,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "peiyog",
+   "q": "La riforma Gentile fu introdotta nel",
+   "opts": [
+    "1933",
+    "1943",
+    "1913",
+    "1923"
+   ],
+   "answ": 3,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j9djyt",
+   "q": "Con la Riforma Gentile, l'obbligo scolastico venne esteso a",
+   "opts": [
+    "10 anni",
+    "14 anni",
+    "12 anni",
+    "16 anni"
+   ],
+   "answ": 1,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "aq6zd8",
+   "q": "Il vero fulcro della riforma Gentile era",
+   "opts": [
+    "il liceo classico",
+    "l'Università",
+    "l'istruzione elementare",
+    "Nessuna delle opzioni"
+   ],
+   "answ": 0,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "s8pz8m",
+   "q": "Il liceo artistico, nella riforma Gentile, dava accesso",
+   "opts": [
+    "alla facoltà di Architettura e a quella di Educazione, per insegnare arte nei licei",
+    "solo alla facoltà di Architettura",
+    "a nessun corso universitario",
+    "a tutte le facoltà"
+   ],
+   "answ": 1,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hnfshc",
+   "q": "Per diventare maestro elementare durante il fascismo",
+   "opts": [
+    "bisognava fare tre anni di tirocinio pratico",
+    "bisognava laurearsi alla facoltà di Lettere e Filosofia",
+    "bisognava ottenere il diploma magistrale",
+    "bisognava laurearsi alla facoltà di Educazione"
+   ],
+   "answ": 2,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "v27jlk",
+   "q": "Durante il fascismo, un bambino privo di mezzi, che non poteva proseguire gli studi oltre la scuola dell'obbligo, dopo la scuola elementare veniva indirizzato",
+   "opts": [
+    "alla scuola complementare",
+    "alla scuola lavorativa",
+    "all'istituto agricolo",
+    "al ginnasio"
+   ],
+   "answ": 0,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "shn8c0",
+   "q": "Chi ha scritto \"Come si uccidono le anime?\"",
+   "opts": [
+    "Mario Lodi",
+    "Rosa Agazzi",
+    "Giuseppe Lombardo Radice",
+    "Maria Montessori"
+   ],
+   "answ": 2,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fpy5s8",
+   "q": "Lombardo Radice introdusse nei programmi per la scuola elementare",
+   "opts": [
+    "il diario della vita scolastica",
+    "il calcolo vivente",
+    "i materiali montessoriani",
+    "il giardinaggio"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zcqb6o",
+   "q": "Lombardo Radice fu precocemente vicino agli orientamenti",
+   "opts": [
+    "del positivismo",
+    "dell'attivismo pedagogico",
+    "Nessuna delle opzioni",
+    "del romanticismo"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "s1dv6u",
+   "q": "I programmi americani di Washburne che vennero adottati dopo la Seconda Guerra Mondiale si ispiravano",
+   "opts": [
+    "all'esperienza di Jella Lepman",
+    "all'attivismo di Dewey",
+    "allo scoutismo di Baden Powell",
+    "al fascismo"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1puzoj4",
+   "q": "Quale di questi fu un tema che in Italia divise gli orientamenti della Costituente nel 1946 nelle discussioni sulla scuola?",
+   "opts": [
+    "la scelta dei libri per l'infanzia",
+    "la scuola privata",
+    "il sostegno agli alunni con disabilità",
+    "l'applicazione del metodo Montessori"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n2alow",
+   "q": "Un'indagine ISTAT del 1958 dimostrava che per un ragazzo era possibile scegliere tra scuola media o avviamento al lavoro quasi esclusivamente in base",
+   "opts": [
+    "alle preferenze personali",
+    "alla condizione socioeconomica e culturale della famiglia di origine",
+    "alla capienza degli istituti scolastici",
+    "alle sue reali capacità intellettive"
+   ],
+   "answ": 1,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1859pvk",
+   "q": "Perché divenne imprescindibile l'introduzione di una scuola materna di stato in Italia?",
+   "opts": [
+    "perché con il boom economico andavano sparendo le famiglie allargate tipiche del mondo contadino",
+    "Tutte le opzioni",
+    "perché le donne erano sempre più impiegate nel lavoro in città",
+    "perché la cura dei più piccoli non poteva più essere delegata a nonni o parenti conviventi nello stesso nucleo famigliare"
+   ],
+   "answ": 1,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p577lr",
+   "q": "Quando venne introdotta la scuola media unica in Italia?",
+   "opts": [
+    "1942",
+    "1962",
+    "1982",
+    "1922"
+   ],
+   "answ": 1,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g8ddag",
+   "q": "Quale era uno dei temi divisivi nel dibattito parlamentare sulla scuola media unica?",
+   "opts": [
+    "l'orario scolastico",
+    "l'educazione fisica",
+    "il doposcuola",
+    "l'insegnamento del latino"
+   ],
+   "answ": 3,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hr5ff0",
+   "q": "L'inchiesta di Gonella del 1947 evidenziava come",
+   "opts": [
+    "il tasso di analfabetismo in Italia si assestasse intorno al 90%",
+    "l'80% dei ragazzi tra i 6 e i 14 anni non assolvesse l'obbligo",
+    "Nessuna delle opzioni",
+    "il 20% dei ragazzi tra i 6 e i 14 anni non assolvesse l'obbligo"
+   ],
+   "answ": 3,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "teslvc",
+   "q": "Chi ricoprì la carica di Ministro dell'istruzione dal 1946 al 1951?",
+   "opts": [
+    "Alcide de Gasperi",
+    "Giuseppe Lombardo Radice",
+    "Guido Gonella",
+    "Aldo Moro"
+   ],
+   "answ": 2,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n01kr0",
+   "q": "Gli episodi dell'inchiesta della Zanzara e dell'occupazione del Liceo Berchet si svolsero a",
+   "opts": [
+    "Bologna",
+    "Napoli",
+    "Milano",
+    "Roma"
+   ],
+   "answ": 2,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13cr1u0",
+   "q": "Tra i vari luoghi dove esplose la contestazione",
+   "opts": [
+    "ci fu un collegamento non operativo ma culturale e mediatico",
+    "ci fu un efficace coordinamento operativo a livello nazionale",
+    "Nessuna delle opzioni",
+    "non ci fu alcun legame o coordinamento"
+   ],
+   "answ": 0,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "b1dnt0",
+   "q": "Cosa chiedevano gli studenti sessantottini?",
+   "opts": [
+    "maggiori posti di lavoro",
+    "una rigida selezione meritocratica",
+    "il voto individuale",
+    "nessuna delle opzioni"
+   ],
+   "answ": 3,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1icfsng",
+   "q": "Quale fu il provvedimento più importante preso dal governo come immediata soluzione alle agitazioni del Sessantotto?",
+   "opts": [
+    "L'apertura dell'Università a tutti i diplomati degli istituti quinquennali",
+    "la legalizzazione dell'aborto",
+    "l'abolizione della scuola media unica",
+    "la legge sul divorzio"
+   ],
+   "answ": 0,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  }
+ ],
+ "docente": "Vigutto Lucia"
+}

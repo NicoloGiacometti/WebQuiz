@@ -1,0 +1,2835 @@
+{
+ "schema": 2,
+ "key": "fondamentipedagogici",
+ "nome": "Fondamenti Pedagogici 0-3",
+ "sub": "Scienze dell'Educazione e della Formazione",
+ "emoji": "🧸",
+ "docente": "Scigliano Rosetta",
+ "domande": [
+  {
+   "id": "7ao8mn",
+   "q": "La pedagogia dell’infanzia sta vivendo una stagione di significativo rinnovamento. Questa evoluzione è andata di pari passo con ?",
+   "opts": [
+    "Questa evoluzione è andata di pari passo con le discipline biologiche-psicologiche",
+    "Questa evoluzione è andata di pari passo con le discipline biologiche",
+    "Questa evoluzione è andata di pari passo con le discipline biologiche-matematiche",
+    "Questa evoluzione è andata di pari passo con le discipline biologiche-pedagogica"
+   ],
+   "answ": 1,
+   "lez": 1,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x9qufk",
+   "q": "he conseguenze hanno avuto tutti questi contributi?",
+   "opts": [
+    "Sulla professionalità del docente che era richiamato da un lato ad approfondire la missione e architettura curriculare nella scuola dell’infanzia.",
+    "Sulla professionalità del docente che era richiamato da un lato ad approfondire la missione e architettura curriculare nella scuola dell’infanzia e dall’altra a consolidare il potenziale e con le famiglie e le altre agenzie educative sta scolastico.",
+    "Sulla professionalità del docente che non era richiamato da un lato ad approfondire la missione e architettura curriculare nella scuola dell’infanzia e dall’altra a consolidare il potenziale e con le famiglie e le altre agenzie educative sta scolastico.",
+    "Sulla professionalità del discente che era richiamato da un lato ad approfondire la missione e architettura curriculare nella scuola dell’infanzia e dall’altra a consolidare il potenziale e con le famiglie e le altre agenzie educative sta scolastico."
+   ],
+   "answ": 3,
+   "lez": 1,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p47jtp",
+   "q": "Il modello clinico",
+   "opts": [
+    "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Winnicott, Dolto, Klein, Anna Freud.",
+    "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Dolto, Klein, Anna Freud.",
+    "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Winnicott, , Klein, Anna Freud.",
+    "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Winnicott, Dolto, Klein"
+   ],
+   "answ": 1,
+   "lez": 1,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qx1zk6",
+   "q": "Il modello estetico:",
+   "opts": [
+    "é contrassegnato da una rivalutazione dei legami corpo mente, dove la didattica in questa prospettiva ha come obiettivo fornire una crescita armonica e lo sviluppo delle mente, del fisico del bambino curando i sensi, la capacità motoria e manuale.",
+    "é contrassegnato da una rivalutazione dei legami corpo mente, delle pratiche artistiche dove la didattica in questa prospettiva ha come obiettivo fornire una crescita armonica e lo sviluppo delle mente, del fisico del bambino curando i sensi, la capacità motoria e manuale.",
+    "é contrassegnato da una valutazione dei legami corpo mente, delle pratiche artistiche dove la didattica in questa prospettiva ha come obiettivo fornire una crescita armonica e lo sviluppo delle mente, la capacità motoria e manuale.",
+    "non é contrassegnato da una rivalutazione dei legami corpo mente, delle pratiche artistiche dove la didattica in questa prospettiva ha come obiettivo fornire una crescita armonica e lo sviluppo delle mente, del fisico del bambino curando i sensi, la capacità motoria e manuale."
+   ],
+   "answ": 0,
+   "lez": 1,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1h1o1yo",
+   "q": "Modello cognitivista rimanda a un:",
+   "opts": [
+    "contributo piagetiano, chiave genetica e stadiale, con sviluppo dell’intelligenza umana come adattamento della realtà ed equilibrio tra assimilazione- accomodamento",
+    "contributo piagetiano, chiave genetica e stadiale, con sviluppo dell’intelligenza umana come adattamento della realtà ed equilibrio tra assimilazione- accomodamento e interrelazione tra psiche e ambiente.",
+    "contributo piagetiano, con sviluppo dell’intelligenza umana come adattamento della realtà ed equilibrio tra assimilazione- accomodamento e interrelazione tra psiche e ambiente.",
+    "contributo piagetiano, chiave genetica e stadiale, come adattamento della realtà ed equilibrio tra assimilazione- accomodamento e interrelazione tra psiche e ambiente."
+   ],
+   "answ": 1,
+   "lez": 1,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gh2q50",
+   "q": "Quando Cesare Scurati intravedeva nei diritti nuove fenomenologie?",
+   "opts": [
+    "2002",
+    "2001",
+    "1999",
+    "2011"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vifw3w",
+   "q": "il diritto all’autonomia e alla narrazione che rientrano nel",
+   "opts": [
+    "diritto all'istruzione",
+    "diritto di libertà",
+    "diritto di essere se stesso",
+    "diritto dell’identità"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kb6lx8",
+   "q": "Il diritto all’autonomia e alla narrazione che rientrano nel diritto dell’identità, cosa consentono?",
+   "opts": [
+    "Consente al bambino di presentarsi all’adulto non come un partner attivo, con diritti in grado di poter negoziare spazi di libertà sempre più significativi.",
+    "Consente al bambino di presentarsi all’adulto come un partner passivo , con diritti in grado di poter negoziare spazi di libertà sempre più significativi.",
+    "Consente al bambino di presentarsi all’adulto come un partner attivo, con diritti in grado di poter negoziare spazi di libertà sempre più significativi.",
+    "Consente al bambino di presentarsi all’adulto come un partner attivo, senza diritti in grado di poter negoziare spazi di libertà sempre più significativi."
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p197x6",
+   "q": "Vi è pertanto l’esigenza che la scuola debba stringere un patto educativo con il territorio in cui:",
+   "opts": [
+    "accanto ad essa offre ai bisogni giovanili una serie di occasioni ludiche e se si concentrano l’offerta di campi sia gioco, polisportivi, ludoteche, per rendere l’educazione come animazione",
+    "accanto ad essa offre ai bisogni giovanili una serie di occasioni educative e se si concentrano l’offerta di campi sia gioco, polisportivi, ludoteche, al fine di non rendere l’educazione come animazione",
+    "accanto ad essa non offre ai bisogni giovanili una serie di occasioni educative e se si concentrano l’offerta di campi sia gioco, polisportivi, ludoteche, per rendere l’educazione come animazione",
+    "accanto ad essa offre ai bisogni giovanili una serie di occasioni educative e se si concentrano l’offerta di campi sia gioco, polisportivi, ludoteche, per rendere l’educazione come animazione"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g26ujk",
+   "q": "A cosa conduce l'insegnamento?",
+   "opts": [
+    "Ad un apprendimento che sia l’interazione tra scuola e ambiente",
+    "Ad un 'interazione tra scuola basata sulla sola esperienza",
+    "Ad un apprendimento che sia l’interazione di una pedagogia della scuola verso una didattica come sapere professionale",
+    "Ad un apprendimento che sia l’interazione della scuola verso una didattica come sapere professionale"
+   ],
+   "answ": 3,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "oazp8h",
+   "q": "Che cosa è l'insegnamento?",
+   "opts": [
+    "Un intervento progettato pianificato e valutato",
+    "Un intervento progettato che non necessita di valutazione costante",
+    "Un intervento progettato pianificato e non valutato",
+    "Un intervento valutato"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11jl1ly",
+   "q": "La pedagogia extra-scolastica, pone la propria attenzione verso:",
+   "opts": [
+    "tutti quei nuovi territori pedagogici in cui vi sono volti, presupposti educativi e implicazioni dello sport all’organizzazione del tempo libero alle associazioni fino alle nuove didattiche per bambini.",
+    "tutti quei nuovi territori pedagogici in cui vi sono volti, presupposti non educativi e implicazioni dello sport all’organizzazione del tempo libero alle associazioni fino alle nuove didattiche per bambini.",
+    "tutti quei nuovi territori non pedagogici in cui vi sono volti, presupposti educativi e implicazioni dello sport all’organizzazione del tempo libero alle associazioni fino alle nuove didattiche per bambini.",
+    "tutti quei nuovi territori extra-scolastici in cui vi sono volti, presupposti educativi e implicazioni dello sport all’organizzazione del tempo libero alle associazioni fino alle nuove didattiche per bambini."
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "whgbc4",
+   "q": "Quali di queste definizioni è corretta:",
+   "opts": [
+    "La pedagogia dell’infanzia è intesa come scienza che ha come obiettivo o soggetto lo studio del bambino.",
+    "La pedagogia dell’infanzia è intesa come scienza che ha come obiettivo o soggetto lo studio del bambino in età evolutiva.",
+    "La pedagogia dell’infanzia non deve essere intesa come scienza che ha come obiettivo o soggetto lo studio del bambino in età evolutiva."
+   ],
+   "answ": 1,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fxb7pc",
+   "q": "Il termine pedagogia e “pedagogia dell’infanzia“ tendono a coincidere :",
+   "opts": [
+    "in quanto il pedagogista è il teorico dell’educazione infantile",
+    "in quanto il pedagogista è un educatore",
+    "Solo per quanto riguarda la strutturazione del progetto",
+    "In quanto il pedagogista studia lo sviluppo umano"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "db7t0o",
+   "q": "Censi sostiene che:",
+   "opts": [
+    "nasce lo stereotipo culturale dell’infanzia che delinea alcuni tratti del fanciullo come la debolezza l’innocenza la tenerezza",
+    "nasce lo stereotipo culturale dell’infanzia che delinea alcuni tratti del fanciullo come la tenerezza",
+    "nasce lo stereotipo culturale dell’infanzia che non delinea tratti del fanciullo come la debolezza l’innocenza la tenerezza",
+    "nasce l'idea dell’infanzia che delinea alcuni tratti del fanciullo come la debolezza, amore e tenerezza"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qdbrx9",
+   "q": "L'uomo di è travato ad:",
+   "opts": [
+    "interpretare processi culturali antichi",
+    "interpretare processi culturali che non riconosce come propri",
+    "interpretare processi culturali nuovi",
+    "interpretare processi culturali ridondanti"
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ff27kd",
+   "q": "I bambini che sono esposti a una cattiva qualità della vita",
+   "opts": [
+    "crescono in un territorio culturale dove le barriere protettive sono via via più permeabili e la ricerca del senso diventa sempre più facile .",
+    "crescono in un territorio culturale dove le barriere protettive sono via via più permeabili e la ricerca del senso diventa sempre meno difficile.",
+    "crescono in un territorio culturale dove le barriere protettive sono via via più permeabili e la ricerca del senso diventa sempre più difficile.",
+    "crescono in un territorio culturale dove le barriere protettive sono via via più impermeabili e la ricerca del senso diventa sempre più difficile."
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ujcrmw",
+   "q": "la cultura che proietta sul fanciullo",
+   "opts": [
+    "i suoi fantasmi riversando sul bambino quel bisogno di protezione che la prospettiva della semplicità non ha risolto ma accentuato.",
+    "i suoi fantasmi non riversando sul bambino quel bisogno di protezione che la prospettiva della complessità non ha risolto ma accentuato.",
+    "quel bisogno di protezione che la prospettiva della complessità ha risolto ma accentuato.",
+    "i suoi fantasmi riversando sul bambino quel bisogno di protezione che la prospettiva della complessità non ha risolto ma accentuato."
+   ],
+   "answ": 3,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4k5kus",
+   "q": "Innumerevoli possibilità didattico-educative offerte dalla tecnologia hanno investito l’infanzia",
+   "opts": [
+    "di un nuovo approccio educativo",
+    "di una nuova povertà",
+    "di una nuova ricchezza",
+    "di una nuova fantasia"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10be9eo",
+   "q": "I campi nuovi di ricerca che oggi si dischiudono alla pedagogia dell’infanzia, sono quelli che:",
+   "opts": [
+    "attengono alla sua trasferibilità.",
+    "attengono alla criteriologia e alla sua trasferibilità.",
+    "attengono alla criteriologia, alla sua trasferibilità e alla trasmissione.",
+    "attengono alla criteriologia e non alla sua trasferibilità."
+   ],
+   "answ": 1,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pn8art",
+   "q": "Il mondo dell’educazione è chiamato a",
+   "opts": [
+    "difendere il diritto del bambino alla propria infanzia",
+    "amplia il diritto del bambino alla propria infanzia",
+    "non difendere il diritto del bambino alla propria infanzia",
+    "difendere il diritto del bambino"
+   ],
+   "answ": 0,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10ykvxo",
+   "q": "La società umana ha perso il gusto dell’educarsi ed educare secondo paradigmi unitari e continui ciò significa che?",
+   "opts": [
+    "E' necessario individuare quale idea di bambino che emerge nel panorama post-contemporaneo al fine di definire gli obiettivi educativi per una cultura dell’infanzia possibile in vista di un nuovo orizzonte di senso.",
+    "E' necessario volgere lo sguardo oltre frammento per individuare quale idea di bambino che emerge nel panorama contemporaneo al fine di definire gli obiettivi educativi per una cultura dell’infanzia possibile in vista di un nuovo orizzonte di senso.",
+    "Non è necessario volgere lo sguardo oltre frammento per individuare quale idea di bambino che emerge nel panorama contemporaneo al fine di definire gli obiettivi educativi per una cultura dell’infanzia possibile in vista di un nuovo orizzonte di senso."
+   ],
+   "answ": 1,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nve7u4",
+   "q": "Un momento evolutivo, cioè, in cui i dinamismi neurobiologici interagiscono con:",
+   "opts": [
+    "quelli storico-culturali in maniera irripetibile (e irreversibile nei momenti critici dello sviluppo) ricevendo dall’educazione orientamento e autenticazione tanto sul piano del sostentamento dei processi di inculturazione e di apprendimento quanto sul quelli dell’inclusione sociale e della valorizzazione personale.",
+    "quelli psicologico-storico-culturali in maniera irripetibile (e reversibile nei momenti critici dello sviluppo) ricevendo dall’educazione orientamento e autenticazione tanto sul piano del sostentamento dei processi di inculturazione e di apprendimento quanto sul quelli dell’inclusione sociale e della valorizzazione personale.",
+    "quelli psicologico-storico-culturali in maniera ripetibile (e irreversibile nei momenti critici dello sviluppo) ricevendo dall’educazione orientamento e autenticazione tanto sul piano del sostentamento dei processi di inculturazione e di apprendimento quanto sul quelli dell’inclusione sociale e della valorizzazione personale.",
+    "quelli psicologico-storico-culturali in maniera irripetibile (e irreversibile nei momenti critici dello sviluppo) ricevendo dall’educazione orientamento e autenticazione tanto sul piano del sostentamento dei processi di inculturazione e di apprendimento quanto sul quelli dell’inclusione sociale e della valorizzazione personale."
+   ],
+   "answ": 3,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1s6jzlh",
+   "q": "Il mutamento di prospettiva come vede il bambino?",
+   "opts": [
+    "Inizialmente il bambino è percepito dalla società come dono, non è considerato come manifestazione di volontà individuale o espressione di efficienza techno riproduttiva della modernità",
+    "Inizialmente il bambino è considerato come manifestazione di volontà individuale",
+    "Inizialmente non è percepito dalla società come dono, inizia essere considerato come manifestazione di volontà individuale o espressione di efficienza techno riproduttiva della modernità",
+    "Inizialmente il bambino è percepito dalla società come dono, inizia essere considerato come manifestazione di volontà individuale o espressione di efficienza techno riproduttiva della modernità"
+   ],
+   "answ": 3,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5ichxs",
+   "q": "I modelli d’infanzia sopra presentati, come configurazioni essenzializzate della:",
+   "opts": [
+    "stagione 3-6",
+    "stagione 0-3",
+    "stagione 0-6",
+    "stagione 0-5"
+   ],
+   "answ": 2,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wtsdzo",
+   "q": "Chi descrive la \"scomparsa dell’infanzia\"?",
+   "opts": [
+    "E' descritta da Postman",
+    "E' descritta dalla Winn",
+    "E' descritta da Postman e dalla Winn",
+    "E' descritta da Postman, dalla Winne da Piaget"
+   ],
+   "answ": 2,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gdjfgj",
+   "q": "In che anno è stato analizzato il “rapporto della commissione Zoso-Scurati per la revisione degli orientamenti\"",
+   "opts": [
+    "1998",
+    "1995",
+    "1997",
+    "1996"
+   ],
+   "answ": 2,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15h3ovh",
+   "q": "Come si caratterizzano i processi interazione culturale legate all’infanzia?",
+   "opts": [
+    "I processi di interazione culturale non sono unidirezionale orientati solamente alla variabile indipendente dell’adulto e quella dipendente del bambino.",
+    "I processi di interazione culturale sono orientati solamente alla variabile indipendente dell’adulto e quella dipendente del bambino.",
+    "I processi di interazione culturale sono sia unidirezionale che bidirezionali, orientati solamente alla variabile indipendente dell’adulto e quella dipendente del bambino.",
+    "I processi di interazione culturale sono unidirezionale orientati solamente alla variabile indipendente dell’adulto e quella dipendente del bambino."
+   ],
+   "answ": 2,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pjcfv4",
+   "q": "Lo sguardo plurimo che sta assumendo la pedagogia dell’infanzia è figlio di:",
+   "opts": [
+    "quelle contaminazioni che, in positivo, non hanno modificato i paradigmi del sapere sull’educazione, anche nelle sue regioni epistemiche più interne",
+    "quelle contaminazioni che, in positivo, hanno modificato i paradigmi del sapere sull’educazione, anche nelle sue regioni epistemiche più interne",
+    "quelle contaminazioni che, in positivo e in negativo, hanno modificato i paradigmi del sapere sull’educazione, anche nelle sue regioni epistemiche più interne",
+    "quelle contaminazioni che, in negativo, hanno modificato i paradigmi del sapere sull’educazione, anche nelle sue regioni epistemiche più interne"
+   ],
+   "answ": 1,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fsn25d",
+   "q": "L’incontro educativo è caratterizzato da: ll’intenzionalità di due coscienze che trasformano la loro presenza in una prospettiva progettuale",
+   "opts": [
+    "Da una coscienza che trasforma la sua presenza in una prospettiva progettuale",
+    "Dall’intenzionalità di due coscienze che trasformano la loro presenza in una prospettiva progettuale",
+    "Dall’intenzionalità di due coscienze che non trasformano la loro presenza in una prospettiva progettuale",
+    "Dall’intenzionalità di due coscienze che trasformano la loro presenza in una prospettiva non progettuale"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "w3rcx3",
+   "q": "Il Romanticismo ci presenta un bambino",
+   "opts": [
+    "spettatore e poliedrico",
+    "monoforma",
+    "multiforme e poliedrico",
+    "statico"
+   ],
+   "answ": 2,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ii42xo",
+   "q": "Tra le distorsioni percettive, sulla scorta dei meccanismi di difesa Freudiani, è possibile individuare i seguenti processi di formazione:",
+   "opts": [
+    "-La narrazione -La rimozione-negazione -Introiezione",
+    "-La proiezione -La negazione -Introiezione",
+    "-La proiezione -La rimozione-negazione -Introiezione",
+    "-La negazione -La rimozione -Introiezione"
+   ],
+   "answ": 0,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uvnl3p",
+   "q": "Che ruolo ha l'educatore?",
+   "opts": [
+    "esperto della relazione accettando l’impronta dell’altro modificandola nella sua essenza e nella sua significatività",
+    "esperto della relazione accettando l’impronta dell’altro senza stravolgerla nella sua essenza e nella sua significatività",
+    "esperto della relazione e della narrazione, accettando l’impronta dell’altro senza stravolgerla nella sua essenza e nella sua significatività",
+    "esperto della relazione che trasforma l’impronta dell’altro senza stravolgerla nella sua essenza e nella sua significatività"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p3xmjo",
+   "q": "L’adultomorfismo spesso è mascherato da:",
+   "opts": [
+    "Dal mondo dei giocattoli , portando il bambino a fare in piccolo ciò che gli adulti fanno in grande",
+    "Dal mondo dei media, portando il bambino a fare in piccolo ciò che gli adulti fanno in grande",
+    "Dal mondo dei giocattoli e dei media, portando il bambino a fare in grande ciò che gli adulti fanno in grande",
+    "Dal mondo dei giocattoli e dei media, portando il bambino a fare in piccolo ciò che gli adulti fanno in grande"
+   ],
+   "answ": 3,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cvz1ck",
+   "q": "Per proiezione si intende:",
+   "opts": [
+    "l’operazione psichica per la quale non si riferisce ad un’altra persona caratteristiche proprio di noi stessi“ agisce, attraverso una costruzione dell’infanzia per assimilazione dei modelli culturali e le aspettative di ruoli infantili a quelle degli adulti",
+    "l’operazione psichica per la quale si tende a riferire ad un’altra persona caratteristiche proprio di noi stessi“ agisce, attraverso una costruzione dell’infanzia per assimilazione dei modelli culturali",
+    "l’operazione psichica per la quale si tende a riferire ad un’altra persona caratteristiche proprio di noi stessi“ agisce, attraverso una costruzione dell’infanzia per assimilazione dei modelli culturali e le aspettative di ruoli infantili a quelle degli adulti.",
+    "l’operazione psichica per la quale si tende a riferire ad un’altra persona caratteristiche non proprio di noi stessi“ agisce, attraverso una costruzione dell’infanzia per assimilazione dei modelli culturali e le aspettative di ruoli infantili a quelle degli adulti"
+   ],
+   "answ": 0,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11eh4c0",
+   "q": "Nella condizione di \" giovanilismo imperante\" i riti di passaggio hanno:",
+   "opts": [
+    "perso il loro significato costitutivo, in quanto l’organizzazione sociale economicista e razionale ritiene le scelte personali (come fare coppia, sposarsi e fare i figli) momenti rinviabili e secondari.",
+    "perso il loro significato costitutivo, in quanto l’organizzazione sociale economicista e razionale ritiene le scelte personali (come fare coppia, sposarsi e fare i figli) momenti non rinviabili e secondari.",
+    "perso il loro significato costitutivo, in quanto l’organizzazione sociale economicista e razionale ritiene le scelte personali (come fare coppia, sposarsi e fare i figli) momenti rinviabili e rimari.",
+    "perso il loro significato costitutivo, in quanto l’organizzazione economicista e razionale ritiene le scelte personali (come fare coppia, sposarsi e fare i figli) momenti rinviabili e secondari."
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6n27oc",
+   "q": "La procrastinazione riguarda:",
+   "opts": [
+    "ogni passaggio (relazionale, lavorativo), in quanto tutti noi viviamo con l’idea che sia possibile rinviare le scelte, senza preoccuparsi dei modi e dei tempi in cui concretizzarli.",
+    "ogni passaggio (relazionale, formativo, lavorativo), in quanto tutti noi viviamo con l’idea che non sia possibile rinviare le scelte, senza preoccuparsi dei modi e dei tempi in cui concretizzarli.",
+    "ogni passaggio (relazionale, formativo, lavorativo), in quanto tutti noi viviamo con l’idea che sia possibile rinviare le scelte, preoccupandosi dei modi e dei tempi in cui concretizzarli.",
+    "ogni passaggio (relazionale, formativo, lavorativo), in quanto tutti noi viviamo con l’idea che sia possibile rinviare le scelte, senza preoccuparsi dei modi e dei tempi in cui concretizzarli."
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fnwczw",
+   "q": "Si rintraccia nella “cultura del narcisismo” o nella “sindrome narcisistica”:",
+   "opts": [
+    "la perdita di riferimenti valoriali: una forma di egoismo che costringe a non sentire e provare emozioni nei confronti dell’altro, di chi non posso conoscere ed incontrare, con il quale instaurare una relazione diretta.",
+    "la perdita di riferimenti valoriali umani: una forma di egoismo che costringe a non sentire e provare emozioni nei confronti dell’altro, di chi non posso conoscere ed incontrare, con il quale instaurare una relazione diretta.",
+    "la perdita di riferimenti valoriali umani: una forma di egoismo che costringe a sentire e provare emozioni nei confronti dell’altro, di chi poter conoscere ed incontrare, con il quale instaurare una relazione diretta.",
+    "la perdita di riferimenti valoriali umani: una forma che costringe a non sentire e provare emozioni nei confronti dell’altro, di chi non posso conoscere ed incontrare, con il quale instaurare una relazione diretta."
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8762se",
+   "q": "All’idealizzazione dell’infanzia si aggiunge:",
+   "opts": [
+    "la suggestione dell’autenticità e della spontaneità infantile .",
+    "la suggestione dell’autenticità e della spontaneità infantile e adulta.",
+    "la suggestione dell’autenticità e della non spontaneità infantile .",
+    "la suggestione della non autenticità e della spontaneità infantile ."
+   ],
+   "answ": 0,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c7lgb9",
+   "q": "Il compito dell’ epistemologia pedagogica fenomenologica è:",
+   "opts": [
+    "di indicare una via scientifica idonea all’ essere umano , poiché il depauperamento filosofico e il prevalere delle tecniche sull’umano avrebbe comportato un miglioramento culturale della pedagogia.",
+    "di indicare una via scientifica idonea all’ essere umano , poiché il depauperamento filosofico e il non prevalere delle tecniche sull’umano avrebbe comportato un degrado culturale della pedagogia.",
+    "di indicare una via scientifica idonea all’ essere umano , poiché il depauperamento filosofico e il prevalere delle tecniche sull’umano avrebbe comportato un degrado culturale della pedagogia.",
+    "di indicare una via scientifica e soggettiva idonea all’ essere umano , poiché il depauperamento filosofico e il prevalere delle tecniche sull’umano avrebbe comportato un degrado culturale della pedagogia."
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pu79fc",
+   "q": "Si definisce introiezione:",
+   "opts": [
+    "quel procedimento attraverso il quale il soggetto introduce fantasmaticamente al proprio interno oggetti, qualità e descrizione dei medesimi.",
+    "quel procedimento attraverso il quale il soggetto non fantasmaticamente al proprio interno oggetti o qualità dei medesimi",
+    "quel procedimento attraverso il quale il soggetto introduce fantasmaticamente al proprio interno oggetti.",
+    "quel procedimento attraverso il quale il soggetto introduce fantasmaticamente al proprio interno oggetti o qualità dei medesimi."
+   ],
+   "answ": 3,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "u5rj69",
+   "q": "Russeau identifica come “pedagogia negativa“.",
+   "opts": [
+    "L’adulto è annullato da ogni sua autorevolezza educativa e si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, non ricerca in cambio del bambino che l’innocenza che lo rigenera.",
+    "L’adulto non è annullato da ogni sua autorevolezza educativa e si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, ma ricerca in cambio dello stesso bambino che l’innocenza che lo rigenera.",
+    "L’adulto è annullato da ogni sua autorevolezza educativa e non si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, ma ricerca in cambio dello stesso bambino che l’innocenza che lo rigenera.",
+    "L’adulto è annullato da ogni sua autorevolezza educativa e si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, ma ricerca in cambio dello stesso bambino che l’innocenza che lo rigenera."
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10l11r4",
+   "q": "Il bambino, perciò, fin dai primi anni di vita, impara a:",
+   "opts": [
+    "manipolare significati e produrre comunicative complesse elaborando con la coscienza interpretativa che gli consente di sviluppare tutte quelle possibilità logiche , di denotazioni e connotazioni , implicate nel segno , oggetto da interpretare , co-significare e de-costruire.",
+    "manipolare significati e produrre comunicative non complesse elaborando con la coscienza interpretativa che gli consente di sviluppare tutte quelle possibilità logiche , di denotazioni e connotazioni , implicate nel segno , oggetto da interpretare , co-significare e de-costruire.",
+    "manipolare significati e produrre comunicative complesse elaborando con la coscienza interpretativa che gli consente di sviluppare alcune quelle possibilità logiche , di denotazioni e connotazioni , implicate nel segno , oggetto da interpretare , co-significare e de-costruire.",
+    "manipolare significati e produrre comunicative complesse elaborando con la coscienza interpretativa che gli consente di sviluppare tutte quelle possibilità logiche , di denotazioni e connotazioni , oggetto da interpretare , co-significare e de-costruire."
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19fsr16",
+   "q": "Il processo di modernizzazione, portato dalla trasformazione tecnologica e dall'avvento dello Stato burocratico, nonché dai processi di urbanizzazione, di mobilità sociale, di educazione di massa e di comunicazione di massa:",
+   "opts": [
+    "non è sulla via di raggiungere, sia pure a diversi livelli, tutti i popoli del pianeta.",
+    "è sulla via di raggiungere, sia pure a diversi livelli, tutti i popoli del pianeta.",
+    "è quasi sulla via di raggiungere, sia pure a diversi livelli, tutti i popoli del pianeta.",
+    "è sulla via di raggiungere, sia pure a diversi livelli, alcuni i popoli del pianeta."
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d9bkug",
+   "q": "Oggi la frattura tra infanzia autoctona e l’infanzia figlia della migrazione è:",
+   "opts": [
+    "non speculare a quella che vede contrapposti gli adulti",
+    "speculare a quella che vede contrapposti gli adulti e i bambini",
+    "speculare a quella che vede contrapposti gli adulti e gli adolescenti",
+    "speculare a quella che vede contrapposti gli adulti"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19nsdn5",
+   "q": "Marcello Peretti scriveva: «il bambino non è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
+   "opts": [
+    "",
+    "«il bambino è presenza umana con colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
+    "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
+    "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\""
+   ],
+   "answ": 2,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15555zo",
+   "q": "Cosa mostra la modellistica sociologica? mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più quattro principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto",
+   "opts": [
+    "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più quattro principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto.",
+    "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più cinque principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto.",
+    "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più tre principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto.",
+    "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più due principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto."
+   ],
+   "answ": 0,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sz4tgw",
+   "q": "Anche le scienze della natura, da quelle bio-mediche a quelle igieniche fino a quelle schiettamente neurobiologiche, hanno tratteggiato le caratteristiche dell’educabilità umana nelle prime età della vita avvalorandone gli attributi di competenza e di ricettività, componenti, peraltro, già evidenziate in maniera intuitiva dai classici dell’educazione:",
+   "opts": [
+    "da Rousseau a Maria Montessori.",
+    "da Fröbel fino a Maria Montessori.",
+    "da Piaget e Brunner",
+    "da Rousseau a Fröbel fino a Maria Montessori."
+   ],
+   "answ": 3,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "byo2rk",
+   "q": "L’avventura della formazione si delinea come:",
+   "opts": [
+    "la propensione dell’uomo ad assumere la propria più intima forma, una forma che lo stesso soggetto, progressivamente, va chiarendosi come progetto e impegno.",
+    "la propensione dell’uomo a non assumere la propria più intima forma, una forma che lo stesso soggetto, progressivamente, va chiarendosi come progetto, impegno e tensione dialettica.",
+    "la propensione dell’uomo ad assumere la propria più intima forma, una forma che lo stesso soggetto, progressivamente, va chiarendosi come progetto, impegno e tensione dialettica.",
+    "la propensione di alcuni uomini ad assumere la propria più intima forma, una forma che lo stesso soggetto, progressivamente, va chiarendosi come progetto, impegno e tensione dialettica."
+   ],
+   "answ": 2,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jsxn4y",
+   "q": "Lo studioso Bottani interpreta:",
+   "opts": [
+    "gli obiettivi e i problemi a cavallo tra gli anni 80 ponendosi la domanda di cosa è cambiato in Italia , se da un lato si può rispondere che gli interventi e i servizi per l’infanzia si sono quantitativamente estesi e diffusi dall’altro si deve constatare che le difficoltà si sono accentuate.",
+    "gli obiettivi e i problemi a cavallo tra gli anni 70 -90 ponendosi la domanda di cosa è cambiato in Italia , se da un lato si può rispondere che gli interventi e i servizi per l’infanzia si sono quantitativamente estesi e diffusi dall’altro si deve constatare che le difficoltà si sono accentuate.",
+    "gli obiettivi e i problemi a cavallo tra gli anni 60 -80 ponendosi la domanda di cosa è cambiato in Italia , se da un lato si può rispondere che gli interventi e i servizi per l’infanzia si sono quantitativamente estesi e diffusi dall’altro si deve constatare che le difficoltà si sono accentuate.",
+    "gli obiettivi e i problemi a cavallo tra gli anni 70 -80 ponendosi la domanda di cosa è cambiato in Italia , se da un lato si può rispondere che gli interventi e i servizi per l’infanzia si sono quantitativamente estesi e diffusi dall’altro si deve constatare che le difficoltà si sono accentuate."
+   ],
+   "answ": 3,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19y2l50",
+   "q": "Una politica dell’infanzia è soggetta a:",
+   "opts": [
+    "forti mutamenti proprio nel suo farsi che spesso non sono riconosciuti nemmeno dalla società italiana",
+    "forti mutamenti proprio nel suo farsi che spesso non sono riconosciuti nemmeno dalla società mondiale",
+    "piccoli mutamenti proprio nel suo farsi che spesso non sono riconosciuti nemmeno dalla società italiana",
+    "forti mutamenti proprio nel suo farsi che spesso sono riconosciuti dalla società italiana"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vgvsfq",
+   "q": "Nel familismo amorale il bambino è:",
+   "opts": [
+    "oggetto e proprietà della famiglia chiusa.",
+    "oggetto della famiglia chiusa.",
+    "proprietà della famiglia chiusa.",
+    "oggetto proprietà della famiglia aperta."
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kijvxo",
+   "q": "Secondo il Rapporto collegare l’istruzione alle esigenze specifiche della comunità circostante rende:",
+   "opts": [
+    "l’apprendimento più rilevante per gli studenti / le studentesse, ma non contribuisce anche a costruire ponti tra la scuola e il tessuto sociale.",
+    "l’apprendimento più rilevante per gli studenti / le studentesse, ma contribuisce anche a costruire ponti tra la scuola e il tessuto familiare.",
+    "l’apprendimento meno rilevante per gli studenti / le studentesse, ma contribuisce anche a costruire ponti tra la scuola e il tessuto sociale.",
+    "l’apprendimento più rilevante per gli studenti / le studentesse, ma contribuisce anche a costruire ponti tra la scuola e il tessuto sociale."
+   ],
+   "answ": 3,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ku49f5",
+   "q": "Un’educazione che viene definita “trasformativa” , secondo il recente “Vision Statement delle Nazioni Unite” condiviso nell’ambito del Transforming Education Summit del settembre 2023, dovrebbe:",
+   "opts": [
+    "lo sviluppo olistico dei discenti lungo tutto l’arco della loro vita, abilitandoli a diventare changemaker per creare un cambiamento positivo nella società",
+    "lo sviluppo olistico dei discenti lungo tutto l’arco della loro vita, abilitandoli a diventare changemaker per creare un cambiamento positivo nella sola famiglia",
+    "lo sviluppo dei discenti lungo tutto l’arco della loro vita, abilitandoli a diventare changemaker per creare un cambiamento positivo nella società",
+    "lo sviluppo olistico dei discenti lungo una fase vita, abilitandoli a diventare changemaker per creare un cambiamento positivo nella società"
+   ],
+   "answ": 0,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3mtmbd",
+   "q": "Il calo della natalità porta:",
+   "opts": [
+    "conseguenze di mutamenti radicali nella struttura dei comportamenti familiari",
+    "conseguenze di mutamenti radicali nella struttura dei comportamenti societari",
+    "conseguenze di mutamenti non radicali nella struttura dei comportamenti familiari",
+    "conseguenze di mutamenti radicali nell' organizzazione dei comportamenti familiari"
+   ],
+   "answ": 0,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vlf0uw",
+   "q": "Quando nasce il \"Fondo per il contrasto della povertà educativa minorile\"",
+   "opts": [
+    "2018",
+    "2106",
+    "2015",
+    "2017"
+   ],
+   "answ": 1,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gk2awi",
+   "q": "Diversi studi suggeriscono che la scuola italiana:",
+   "opts": [
+    "non sia in grado di contribuire alla mobilità intergenerazionale, perché tende a riprodurre le uguaglianze sociali di partenza",
+    "sia in grado di contribuire alla mobilità intergenerazionale, perché tende a riprodurre le diseguaglianze sociali di partenza",
+    "non sia in grado di contribuire alla mobilità intergenerazionale, perché tende a riprodurre le diseguaglianze sociali di partenza",
+    "sia in grado di contribuire alla mobilità intergenerazionale, perché non tende a riprodurre le diseguaglianze sociali di partenza"
+   ],
+   "answ": 2,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4bdkk",
+   "q": "La spinta della società consumistica, e l’evoluzione economica hanno:",
+   "opts": [
+    "non trasformato sensibilmente l’ambiente familiare alterandone la funzione educativa dei rapporti simbolici",
+    "trasformato sensibilmente l’ambiente scolastico alterandone la funzione educativa dei rapporti simbolici",
+    "trasformato sensibilmente l’ambiente familiare alterandone la funzione educativa dei rapporti sociali",
+    "trasformato sensibilmente l’ambiente familiare alterandone la funzione educativa dei rapporti simbolici"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xtrkk0",
+   "q": "L’azione di cura educativa svolta dai servizi dedicati all’infanzia:",
+   "opts": [
+    "non è fine a se stessa ma viene a costituire un fondamento di crescita per l’Europa stessa, attraverso dimensioni non adeguate, inclusive e sostenibili",
+    "non è fine a se stessa ma viene a costituire un fondamento di crescita per l’ Italia stessa, attraverso dimensioni adeguate, inclusive e sostenibili",
+    "non è fine a se stessa ma viene a costituire un fondamento di crescita per l’Europa stessa, attraverso dimensioni adeguate, inclusive e sostenibili",
+    "è fine a se stessa ma viene a costituire un fondamento di crescita per l’Europa stessa, attraverso dimensioni adeguate, inclusive e sostenibili"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fyb6zw",
+   "q": "Con il Decreto Legislativo 13 aprile 2017, n. 65 (Istituzione del sistema integrato di educazione e di istruzione dalla nascita sino a sei anni, a norma dell’articolo 1, commi 180 e 181, lettera e), della legge 13 luglio 2015, n. 107)",
+   "opts": [
+    "si inaugura un nuovo tempo della storia del sistema educativo e scolastico italiano.",
+    "non si inaugura un nuovo tempo della storia del sistema educativo italiano.",
+    "si inaugura un nuovo tempo della storia del sistema educativo italiano.",
+    "si inaugura un nuovo tempo della storia del sistema scoalstico italiano."
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n6gop8",
+   "q": "Il tema della qualità rimase un elemento fisso delle successive dichiarazioni della:",
+   "opts": [
+    "Commissione Italiana.",
+    "Commissione ONU.",
+    "Commissione Europea.",
+    "Commissione mondiale ."
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k8869o",
+   "q": "La genitorialità è frutto di un percorso in cui si articolano:",
+   "opts": [
+    "dimensioni relazionali e sociali”",
+    "dimensioni individuali, relazionali e sociali”",
+    "dimensioni individuali e sociali”",
+    "dimensioni individuali e relazionali ”"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k5ut9s",
+   "q": "il Sistema integrato di educazione e di istruzione è volto a promuovere:",
+   "opts": [
+    "“la continuità del percorso educativo e scolastico, con particolare riferimento al primo ciclo di istruzione, sostenendo lo sviluppo delle bambine e dei bambini in un processo unitario, in cui le diverse articolazioni del Sistema integrato di educazione e di istruzione collaborano attraverso attività di progettazione, di coordinamento e di formazione comuni”.",
+    "“la continuità del percorso educativo e scolastico, con particolare riferimento al secondo ciclo di istruzione, sostenendo lo sviluppo delle bambine e dei bambini in un processo unitario, in cui le diverse articolazioni del Sistema integrato di educazione e di istruzione collaborano attraverso attività di progettazione, di coordinamento e di formazione comuni”.",
+    "“la continuità del percorso educativo e scolastico, con particolare riferimento al primo ciclo di istruzione, sostenendo lo sviluppo delle bambine e dei bambini in un processo non unitario, in cui le diverse articolazioni del Sistema integrato di educazione e di istruzione collaborano attraverso attività di progettazione, di coordinamento e di formazione comuni”.",
+    "“la continuità del percorso scolastico, con particolare riferimento al primo ciclo di istruzione, sostenendo lo sviluppo delle bambine e dei bambini in un processo unitario, in cui le diverse articolazioni del Sistema integrato di educazione e di istruzione collaborano attraverso attività di progettazione, di coordinamento e di formazione comuni”."
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z03iqc",
+   "q": "ECEC è l'acronimo di ?",
+   "opts": [
+    "Early Childhood Education",
+    "Childhood Education and Care",
+    "Early Education and Care",
+    "Early Childhood Education and Care"
+   ],
+   "answ": 3,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rz0l74",
+   "q": "Il «caso Italia», la gran parte delle misure di politica familiare, adottate invece a livello nazionale nell’ultimo decennio, è stata diretta a:",
+   "opts": [
+    "concedere benefici agli individui in termini di trasferimenti monetari e di servizi di cura, al solo scopo di rendere meno gravosi, per costoro, i compiti educativi.",
+    "concedere benefici agli individui in termini di trasferimenti monetari, al solo scopo di rendere meno gravosi, per costoro, i compiti familiari.",
+    "concedere pochi benefici agli individui in termini di trasferimenti monetari e di servizi di cura, al solo scopo di rendere meno gravosi, per costoro, i compiti familiari.",
+    "concedere benefici agli individui in termini di trasferimenti monetari e di servizi di cura, al solo scopo di rendere meno gravosi, per costoro, i compiti familiari."
+   ],
+   "answ": 3,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12vt808",
+   "q": "Il continuo calo delle nascite ha comportato per il nostro Paese:",
+   "opts": [
+    "un decremento della popolazione in età attiva, mentre l’allungamento della vita media ha esteso il periodo di fruizione della pensione",
+    "un decremento della popolazione in età attiva, mentre l’allungamento della vita media ha esteso il periodo di fruizione della pre-pensione",
+    "un decremento della popolazione in età passiva, mentre l’allungamento della vita media ha esteso il periodo di fruizione della pensione",
+    "un decremento della popolazione in età attiva, mentre l’allungamento della vita media non ha esteso il periodo di fruizione della pensione"
+   ],
+   "answ": 0,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fpvxm5",
+   "q": "Tutte le società occidentali, compresa l’Italia, videro l’affermarsi della cosiddetta",
+   "opts": [
+    "«società della globalizzazione».",
+    "«società del consumismo».",
+    "«società del benessere e del consumismo».",
+    "«società del benessere»."
+   ],
+   "answ": 3,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1eid0a8",
+   "q": "Le famiglie nelle quali si registra un livello più alto di benessere psicologico tra adolescenti, sultano essere i nuclei nei quali:",
+   "opts": [
+    "sia il polo normativo che relazionale sono entrambi elevati, con una forte diminuzione di un tono dell’umore depresso e irritabile.",
+    "sia il polo etico-normativo che affettivo-relazionale sono entrambi elevati, con una piccola diminuzione di un tono dell’umore depresso e irritabile.",
+    "sia il polo etico che affettivo sono entrambi elevati, con una forte diminuzione di un tono dell’umore depresso e irritabile.",
+    "sia il polo etico-normativo che affettivo-relazionale non sono entrambi elevati, con una forte diminuzione di un tono dell’umore depresso e irritabile."
+   ],
+   "answ": 1,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jr55bg",
+   "q": "Como è concepito il \"limite\" nella cultura moderna?",
+   "opts": [
+    "Il limite è concepito come qualcosa di positivo. Tutto punta al soddisfacimento del sé, così ciò che si frappone tra l’individuo ed il suo scopo diviene un ostacolo da arginare.",
+    "Il limite è concepito come qualcosa di negativo. Tutto punta al soddisfacimento del sé, così ciò che si frappone tra l’individuo ed il suo scopo diviene un ostacolo da arginare.",
+    "Il limite è concepito come qualcosa di negativo e di positivo al contempo. Tutto punta al soddisfacimento del sé, così ciò che si frappone tra l’individuo ed il suo scopo diviene un ostacolo da arginare.",
+    "Il limite è concepito come qualcosa di negativo. Tutto punta al soddisfacimento degli altri , così ciò che si frappone tra l’individuo e l'altro diviene un ostacolo da arginare."
+   ],
+   "answ": 1,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1do9a7k",
+   "q": "Caso succede a partire dal 1965 in tutta Europa?",
+   "opts": [
+    "il decremento demografico, che aumentò sensibilmente il numero di nuovi nati.",
+    "l'aumento demografico, che riduce sensibilmente il numero di nuovi nati.",
+    "Cominciò il decremento demografico, che riduce sensibilmente il numero di nuovi nati.",
+    "il decremento demografico, che riduce di poco il numero di nuovi nati."
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2yrzdk",
+   "q": "Escobedo e Wall definiscono il modello di congedi italiano come:",
+   "opts": [
+    "“short leave modified male-breadwinner model”, dove l’ideale maschile del breadwinner è ancora fortemente presente con tassi di occupazione femminile/materno sopra la media europea",
+    "“short leave modified male-breadwinner model”, dove l’ideale maschile del breadwinner è ancora fortemente presente con tassi di occupazione femminile/materno sotto la media Italiana",
+    "“short leave modified male-breadwinner model”, dove l’ideale maschile del breadwinner è ancora fortemente presente con tassi di occupazione femminile/materno sotto la media europea",
+    "“short leave modified male-breadwinner model”, dove l’ideale maschile del breadwinner è ancora formai assente con tassi di occupazione femminile/materno sotto la media europea"
+   ],
+   "answ": 2,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gt4r0c",
+   "q": "A causa del calo delle nascite oggi si vive:",
+   "opts": [
+    "una maggiore povertà relazionale nella fase della crescita",
+    "una maggiore povertà sociale nella fase della crescita",
+    "una minore povertà relazionale nella fase della crescita",
+    "una maggiore povertà relazionale nella prima fase della crescita"
+   ],
+   "answ": 0,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dbg4qo",
+   "q": "La riflessione sulla paternità e sulla sua trasformazione è:",
+   "opts": [
+    "ormai un fenomeno globale.",
+    "ormai un fenomeno che riguarda solo i paesi economicamente sviluppati.",
+    "ormai un fenomeno nazionale ma non globale.",
+    "ormai un fenomeno nazionale ."
+   ],
+   "answ": 0,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nqaqv8",
+   "q": "Cosa si intende per famiglia ricostituita?",
+   "opts": [
+    "Quel nucleo composto da una coppia nella quale almeno uno dei partner (spesso entrambi) ha già avuto una precedente unione dalla quale non sono nati dei figli.",
+    "Quel nucleo composto da una coppia nella quale almeno uno dei partner (spesso entrambi) ha non ha avuto una precedente unione dalla quale sono nati dei figli.",
+    "Quel nucleo composto da una coppia nella quale almeno uno dei partner (spesso entrambi) ha già avuto una precedente unione dalla quale sono nati dei figli.",
+    "Quel nucleo composto da una coppia nella quale entrambi i partner hanno già avuto una precedente unione dalla quale sono nati dei figli."
+   ],
+   "answ": 2,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15pkalk",
+   "q": "Froma Walsh afferma che:",
+   "opts": [
+    "la famiglia normale è quella che presenta un “buon funzionamento”, ovvero che si rivela incapace di riorganizzarsi a seguito di ogni evento critico",
+    "la famiglia normale è quella che presenta un “buon funzionamento”, ovvero che si rivela capace di riorganizzarsi a seguito di ogni evento critico",
+    "la famiglia normale è quella che presenta un “buon funzionamento”, ovvero che si rivela non sempre capace di riorganizzarsi a seguito di ogni evento critico",
+    "la famiglia normale è quella che presenta un \"funzionamento stabile”, ovvero che si rivela capace di riorganizzarsi a seguito di ogni evento critico"
+   ],
+   "answ": 1,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1okgy40",
+   "q": "Con il termine “Spet famiglie”, -famiglia riconosciuta:",
+   "opts": [
+    "si denominano quegli aggregati familiari nei quali uno dei coniugi è al secondo o ennesimo matrimonio",
+    "si denominano quegli aggregati familiari nei quali uno dei coniugi è al primo matrimonio.",
+    "si denominano quegli aggregati familiari nei quali uno dei coniugi è vedovo",
+    "si denominano quegli aggregati familiari nei quali entrambi i coniugi non si sono mai sposati."
+   ],
+   "answ": 0,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rtx3mw",
+   "q": "Cosa sono le coppie childfree?",
+   "opts": [
+    "unioni caratterizzate da un non-evento non riconosciuto dalla società",
+    "unioni caratterizzate da un evento legalmente valido",
+    "unioni caratterizzate da un non-evento",
+    "unioni caratterizzate da un evento riconosciuto dallo stato"
+   ],
+   "answ": 2,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "huymge",
+   "q": ". Negli anni Sessanta e Settanta sono state molte le conquiste:",
+   "opts": [
+    "moglie e marito non hanno funzioni paritarie, si perde per strada il ruolo del capofamiglia, le donne iniziano a lavorare ma non hanno gli stessi diritti degli uomini.",
+    "moglie e marito hanno funzioni ancora asimmetriche , si perde per strada il ruolo del capofamiglia, le donne iniziano a lavorare e hanno gli stessi diritti degli uomini.",
+    "moglie e marito hanno funzioni paritarie, si perde per strada il ruolo del capofamiglia, le donne iniziano a lavorare e hanno gli stessi diritti degli uomini.",
+    "moglie e marito hanno funzioni paritarie, si esalta il ruolo del capofamiglia, le donne iniziano a lavorare e hanno gli stessi diritti degli uomini."
+   ],
+   "answ": 2,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bnjt3c",
+   "q": "La cultura post-moderna davanti all’odierno stato di frammentazione familiare",
+   "opts": [
+    "ritrovata nel impellente necessità di formulare un nuovo lessico in grado perlomeno di definire questa condizione sociale che risulta stabile.",
+    "ritrovata nel impellente necessità di non formulare un nuovo lessico in grado perlomeno di definire questa difficile condizione sociale.",
+    "non ritrovata nel impellente necessità di formulare un nuovo lessico in grado perlomeno di definire questa difficile condizione sociale.",
+    "ritrovata nel impellente necessità di formulare un nuovo lessico in grado perlomeno di definire questa difficile condizione sociale."
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p3bm2d",
+   "q": "La scuola e la famiglia sono responsabili:",
+   "opts": [
+    "dello sviluppo, della conoscenza e dell’istruzione, per la formazione dell’individuo",
+    "dello sviluppo e della conoscenza per la formazione dell’individuo",
+    "dello sviluppo e dell’istruzione, per la formazione dell’individuo",
+    "dello sviluppo, della conoscenza e dell’istruzione, per la formazione del nucleo familiare"
+   ],
+   "answ": 0,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1er2eno",
+   "q": "Il costruttivismo si propose come teoria dominante degli anni",
+   "opts": [
+    "quaranta",
+    "cinquanta",
+    "sessanta",
+    "settanta"
+   ],
+   "answ": 1,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "47xdtk",
+   "q": "Per i comportamentisti l’apprendimento è:",
+   "opts": [
+    "un’attività che si sviluppa fra pochi soggetti: uno passivamente acquisisce le informazioni che l’altro attivamente gli trasmette.",
+    "un’attività che si sviluppa fra due soggetti: uno passivamente acquisisce le informazioni che sull’altro non hanno effetto",
+    "un’attività che si sviluppa fra molti soggetti: uno passivamente acquisisce le informazioni che l’altro attivamente gli trasmette.",
+    "un’attività che si sviluppa fra due soggetti: uno passivamente acquisisce le informazioni che l’altro attivamente gli trasmette."
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1q8f70e",
+   "q": "Il discente sarà poi valutato alla luce di: comportamenti tangibili che metterà in atto sulla base di quanto ha precedentemente acquisito.",
+   "opts": [
+    "comportamenti che metterà in atto sulla base di quanto non ha acquisito.",
+    "comportamenti tangibili che metterà i difficilmente metterà in atto.",
+    "comportamenti non tangibili che metterà in atto sulla base di quanto ha precedentemente acquisito.",
+    "comportamenti tangibili che metterà in atto sulla base di quanto ha precedentemente acquisito."
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6ob9d0",
+   "q": "cosa si intende per \"Costruttivismo pedagogico\"?",
+   "opts": [
+    "Il modello socio-costruttivista rappresenta un costrutto teorico eterogeneo che richiama al suo interno teorie tra loro diverse ma che hanno una caratteristica comune della rappresentazione del bambino inteso come “soggetto epistemico competente“ cioè essere attivamente impegnato nella costruzione della conoscenza attraverso attività cognitiva.",
+    "Il modello socio-costruttivista rappresenta un costrutto teorico eterogeneo che richiama al suo interno teorie tra loro diverse ma che hanno una caratteristica comune della rappresentazione del bambino inteso come “soggetto epistemico in formazione“ cioè essere attivamente impegnato nella costruzione della conoscenza attraverso attività cognitiva.",
+    "Il modello socio-costruttivista rappresenta un costrutto teorico non eterogeneo che richiama al suo interno teorie tra loro diverse ma che hanno una caratteristica comune della rappresentazione del bambino inteso come “soggetto epistemico competente“ cioè essere attivamente impegnato nella costruzione della conoscenza attraverso attività cognitiva.",
+    "Il modello socio-costruttivista rappresenta un costrutto teorico eterogeneo che richiama al suo interno teorie tra loro diverse ma che hanno una caratteristica comune della rappresentazione del bambino inteso come “soggetto epistemico competente“ cioè essere passivo nella costruzione della conoscenza attraverso attività cognitiva."
+   ],
+   "answ": 0,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7kh12o",
+   "q": "Il costruttivismo, costituisce una categoria che presuppone:",
+   "opts": [
+    "una concezione dell’apprendimento solo cumulativa e non integrativa",
+    "una concezione dell’apprendimento integrativo",
+    "una concezione dell’apprendimento solo cumulativa",
+    "una concezione dell’apprendimento non solo cumulativa bensì integrativa"
+   ],
+   "answ": 3,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6gq05k",
+   "q": "Quali autori avevano sollecitato la scuola affinché prestassi maggiore attenzione e competenze specifiche del bambino.",
+   "opts": [
+    "Le idee di Johannesburg Dewey, Celestin Freinet",
+    "Le idee di Maria Montessori, Johannesburg Dewey e Piaget",
+    "Le idee di Maria Montessori, Johannesburg Dewey, Celestin Freinet",
+    "Le idee di Maria Montessori e Johannesburg Dewey"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1l2r5lg",
+   "q": "Jean Piaget nasce:",
+   "opts": [
+    "nel 1898 in Svizzera",
+    "nel 1896 in Svizzera",
+    "nel 1869 in Svizzera",
+    "nel 1897 in Svizzera"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "147019g",
+   "q": "Quando ha fondato il Centro Internazionale per l’Epistemologia Genetica presso l’Università di Ginevra ?",
+   "opts": [
+    "1960",
+    "1952",
+    "1955",
+    "1954"
+   ],
+   "answ": 2,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1h05bk0",
+   "q": "Secondo i teorici costruttivisti l’apprendimento deve valorizzare:",
+   "opts": [
+    "il punto di vista di chi trasmette , l’educatore/insegnante deve perciò aiutare il bambino “a riadattare le conoscenze che già possiede in funzione di situazioni passate”.",
+    "il punto di vista di chi apprende, l’educatore/insegnante deve perciò aiutare il bambino “a non riadattare le conoscenze che già possiede in funzione di situazioni e necessità nuove”.",
+    "il punto di vista di chi apprende, l’educatore/insegnante deve perciò aiutare il bambino “a riadattare le conoscenze che già possiede in funzione di situazioni e necessità nuove”.",
+    "il punto di vista di chi apprende, l’educatore/insegnante deve perciò aiutare il bambino “a riadattare le conoscenze che già possiede non in funzione di situazioni e necessità nuove”."
+   ],
+   "answ": 2,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1d1qqzs",
+   "q": "L’ambiente entro cui avviene l’apprendimento deve essere:",
+   "opts": [
+    "dinamico e ricco di stimoli, in modo da consentire al soggetto di creare la propria realtà sulla base di abitudini, credenze ed emozioni.",
+    "poco dinamico ma ricco di stimoli, in modo da consentire al soggetto di creare la propria realtà sulla base di conoscenze, abitudini, credenze ed emozioni.",
+    "dinamico e ricco di stimoli, in modo da consentire al soggetto di creare la propria realtà sulla base di conoscenze.",
+    "dinamico e ricco di stimoli, in modo da consentire al soggetto di creare la propria realtà sulla base di conoscenze, abitudini, credenze ed emozioni."
+   ],
+   "answ": 0,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nxni98",
+   "q": "Secondo il paradigma costruttivista il soggetto è:",
+   "opts": [
+    "il protagonista passivo del proprio sviluppo e l’apprendimento si identifica come un processo dinamico e partecipativo",
+    "il protagonista attivo del proprio sviluppo e l’apprendimento si identifica come un processo statico",
+    "il protagonista attivo del proprio sviluppo e l’apprendimento si identifica come un processo dinamico e partecipativo",
+    "il protagonista attivo del proprio sviluppo e l’apprendimento non si identifica come un processo dinamico e partecipativo"
+   ],
+   "answ": 2,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hwkch0",
+   "q": "Come si definisce la formazione pedagogica di Piaget?",
+   "opts": [
+    "La formazione in ambito psicologico e accademica quella di pedagogia risulta ancora più sfocata, ma non ebbe nessun contributo mediante lo studio epistemologico.",
+    "La formazione in ambito psicologico è accademica quella di pedagogia risulta ancora sfocata, acquisita mediante lo studio epistemologico.",
+    "La formazione in ambito psicologico non è accademica mentre quella di pedagogia lo è.",
+    "La formazione in ambito pedagogico risulta di matrice accademica"
+   ],
+   "answ": 1,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nx877c",
+   "q": "Piaget presenta quanto riguarda lo sviluppo intellettuale del bambino di principi concettuali ritrovabili nelle nozioni di: assimilazione, accomodamento, stadi di sviluppo, schema mentale ed epigenesi.",
+   "opts": [
+    "assimilazione, accomodamento, stadi di sviluppo, schema mentale ed epigenesi.",
+    "assimilazione, accomodamento, stadi di sviluppo, epigenesi.",
+    "assimilazione, accomodamento, stadi di sviluppo, schema mentale",
+    "assimilazione, accomodamento, stadi di sviluppo."
+   ],
+   "answ": 0,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kxake4",
+   "q": "Secondo Piaget intelligenza sarebbe da ricondursi a:",
+   "opts": [
+    "un processo attivo attraverso il quale il soggetto si rende sempre più idoneo",
+    "un processo attraverso il quale il soggetto si rende sempre più idoneo all’interno il suo ambiente",
+    "un processo attivo attraverso il quale il soggetto si rende sempre più idoneo all’interno il suo ambiente",
+    "un processo passivo attraverso il quale il soggetto si rende sempre più idoneo all’interno il suo ambiente"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4mehty",
+   "q": "L'evoluzione della conoscenza del bambino secondo Piaget, consiste :",
+   "opts": [
+    "nell'incessante tensione tra assimilazione, riduzione del reale a schemi già noti, e accomodamento, ristrutturazione e adeguamento delle strutture logiche, le forme del conoscere e i dati della percezione",
+    "nell' adeguamento delle strutture logiche, le forme del conoscere e i dati della percezione",
+    "nell'incessante tensione tra assimilazione, riduzione del reale a schemi già noti, , ristrutturazione e adeguamento delle strutture logiche, le forme del conoscere e i dati della percezione",
+    "nell'incessante tensione tra schemi già noti, e accomodamento, ristrutturazione e adeguamento delle strutture logiche, le forme del conoscere e i dati della percezione"
+   ],
+   "answ": 0,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "43hmqo",
+   "q": "Secondo Piaget, l'epistemologia genetica si occupa:",
+   "opts": [
+    "della formazione e del significato della conoscenza",
+    "della formazione e del significato del pensiero",
+    "della formazione e del significato della conoscenza e delle relazioni",
+    "della formazione e del significato della conoscenza innata"
+   ],
+   "answ": 0,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pwi91c",
+   "q": "Quanti sono gli stadi di sviluppo di Piaget?",
+   "opts": [
+    "5",
+    "3",
+    "4",
+    "6"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y3tatw",
+   "q": "Per Piaget lo sviluppo cognitivo della persona è:",
+   "opts": [
+    "non è flessibile e plastico in gioventù e più rigido con l'avanzare dell'età.",
+    "flessibile e plastico in gioventù e semirigido con l'avanzare dell'età.",
+    "flessibile e plastico in qualsiasi fase della vita",
+    "flessibile e plastico in gioventù e più rigido con l'avanzare dell'età."
+   ],
+   "answ": 3,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hz60s8",
+   "q": "Gli stadi di sviluppo di Piaget sono:",
+   "opts": [
+    "3",
+    "5",
+    "6",
+    "4"
+   ],
+   "answ": 3,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1klmogw",
+   "q": "Nello stato senso-motorio",
+   "opts": [
+    "Il bambino fa esperienza del mondo attraverso i movimenti stessi e i sensi, sviluppa schemi, comincia ad eseguire atti non intenzionali e mostra di comprendere la permanenza dell'oggetto.",
+    "Il bambino fa esperienza del mondo attraverso i movimenti stessi e i sensi, sviluppa schemi, comincia ad eseguire atti intenzionali e mostra di comprendere la permanenza dell'oggetto.",
+    "Il bambino fa esperienza del mondo attraverso i movimenti stessi e i sensi, sviluppa schemi, comincia ad eseguire atti intenzionali e mostra di non comprendere la permanenza dell'oggetto.",
+    "Il bambino fa esperienza del mondo attraverso i movimenti stessi, sviluppa schemi, comincia ad eseguire atti intenzionali e mostra di comprendere la permanenza dell'oggetto."
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1c2rlw",
+   "q": "Per quanto riguarda gli stadi fondamentali dello sviluppo, Jean Piaget ne distingue quattro:",
+   "opts": [
+    "1lo stadio senso-motorio (0-1 anni) 2lo stadio pre-operatorio (2-6 anni) 3lo stadio operatorio concreto (6-12 anni) 4lo stadio operatorio formale (da 12 anni in poi).",
+    "1lo stadio senso-motorio (0-2 anni) 2lo stadio pre-operatorio (2-6 anni) 3lo stadio operatorio concreto (6-12 anni) 4lo stadio operatorio informale (da 12 anni in poi).",
+    "1lo stadio motorio (0-2 anni) 2lo stadio pre-operatorio (2-6 anni) 3lo stadio operatorio concreto (6-12 anni) 4lo stadio operatorio formale (da 12 anni in poi).",
+    "1lo stadio senso-motorio (0-2 anni) 2lo stadio pre-operatorio (2-6 anni) 3lo stadio operatorio concreto (6-12 anni) 4lo stadio operatorio formale (da 12 anni in poi)."
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "90zem4",
+   "q": "Durante il primo stadio il bambino impara a:",
+   "opts": [
+    "conoscere il mondo attraverso le attività fisiche e cognitive che compie.",
+    "conoscere il mondo attraverso le attività relazionali che compie.",
+    "conoscere il mondo attraverso le attività fisiche che compie.",
+    "conoscere il mondo attraverso le attività sensoriali che compie."
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "famvu0",
+   "q": "Per Piaget il bambino al secondo stadio il bambino impara:",
+   "opts": [
+    "il riconoscimento di sé, identifica la propria immagine allo specchio e non riesce ancora a vedersi con gli occhi dell’altro, inoltre attraverso lo sviluppo del linguaggio inizia ad esprimersi",
+    "il riconoscimento di sè e dell'altro, identifica la propria immagine allo specchio e riesce a vedersi con gli occhi dell’altro, inoltre attraverso lo sviluppo del linguaggio inizia ad esprimersi",
+    "il riconoscimento di sé, identifica la propria immagine allo specchio e riesce a vedersi con gli occhi dell’altro, inoltre attraverso lo sviluppo del linguaggio inizia ad esprimersi",
+    "il riconoscimento di sé, identifica la propria immagine allo specchio e riesce a vedersi con gli occhi dell’altro, inoltre attraverso lo sviluppo motorio"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3csd4o",
+   "q": "Nel terzo stadio, o stadio operatorio concreto:",
+   "opts": [
+    "si assiste alla comparsa dell’egocentrismo del linguaggio, il bambino comunica con i propri simili allo scopo di scambiare informazioni ed è in grado di spiegare il proprio pensiero. Si sviluppa il concetto di reversibilità",
+    "si assiste alla scomparsa dell’egocentrismo , il bambino comunica con i propri simili allo scopo di scambiare informazioni ed è in grado di spiegare il proprio pensiero. Si sviluppa il concetto di reversibilità",
+    "si assiste alla scomparsa dell’egocentrismo del linguaggio, il bambino comunica con i propri simili allo scopo di scambiare informazioni ma non è in grado di spiegare il proprio pensiero. Si sviluppa il concetto di reversibilità",
+    "si assiste alla scomparsa dell’egocentrismo del linguaggio, il bambino comunica con i propri simili allo scopo di scambiare informazioni ed è in grado di spiegare il proprio pensiero. Si sviluppa il concetto di reversibilità"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "169fnl9",
+   "q": "L’ultimo stadio di sviluppo definito dal Piaget è quello operatorio formale, che viene definito come:",
+   "opts": [
+    "In questo caso non si parla più di bambino ma di adolescente e il pensiero che in precedenza si limitava agli oggetti concreti lascia spazio all’immaginazione e alla riflessione diventando un pensiero ipotetico-deduttivo",
+    "In questo caso non si parla più di bambino ma di adolescente e il pensiero che in precedenza si limitava agli oggetti astratti lascia spazio all’immaginazione e alla riflessione diventando un pensiero ipotetico-deduttivo",
+    "In questo caso si parla di un bambino ma di adolescente e il pensiero che in precedenza si limitava agli oggetti concreti lascia spazio all’immaginazione diventando un pensiero ipotetico-deduttivo"
+   ],
+   "answ": 1,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uq4ro4",
+   "q": "Lo stadio senso -motorio",
+   "opts": [
+    "concerne i bambini dai 0-3 anni",
+    "concerne i bambini dai 0-2 anni",
+    "concerne i bambini dai 0-36 mesi",
+    "concerne i bambini dai 3-2 anni"
+   ],
+   "answ": 1,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rf77tt",
+   "q": "Nell’aiuto vicendevole il bambino si rivela: più forte e più intelligente che non è lavoro individuale e ascende verso un linguaggio superiore di potenzialità intellettiva nella soluzione dei problemi",
+   "opts": [
+    "più forte e più intelligente che non nel lavoro sociale e e ascende verso un linguaggio superiore di potenzialità intellettiva nella soluzione dei problemi",
+    "meno forte e più intelligente che nel lavoro individuale e ascende verso un linguaggio superiore di potenzialità intellettiva nella soluzione dei problemi",
+    "più forte e più intelligente che non nel lavoro individuale e ascende verso un linguaggio superiore di potenzialità intellettiva nella soluzione dei problemi",
+    "più forte e più intelligente che non nel lavoro individuale e ascende verso un linguaggio superiore di potenzialità del linguaggio nella soluzione dei problemi"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ek2zyw",
+   "q": "L’importanza del processo dell’apprendimento cooperativo per Vygotskij , all’interno di un setting, si concretizza con :",
+   "opts": [
+    "la possibilità di realizzare una situazione di sperimentazione controllata, ove il discente apprende dal maestro per imitazione ed è proprio questo fattore che dischiude la possibilità di ampliamento del processo intellettivo.",
+    "la possibilità di realizzare una situazione di sperimentazione controllata, ove il discente apprende dal maestro per imitazione ed è proprio questo fattore che dischiude il processo intellettivo.",
+    "la possibilità di realizzare una situazione di sperimentazione non controllata, ove il discente apprende dal maestro per imitazione ed è proprio questo fattore che dischiude la possibilità di ampliamento del processo intellettivo.",
+    "la possibilità di realizzare una situazione di sperimentazione controllata, ove il discente non apprende dal maestro per imitazione ed è proprio questo fattore che dischiude la possibilità di ampliamento del processo intellettivo."
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "987upc",
+   "q": "La relazione educativa è:",
+   "opts": [
+    "qualcosa di più di un solo processo di oggettivazione sociale essa assume per intelligenza il bambino una funzione di sostegno al pari di quella svolta dal bastone lo sviluppo della deambulazione",
+    "qualcosa di più di un solo processo di oggettivazione sociale essa non assume per intelligenza il bambino una funzione di sostegno al pari di quella svolta dal bastone lo sviluppo della deambulazione",
+    "qualcosa di più di un solo processo di soggettivazione sociale essa assume per intelligenza il bambino una funzione di sostegno al pari di quella svolta dal bastone lo sviluppo della deambulazione",
+    "qualcosa di più di un solo processo di oggettivazione sociale essa assume per intelligenza il bambino una funzione di sostegno al pari di quella svolta dal bastone lo sviluppo del lingiaggio"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16czp7d",
+   "q": "Vygotskij afferma che:: una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento.",
+   "opts": [
+    "non è una specificità dell’essere umano quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento.",
+    "una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere le proprie relazioni.",
+    "una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento.",
+    "una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che non vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento."
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gybcis",
+   "q": "Cosa avviene “nella zona di sviluppo prossimale,“",
+   "opts": [
+    "qui avviene la negoziazione sociale dei significati dove insegnanti e allievi si appropriano delle reciproche interpretazioni operazioni con una condivisione degli scopi.",
+    "qui avviene la negoziazione sociale dei significati dove insegnanti e allievi si appropriano delle reciproche interpretazioni operazioni con una negoziazione condivisione degli scopi.",
+    "qui avviene la negoziazione sociale dei significati dove insegnanti e allievi non si appropriano delle reciproche interpretazioni operazioni con una negoziazione degli scopi.",
+    "qui avviene l' assimilazione dei significati dove insegnanti e allievi si appropriano delle reciproche interpretazioni operazioni con una negoziazione condivisione degli scopi."
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1oz595o",
+   "q": "Vygotskij è considerato il fondatore della scuola storico-culturale, e svolse le sue ricerche nell’Istituto di Psicologia di Mosca interessandosi a due temi fondamentali:",
+   "opts": [
+    "1. lo sviluppo delle funzioni psichiche superiori nel bambino e 2. la non influenza delle variabili culturali sui processi cognitivi.",
+    "1. lo sviluppo delle funzioni psichiche nel bambino 2. l’influenza delle variabili culturali sui processi cognitivi.",
+    "1. lo sviluppo delle funzioni psichiche superiori nel bambino 2. l’influenza delle variabili culturali sui processi cognitivi.",
+    "1. lo sviluppo delle funzioni psichiche superiori 2. l’influenza delle variabili culturali sui processi cognitivi."
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i4e0g9",
+   "q": "Il metodo utilizzato da Vygotskij è detto:",
+   "opts": [
+    "metodo strutturale",
+    "metodo scientifico",
+    "metodo culturale",
+    "metodo genetico"
+   ],
+   "answ": 3,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "t7ff5s",
+   "q": "Per Vygotskih gli strumenti psicologici hanno due caratteristiche principali:",
+   "opts": [
+    "-sono avvenimenti che trasformano le funzioni mentali -sono prodotti sociali",
+    "- sono semplici sussidi che trasformano le funzioni mentali -sono prodotti sociali",
+    "-non sono semplici sussidi ma trasformano le funzioni mentali -sono prodotti sociali",
+    "-non sono semplici sussidi ma trasformano le funzioni mentali -sono prodotti relazionali"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y6zvkd",
+   "q": "Per Vygotskij durante il primo anno di vita:",
+   "opts": [
+    "l’attenzione non si sviluppa grazie al processo puramente organico della maturazione degli apparati nervosi",
+    "l’attenzione si sviluppa grazie al processo puramente organico della maturazione degli apparati nervosi",
+    "l’attenzione si sviluppa grazie al processo puramente organico della maturazione motoria",
+    "la concentrazione si sviluppa grazie al processo puramente organico della maturazione degli apparati nervosi"
+   ],
+   "answ": 1,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f3a6jg",
+   "q": "Secondo Vygotskij l’attenzione volontaria:",
+   "opts": [
+    "non potrebbe sorgere mai dall’attenzione naturale",
+    "non potrebbe sorgere mai dall’attenzione artificiale",
+    "non potrebbe sorgere mai dall’attenzione residua",
+    "potrebbe sorgere dall’attenzione naturale"
+   ],
+   "answ": 3,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vi1hnh",
+   "q": "Per Vygotskij dalla più precoce età, inserendosi nell’ambiente sociale circostante",
+   "opts": [
+    "il bambino sviluppa nel processo di adattamento in un ambiente la sua attenzione volontaria.",
+    "il bambino sviluppa ma non modella nel processo di adattamento in un ambiente la sua attenzione volontaria.",
+    "il bambino sviluppa e modella nel processo di adattamento la sua attenzione volontaria.",
+    "il bambino sviluppa e modella nel processo di adattamento in un ambiente la sua attenzione volontaria."
+   ],
+   "answ": 2,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9ppnq5",
+   "q": "la zona di sviluppo prossimale si sviluppa nella prospettiva",
+   "opts": [
+    "strutturalista",
+    "etologica",
+    "sistemica",
+    "socio-Interazionista"
+   ],
+   "answ": 3,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13nx984",
+   "q": "Essere prossimali significa",
+   "opts": [
+    "rendere trasparente la propria coscienza al fine di rendere accettabile e abitabile del pensiero del bambino",
+    "rendere trasparente il proprio pensiero al fine di rendere accettabile e abitabile il pensiero stesso",
+    "rendere trasparente la propria coscienza al fine di rendere abitabile del pensiero del bambino",
+    "non rendere trasparente la propria coscienza al fine di rendere accettabile e abitabile del pensiero del bambino"
+   ],
+   "answ": 2,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k6ky7s",
+   "q": ", per poter imitare, è necessario, secondo Vygotskij",
+   "opts": [
+    "avere la possibilità di passare da a ciò di cui si è capaci",
+    "apprendere per tentativi ciò che non si è capaci di fare",
+    "non avere la possibilità di passare da ciò di cui si è capaci a ciò di cui non si è capaci.",
+    "avere la possibilità di passare da ciò di cui si è capaci a ciò di cui non si è capaci."
+   ],
+   "answ": 3,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kv98l3",
+   "q": ". Vygotskij sottolinea come la possibilità di veicolare apprendimenti sia legata:",
+   "opts": [
+    "alla capacità del maestro di intrecciare la motivazione dell'apprendimento, di modo che il programma del maestro non divenga anche il programma del bambino.",
+    "alla capacità del maestro di intrecciare la motivazione al fare , di modo che il programma del maestro diventa divenga anche il programma del bambino.",
+    "alla capacità del maestro di intrecciare la motivazione dell'apprendimento, di modo che il programma del maestro divenga anche il programma del bambino.",
+    "alla motivazione dell'apprendimento, di modo che il programma del maestro diventa divenga anche il programma del bambino."
+   ],
+   "answ": 1,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15ikyo8",
+   "q": "La prossimalità e la motivazione divengono",
+   "opts": [
+    "quel raccordo insieme ad affettività e apprendimento secondo un continuum il più possibile omogeneo",
+    "quel raccordo insieme ad affettività secondo un continuum il più possibile omogeneo",
+    "quel raccordo insieme ad affettività e apprendimento secondo un continuum il più possibile disomogeneo",
+    "quel raccordo secondo un continuum il più possibile omogeneo"
+   ],
+   "answ": 0,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iz401n",
+   "q": "Secondo Bruner",
+   "opts": [
+    "non esiste una gerarchia di saperi",
+    "non esiste una gerarchia di teorie",
+    "non esiste una gerarchia di strutture mentali",
+    "non esiste una gerachia di concetti"
+   ],
+   "answ": 2,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17qui44",
+   "q": "Bruner Attraverso rigorose procedure sperimentali",
+   "opts": [
+    "affronta lo studio della mente infantile, mettendo in evidenza la ricchezza e la non complessità della dotazione cognitiva del bambino",
+    "affronta lo studio della mente infantile, non mettendo in evidenza la ricchezza e la complessità della dotazione cognitiva del bambino",
+    "affronta lo studio della mente infantile, mettendo in evidenza la ricchezza e la complessità della dotazione cognitiva del bambino",
+    "affronta lo studio della mente infantile, mettendo in ombra la ricchezza e la complessità della dotazione cognitiva del bambino"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ece0nk",
+   "q": "Brunner è un autore",
+   "opts": [
+    "socio-costruttivista",
+    "ecologico",
+    "comportamentale",
+    "sistemico"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4wsn0",
+   "q": "Secondo Vygotskij, se si vuole ottenere una buona istruzione:",
+   "opts": [
+    "l’insegnante ha un ruolo fondamentale nella strutturazione di un contesto sociale e di collaborazione in grado di fornire guida e sostegno agli allievi durante l’apprendimento all’interno della zona di sviluppo prossimale",
+    "l’insegnante non ha un ruolo fondamentale nella strutturazione di un contesto sociale e di collaborazione in grado di fornire guida e sostegno agli allievi durante l’apprendimento all’interno della zona di sviluppo prossimale",
+    "l’insegnante ha un ruolo fondamentale senza strutturazione di un contesto sociale e di collaborazione in grado di fornire guida e sostegno agli allievi durante l’apprendimento all’interno della zona di sviluppo prossimale",
+    "l’insegnante ha un ruolo fondamentale nella strutturazione di un contesto sociale in grado di fornire guida e sostegno agli allievi durante l’apprendimento all’interno della zona di sviluppo prossimale"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vuwmp8",
+   "q": "Nella prospettiva di Vygotskij, l’educazione",
+   "opts": [
+    "non deve essere intesa come relazione docente-allievo",
+    "non deve essere intesa come relazione unidirezionale docente-allievo",
+    "deve essere intesa come relazione unidirezionale docente-allievo",
+    "deve essere intesa come relazione bidirezionale docente-allievo"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pmxxhg",
+   "q": "Il socio-costruttivismo di Jerome Bruner coniuga due fondamentali punti di vista sviluppati dalla psicologia dello sviluppo contemporanea:",
+   "opts": [
+    "1. Il costruttivismo (di origine piagetiana), per cui la mente è capace di costruire più che solamente elaborare i significati della realtà e le strutture mentali che la caratterizzano e le permettono di funzionare. 2. L’interazionismo sociale (di origine vygotskijiana), per cui tale costruzione avviene per mezzo dei rapporti sociali.",
+    "1. Il costruttivismo (di origine piagetiana), per cui la mente non è capace di costruire più che solamente elaborare i significati della realtà e le strutture mentali che la caratterizzano e le permettono di funzionare. 2. L’interazionismo sociale (di origine vygotskijiana), per cui tale costruzione avviene per mezzo dei rapporti sociali.",
+    "1. Il costruttivismo (di origine piagetiana), per cui la mente è capace di costruire più che solamente elaborare i significati della realtà e le strutture mentali che la caratterizzano e le permettono di funzionare. 2. L’interazionismo sociale (di origine vygotskijiana), per cui tale costruzione avviene per mezzo dei rapporti non sociali.",
+    "1. Il costruttivismo (di origine piagetiana), per cui la mente è capace di costruire più che solamente elaborare i significati della realtà e le strutture mentali che la caratterizzano e le permettono di funzionare. 2. L’interazionismo sociale (di origine vygotskijiana), per cui tale costruzione avviene per mezzo dei rapporti relazionali."
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vwo30l",
+   "q": "Secondo Bruner la conoscenza viene rappresentata dalla mente attraverso tre forme principali:",
+   "opts": [
+    "-attiva -iconica -simbolica",
+    "-simbolica -attiva -immaginativa",
+    "-relazionale -narrativa -simbolica",
+    "-iconica -sociale -esperienziale"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e3qrjw",
+   "q": "la proposta di Bruner si inserisce pienamente all’interno della",
+   "opts": [
+    "PSICOLOGIA CULTURALE",
+    "PSICOLOGIA SISTEMICA",
+    "PSICOLOGIA RELAZIONALE",
+    "PSICOLOGIA SOCIALE"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "igmw2i",
+   "q": "Per Brunner ogni conoscenza complessa e significativa viene",
+   "opts": [
+    "perciò co-costruita e acquisita nella comunicazione fra studenti e insegnanti, fra principianti ed esperti e fra pari",
+    "perciò co-costruita e acquisita nella comunicazione fra studenti e insegnanti",
+    "perciò co-costruita nella comunicazione fra studenti e insegnanti, fra principianti ed esperti e fra pari",
+    "perciò costruita e acquisita nella comunicazione fra studenti e insegnanti, fra principianti ed esperti e fra pari"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xb6fit",
+   "q": "Bruner sostenne un approccio all’insegnamento chiamato",
+   "opts": [
+    "strutturalismo didattico che si fondava sia a un insegnamento meccanico e pragmatico, sia al nozionismo e alla trasmissione di contenuti fine a se stessa.",
+    "strutturalismo didattico che si opponeva sia a un insegnamento meccanico e pragmatico, sia al nozionismo e alla trasmissione di contenuti fine a se stessa.",
+    "strutturalismo didattico che si opponeva sia a un insegnamento meccanico e pragmatico, e alla trasmissione di contenuti fine a se stessa.",
+    "strutturalismo sociale che si opponeva sia a un insegnamento meccanico e pragmatico, sia al nozionismo e alla trasmissione di contenuti fine a se stessa."
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1d37f1c",
+   "q": "Le costanti antropologiche sono:",
+   "opts": [
+    "Esperienza, comunicare, parlare.",
+    "Agire, comunicare, parlare.",
+    "Agire, comunicare, fare.",
+    "Agire, fare, parlare."
+   ],
+   "answ": 1,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17s7tzt",
+   "q": "Agire, comunicare, parlare sono le",
+   "opts": [
+    "\" tre costanti antropologiche\"",
+    "\" tre costanti educative\"",
+    "\" tre costanti pedagogiche\"",
+    "\" tre costanti sociologiche\""
+   ],
+   "answ": 0,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vsi3u4",
+   "q": "Per Bruner la capacità linguistica si sviluppa:",
+   "opts": [
+    "in stretta connessione con le abilità prelocutorie, il linguaggio assume quindi uno strumento ma non un' abilità, un utensile immateriale",
+    "in stretta connessione con le abilità prelocutorie, il linguaggio assume quindi uno strumento, un' abilità, un utensile immateriale",
+    "in stretta connessione con le abilità prelocutorie, il linguaggio assume quindi uno strumento poco efficace",
+    "in stretta connessione con le abilità prelocutorie, il linguaggio non assume quindi uno strumento, un' abilità, un utensile immateriale"
+   ],
+   "answ": 1,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mrtjqk",
+   "q": "Bruner presenta una concezione antropologica che si delinea come:",
+   "opts": [
+    "oltre che di carattere pragmatista, si scrive nello scenario dello strumentalismo evoluzionistico, che raccorda l'individuo con la cultura e con l'ambiente che lo circonda.",
+    "oltre che di carattere pragmatista, si scrive nello scenario del costruttivismo, che raccorda l'individuo con la cultura e con l'ambiente che lo circonda.",
+    "oltre che di carattere pragmatista, si scrive nello scenario dello strumentalismo evoluzionistico, che raccorda l'individuo con la cultura e con le tradizioni che lo circonda.",
+    "oltre che di carattere pragmatista-costruttivista, si scrive nello scenario dello strumentalismo evoluzionistico, che raccorda l'individuo con la cultura e con l'ambiente che lo circonda."
+   ],
+   "answ": 0,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r5en3y",
+   "q": "Bruner si ispira ad uno studio condotto dei psicologici dell’educazione Ann Brown e Joseph Campione in cui vengono evidenziate quattro idee fondamentali, quali sono?",
+   "opts": [
+    "-esperienza -riflessione -collaborazione -cultura",
+    "-capacità di azione -socializzazione -collaborazione -cultura",
+    "-capacità di azione -riflessione -collaborazione -linguaggio",
+    "-capacità di azione -riflessione -collaborazione -cultura"
+   ],
+   "answ": 3,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hgakhw",
+   "q": "Lo sviluppo della competenza narrativa va incontro a quale esigenza?",
+   "opts": [
+    "saper narrare non è una dote innata e non è un’abilità che può essere coltivata",
+    "saper narrare non è una dote innata ma un’abilità che può essere coltivata",
+    "saper narrare non è una dote innata ma un’abilità che può essere coltivata solo all'interno di un gruppo socializzante",
+    "saper narrare è una dote innata ma un’abilità che può essere coltivata"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4fa1jx",
+   "q": "La narrazione può aiutare a:",
+   "opts": [
+    "recuperare all’interno dell’azione scolastica la dimensione educativa e del significato che i saperi hanno per la formazione dell’identità personale",
+    "recuperare all’interno dell’azione scolastica la dimensione del senso e del significato che i saperi hanno per la formazione dell’identità sociale",
+    "recuperare all’interno dell’azione scolastica la dimensione del senso ed educativa che i saperi hanno per la formazione dell’identità personale",
+    "recuperare all’interno dell’azione scolastica la dimensione del senso e del significato che i saperi hanno per la formazione dell’identità personale"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t9dfxf",
+   "q": "La rappresentazione esecutiva in Bruner è legata a?",
+   "opts": [
+    "solo all'azione fisica",
+    "attività esperienziali",
+    "azione fisica, contatto e alla manipolazione al fare",
+    "attività esperienziali in gruppo"
+   ],
+   "answ": 2,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "n1uwcg",
+   "q": "Il materiale narrativo innesca:",
+   "opts": [
+    "numerose emozioni",
+    "solo emozioni negative",
+    "solo emozioni positive",
+    "poche emozioni"
+   ],
+   "answ": 0,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14m0j6o",
+   "q": "Per Bruner il genere narrativo si caratterizza per:",
+   "opts": [
+    "il fatto di coinvolgere fortemente la dimensione affettiva e motivazionale del lettore ma non dell’ascoltatore.",
+    "il fatto di non coinvolgere fortemente la dimensione affettiva e motivazionale del lettore o dell’ascoltatore.",
+    "il fatto di coinvolgere fortemente la dimensione affettiva e motivazionale del lettore o dell’ascoltatore.",
+    "il fatto di coinvolgere fortemente la dimensione relazionale e motivazionale del lettore o dell’ascoltatore."
+   ],
+   "answ": 3,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jf57hg",
+   "q": "Alla base del modello dell'educazione Attiva Bruner postula l’esistenza di una",
+   "opts": [
+    "è caratterizzata da marcato accento sulle abilità di collaborazione, interpretazione ma non sulla gestione delle conoscenze",
+    "è caratterizzata da marcato accento sulle abilità di collaborazione, gestione delle conoscenze",
+    "è caratterizzata da marcato accento sulle azioni, interpretazione, gestione delle conoscenze",
+    "è caratterizzata da marcato accento sulle abilità di collaborazione, interpretazione, gestione delle conoscenze"
+   ],
+   "answ": 3,
+   "lez": 48,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3v508u",
+   "q": "La teoria dell'istruzione per Bruner specifica che:",
+   "opts": [
+    "Il percorso relazionale secondo questa prospettiva, dovrebbe essere sviluppato in forma normativa per fornire agli insegnamenti criteri generali e parametri di verifica tali da scandire la disciplina dapprima in forma elementare e via via sempre in modo più incisivo fino alla completa padronanza.",
+    "Il percorso didattico secondo questa prospettiva, dovrebbe essere sviluppato in forma normativa per fornire agli insegnamenti criteri generali e parametri di verifica tali da scandire la disciplina dapprima in forma elementare e via via sempre in modo più incisivo fino alla completa padronanza.",
+    "Il percorso didattico secondo questa prospettiva, dovrebbe essere sviluppato in forma normativa per fornire agli insegnamenti pochi criteri generali e parametri di verifica tali da scandire la disciplina dapprima in forma elementare e via via sempre in modo più incisivo fino alla completa padronanza.",
+    "Il percorso didattico secondo questa prospettiva, non dovrebbe essere sviluppato in forma normativa per fornire agli insegnamenti criteri generali e parametri di verifica tali da scandire la disciplina dapprima in forma elementare e via via sempre in modo più incisivo fino alla completa padronanza."
+   ],
+   "answ": 1,
+   "lez": 48,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "140gf3m",
+   "q": "Bruner pone al centro della fluidità della conoscenza",
+   "opts": [
+    "la cultura in sé quanto",
+    "la cultura in sé quanto e non qualità della proposta didattica",
+    "non tanto la cultura in sé quanto la qualità della proposta educativa",
+    "non tanto la cultura in sé quanto la qualità della proposta didattica"
+   ],
+   "answ": 3,
+   "lez": 48,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rjsafk",
+   "q": "Attraverso l’analisi fattoriale, Guilford definisce il pensiero divergente come:",
+   "opts": [
+    "generazione di disinformazioni da informazioni date dove l’accento è posto sulla varietà e quantità dell’output proveniente dalla stessa fonte",
+    "generazione di informazioni da informazioni non date dove l’accento è posto sulla varietà e quantità dell’output proveniente dalla stessa fonte",
+    "generazione di informazioni da informazioni date dove l’accento è posto sulla varietà e quantità dell’output proveniente dalla stessa fonte",
+    "generazione di informazioni da informazioni date dove l’accento non è posto sulla varietà e quantità dell’output proveniente dalla stessa fonte"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ew035o",
+   "q": "Secondo Bruner quanti manifestazioni della mente creativa esistono?",
+   "opts": [
+    "tre",
+    "una sola",
+    "diverse",
+    "cinque"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1745lvt",
+   "q": "Bruner sostiene che creatività e pensiero creativo sono due entità distinte",
+   "opts": [
+    "dalle quali si generano quei processi divergenti attraverso i quali la realtà viene indagata in modalità non usuale e non attraverso percorsi spesso alternativi alle soluzioni più comuni",
+    "dalle quali non si generano quei processi divergenti attraverso i quali la realtà viene indagata in modalità non usuale e attraverso percorsi spesso alternativi alle soluzioni più comuni",
+    "dalle quali si generano quei processi divergenti attraverso i quali la realtà viene indagata in modalità non usuale e attraverso percorsi spesso alternativi alle soluzioni più comuni",
+    "dalle quali si generano quei processi divergenti attraverso i quali la realtà viene indagata in modalità usuale e attraverso percorsi spesso alternativi alle soluzioni più comuni"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hypibk",
+   "q": "I fondamente della costruzione della vita psichica sono",
+   "opts": [
+    "i periodi oscuri",
+    "i periodi materni",
+    "i periodi sensitivi",
+    "i periodi motori"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hiz0bq",
+   "q": "\" Aiutami a fare da me\" è la teoria di",
+   "opts": [
+    "Jerome Bruner",
+    "Anna Klein",
+    "Maria Montessori",
+    "Sorelle Agazzi"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pcmai8",
+   "q": "La pedagogia Popolare:",
+   "opts": [
+    "nel teorizzare la pratica educativa, fuori dall'aula scolastica occorra tener conto delle teorie popolari già possedute dalle persone che sono impegnate nell'insegnamento e nell'apprendimento",
+    "nel teorizzare la pratica sociale , nell'aula scolastica non occorra tener conto delle teorie popolari già possedute dalle persone che sono impegnate nell'insegnamento e nell'apprendimento",
+    "nel teorizzare la pratica educativa, nell'aula scolastica non occorra tener conto delle teorie popolari già possedute dalle persone che sono impegnate nell'insegnamento e nell'apprendimento",
+    "nel teorizzare la pratica educativa, nell'aula scolastica acconto tener conto delle teorie popolari già possedute dalle persone che sono impegnate nell'insegnamento e nell'apprendimento"
+   ],
+   "answ": 3,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p0hiut",
+   "q": "Silvano Arieti,Individua i cinque principi che gli insegnanti dovrebbero adottare per sostenere lo sviluppo di un pensiero creativo a scuola:",
+   "opts": [
+    "1) non considerare le domande insolite con rispetto; 2) considerare le idee insolite con rispetto; 3) mostrare ai bambini che le loro idee hanno valore; 4) fornire occasioni per l’apprendimento spontaneo e dare ad esso un riconoscimento; 5) fornire dei periodi di esercizio o apprendimento senza valutazione",
+    "1) considerare le domande insolite con rispetto; 2) considerare le idee insolite con rispetto; 3) non mostrare ai bambini che le loro idee hanno valore; 4) fornire occasioni per l’apprendimento spontaneo e dare ad esso un riconoscimento; 5) fornire dei periodi di esercizio o apprendimento senza valutazione",
+    "1) considerare le domande insolite con rispetto; 2) considerare le idee insolite con rispetto; 3) mostrare ai bambini che le loro idee hanno valore; 4) fornire occasioni per l’apprendimento spontaneo e dare ad esso un riconoscimento; 5) fornire dei periodi di esercizio o apprendimento senza valutazione",
+    "1) considerare le domande insolite con rispetto; 2) considerare le idee remote con rispetto; 3) mostrare ai bambini che le loro idee hanno valore; 4) fornire occasioni per l’apprendimento spontaneo e dare ad esso un riconoscimento; 5) fornire dei periodi di esercizio o apprendimento senza valutazione"
+   ],
+   "answ": 2,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9vhjzk",
+   "q": "\"Ogni cosa al suo posto\" rappresenta l'ordine",
+   "opts": [
+    "interno",
+    "esterno",
+    "sociale",
+    "naturale"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6i30n",
+   "q": "L'insegnate dovrebbe",
+   "opts": [
+    "proporre un programma di apprendimento articolato in una serie di esercizi che possano essere affrontati in modo autonomo",
+    "proporre un programma di apprendimento articolato in una serie di esercizi guidati",
+    "proporre un programma di apprendimento non articolato in una serie di esercizi che possano essere affrontati in modo autonomo",
+    "proporre un programma di apprendimento articolato in una serie di esercizi che possano essere affrontati in modo cooperativo"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jbtypw",
+   "q": ".La riforma pedagogica di Bruner, così come si ricava dalla sua relazione conclusiva ai lavori congressuali di Woods Hole, può essere compendiata nei seguenti punti:",
+   "opts": [
+    "1) fare emergere la struttura della disciplina nei processi di apprendimento; 2)individuare l’età giusta per l’inizio dell’ apprendimento; 3) il ruolo della motivazione all’apprendimento",
+    "1) non fare emergere la struttura della disciplina nei processi di apprendimento; 2)individuare l’età giusta per l’inizio dell’ apprendimento; 3) il ruolo della motivazione all’apprendimento",
+    "1) fare emergere la struttura della disciplina nei processi di apprendimento; 2) non occorre individuare l’età giusta per l’inizio dell’ apprendimento; 3) il ruolo della motivazione all’apprendimento",
+    "1) fare emergere la struttura della disciplina nei processi di apprendimento; 2)individuare l’età giusta per l’inizio dell’ apprendimento; 3) il ruolo della motivazione all’apprendimento è marginale"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14vnejo",
+   "q": "Howard Gardner è docente di",
+   "opts": [
+    "Cognitivismo e Pedagogia alla Facoltà di Scienze dell'Educazione all'Università di Boston, dove è anche professore associato di Psicologia",
+    "Cognitivismo e Pedagogia alla Facoltà di Scienze dell'Educazione all'Università di Harvard, dove è anche professore associato di Psicologia",
+    "Pedagogia alla Facoltà di Scienze dell'Educazione all'Università di Harvard, dove è anche professore associato di Psicologia",
+    "Cognitivismo e Pedagogia alla Facoltà di Scienze dell'Educazione all'Università di Harvard, dove è anche professore associato di Sociologia"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1a1i6su",
+   "q": "Gardner arriva la conclusione che: vi dovrebbe essere una riformulazione dell’impostazione dei curricoli in modo tale da rendere più agevoli e supportare il singolo intelligenza e loro sviluppo nel loro evoluzione specifica.",
+   "opts": [
+    "non vi dovrebbe essere una riformulazione dell’impostazione dei curricoli in modo tale da rendere più agevoli e supportare il singolo intelligenza e loro sviluppo nel loro evoluzione specifica.",
+    "vi dovrebbe essere una riformulazione dell’impostazione dei curricoli in modo tale da rendere meno agevoli e supportare il singolo intelligenza e loro sviluppo nel loro evoluzione specifica.",
+    "vi dovrebbe essere una riformulazione dell’impostazione dei curricoli in modo tale da rendere più agevoli e supportare il singolo intelligenza.",
+    "vi dovrebbe essere una riformulazione dell’impostazione dei curricoli in modo tale da rendere più agevoli e supportare il singolo intelligenza e loro sviluppo nel loro evoluzione specifica."
+   ],
+   "answ": 3,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g7ash4",
+   "q": "L'espressione \"il suo modo di pensare sono le sue mani\" appartiene a",
+   "opts": [
+    "J.J. Rousseau",
+    "Sorelle Agazzi",
+    "Maria Montessori",
+    "H. Froebel"
+   ],
+   "answ": 2,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "triy7g",
+   "q": "Howard Gardner ha teorizzato la:",
+   "opts": [
+    "teoria delle intelligenze",
+    "teoria della poche intelligenze",
+    "teoria delle molte intelligente",
+    "teoria delle intelligenze multiple"
+   ],
+   "answ": 3,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hb6118",
+   "q": "Secondo M. Montessori le mani servono per",
+   "opts": [
+    "soltanto per agire",
+    "soltanto per pensare",
+    "agire,comunicare,pensare",
+    "soltanto per comunicare"
+   ],
+   "answ": 2,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y1bzsm",
+   "q": "Gardner, nella sua opera più famosa, Formae mentis, identifica e descrive",
+   "opts": [
+    "otto diverse intelligenze:",
+    "sette diverse intelligenze:",
+    "sei diverse intelligenze:",
+    "nove diverse intelligenze:"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tn964s",
+   "q": "A seguito di queste intelligenze scoperte, attualmente, «quando si trova in territorio italiano per esporre la sua teoria, Gardner parla di",
+   "opts": [
+    "\"otto intelligenze e mezzo\"»",
+    "\"tre intelligenze e mezzo\"»",
+    "\"dieci intelligenze e mezzo\"»",
+    "\"nove intelligenze e mezzo\"»"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "x4hejp",
+   "q": "Epossibile dire che l'obiettivo principale della teoria delle intelligenze multiple sembrerebbe coincidere con l'obiettivo primario della scuola :",
+   "opts": [
+    "tutti devono poter aver accesso all'apprendimento classico",
+    "tutti devono poter aver accesso alla relazione e meno focalizzarsi sull'apprendimento",
+    "non tutti devono poter aver accesso all'apprendimento",
+    "tutti devono poter aver accesso all'apprendimento"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "166nvq0",
+   "q": "Gedner sostiene che bisogna.",
+   "opts": [
+    "Educare, dunque, alle non differenze",
+    "Educare, dunque, con le differenze.",
+    "Educare, dunque, alle differenze e con le differenze.",
+    "Educare, dunque, alle differenze"
+   ],
+   "answ": 2,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "mg7o3w",
+   "q": "L’infanzia multimediale ha bisogno ancora di:",
+   "opts": [
+    "spazi pedagogici che ospito non un corpo che sente che si muove, che umanizza la relazione personale rendendola spontanea, unica, interattiva e dialogica",
+    "spazi pedagogici che ospito in un corpo che sente che deve essere fermo , che umanizza la relazione personale rendendola spontanea, unica, interattiva e dialogica",
+    "spazi pedagogici che ospito in un corpo che sente che si muove, che umanizza la relazione personale rendendola spontanea, unica, interattiva e dialogica",
+    "spazi non pedagogici che ospito in un corpo che sente che si muove, che umanizza la relazione personale rendendola spontanea, unica, interattiva e dialogica"
+   ],
+   "answ": 2,
+   "lez": 55,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yocb00",
+   "q": "La multimedialità è ormai",
+   "opts": [
+    "",
+    "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
+    "il comportamento non emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
+    "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media non si integra ed entra a far parte sempre di più del quotidiano delle famiglie"
+   ],
+   "answ": 1,
+   "lez": 56,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13a3l4c",
+   "q": "La media education nella scuola dell’obbligo",
+   "opts": [
+    "trova spazio solo «come parte integrata di materie innovative»",
+    "trova spazio solo «come parte integrata di materie tradizionali»",
+    "trova spazio non solo «come parte integrata di materie tradizionali»",
+    "trova spazio solo «come parte integrata di materie informative»"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iepbxk",
+   "q": "che cosa si intende con l'acronimo NBE?",
+   "opts": [
+    "acronimo recentemente coniato per indicare una disciplina scientifica emergente sintesi della ricerca solo pedagogica , dello sviluppo, teorie pedagogiche e altre discipline correlate che esplorano la connessione tra processi biologici e l’educazione.",
+    "acronimo recentemente coniato per indicare una disciplina scientifica emergente sintesi della ricerca delle scienze cognitive, dello sviluppo.",
+    "acronimo recentemente coniato per indicare una disciplina scientifica emergente sintesi della ricerca delle scienze cognitive, dello sviluppo, teorie pedagogiche e altre discipline correlate ma che non esplorano la connessione tra processi biologici e l’educazione.",
+    "acronimo recentemente coniato per indicare una disciplina scientifica emergente sintesi della ricerca delle scienze cognitive, dello sviluppo, teorie pedagogiche e altre discipline correlate che esplorano la connessione tra processi biologici e l’educazione."
+   ],
+   "answ": 3,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ii8ag4",
+   "q": "Maria Montessori nasce nel:",
+   "opts": [
+    "1869 a Roma",
+    "1871 a Chiaravalle",
+    "1870 a Chiaravalle",
+    "1871 a Roma"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iumgr8",
+   "q": "Saper comprendere significa",
+   "opts": [
+    "saper applicare startegie mentali sintetiche",
+    "saper applicare strategia mentali schematiche",
+    "nessuna delle tre",
+    "saper applicare strategie mentali cretive"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tu67cw",
+   "q": "Maria Montessori muore nel:",
+   "opts": [
+    "1952",
+    "1953",
+    "1955",
+    "1954"
+   ],
+   "answ": 0,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13izg08",
+   "q": "La pedagogia montessoriana",
+   "opts": [
+    "assegna una notevole importanza alla preparazione dell'adulto educatore dell'ambiente",
+    "non assegna una notevole importanza alla preparazione dell'adulto educatore",
+    "assegna una notevole importanza alla preparazione dell'adulto educatore",
+    "assegna una notevole importanza alla preparazione solo dell'ambiente"
+   ],
+   "answ": 2,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5zoi78",
+   "q": "Il cuore del metodo Montessori è",
+   "opts": [
+    "una nuova visione dell'infanzia in cui il bambino è visto come protagonista del proprio sviluppo e in grado di realizzare il proprio potenziale umano attraverso l'autoeducazione, il rispetto per l'individuo e la libertà",
+    "una nuova visione dell'infanzia in cui il bambino è visto come protagonista del proprio sviluppo e in grado di realizzare il proprio potenziale umano senza l'autoeducazione, il rispetto per l'individuo e la libertà",
+    "una nuova visione dell'infanzia in cui il bambino è visto come protagonista in grado di realizzare il proprio potenziale umano attraverso l'autoeducazione, il rispetto per l'individuo e la libertà",
+    "una nuova visione dell'infanzia in cui il bambino non è visto come protagonista del proprio sviluppo e in grado di realizzare il proprio potenziale umano attraverso l'autoeducazione, il rispetto per l'individuo e la libertà"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pa2bpk",
+   "q": "Maria Montessori ci insegna che",
+   "opts": [
+    "per educare qualcun altro, non è necessario prima educare sé stessi",
+    "per educare qualcun altro, è necessario prima educare sé stessi in un cointesto non relazionale",
+    "è necessario prima educare sé stessi ma non sempre al fine di educare l'altro",
+    "per educare qualcun altro, è necessario prima educare sé stessi"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ufxw3m",
+   "q": "La curiosità cognitiva e l'incessante attività manuale, tipiche dell'infanzia, cedono il passo a:",
+   "opts": [
+    "una capacità di apprendimento basata sull'osservazione dell'ambiente, la formulazione di domande, l'elaborazione di ipotesi senza tentativo di verifica.",
+    "una capacità di apprendimento basata sull'osservazione dell'ambiente, la formulazione di domande, l'elaborazione di ipotesi e il loro tentativo di verifica.",
+    "una incapacità di apprendimento basata sull'osservazione dell'ambiente, la formulazione di domande, l'elaborazione di ipotesi e il loro tentativo di verifica.",
+    "una capacità di apprendimento basata sull'osservazione , la formulazione di domande, l'elaborazione di ipotesi e il loro tentativo di verifica."
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qosi6s",
+   "q": "Per Maria Montessori Il secondo stadio di sviluppo è dedicato:",
+   "opts": [
+    "all'infanzia e ci presenta un bambino che non sta transitando da un livello sensoriale e concreto a uno astratto e intellettualizzato",
+    "all'infanzia e ci presenta un bambino che sta transitando da un livello sensoriale e concreto a uno astratto e intellettualizzato",
+    "all'infanzia e ci presenta un bambino che sta transitando da un livello poco sensoriale e concreto a uno astratto e intellettualizzato",
+    "all'infanzia e ci presenta un bambino che sta transitando da un livello motorio e concreto a uno astratto e intellettualizzato"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wed4pl",
+   "q": "Per Maria Montessori durante il periodo che va dai sette ai dodici anni, è di fondamentale importanza:",
+   "opts": [
+    "non incoraggiare l'esplorazione della realtà, anche attraverso il contatto con la natura, e stimolare l'immaginazione dei bambini, fornendo loro una visione d'insieme dell'universo e del ruolo di ciascun essere al suo interno",
+    "incoraggiare l'esplorazione della realtà, anche attraverso il contatto con la natura, ma senza stimolare troppo l'immaginazione dei bambini, fornendo loro una visione d'insieme dell'universo e del ruolo di ciascun essere al suo interno",
+    "incoraggiare l'esplorazione dell'immaginazione , anche attraverso il contatto con la natura, e stimolare l'immaginazione dei bambini, fornendo loro una visione d'insieme dell'universo e del ruolo di ciascun essere al suo interno",
+    "incoraggiare l'esplorazione della realtà, anche attraverso il contatto con la natura, e stimolare l'immaginazione dei bambini, fornendo loro una visione d'insieme dell'universo e del ruolo di ciascun essere al suo interno"
+   ],
+   "answ": 3,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vh4qj3",
+   "q": "Per Maria Montessori l'insegnante doveva deve:",
+   "opts": [
+    "durante l'infanzia intervenire il meno possibile nelle attività motorie e sensoriali del bambino, a partire dalla scuola primaria, l'attenzione si sposta verso il piano morale e l'instillazione di principi di condotta giusta ed etica",
+    "intervenire il meno possibile nelle attività motorie e sensoriali del bambino, a partire dalla scuola primaria, l'attenzione si sposta verso il piano morale e l'instillazione di principi di condotta giusta ed etica",
+    "intervenire il meno possibile nelle attività motorie e sensoriali del bambino, a partire dalla scuola primaria",
+    "intervenire il più possibile nelle attività motorie e sensoriali del bambino, a partire dalla scuola primaria, l'attenzione si sposta verso il piano morale e l'instillazione di principi di condotta giusta ed etica"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y3x3js",
+   "q": "Che ruolo assumo l'insegnate per Maria Montessori",
+   "opts": [
+    "L'insegnante assume il ruolo marginale nelle attività anziché semplice dispensatore di contenuti",
+    "L'insegnante non assume il ruolo di guida e direttore",
+    "L'insegnante assume il ruolo di guida e direttore delle attività anziché semplice dispensatore di contenuti",
+    "L'insegnante assume il ruolo di tutoraggio delle attività anziché semplice dispensatore di contenuti"
+   ],
+   "answ": 2,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vhgnch",
+   "q": "L'ambiente educativo per Maria Montessori",
+   "opts": [
+    "dovrebbe stimolare il movimento e il lavoro autonomo, facilitando il processo di apprendimento e offrendo strumenti che rispettino la libertà degli studenti nelle loro scelte di cosa, dove e quanto apprendere",
+    "dovrebbe stimolare il movimento e il lavoro autonomo, non facilitando il processo di apprendimento e offrendo strumenti che rispettino la libertà degli studenti nelle loro scelte di cosa, dove e quanto apprendere",
+    "dovrebbe stimolare solo l'osservazione, facilitando il processo di apprendimento e offrendo strumenti che rispettino la libertà degli studenti nelle loro scelte di cosa, dove e quanto apprendere",
+    "non dovrebbe stimolare il movimento e il lavoro autonomo, facilitando il processo di apprendimento e offrendo strumenti che rispettino la libertà degli studenti nelle loro scelte di cosa, dove e quanto apprendere"
+   ],
+   "answ": 0,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qw6k64",
+   "q": "Secondo Montessori l'educatore deve promuovere:",
+   "opts": [
+    "l'autonomia dei bambini, offrendo loro la libertà di fare scelte educative e di lavorare in modo indipendente con materiali appropriati",
+    "l'indipendenza e l'autonomia dei bambini, offrendo loro una libertà contenuta, di fare scelte educative e di lavorare in modo indipendente con materiali appropriati",
+    "l'indipendenza e l'autonomia dei bambini, offrendo loro la libertà di fare scelte educative e di lavorare in modo indipendente con materiali appropriati",
+    "l'indipendenza , offrendo loro la libertà di fare scelte educative e di lavorare in modo indipendente con materiali appropriati"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12ehydq",
+   "q": "Il ruolo dell'educatore secondo Maria Montessori è quello di:",
+   "opts": [
+    "essere un osservatore attento, una guida amorevole e un creatore di un ambiente non troppo stimolante",
+    "essere un osservatore non sempre attento, una guida amorevole e un creatore di un ambiente stimolante",
+    "essere un osservatore attento, una guida amorevole e un creatore di un ambiente stimolante",
+    "essere un osservatore attento e una guida"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12emxwu",
+   "q": "Per Montessori il soggetto che impara deve essere messo nella condizione di:",
+   "opts": [
+    "costruire le proprie conoscenze e competenze non seguendo le proprie esigenze interne",
+    "costruire le proprie conoscenze e competenze seguendo le proprie esigenze sociali",
+    "costruire le proprie conoscenze e competenze seguendo le proprie esigenze interne",
+    "costruire le proprie conoscenze seguendo le proprie esigenze interne"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7z6syw",
+   "q": "Il metodo dell’osservazione per Montessori è stabilito su una sola base:",
+   "opts": [
+    "cioè che i bambini non possano liberamente esprimersi e così rilevarci bisogni e attitudini che rimangono nascosti o repressi quando non esista un ambiente adatto a permettere la loro attività spontanea.",
+    "cioè che i bambini possano liberamente esprimersi",
+    "cioè che i bambini possano liberamente esprimersi e così rilevarci bisogni e attitudini che rimangono nascosti o repressi quando non esista un ambiente adatto a permettere la loro attività spontanea.",
+    "cioè che i bambini possano liberamente esprimersi e così rilevarci bisogni e attitudini che rimangono nascosti o repressi quando non esista un ambiente adatto a permettere la loro attività guidati dall'adulto."
+   ],
+   "answ": 2,
+   "lez": 63,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ylmc9u",
+   "q": "Per Montessori le organizzazione per le Attività:",
+   "opts": [
+    "Gli oggetti e i materiali sono organizzati in modo che i bambini possano svolgere attività specifiche",
+    "Gli oggetti e i materiali non sempre sono organizzati in modo che i bambini possano svolgere attività specifiche",
+    "Gli oggetti e i materiali non sono organizzati ma lasciati liberi",
+    "Gli oggetti e i materiali sono organizzati in modo che i bambini possano svolgere attività strutturate"
+   ],
+   "answ": 0,
+   "lez": 63,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ksb4ho",
+   "q": "Quanti sono i piani di sviluppo prescolastico per Montessori?",
+   "opts": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "answ": 1,
+   "lez": 64,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "99siic",
+   "q": "le quattro fasi di sviluppo prescolastiche definite da Maria Montessori fasi possono essere intese come:",
+   "opts": [
+    "una serie di rinascite, che iniziano da zero, con la nascita dell'embrione fisico, senza lasciare il posto all'embrione spirituale durante l'infanzia",
+    "una serie di rinascite, che iniziano da zero, con la nascita dell'embrione fisico, per lasciare il posto all'embrione spirituale durante l'infanzia",
+    "una serie di rinascite, che iniziano da zero, con la nascita dell'embrione fisico, per lasciare il posto all'embrione naturale durante l'infanzia",
+    "una serie di rinascite, che iniziano da un anno"
+   ],
+   "answ": 1,
+   "lez": 64,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gfmzg",
+   "q": "Piaget e Freud hanno evidenziato che:",
+   "opts": [
+    "l’attività ludica inizia quando il bambino prende coscienza dell’esistenza delle persone",
+    "l’attività ludica inizia quando il bambino prende coscienza dell’esistenza delle persone e delle cose che lo circondano",
+    "l’attività ludica inizia quando il bambino prende coscienza dell’esistenza delle cose che lo circondano",
+    "l’attività ludica non inizia quando il bambino prende coscienza dell’esistenza delle persone e delle cose che lo circondano"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1et9dgw",
+   "q": "L’area di gioco è uno spazio virtuale di estrema importanza",
+   "opts": [
+    "nel quale il bambino impara piano piano a costruire una sua realtà, sia per prepararsi ad affrontare una situazione, sia per esprimere un sentimento.",
+    "nel quale il bambino impara a costruire una sua realtà, sia per prepararsi ad affrontare una situazione, sia per esprimere un sentimento.",
+    "nel quale il bambino non impara a costruire una sua realtà, sia per prepararsi ad affrontare una situazione, sia per esprimere un sentimento.",
+    "nel quale il bambino impara a costruire una sua realtà, sia per prepararsi ad affrontare una situazione."
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "td2eoo",
+   "q": "L’educatore e pedagogista tedesco Fröbel affermava che",
+   "opts": [
+    "il gioco è un'attività artificiale del bambino, riconoscendone l’insostituibile valore",
+    "il gioco è la vera attività naturale del bambino, riconoscendone l’insostituibile valore",
+    "il gioco è la vera attività naturale del bambino, ma non se ne riconosce il valore",
+    "il gioco non è la vera attività naturale del bambino, riconoscendone l’insostituibile valore"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18qbbec",
+   "q": "Nell’Ottocento emerge una pedagogia che",
+   "opts": [
+    "esorta al gioco e nella quale cominciano a nascere e ad aprirsi diversi asili, ma non in Italia.",
+    "esorta al gioco e nella quale cominciano a nascere e ad aprirsi diversi asili, anche in Italia.",
+    "esorta al gioco e nella quale cominciano a nascere e ad aprirsi diversi asili.",
+    "non si esorta al gioco e nella quale cominciano a nascere e ad aprirsi diversi asili, anche in Italia."
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7dcmvs",
+   "q": "Parlare dei Diritti del Bambino simplica",
+   "opts": [
+    "un'allenza educativa bambini-bambini",
+    "un'alleanza educativa adulti - bambini",
+    "un'allenza educativa adulti-adulti",
+    "nessuna delle tre"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1stuv6g",
+   "q": "I servizi per l'infanzia sono considerati:",
+   "opts": [
+    "I servizi per l'infanzia sono spesso considerati una \"necessità\" Per chi ne ha bisogno ed un, \"costoso lusso\" che non si può offrire a tutti , una questione che riguarda chi ha figli e vuole e deve lavorare; un peso per le pubbliche finanze e un business per pochi privati.",
+    "I servizi per l'infanzia sono spesso considerati una \"necessità\" per chi ne ha bisogno ed un, \"costoso \" che non si può offrire a tutti , una questione che riguarda chi ha figli e vuole e deve lavorare; un peso per le pubbliche finanze e un business per pochi privati.",
+    "I servizi per l'infanzia sono spesso considerati una \"necessità\" per chi ne ha bisogno ed un, \"costoso lusso\" che può offrire a tutti , una questione che riguarda chi ha figli e vuole e deve lavorare; un peso per le pubbliche finanze e un business per pochi privati.",
+    "I servizi per l'infanzia sono spesso considerati una \"necessità\" per chi non ne ha bisogno ed un, \"costoso lusso\" che non si può offrire a tutti , una questione che riguarda chi ha figli e vuole e deve lavorare; un peso per le pubbliche finanze e un business per pochi privati."
+   ],
+   "answ": 0,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gyhrls",
+   "q": "Partendo dal testo del filosofo Bauman, i bisogni educativi dell'infanzia sono:",
+   "opts": [
+    "continuamente giocati tra la verità del bambino e la sua immagine sociale, addirittura i bisogni dell'adulto sono disponibili a spendere tempo e denaro per progettarlo, costruirlo.",
+    "Continuamente giocati tra la verità del bambino e la sua immagine sociale.",
+    "continuamente giocati tra la verità del bambino e la sua immagine sociale, addirittura i bisogni dell'adulto non sembrano disponibili a spendere tempo e denaro per progettarlo, costruirlo.",
+    "continuamente giocati tra il gioco per il bambino e la sua immagine sociale, addirittura i bisogni dell'adulto non sembrano disponibili a spendere tempo e denaro per progettarlo, costruirlo."
+   ],
+   "answ": 2,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kvt8s0",
+   "q": "La caratteristica portante il nostro costume sociale è:",
+   "opts": [
+    "la presenza, più o meno diffusa, di servizi istituiti e non",
+    "la presenza, più o meno diffusa, di servizi",
+    "la presenza, non diffusa, di servizi istituiti",
+    "la presenza, più o meno diffusa, di servizi istituiti"
+   ],
+   "answ": 0,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i25mft",
+   "q": "L’ l'individuazione dei bisogni educativi parte dal:",
+   "opts": [
+    "dal livello più macroscopico per scendere nella concretezza delle esperienze adulte con un'indagine del microsistema, dove vengono rivelate le esigenze essenziali",
+    "dal livello più microscopico per scendere nella concretezza delle esperienze infantile con un'indagine del microsistema, dove vengono rivelate le esigenze essenziali",
+    "dal livello più macroscopico per scendere nella concretezza delle esperienze infantile con un'indagine del microsistema, dove vengono rivelate le esigenze essenziali",
+    "dal livello più macroscopico per scendere nella concretezza delle esperienze infantile con un'indagine del macrosistema, dove vengono rivelate le esigenze essenziali"
+   ],
+   "answ": 0,
+   "lez": 87,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jms2am",
+   "q": "Il gioco è",
+   "opts": [
+    "un dispositivo ludico",
+    "un dispositivo educativo",
+    "un dispositivo sociale",
+    "un dispositivo pscicologico"
+   ],
+   "answ": 1,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j6mzdg",
+   "q": "La degradazione del gioco, come descrive Bertolini, ha:",
+   "opts": [
+    "alimentato un circolo vizioso tra richieste del bambino e risposte dell’adulto che risultano adeguate .",
+    "alimentato un circolo vizioso tra richieste del bambino e risposte dell’adulto che risultano inadeguate.",
+    "alimentato un circolo vizioso tra risposte del bambino e richieste dell’adulto che risultano inadeguate.",
+    "alimentato dalle risposte dell’adulto che risultano inadeguate."
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9ehxqw",
+   "q": "Cosa si intende per tirocinio assistito:",
+   "opts": [
+    "la vulnerabilità del bambino implica una stagione di infanzia, in cui la logica della simulazione anticipi quella della vita, il gioco prepara il lavoro e la ridotta capacità di sforzo presupponga situazioni esistenziali più distesi e gioiose: Ri-riscrivere",
+    "la vulnerabilità del bambino implica una stagione di infanzia, in cui la logica della simulazione non viene anticipata in quella della vita, il gioco prepara il lavoro e la ridotta capacità di sforzo presupponga situazioni esistenziali più distesi e gioiose: Ri-riscrivere",
+    "la non vulnerabilità del bambino implica una stagione di infanzia, in cui la logica della simulazione anticipi quella della vita, il gioco prepara il lavoro e la ridotta capacità di sforzo presupponga situazioni esistenziali più distesi e gioiose: Ri-riscrivere",
+    "la vulnerabilità del bambino implica una stagione di infanzia, in cui la logica della simulazione anticipi quella della vita, il gioco prepara il lavoro e la ridotta capacità di sforzo presupponga situazioni esistenziali più distesi e gioiose: Ri-progettarsi"
+   ],
+   "answ": 0,
+   "lez": 94,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yqmqc",
+   "q": "Il gioco favorisce",
+   "opts": [
+    "soltanto l'uso di strumenti",
+    "la soluzione di problemi e l'uso di strumenti",
+    "nessuna delle tre",
+    "soltanto la soluzione di problemi"
+   ],
+   "answ": 1,
+   "lez": 94,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pcwevc",
+   "q": "Per Neill il bambino è",
+   "opts": [
+    "in origine buono",
+    "in origine socievole",
+    "in origine ludico",
+    "in origine malvagio"
+   ],
+   "answ": 0,
+   "lez": 95,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kbzldc",
+   "q": "Il gioco è",
+   "opts": [
+    "un dispositivo pedagogico",
+    "un dispositivo pedagogico permanente",
+    "un dispositivo pedagogico relativo",
+    "nessuna delle tre"
+   ],
+   "answ": 0,
+   "lez": 96,
+   "seen": 0,
+   "error": 0
+  }
+ ]
+}

@@ -1,0 +1,3020 @@
+{
+ "schema": 2,
+ "key": "antropologia",
+ "chiaveVecchia": "esempio",
+ "nome": "Antropologia",
+ "sub": "Scienze dell'Educazione e della Formazione",
+ "emoji": "📖",
+ "domande": [
+  {
+   "id": "1he374v",
+   "q": "La disciplina che studia l'uomo come fenomeno biologico naturale è:",
+   "opts": [
+    "Antropologia culturale",
+    "Sociologia",
+    "Paleontologia",
+    "Antropologia biologica"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cn1rlc",
+   "q": "L'antropologia fisica studia:",
+   "opts": [
+    "L'evoluzione fisica e le relazioni genetiche degli ominidi fossili",
+    "Le basi biologiche del comportamento umano comparandolo con quello degli altri primati",
+    "La storia naturale dei primati, per comprendere l'evoluzione e la variabilità umana",
+    "L'uomo come entità biologica e ne approfondisce l'origine, l'evoluzione fisica e bioculturale"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q4b4zo",
+   "q": "La branca dell'antropologia culturale che studia il passato degli uomini attraverso lo studio dei resti materiali prende il nome di:",
+   "opts": [
+    "Ecologia",
+    "Antropologia fisica",
+    "Archeologia",
+    "Stratigrafia"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m5o42f",
+   "q": "Il metodo di studio che si avvale di misure metriche e formule matematiche per descrivere lo scheletro e la morfologia del vivente si definisce:",
+   "opts": [
+    "Osteologia",
+    "Antropometria",
+    "Antropologia Metrica",
+    "Ecologia"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lac92o",
+   "q": "Quali sono i campi di interesse della bioantropologia:",
+   "opts": [
+    "Sono tutte vere",
+    "Biologia dello scheletro",
+    "Bioantropologia",
+    "Primatologia"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "143myx0",
+   "q": "Quale tra i seguenti filosofi è considerato il padre della storiografia:",
+   "opts": [
+    "Ippocrate",
+    "Aristotele",
+    "Erodoto",
+    "Platone"
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "82vwho",
+   "q": "Lo studioso che da inizio allo studio delle variazioni fisiche dell'uomo e quindi alla craniologia e all'antropometria naturalistica moderna è:",
+   "opts": [
+    "Blumembach",
+    "Galeno",
+    "Cartesio",
+    "Broca"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "139p654",
+   "q": "Il primo a cui va attribuito un lavoro di classificazione di tutti gli esseri viventi allora conosciuti e osservabili, basata sulla loro complessità, in una scala naturae fu:",
+   "opts": [
+    "Aristotele",
+    "Ippocrate",
+    "Eraclito",
+    "Cartesio"
+   ],
+   "answ": 0,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bfi6ao",
+   "q": "Evoluzionismo e fissisismo derivano dall'antica diatriba filosofica tra:",
+   "opts": [
+    "Cartesio e Ippocrate",
+    "Platone e Aristotele",
+    "Erodoto e Galeno",
+    "Parmenide ed Eraclito"
+   ],
+   "answ": 3,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bb5zb8",
+   "q": "Chi tra i filosofi dell'antica Grecia può essere considerato il primo fissista:",
+   "opts": [
+    "Eraclito",
+    "Aristotele",
+    "Erodoto",
+    "Platone"
+   ],
+   "answ": 1,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qh3f35",
+   "q": "Aristotele è il primo a cui si può attribuire un lavoro di classificazione degli esseri viventi. Infatti a lui si deve:",
+   "opts": [
+    "Il metodo stratigrafico",
+    "La classificazione tassonomica",
+    "La nomenclatura binomiale",
+    "La scala naturae"
+   ],
+   "answ": 3,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kj8huk",
+   "q": "La fine del periodo dell'immobilismo naturalistico e la nascita della moderna biologia avvengono in quale periodo storico:",
+   "opts": [
+    "1900",
+    "1600",
+    "1800",
+    "1400"
+   ],
+   "answ": 1,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2zbwew",
+   "q": "Nel mondo latino l'autore più importante che si occupa della storia naturale è:",
+   "opts": [
+    "Plinio il Vecchio",
+    "Tacito",
+    "Plinio il Giovane",
+    "Tito"
+   ],
+   "answ": 0,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ajotpk",
+   "q": "Quale tra quelle elencate, secondo il pensiero evoluzionista di Darwin, non è una caratteristica delle variazioni tra individui presenti in ogni popolazione:",
+   "opts": [
+    "Potevano essere più o meno utili a un organismo per la sua sopravvivenza, rendendo più idoneo rispetto ai propri simili",
+    "Avevano uno scopo definito",
+    "Erano dovute al caso",
+    "Non erano una conseguenza di forze creatrici"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l8ip95",
+   "q": "Quale tra quelle elencate non è una caratteristica del degenerazionismo:",
+   "opts": [
+    "Tutte le specie vegetali e animali non sono fisse nella forma e funzione",
+    "Da un capostipite si arriva a discendenti che si erano snaturati in una certa varietà di forme",
+    "Le specie vanno incontro a cambiamenti repentini e imprevisti",
+    "Nel momento in cui una determinata specie vegetale o animale si è evoluta la precedente versione della specie è scomparsa"
+   ],
+   "answ": 2,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8yza74",
+   "q": "La forza della selezione naturale è rappresentata da:",
+   "opts": [
+    "Variabilità interspecifica",
+    "Processi degenerativi",
+    "Trasmissione dei caratteri acquisiti",
+    "Eventi catastrofici"
+   ],
+   "answ": 2,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iu6jmh",
+   "q": "Quale tra quelle elencate non è una caratteristica del pensiero catastrofista:",
+   "opts": [
+    "Dopo ogni disastro l'Essere supremo ricreava nuove specie",
+    "Non si contrappone alla dottrina della chiesa",
+    "Di volta in volta le caratteristiche delle diverse specie vengono migliorate",
+    "Vengono negati i principi del fissismo"
+   ],
+   "answ": 3,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1iyh5v0",
+   "q": "Indicare la corretta successione della classificazione degli organismi viventi:",
+   "opts": [
+    "Regno, Tipo, Classe, Ordine, Famiglia, Genere, Specie",
+    "Regno, Tipo, Classe, Famiglia, Ordine, Genere, Specie",
+    "Regno, Classe, Tipo, Ordine, Famiglia, Genere, Specie",
+    "Regno, Tipo, Classe, Ordine, Famiglia, Specie, Genere"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qv4w8",
+   "q": "Come viene chiamato il sistema di classificazione degli organismi viventi oggi in uso in tutte le discipline biologiche:",
+   "opts": [
+    "Sistema di classificazione polinomiale",
+    "Sistema di classificazione polimodale",
+    "Sistema di classificazione bimodale",
+    "Sistema di classificazione binomiale"
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16cdkeg",
+   "q": "Carlo Linneo creò uno schema tassonomico:",
+   "opts": [
+    "Il suo impiego richiede molto tempo",
+    "Suddiviso in cinque categorie (specie, genere, famiglia, ordine e classe)",
+    "Utilizza il nome del genere cui segue una descrizione dettagliata in latino",
+    "Utilizza una descrizione delle principali caratteristiche morfologiche"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wlop9k",
+   "q": "Chi tra gli studiosi elencati non può essere ritenuto un fissista:",
+   "opts": [
+    "Wallace",
+    "Linneo",
+    "Cuvier",
+    "Owen"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "61w398",
+   "q": "Il concetto antropologico elaborato dalla scuola fissista:",
+   "opts": [
+    "Non è stato influenzato dalla comunità religiosa",
+    "Ha sempre avuto l'avversione incondizionata della comunità religiosa",
+    "Ha sempre avuto l'appoggio incondizionato della comunità religiosa",
+    "Non ha nessun riferimento alla Bibbia"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5lugmo",
+   "q": "Il pensiero fissista ha radici molto lontane e in particolare riprende:",
+   "opts": [
+    "Il panta rei di Eraclito",
+    "La scala naturae di Aristotele",
+    "Il cogito ergo sum di Cartesio",
+    "È una teoria 'inedita'"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1r8j3o8",
+   "q": "Secondo quale teoria gli organismi più semplici occupano lo scalino più basso, l'uomo quello più alto e tutti gli altri organismi si trovano in una posizione intermedia:",
+   "opts": [
+    "Degenerazionismo",
+    "Scala naturae",
+    "Neodarwinismo",
+    "Catastrofismo"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bjltf8",
+   "q": "Secondo la concezione fissista si può dire che l'universo:",
+   "opts": [
+    "In esso ogni cambiamento è un evento eccezionale, che va a perturbare il progetto originale",
+    "È stato progettato in modo definitivo e statico",
+    "Sono tutte vere",
+    "È un atto di creazione di un Dio creatore"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lwn8kw",
+   "q": "Secondo Linneo che cosa consentirebbe di guardare all'indietro verso i tempi remoti:",
+   "opts": [
+    "In esso ogni cambiamento è un evento eccezionale, che va a perturbare il progetto originale",
+    "È stato progettato in modo definitivo e statico",
+    "È un atto di creazione di un Dio creatore",
+    "Sono tutte vere"
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fsn1vc",
+   "q": "Gli studiosi elencati sono tutti fissisti eccetto:",
+   "opts": [
+    "Buffon",
+    "Lamark",
+    "Cuvier",
+    "Linneo"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sgr0ja",
+   "q": "Quali, secondo Linneo, sarebbero i raggruppamenti definiti fittizzi, in quanto non erano opera della Natura:",
+   "opts": [
+    "Ordine e genere",
+    "Genere e specie",
+    "Ordine e classe",
+    "Classe e varietà"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "97943r",
+   "q": "Linneo ipotizzò, in base ai suoi esperimenti condotti sull'impollinazione che potevano nascere nuove specie attraverso l'ibridazione. In che modo riuscì a conciliare il suo pensiero fissista con tali evidenze:",
+   "opts": [
+    "Parla di primae speciei come atto di creazione divina, da cui potevano nascerne altre",
+    "Negò i concetti fissisti",
+    "Ipotizza eventi catastrofici intervallati da stasi evolutive",
+    "In realtà non si curò della nascita di nuove specie"
+   ],
+   "answ": 0,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e4oq9k",
+   "q": "Il raggruppamento immediatamente incluso nel regno è:",
+   "opts": [
+    "Ordine",
+    "Classe",
+    "Filum",
+    "Genere"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ypqy6w",
+   "q": "Nel sistema tassonomico di Linneo il livello più alto di raggruppamento è:",
+   "opts": [
+    "Genere",
+    "Ordine",
+    "Regno",
+    "Classe"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "smnd2k",
+   "q": "Nel sistema tassonomico di Linneo raggruppamenti naturali sono:",
+   "opts": [
+    "Specie e genere",
+    "Ordine e classe",
+    "Nessuno di quelli elencati",
+    "Specie e ordine"
+   ],
+   "answ": 0,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f75zi0",
+   "q": "Secondo il modello a gerarchia inclusiva di Linneo ogni livello gerarchico 'contiene' quelli sottostanti. In quale livello è contenuta la classe:",
+   "opts": [
+    "Specie",
+    "Regno",
+    "Famiglia",
+    "Ordine"
+   ],
+   "answ": 3,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5voglo",
+   "q": "Secondo Linneo si definisce specie:",
+   "opts": [
+    "Un entità fissa e non può essere incrociata con nessun'altra",
+    "Si raggruppano in generi",
+    "Sono tutte vere",
+    "Un insieme omogeneo e reale che rappresenta un tipo di organismo vivente creato da Dio con un atto di libera volontà"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w4kkqg",
+   "q": "Nel suo sistema di classificazione tassonomica Linneo identificò quattro livelli di ripartizione secondo un sistema dove ogni livello comprende quelli sottostanti. Si definisce sistema:",
+   "opts": [
+    "A diagramma",
+    "A gerarchia esclusiva",
+    "A gerarchia inclusiva",
+    "Ad albero"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dwxai0",
+   "q": "Nonostante Linneo fu il massimo esponente del fissismo, nel suo pensiero parla di lotta e competizione che verranno ripresi da Darwin e che avrebbero garantito:",
+   "opts": [
+    "La nascita di nuove specie",
+    "È il motore di eventi catastrofici",
+    "Sono necessarie per mantenere l'equilibrio della Natura",
+    "Inducono processi degenerativi"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ngaf4",
+   "q": "Chi ha formulato la nomenclatura binomiale:",
+   "opts": [
+    "Cuvier",
+    "Buffon",
+    "Lyell",
+    "Hutton"
+   ],
+   "answ": 1,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xb160",
+   "q": "Secondo il pensiero di Buffon le 'specie originarie' erano:",
+   "opts": [
+    "Avrebbero dato origine per degenerazione a 187 specie",
+    "Non derivavano da un'unica specie, come dimostrato dal concetto della struttura ad albero",
+    "Le opzioni sono tutte corrette",
+    "In numero di 25"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pwdmkg",
+   "q": "Il termine inteso come modificazione e distanziamento dalle specie originarie è rappresentato da:",
+   "opts": [
+    "Nessuna delle precedenti opzioni è corretta",
+    "Fissismo",
+    "Degenerazionismo",
+    "Catastrofismo"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jxjllw",
+   "q": "Secondo quale evoluzionista, contemporaneo di Linneo, la specie rappresenta un raggruppamento naturale, delle comunità riproduttive imparentate e raggruppate in insiemi più grandi:",
+   "opts": [
+    "Darwin",
+    "Lamark",
+    "Buffon",
+    "Hutton"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qhdpeo",
+   "q": "La teoria su cui si concentrò principalmente Buffon fu quella della «degenerazione», termine inteso come:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Modificazione e distanziamento dalle specie originarie",
+    "Un processo evolutivo delle piante",
+    "Un processo che consente di trasmettere i caratteri acquisiti"
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sipb3p",
+   "q": "Secondo Buffon le cause del processo degenerativo sono:",
+   "opts": [
+    "La conseguenza di un evento improvviso e catastrofico",
+    "Sono tutte vere",
+    "Clima, alimentazione, il comportamento",
+    "La manifestazione della volontà divina"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j4vosf",
+   "q": "Chi tra gli studiosi elencati fu contemporaneo ma anche una figura contrapposta al pensiero di Linneo:",
+   "opts": [
+    "Cuvier",
+    "Darwin",
+    "Buffon",
+    "Hutton"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "twqvr0",
+   "q": "Buffon con un suo esperimento riuscì a calcolare empiricamente l'età della Terra, portandola da 6000 anni a:",
+   "opts": [
+    "75000",
+    "80000",
+    "90000",
+    "70000"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hkexwg",
+   "q": "Il pensiero evoluzionistico secondo cui le specie deriverebbero da un processo degenerativo è stato formulato da:",
+   "opts": [
+    "Buffon",
+    "Hutton",
+    "Cuvier",
+    "Linneo"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wtpji8",
+   "q": "Secondo Buffon le varie specie che popolano il pianeta:",
+   "opts": [
+    "Derivano dal succedersi di eventi ciclici e perfetti per mano di un Dio creatore",
+    "Sono il risultato di incroci, parentele, estinzioni e cambiamenti climatici e ambientali",
+    "Nessuna delle precedenti",
+    "Sono sopravvissute ad una serie di catastrofi che hanno causato l'estinzione di altre specie"
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d9w5e0",
+   "q": "Il primo evoluzionista che elaborò una sorta di proto-evoluzione parlando di un processo degenerativo, con una conseguente parentela tra uomo e scimmia fu:",
+   "opts": [
+    "Cuvier",
+    "Lamark",
+    "Buffon",
+    "Darwin"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cbimps",
+   "q": "La teoria catastrofista venne elaborata da:",
+   "opts": [
+    "Lamark",
+    "Lyell",
+    "Cuvier",
+    "Buffon"
+   ],
+   "answ": 2,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1b4u6m8",
+   "q": "Per spiegare la 'diversità' osservata negli strati geologici Cuvier ipotizza:",
+   "opts": [
+    "I resti fossili sarebbero il risultato di un processo degenerativo",
+    "L'insorgenza di fenomeni naturali particolarmente violenti che avrebbero provocato delle immani «catastrofi»",
+    "Cuvier non si interessò dello studio degli strati litologici",
+    "Un cambiamento graduale dovuto all'ambiente"
+   ],
+   "answ": 1,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fmg8sg",
+   "q": "Secondo il pensiero di Cuvier la teoria evoluzionistica non aveva nessun fondamento scientifico dal momento che:",
+   "opts": [
+    "Cuvier era un fautore della teoria evoluzionistica",
+    "Le varietà che si osservano in natura potrebbero originano specie nuove sono nel mondo animale",
+    "Finché non vengono ritrovati reperti fossili non si può ipotizzare nessun processo evoluzionistico",
+    "Le trasformazioni presuppongono tempi lunghissimi e la terra si è invece formata di recente"
+   ],
+   "answ": 3,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mtlqhp",
+   "q": "In che modo il catastrofismo nega il pensiero evoluzionista:",
+   "opts": [
+    "Gli organismi viventi di ciascun raggruppamento classificato da Linneo, sono molto diversi fra loro e non sono collegabili da fenomeni di trasformazione",
+    "In realtà non nega l'evoluzionismo",
+    "Attraverso la ricostruzione fossile",
+    "Le somiglianze sono dovute oltre che allo stesso uso a delle correlazioni embrionali"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sx7odw",
+   "q": "Quale teoria evoluzionistica si contrappone alla teoria dei cataclismi:",
+   "opts": [
+    "Il degenerazionismo",
+    "L'attualismo",
+    "Il fissismo",
+    "Non esiste la teoria dei cataclismi"
+   ],
+   "answ": 1,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17t5zig",
+   "q": "Quale tra quelle elencate è una caratteristica del pensiero catastrofista:",
+   "opts": [
+    "Sono tutte vere",
+    "Dopo ogni evento catastrofico le specie distrutte vengono sostituite dalla creazione specie nuove",
+    "Spiega l'evoluzione degli esseri viventi attraverso subitanei e violenti sconvolgimenti della crosta terrestre",
+    "Non contraddice il dogma della creazione"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3tedlo",
+   "q": "La teoria catastrofista formulata da Cuvier aveva come obiettivo per spiegare:",
+   "opts": [
+    "L'estinzione della specie",
+    "In che modo hanno origine nuove specie",
+    "In che modo vengono trasmessi i caratteri acquisiti",
+    "Tutte le precedenti"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3lplqk",
+   "q": "Oltre ad essere un evoluzionista Cuvier è considerato il padre della:",
+   "opts": [
+    "Paleontologia",
+    "Storigrafia",
+    "Eugenetica",
+    "Genetica"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mf90m8",
+   "q": "La teoria catastrofista prevede (escludere la risposta errata):",
+   "opts": [
+    "Si manifesta con cambiamenti repentini",
+    "Non contraddice il dogma della creazione",
+    "Gli sconvolgimenti si verificano ad intervalli",
+    "Prevede un cambiamento evolutivo nelle specie"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l02t7m",
+   "q": "La teoria evoluzionistica secondo cui i processi naturali che hanno operato nel passato sono gli stessi che operano anche oggi prende il nome di:",
+   "opts": [
+    "Uniformismo",
+    "Neocreazionismo",
+    "Degenerazionismo",
+    "Catastrofismo"
+   ],
+   "answ": 0,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8zlypg",
+   "q": "Secondo quale studioso la Terra sarebbe stata modellata non da eventi catastrofici e improvvisi, quanto all'azione di processi lenti e graduali, come ad esempio l'azione dei venti, l'erosione dell'acqua:",
+   "opts": [
+    "Buffon",
+    "Cuvier",
+    "Lyell",
+    "Hutton"
+   ],
+   "answ": 3,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pdzvy",
+   "q": "Secondo Hutton il succedersi di piccole e lentissime variazioni, impercettibili per il singolo osservatore, che sono alla base del processo evolutivo, possono essere rilevate solo:",
+   "opts": [
+    "In tempi molto lunghi",
+    "Non possono essere osservati",
+    "Attraverso una lettura attenta dei testi biblici",
+    "Attraverso la ricostruzione fossile"
+   ],
+   "answ": 0,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lg30fm",
+   "q": "Secondo il Hutton i fenomeni che hanno portato all'evoluzione sono il risultato di:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Espressione di un atto divino",
+    "Variazioni impercettibili e lente",
+    "Eventi repentini"
+   ],
+   "answ": 2,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1utqyw4",
+   "q": "Per chiarire i dubbi sulla storia della Terra Hutton sostiene una teoria che si basa sul ripetersi di semplici fenomeni geologici ciclici in tutti i momenti della storia geologica e in tutte le parti del globo. Tale teoria prende il nome di:",
+   "opts": [
+    "Catastrofismo",
+    "Degenerazionismo",
+    "Uniformismo",
+    "Nessuna delle precedenti"
+   ],
+   "answ": 2,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bmv5cl",
+   "q": "Quale fu lo studioso che più di tutti si contrappose alla teoria del catastrofismo formulata da Cuvier:",
+   "opts": [
+    "Buffon",
+    "Hutton",
+    "Lamark",
+    "Darwin"
+   ],
+   "answ": 1,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17mspr4",
+   "q": "Werner ipotizzò una teoria geologica secondo cui veniva assegnata un'origine marina a tutte le rocce. Tale teoria è ricordata come:",
+   "opts": [
+    "Plutonismo",
+    "Catastrofismo",
+    "Neocreazionismo",
+    "Nettunismo"
+   ],
+   "answ": 3,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "itu6ww",
+   "q": "Quale fu un esponente del plutonismo:",
+   "opts": [
+    "Darwin",
+    "Hutton",
+    "Linneo",
+    "Button"
+   ],
+   "answ": 1,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e7xxod",
+   "q": "Secondo la teoria evoluzionista di Lyell le modificazioni che si sono succedute sulla Terra durante le lunghissime ere geologiche:",
+   "opts": [
+    "Sono dovute all'accumularsi di piccoli eventi in tempi lunghi",
+    "Dipendono dall'intervento di una forza divina punitrice",
+    "Sono tutte corrette",
+    "Gli effetti delle modificazioni sono molto pronunciati"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uytkqa",
+   "q": "Nella sua gradualismo Lyell riprende una teoria che era già stata elaborata da:",
+   "opts": [
+    "Cuvier",
+    "Buffon",
+    "Hutton",
+    "Linneo"
+   ],
+   "answ": 2,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rknnkg",
+   "q": "Lyell, nel formulare la teoria del gradualismo, riprende il pensiero di:",
+   "opts": [
+    "Buffon",
+    "Darwin",
+    "Hutton",
+    "Cuvier"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "efdhg2",
+   "q": "Su quale evoluzionista il testo di Lyell ebbe un'influenza determinante in merito alla formulazione della teoria sull'origine delle specie per selezione naturale:",
+   "opts": [
+    "Lamark",
+    "Darwin",
+    "Buffon",
+    "Nessuna delle precedenti"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lmup9c",
+   "q": "Secondo quale evoluzionista le modificazioni verificatesi in un tempo passato sarebbero avvenute con le stesse modalità e con la stessa intensità degli eventi geologici che si possono osservare nel presente:",
+   "opts": [
+    "Buffon",
+    "Lyell",
+    "Cuvier",
+    "Hutton"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "177rv58",
+   "q": "Il pensiero evoluzionista dell'uniformismo afferma che:",
+   "opts": [
+    "I processi naturali che hanno operato nel passato sono gli stessi che operano anche oggi",
+    "Un evento catastrofico può portare a livellare le specie esistenti",
+    "Le specie presentano caratteri uniformi",
+    "L'ambiente seleziona il più idoneo"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xfxgho",
+   "q": "Il concetto secondo cui il tempo rappresenterebbe un elemento fondamentale, dal momento che, in tempi sufficientemente lunghi, le piccole variazioni che si verificano possono sommarsi per produrre effetti enormi, è alla base del:",
+   "opts": [
+    "Fissismo",
+    "Catastrofismo",
+    "Gradualismo",
+    "Degenerazionismo"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p46qq4",
+   "q": "In merito al pensiero di Lyell definito gradualismo si può affermare (escludere la risposta errata):",
+   "opts": [
+    "Sono tutte corrette",
+    "Gli effetti delle modificazioni sono molto pronunciati",
+    "Sono dovute all'accumularsi di piccoli eventi in tempi lunghi",
+    "Dipendono dall'intervento di una forza divina punitrice"
+   ],
+   "answ": 3,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "na00wu",
+   "q": "Secondo quanto sostenuto dal pensiero uniformaista:",
+   "opts": [
+    "Si verificano in tempi brevi",
+    "I grandi eventi erano il risultato della somma costante di piccoli cambiamenti avvenuti in un lungo lasso di tempo",
+    "Erano manifestazione di un finalismo divino",
+    "Erano il risultato di un processo degenerativo di specie tipo"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j14ont",
+   "q": "La teoria dell'uniformismo ipotizza una condizione di equilibrio bilanciato che mancava di qualsiasi andamento direzionale e che viene definito:",
+   "opts": [
+    "Stato stazionario",
+    "Fissità",
+    "Tempo profondo",
+    "Sommazione"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nk3jhk",
+   "q": "Il pensiero evoluzionisitico di Lamark afferma che:",
+   "opts": [
+    "Sono tutte vere",
+    "Il processo di trasformazione era un processo graduale",
+    "Il processo di trasformazione avveniva secondo dinamiche violente e repentine",
+    "Il processo di trasformazione seguiva un ordine divino designato al momento della creazione"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "178h8y4",
+   "q": "Secondo Lamark ogni individuo trasmette alla progenie le caratteristiche accumulate durante la sua vita. Si tratta di:",
+   "opts": [
+    "Caratteri modificati ad un processo di decadimento",
+    "Caratteristiche acquisite sotto stimolo dell'ambiente",
+    "Nel pensiero di Lamark non si parla di trasmissione dei caratteri",
+    "Eventi casuali che possono portare ad uno svantaggio o un vantaggio"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "55yk5o",
+   "q": "Lamarck nella sua teoria considera l'uomo:",
+   "opts": [
+    "All'apice della scala naturale",
+    "Alla stregua degli animali",
+    "Come un essere naturale la cui organizzazione deve essere confrontata con quella animale",
+    "Inclassificabile"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l6mbko",
+   "q": "I fattori 'uso e non uso' e 'trasmissione dei caratteri acquisiti' sono parte della teoria di:",
+   "opts": [
+    "Darwin",
+    "Hutton",
+    "Lamark",
+    "Buffon"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g9fva8",
+   "q": "La definizione di Lamark secondo cui 'le parti che venivano usate di più subivano una trasformazione diventando più funzionali e maggiormente efficienti a seconda del tempo in cui venivano utilizzate' prende il nome di:",
+   "opts": [
+    "Selezione naturale",
+    "Teoria dei caratteri acquisiti",
+    "Teoria del gradualismo",
+    "Teoria dell'uso e del non uso"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cocwse",
+   "q": "Chi tra i seguenti evoluzionisti ripropone la scala naturae:",
+   "opts": [
+    "Darwin",
+    "Buffon",
+    "Cuvier",
+    "Lamark"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cs4lms",
+   "q": "Secondo quale studioso tutto ciò che era stato acquisito, perduto o mutato nell'organizzazione degli individui era conservato e trasmesso, mediante la generazione, ai nuovi individui:",
+   "opts": [
+    "Buffon",
+    "Linneo",
+    "Darwin",
+    "Lamark"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18omfgk",
+   "q": "Le modificazioni che si manifestano negli organismi si sviluppano in base ai bisogni stimolati da un ambiente in continua trasformazione. Tale principio prende il nome di:",
+   "opts": [
+    "Degenerazione delle specie create",
+    "Neocreazionismo",
+    "Teoria dei caratteri acquisiti",
+    "Teoria dell'uso e del non uso"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w2w3p0",
+   "q": "Secondo il principio dell'uso e del non uso, le modificazioni che si manifestano negli organismi si sviluppano in base a:",
+   "opts": [
+    "I bisogni stimolati da un ambiente in continua trasformazione",
+    "Un finalismo religioso",
+    "Il progetto di una divinità creatrice",
+    "Un processo degenerativo"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17qvi6b",
+   "q": "Un errore riconosciuto nel pensiero di Lamark riguarda la teoria dei caratteri acquisiti e precisamente:",
+   "opts": [
+    "Non possono dar luogo a nessuna forma di evoluzione",
+    "Non inducono una modificazione del genotipo e quindi del DNA",
+    "Sono tutte vere",
+    "I caratteri acquisiti da un individuo non possono essere ereditati dai discendenti"
+   ],
+   "answ": 2,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rxfjtc",
+   "q": "Lamark credeva ancora nella Scala della Natura, che però assume caratteristiche diverse rispetto ad Aristotele e Linneo:",
+   "opts": [
+    "Rappresenta una vera e propria serie storica prodotta dalla trasformazione",
+    "L'uomo viene posto fuori dalla scala naturae e quindi da ogni processo evoluzionistico",
+    "Sono tutte vere",
+    "Era caratterizzata da un movimento stabile di esseri, che salivano la scala aumentando il loro grado di complessità"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11qp3c0",
+   "q": "Quale tra i punti riportati di seguito è un concetto sviluppato nel pensiero evoluzionista di Lamark:",
+   "opts": [
+    "Tutto ciò che era stato acquisito, perduto o mutato nell'organizzazione degli individui era conservato e trasmesso ai nuovi individui",
+    "Sono tutte vere",
+    "La produzione di un nuovo organo in un risultava dal sopravvenire di un nuovo bisogno",
+    "Lo sviluppo degli organi avviene sotto spinta dell'uso degli organi stessi"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nk955d",
+   "q": "Secondo il pensiero evoluzionista di Darwin l'esempio della giraffa può essere spiegato ipotizzando che in una popolazione di giraffe poteva nascere un esemplare con il collo leggermente più lungo e di conseguenza:",
+   "opts": [
+    "Il collo più lungo era la conseguenza dell'ambiente sugli esemplari",
+    "Nessuna delle precedenti",
+    "Aumentavano le possibilità di sopravvivenza, dal momento che l'esemplare era avvantaggiato per procurarsi il cibo",
+    "Il carattere collo lungo derivava da una mutazione trasmessa da un genitore"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13ebxmg",
+   "q": "In base a quanto osservato nei suoi viaggi Wallace poté constatare che la distribuzione delle caratteristiche degli esseri viventi era fortemente influenzata da:",
+   "opts": [
+    "In realtà Wallace è un creazionista",
+    "Da un processo di degenerazione indotto dall'ambiente",
+    "Da un processo di cambiamento che è insito della specie stessa",
+    "Dalle caratteristiche del luogo in cui si vengono a trovare"
+   ],
+   "answ": 1,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "94yyfh",
+   "q": "In merito alla teoria darwiniana dell'origine della specie per selezione naturale, si parla di una diatriba in merito alla primogenitura con un contemporaneo dello stesso Darwin:",
+   "opts": [
+    "Lyell",
+    "Linneo",
+    "Wallace",
+    "Buffon"
+   ],
+   "answ": 2,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "x12q2g",
+   "q": "Secondo le osservazioni di Darwin le popolazioni tendono naturalmente ad aumentare, ma rimangono pressoché costanti al passare del tempo dal momento che:",
+   "opts": [
+    "Si instaura una lotta per la sopravvivenza tra individui della stessa specie",
+    "Molti individui muoiono mentre pochi sopravvivono e si riproducono",
+    "È alla base del processo di selezione naturale",
+    "Sono tutte vere"
+   ],
+   "answ": 3,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "o6ar2s",
+   "q": "Secondo il pensiero di Darwin, nel tempo, sempre più individui in una popolazione presenteranno:",
+   "opts": [
+    "Mutazioni causali sia vantaggiose che svantaggiose",
+    "Lo sviluppo degli organi che vengono maggiormente utilizzati",
+    "Rimangono immutabili per periodi molto lunghi",
+    "Le caratteristiche individuali vantaggiose si presentano con sempre maggiore frequenza"
+   ],
+   "answ": 3,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "shnkhs",
+   "q": "Secondo quale evoluzionista nella lotta per l'esistenza, ha la meglio chi possiede caratteristiche più consone all'ambiente, dando vita ad una discendenza in grado di sfruttare le varie opportunità ecologiche:",
+   "opts": [
+    "Lamark",
+    "Darwin",
+    "Buffon",
+    "Cuvier"
+   ],
+   "answ": 1,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e3csgq",
+   "q": "Secondo Darwin il processo evolutivo varia a seconda delle situazioni. Per spiegare il processo evolutivo lo studioso utilizzò una rappresentazione:",
+   "opts": [
+    "Inclusiva",
+    "Ad albero",
+    "A diagramma concentrico",
+    "Esclusiva"
+   ],
+   "answ": 1,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vhlrsc",
+   "q": "Secondo il pensiero di Darwin, la spinta verso il cambiamento e l'evoluzione era rappresentato:",
+   "opts": [
+    "Ereditarietà dei caratteri acquisiti",
+    "La selezione naturale",
+    "Un adattamento lento",
+    "La limitata disponibilità di risorse"
+   ],
+   "answ": 1,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1inixs0",
+   "q": "Secondo quale evoluzionista le nuove specie danno origine a nuovi generi, nuovi generi a nuovi ordini e così via in un processo che ricorda la ramificazione di un albero:",
+   "opts": [
+    "Buffon",
+    "Darwin",
+    "Lyell",
+    "Wallace"
+   ],
+   "answ": 1,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j522ey",
+   "q": "Con il passare del tempo i nuovi individui e nuove popolazioni danno origine a nuove specie; si tratta di una ipotesi portata avanti da:",
+   "opts": [
+    "Buffon",
+    "Linneo",
+    "Darwin",
+    "Lamark"
+   ],
+   "answ": 2,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qz6xpk",
+   "q": "Già Linneo nella sua opera Systema Naturae aveva inserito l'uomo nello stesso ordine delle scimmie, ma il merito di considerlo in termini evolutivi è riconducibile a:",
+   "opts": [
+    "Wallace",
+    "Lamark",
+    "Hutton",
+    "Darwin"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mzn0",
+   "q": "La sintesi moderna o neodarwinismo è una teoria che spiega l'evoluzione della specie e si fonda su punti essenziali; quale tra quelli elencati non è una argomentazione di tale teoria:",
+   "opts": [
+    "Le variazioni nelle popolazioni sono prodotte da piccole mutazioni che si verificano casualmente",
+    "Tutte le specie esistenti sono derivate da un unico antenato comune attraverso ramificazioni successive",
+    "Il cambiamento in una popolazione è dovuto soprattutto alla selezione naturale",
+    "L'evoluzione è un processo repentino"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fwenta",
+   "q": "Una alternativa antievoluzionesta alle teorie moderne è rappresentata da:",
+   "opts": [
+    "Saltazionismo",
+    "Neocreazionismo",
+    "Degenerazionismo",
+    "Teoria sintetica dell'evoluzione"
+   ],
+   "answ": 1,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y04tya",
+   "q": "La teoria evoluzionistica che si afferma del XX sec. da una integrazione della sintesi della teoria darwiniana della selezione naturale con quella mendeliana dell'ereditarietà prende il nome di:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Neocreazionismo",
+    "Teoria del riassortimento indipendente",
+    "Teoria sintetica dell'evoluzione"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6advx8",
+   "q": "Il punto cardine della teoria evoluzionistica neodarwiniana può essere sintetizzato come:",
+   "opts": [
+    "La selezione naturale agisce sulla normale variabilità delle popolazioni, che seguono le leggi di ereditarietà mendeliane",
+    "I caratteri acquisiti vengono trasmessi alla progenie",
+    "Le leggi di ereditarietà non possono essere applicate al processo evolutivo",
+    "I caratteri vengono trasmessi secondo la legge della dominanza, caratteri selezionati dall'ambiente"
+   ],
+   "answ": 0,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d0d44g",
+   "q": "La principale scuola di pensiero evolutivo attuale, che va ampliandosi con il procedere delle scoperte in ambito genetico e molecolare è:",
+   "opts": [
+    "Sistematica tassonomica",
+    "Neocreazionismo",
+    "Neodegenerazionismo",
+    "Neodarwinismo"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l6gwsg",
+   "q": "Secondo la teoria saltazionista la formazione di una nuova specie non avverrebbe attraverso un accumulo graduale di variazioni piccole, piuttosto attraverso:",
+   "opts": [
+    "Una mutazione che va incontro a sommazione con altre",
+    "Un processo degenerativo",
+    "Un'unica marcomutazione",
+    "Un'unica micromutazione"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gfxe6g",
+   "q": "Una teoria che tenta di colmare le lacune lasciate dal pensiero neodarwiniano è rappresentata da:",
+   "opts": [
+    "Neocreazionismo",
+    "Teoria sintetica dell'evoluzione",
+    "Paleoantropologia",
+    "Saltazionismo"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8k415g",
+   "q": "Secondo quale teoria evoluzionistica le varie specie si sviluppano in archi temporali differenti, brevi quelli in cui si verificano i cambiamenti e lunghi i tempi di «inattività evolutiva»:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Saltazionismo",
+    "Teoria degli equilibri puntiformi",
+    "Teoria sintetica dell'evoluzione"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4kxlk0",
+   "q": "Secondo la teoria punteggiata, il fattore evolutivo che stimola la divergenza sarebbe rappresentato:",
+   "opts": [
+    "Rottura della condizione di equilibrio",
+    "Un processo degenerativo",
+    "Selezione naturale",
+    "Secondo la teoria punteggiata non è previsto nessun processo evolutivo"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kfhmx8",
+   "q": "Secondo le teorie evoluzionistiche moderne, il processo di speciazione è legato a:",
+   "opts": [
+    "Macroevoluzione",
+    "Riassortimento indipendente",
+    "Microevoluzione",
+    "Ibridazione"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gkcshs",
+   "q": "Mendel formulò una legge secondo cui in una coppia di caratteri alternativi uno era dominante e l'altro recessivo, legge che viene definita:",
+   "opts": [
+    "Legge della segregazione",
+    "Legge di predominanza",
+    "Legge dell'assortimento indipendente",
+    "Legge della dominanza"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l0o8r6",
+   "q": "Quando si verifica una condizione in cui poche decine di individui colonizzano ad esempio un'isola disabitata perdendo il contatto con la popolazione originaria si parla di:",
+   "opts": [
+    "Deriva genetica",
+    "Effetto a collo di bottiglia",
+    "Effetto del fondatore",
+    "Estinzione"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pv24mw",
+   "q": "La perdita casuale di un gene nelle piccole popolazioni, legato al numero di individui che compongono la popolazione stessa prende il nome di:",
+   "opts": [
+    "Allotropismo",
+    "Selezione naturale",
+    "Speciazione",
+    "Deriva genetica"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "34r97k",
+   "q": "Per cladogenesi s'intende:",
+   "opts": [
+    "Rapidi e drastici cambiamenti evolutivi",
+    "Scissione di piccole popolazioni da una grossa popolazione originale",
+    "Perdita casuale di un gene nelle piccole popolazioni",
+    "Piccoli cambiamenti graduali accumulati dalla popolazione"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7g5700",
+   "q": "Secondo le teorie evoluzionistiche moderne, la variabilità all'interno della specie è strettamente correlata al concetto di:",
+   "opts": [
+    "Ibridazione",
+    "Speciazione allotropica",
+    "Macroevoluzione",
+    "Microevoluzione"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "aa43lw",
+   "q": "La manifestazione osservabile di un carattere presente nel patrimonio genico prende il nome di:",
+   "opts": [
+    "Cromosoma",
+    "Genotipo",
+    "Genoma",
+    "Fenotipo"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "npfrf0",
+   "q": "Secondo quanto ipotizzato da Mendel, ogni individuo possedeva una coppia di geni che codificano per un carattere. I componenti di una coppia vengono definiti:",
+   "opts": [
+    "Geni",
+    "Mutageni",
+    "Fenotipi",
+    "Alleli"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dgeml4",
+   "q": "Il processo di speciazione è un processo che, alla luce delle scoperte in campo genetico deriverebbe da:",
+   "opts": [
+    "Piccoli cambiamenti graduali accumulati dalla popolazione",
+    "Rapidi e drastici cambiamenti evolutivi",
+    "Accumulo di mutazioni in una popolazione",
+    "Perdita di un carattere dominante"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wuf0os",
+   "q": "Nei suoi esperimenti Mendel osservò che incrociando piante di linee pure tra loro si manifestava uno solo dei caratteri della generazione parenterale, carattere che chiamò:",
+   "opts": [
+    "Allele",
+    "Allotropico",
+    "Dominante",
+    "Recessivo"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18kybg",
+   "q": "L'emigrazione o immigrazione di individui da una popolazione all'altra, con un mescolamento di geni tra popolazioni della stessa specie che vivono in luoghi contigui, prende il nome di:",
+   "opts": [
+    "Macromutazione",
+    "Deriva genetica",
+    "Flusso genico",
+    "Speciazione"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "v6iieg",
+   "q": "La diffusione in nicchie diverse da parte di specie che possedevano antenati comuni è un processo che prende il nome di:",
+   "opts": [
+    "Deriva genetica",
+    "Speciazione divergente",
+    "Effetto del fondatore",
+    "Radiazione adattativa"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rj8k0f",
+   "q": "La nascita di una nuova specie può avvenire mediante un processo veloce di diversificazione che si realizza quando una nuova specie sorge nello stesso luogo di residenza di quella genitrice; si può parlare di:",
+   "opts": [
+    "Speciazione allotropica",
+    "Speciazione divergente",
+    "Nessuna delle precedenti",
+    "Speciazione simpatrica"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kgbbnw",
+   "q": "Quando incidentalmente un esiguo numero di individui di una data popolazione viene a trovarsi isolato a causa di una qualche barriera, si parla di:",
+   "opts": [
+    "Speciazione allopatrica",
+    "Speciazione simpatrica",
+    "Speciazione poliploide",
+    "Speciazione divergente"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p2iiww",
+   "q": "Secondo le teorie moderne, il processo che opera continuamente in una popolazione, eliminando gli individui che presentano caratteristiche estreme prende il nome di:",
+   "opts": [
+    "Selezione stabilizzante",
+    "Selettività di speciazione",
+    "Selezione dipendente dalla frequenza",
+    "Selezione divergente"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11ajuoc",
+   "q": "Quando una popolazione si isola dal resto della specie e segue un proprio percorso evolutivo, con la nascita di una nuova specie, si può parlare di:",
+   "opts": [
+    "Evoluzione divergente",
+    "Nessuna delle precedenti",
+    "Coevoluzione",
+    "Evoluzione convergente"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17p2kpc",
+   "q": "In una popolazione ideale ad ogni generazione si può verificare una cambiamento del pool genetico; tale processo può avvenire:",
+   "opts": [
+    "In assenza di una deriva genetica",
+    "Quando le mutazioni sono indotte da un evento ben identificato",
+    "In assenza di mutazioni",
+    "Se si verifica un flusso genico"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dayyd0",
+   "q": "Quale tra quelle elencate, secondo la genetica di popolazione, non è una caratteristica di una popolazione:",
+   "opts": [
+    "Gruppo di organismi che possono scambiare il loro pool genetico con altre specie appartenenti allo stesso genere",
+    "Gruppo di organismi isolati riproduttivamente dalle altre popolazioni, di specie diversa",
+    "Gruppo di organismi della stessa specie che si riproducono tra loro in un determinato luogo",
+    "È caratterizzata dal proprio pool genico"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y7kzfk",
+   "q": "La Rift Valley:",
+   "opts": [
+    "È una zona che non ha subito alcuna modificazione climatica",
+    "È una grande fossa tettonica formatasi alla fine del Miocene",
+    "È divisa in due blocchi, Laurasia e Gondwana",
+    "È il risultato dell'emersione della terra nel Mesozoico"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uoo42o",
+   "q": "Il genere umano ha avuto le sue origini in:",
+   "opts": [
+    "America del Nord",
+    "Africa",
+    "America del Sud",
+    "Europa"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nw8qz4",
+   "q": "La comparsa della Rift Valley in Africa ebbe delle conseguenze sul processo evolutivo; in particolare determinò la:",
+   "opts": [
+    "La separazione tra scimmie del Vecchio Mondo e del Nuovo Mondo",
+    "Nessuna delle precedenti",
+    "Speciazione dell'Australopithecus",
+    "Estinzione dei grossi mammiferi"
+   ],
+   "answ": 2,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6h683z",
+   "q": "Le conseguenze dell'evento tettonico che portò alla formazione della Rift Valley ebbe come conseguenza sugli ominidi:",
+   "opts": [
+    "La Rift Valley non ha avuto ripercussioni sulla nascita della specie Homo",
+    "Una variazione delle abitudini sociali",
+    "Un adattamento alle variazioni ambientali che porterà all'affermarsi della postura bipede",
+    "Allo sviluppo delle industrie litiche per un aumento delle risorse minerarie"
+   ],
+   "answ": 2,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "umfuz1",
+   "q": "Il primo ominide i cui reperti fossili lasciano ipotizzare una postura bipede è:",
+   "opts": [
+    "Sahelantropus tchadensis",
+    "Australopithecus afarensis",
+    "Orrorin tugenensis",
+    "Ardipithecus ramidus"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mxk4ik",
+   "q": "La famiglia degli Ominidi, dell'ordine dei Primati, comprende:",
+   "opts": [
+    "La specie umana attuale e le grandi scimmie",
+    "La specie umana attuale, le specie umane estinte e le grandi scimmie",
+    "Le specie umane estinte e le grandi scimmie",
+    "Tutte le specie umane estinte"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rrtozk",
+   "q": "I mammiferi si differenziano in tre linee principali; in particolare i Primati appartengono ai:",
+   "opts": [
+    "Marsupiali",
+    "Monotremi",
+    "Placentati",
+    "Onnivori"
+   ],
+   "answ": 2,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fyvlmt",
+   "q": "La specie più antica nella famiglia dell'uomo è:",
+   "opts": [
+    "Ardipithecus kadabba",
+    "Sahelantropus tchadensis",
+    "Ardipithecus ramidus",
+    "Orrorin tugenensis"
+   ],
+   "answ": 1,
+   "lez": 30,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i1p3t5",
+   "q": "Le scimmie antropomorfe (Hominoidea) si sono differenziate a partire da:",
+   "opts": [
+    "Gorilla",
+    "Catarrine",
+    "Platirrine",
+    "Lemuri"
+   ],
+   "answ": 1,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1khd2u4",
+   "q": "Il termine Simiiformes indica un infraordine di Primati conosciuto nella classificazione tradizionale come:",
+   "opts": [
+    "Orrorin",
+    "Homo",
+    "Anthropoidea",
+    "Hominoidea"
+   ],
+   "answ": 2,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z2ispk",
+   "q": "Le Platirrine sono:",
+   "opts": [
+    "Le scimmie antropomorfe",
+    "Le scimmie del Nuovo Mondo (Nord America)",
+    "Nessuna delle precedenti",
+    "Le scimmie del Vecchio Mondo (Africa-Europa-Sud America)"
+   ],
+   "answ": 1,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pv4v6w",
+   "q": "Gli Australopiteci vengono distinti in funzione delle differenze di costituzione ossea nelle due forme gracile e robuste; quali tra le specie elencate non appartengono alla forma gracile:",
+   "opts": [
+    "A.afarensis",
+    "Paranthropus",
+    "A. africanus",
+    "A. anamensis"
+   ],
+   "answ": 1,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4hyt8o",
+   "q": "Gli Australopitechi:",
+   "opts": [
+    "Appartengono ad un gruppo diversificato dove solo alcune forme sono ritenute ancestrali",
+    "Si sono evoluti e diversificati in Europa",
+    "Sono stati studiati grazie ai molti ritrovamenti fossili",
+    "Rappresentano l'anello mancante di un'evoluzione umana graduale e lineare"
+   ],
+   "answ": 3,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lb7g7s",
+   "q": "La famiglia Hominidae comprende due sottofamiglie, di cui quella delle Australopithecinae che comprende:",
+   "opts": [
+    "Tutte le forme umane, estinte e attuali",
+    "Le scimmie del Nuovo Mondo (Nord America)",
+    "Le forme estinte non incluse nel genere Homo",
+    "Tutte le precedenti"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rxibzg",
+   "q": "Gli australopiteci sono costituiti da un mosaico di caratteristiche morfologiche umane e delle scimmie antropomorfe; quali tra quelle elencate non appartengono al genere:",
+   "opts": [
+    "Hanno il cervello piccolo",
+    "Sono bipedi",
+    "Hanno perso completamente la capacità di arrampicamento sugli alberi",
+    "Presentano mandibole molto robuste con denti grandi e con smalto spesso"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j0176d",
+   "q": "Il ritrovamento forse più famoso che viene ricordato è Lucy, un reperto fossile appartenente a:",
+   "opts": [
+    "A. Garhi",
+    "A. anamensis",
+    "A. afarensis",
+    "A. africanus"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16oki2c",
+   "q": "Australopiteco è una parola inventata da Raymond Dart per:",
+   "opts": [
+    "Il ritrovamento di una mandibola",
+    "Il ritrovamento di evidenze fossili dell'origine del linguaggio",
+    "Il ritrovamento di un cranio infantile",
+    "Il ritrovamento di arti superiori evoluti"
+   ],
+   "answ": 2,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uvjc14",
+   "q": "Lo scheletro fossile di Lucy dimostra che la stazione eretta era acquisita, nonostante:",
+   "opts": [
+    "Manca delle estremità inferiori",
+    "Non si può fare nessuna ipotesi visto lo scheletro frammentato",
+    "Mancano gli arti superiori",
+    "Manca delle ossa del bacino"
+   ],
+   "answ": 0,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "73deog",
+   "q": "Quale è il nome del genere che deriva dal greco e vuol dire «accanto all'uomo», con riferimento al fatto che tutte le specie inserite in questo genere sono vissute in zone dove ai tempi stavano affermandosi le prime specie del genere Homo:",
+   "opts": [
+    "A.afarensis",
+    "A. anamensis",
+    "Paranthropus",
+    "A. Garhi"
+   ],
+   "answ": 2,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kus5w8",
+   "q": "Un importante reperto di A. Africanus è rappresentato:",
+   "opts": [
+    "Lucy",
+    "Non si hanno ritrovamenti fossili conosciuti",
+    "Impronte di Laetoli",
+    "Bambino di Taung"
+   ],
+   "answ": 2,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gyfigc",
+   "q": "Nel corso dell'evoluzione il genere Homo è andato incontro a modificazioni anatomiche; quali, tra quelli elencati, non rappresenta un carattere che ha portato alla sua evoluzione:",
+   "opts": [
+    "L'acquisizione della piena opponibilità dell'alluce",
+    "Un femore più lungo e robusto",
+    "Allineamento del foro occipitale",
+    "La verticalizzazione del tronco"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uoo42o-2",
+   "q": "Il genere umano ha avuto le sue origini in:",
+   "opts": [
+    "Europa",
+    "America del Sud",
+    "America del Nord",
+    "Africa"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13xinfg",
+   "q": "Qual è stata la prima specie di Homo:",
+   "opts": [
+    "Habilis",
+    "Sapiens",
+    "Ergaster",
+    "Neanderthal"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xyctoo",
+   "q": "Il genere Homo:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Si distingue in rudolfensis, erectus, afarensis, africanus",
+    "Racchiude più specie diverse tra loro in modo meno lineare di quanto si pensasse",
+    "È caratterizzato dal susseguirsi di habilis, erectus, neanderthal e sapiens"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d4eqyg",
+   "q": "Il processo di encefalizzazione che si osserva nel genere Homo rappresenta:",
+   "opts": [
+    "Un aumento del volume cerebrale in senso assoluto",
+    "Un alto rapporto ponderale fra massa cerebrale e massa corporea",
+    "Lo sviluppo del linguaggio parlato",
+    "Lo sviluppo embrionale del SNC"
+   ],
+   "answ": 1,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "th1b0k",
+   "q": "Nel piede umano una delle conseguenze del bipedismo è stata:",
+   "opts": [
+    "La mancanza dell'opponibilità dell'alluce",
+    "L'alluce si allinea parallelamente alle altre dita",
+    "Sono tutte vere",
+    "Lo sviluppo dell'arco longitudinale del piede"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g7jgc0",
+   "q": "Quale tra quelle elencate non è una caratteristica della mano del genere Homo:",
+   "opts": [
+    "Gli artigli sostituiscono le unghie",
+    "È presente la pentadattilia",
+    "Le falangi presentano una curvatura che non permette la completa estensione delle dita",
+    "Il pollice si sposta fino ad arrivare a completa opponibilità"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1svfpts",
+   "q": "Il genere Homo fece la sua comparsa nel:",
+   "opts": [
+    "Pleistocene",
+    "Olocene",
+    "Pliocene",
+    "Miocene"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wot5ww",
+   "q": "Un esponente del genere Homo che secondo studi recenti è stato declassato ad ominide è:",
+   "opts": [
+    "H. sapiens",
+    "H. Neanderthalensis",
+    "H. erectus",
+    "H. habilis"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "62tr9o",
+   "q": "Le più antiche evidenze di produzione di manufatti litici mediante scheggiatura intenzionale sono riconducibili a:",
+   "opts": [
+    "H. habilis",
+    "Paranthropus",
+    "A. africanus",
+    "H. sapiens"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e6efnc",
+   "q": "L'H. habilis venne così definito perché:",
+   "opts": [
+    "Sapeva cacciare",
+    "È un nome di fantasia",
+    "Aveva sviluppato la capacità di esprimersi in modo eloquente",
+    "Sapeva usare le mani"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6301sl",
+   "q": "A quale specie del genere Homo viene associata l'industria litica acheuliana:",
+   "opts": [
+    "H. erectus",
+    "H. neanderthalensis",
+    "H. sapiens",
+    "H. habilis"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gp4kug",
+   "q": "Le prime evidenze di produzione litica nel genere Homo sono rappresentate da:",
+   "opts": [
+    "Carenati",
+    "Choppers",
+    "Seghetti",
+    "Amigdale"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wd5x2w",
+   "q": "Secondo la teoria 'out of Africa', il processo di colonizzazione del genere Homo prevede l'espansione nell'ordine:",
+   "opts": [
+    "Asia-Europa-Africa",
+    "Africa-Asia-Europa",
+    "Europa-Asia-Africa",
+    "Africa-Europa-Asia"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15dqrxh",
+   "q": "La teoria paleoantropologica oggi più accreditata per descrivere l'origine dell'uomo moderno e per descrivere i processi migratori a cui andò incontro la specie Homo prende il nome di:",
+   "opts": [
+    "Teoria dell'effetto del fondatore",
+    "Teoria dei flussi migratori",
+    "Teoria out of Africa",
+    "Teoria della deriva genica"
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12ynb8o",
+   "q": "Il reperto umano europeo più antico, risalente a 1,3 milioni di anni, sarebbe rappresentato da:",
+   "opts": [
+    "H. Neanderthalensis",
+    "H. ancecessor",
+    "H. erectus",
+    "H. sapiens"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hm3muo",
+   "q": "Una caratteristica dell'H. erectus fu:",
+   "opts": [
+    "Era dedito alla raccolta e alla caccia anche di grossi animali",
+    "Conta numerosi fossili trovati in Medio Oriente ed Asia",
+    "Ha avuto uno spiccato e relativamente rapido aumento della capacità cranica",
+    "Sono tutte vere"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1aw3rdp",
+   "q": "I fossili trovati in Medio Oriente ed Asia in un periodo che va dal circa 1.7 milioni di anni fa a 50.000 anni fa appartengono alla specie:",
+   "opts": [
+    "H. erectus",
+    "Nessuna delle precedenti",
+    "A. africanus",
+    "H. sapiens"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "im8ck0",
+   "q": "L'Uomo di Altamura è uno scheletro, scoperto nel 1993, appartenente a:",
+   "opts": [
+    "H. habilis",
+    "H. neanderthalensis",
+    "H. erectus",
+    "H. florensis"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8ho4ti",
+   "q": "L'espansione dell'occipitale, chiamata «chignon», è una caratteristica dell'homo:",
+   "opts": [
+    "H. neandertal",
+    "H. erectus",
+    "H. habilis",
+    "H. sapiens"
+   ],
+   "answ": 0,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ovlp5g",
+   "q": "Le caratteristiche fisiche di H. neanderthalensis hanno contribuito al suo successo evolutivo, dal momento che gli consentivano:",
+   "opts": [
+    "Vivere in climi particolarmente aridi",
+    "Nessuna delle precedenti",
+    "Avere la supremazia nella caccia",
+    "Vivere in climi particolarmente freddi"
+   ],
+   "answ": 3,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sbvh8a",
+   "q": "Con l'H. neanderthalensis comincia:",
+   "opts": [
+    "La prima produzione litica",
+    "La pratica di seppellire i morti",
+    "Il ritrovamento di choppers",
+    "La comparsa di accampamenti"
+   ],
+   "answ": 0,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7lym84",
+   "q": "L'estinzione dei neanderthal coincide nella maggior parte delle regioni geografiche con:",
+   "opts": [
+    "Migrazioni",
+    "La comparsa dell'Homo sapiens",
+    "La formazione di una fossa tettonica in Africa",
+    "Periodi di carestia"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1diwl90",
+   "q": "L'Homo Sapiens europeo è chiamato anche:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Dmanisi",
+    "Flores",
+    "Cro Magnon"
+   ],
+   "answ": 3,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4as888",
+   "q": "La caratteristica peculiare di H. sapiens, 'uomo sapiente' è rappresentata dall'intelligenza. Intesa come:",
+   "opts": [
+    "Scoperta dell'arte e del gusto del bello",
+    "Capacità di astrazione",
+    "Sono tutte conseguenze dello sviluppo delle capacità intellettive",
+    "La costruzione e l'utilizzo degli strumenti"
+   ],
+   "answ": 2,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xz7t7o",
+   "q": "L'unico esponente del genere homo ad aver colonizzato l'intero globo è:",
+   "opts": [
+    "H. sapiens",
+    "H. neandertal",
+    "H. habilis",
+    "H. erectus"
+   ],
+   "answ": 0,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j60bak",
+   "q": "La vittoria evolutiva di H. sapiens è dovuta ad una serie di aspetti. Quali tra quelle elencate non sono caratteristiche che gli appartengono:",
+   "opts": [
+    "Capacità di domare e accendere il fuoco",
+    "Il passaggio dalla vita nomade alla stanziale",
+    "Formazione di gruppi umani più evoluti a livello sociale, con una economia di caccia e raccolta",
+    "Sono tutte vere"
+   ],
+   "answ": 2,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1themka",
+   "q": "La comparsa dell'Homo Sapiens risale a circa:",
+   "opts": [
+    "20000",
+    "200000",
+    "50000",
+    "100000"
+   ],
+   "answ": 1,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sucrks",
+   "q": "L'ipotesi iniziale formulata da Milanković negli anni 1920-30 ha come obiettivo spiegare:",
+   "opts": [
+    "Le eruzioni vulcaniche",
+    "L'origine delle glaciazioni",
+    "L'avvicendamento delle stagioni",
+    "I fenomeni tellurici"
+   ],
+   "answ": 1,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7l82cx",
+   "q": "Il Quaternario rappresenta:",
+   "opts": [
+    "Caratterizzato da scarsa variabilità climatica",
+    "Il terzo e ultimo dei tre periodi che compongono l'era geologica del Cenozoico",
+    "Il periodo geologico più antico",
+    "Precedente al Pliocene"
+   ],
+   "answ": 1,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17jy1km",
+   "q": "L'evento più rappresentativo del Quaternario è rappresentato da:",
+   "opts": [
+    "Modificazioni climatiche con avvicendamento di espansione e ritiro dei ghiacci",
+    "La formazione della Rift Valley",
+    "Modificazioni identiche in tutta la superficie terrestre",
+    "Pochi eventi che sovvertono il clima del globo"
+   ],
+   "answ": 0,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rtww0",
+   "q": "Tutte le categorie utilizzate nella classificazione degli esseri viventi vengono indicate con il termine:",
+   "opts": [
+    "Reperti topologici",
+    "Taxa",
+    "Topologie",
+    "Parataxon"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kjxqjc",
+   "q": "Oggi esistono diverse definizioni di specie; in particolare esiste un tipo di specie basata su caratteri morfologici e viene generalmente usata per le specie attuali e per quelle fossili:",
+   "opts": [
+    "Specie tipologica",
+    "Specie biologica",
+    "Specie fenetica",
+    "Specie morfologica"
+   ],
+   "answ": 3,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c8zrpw",
+   "q": "L'unità base di tutte le altre categorie tassonomiche e corrisponde all'unica suddivisione naturale del mondo organico è:",
+   "opts": [
+    "Il phylum",
+    "La specie",
+    "Il genere",
+    "Il taxon"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6bh9ud",
+   "q": "Il sistema di classificazione definito paratassonomia si utilizza quando si devono classificare:",
+   "opts": [
+    "Taxa sconosciuti",
+    "Fossili guida",
+    "Specie affini",
+    "Organismi unicellulari"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fiyfec",
+   "q": "Tutti i generi affini vengono raggruppati in:",
+   "opts": [
+    "Famiglie",
+    "Specie",
+    "Phylia",
+    "Ordini"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12upilc",
+   "q": "I requisiti fondamentali che deve possedere un sistema di nomenclatura devono essere:",
+   "opts": [
+    "Universalità",
+    "Unicità",
+    "Sono tutte vere",
+    "Stabilità"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "eadpgc",
+   "q": "Quale è la corretta successione delle categorie tassonomiche:",
+   "opts": [
+    "Specie, genere, classe, ordine, famiglia, regno, phylum",
+    "Specie, genere, famiglia, ordine, phylum, classe, regno",
+    "Specie, genere, famiglia, ordine, classe, phylum, regno",
+    "Specie, genere, ordine, famiglia, classe phylum, regno"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nqow4j",
+   "q": "Scegliere tra quelle riportate la definizione corretta di tassonomia:",
+   "opts": [
+    "Branca che studia la diversità degli organismi e le relazioni che esistono tra loro",
+    "Regole che servono per assegnare il nome a ciascun gruppo tassonomico",
+    "Inserire un certo numero di individui in una classificazione già precostituita",
+    "Ramo della sistematica che definisce i metodi per ottenere una classificazione che rifletta quanto più possibile l'ordine naturale"
+   ],
+   "answ": 3,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "23cr7o",
+   "q": "Il grado di somiglianza tra due taxa, può dipendere dall'avere in comune delle strutture ereditate da un progenitore comune, che vengono definite:",
+   "opts": [
+    "Organi somatici",
+    "Organi omologhi",
+    "Organi simili",
+    "Organi analoghi"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fwlq0e",
+   "q": "La disciplina che studia il processo di ramificazione delle linee di discendenza nell'evoluzione della vita si chiama:",
+   "opts": [
+    "Tassonomia sistematica",
+    "Tafonomia",
+    "Filogenesi",
+    "Filogenetica"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12fui5k",
+   "q": "La disciplina che studia l'origine e l'evoluzione di un insieme di organismi, solitamente di una specie viene definita:",
+   "opts": [
+    "Paleologia",
+    "Sistematica",
+    "Filogenetica",
+    "Tafonomia"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xrncy4",
+   "q": "Quando in un gruppo tassonomico si può risalire ad una singola specie ancestrale che rappresenta il capostipite di tutte le specie di quel gruppo e di nessuna altra specie che appartenga a quel gruppo, il gruppo si definisce:",
+   "opts": [
+    "Taxon",
+    "Monofiletico",
+    "Parataxon",
+    "Polifiletico"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "n15fcw",
+   "q": "Il processo biostratinomico che si verifica sulle parti molli ad opera di organismi necrofagi o da organismi decompositori prende il nome di:",
+   "opts": [
+    "Disarticolazione",
+    "Erosione",
+    "Necrolisi",
+    "Trasporto"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ms8u6k",
+   "q": "Esistono diverse maniere di conservazione di un organismo. In particolare quale tra quelli elencati non rappresenta un metodo diretto di conservazione:",
+   "opts": [
+    "La carbonizzazione",
+    "La demineralizzazione",
+    "La mineralizzazione",
+    "L'impronta"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16bcx8g",
+   "q": "L'uomo di Similaun:",
+   "opts": [
+    "Risulta ancora presente a livello mondiale",
+    "Non mangiava carne",
+    "È un uomo mummificato trovato sulle Alpi Venoste",
+    "Potrebbe essere un alpinista scomparso in età recente"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10mwtow",
+   "q": "Per cladogenesi s'intende (Lezione 042):",
+   "opts": [
+    "Perdita casuale di un gene nelle piccole popolazioni",
+    "Periodo di stasi della specie",
+    "Piccoli cambiamenti graduali accumulati dalla popolazione",
+    "Rapidi e drastici cambiamenti evolutivi"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1oexe8w",
+   "q": "È possibile ipotizzare la datazione dello stesso strato litologico e di conseguenza una corrispondente storia evolutiva in funzione di:",
+   "opts": [
+    "Tracce di fissazione",
+    "Tutte le precedenti",
+    "Contenuto fossilifero",
+    "Numero di strati osservati"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jv7cfo",
+   "q": "La ricerca stratigrafica inizia dallo studio di singole sezioni stratigrafiche di cui vengono rilevate:",
+   "opts": [
+    "Litologia",
+    "Sono tutte vere",
+    "Contenuto fossilifero",
+    "Caratteristiche sedimentologiche"
+   ],
+   "answ": 1,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dd7msg",
+   "q": "Una fase della tafonomia piuttosto breve che comporta una lenta copertura in caso di normale sedimentazione, oppure può avvenire in modo catastrofico in presenza di una frana prende il nome di:",
+   "opts": [
+    "Seppellimento",
+    "Trasformazione dei resti",
+    "Storia dei resti prima del seppellimento",
+    "Morte dell'organismo"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18vbn0o",
+   "q": "La Tafonomia:",
+   "opts": [
+    "Stabilisce le regole che servono per assegnare il nome a ciascun gruppo tassonomico",
+    "È la scienza che studia la diversità degli organismi e le relazioni che esistono tra loro",
+    "Definisce i metodi per ottenere una classificazione che rifletta quanto più possibile l'ordine naturale",
+    "È quel ramo della scienza che studia le modalità di formazione di un resto scheletrico"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q15yh4",
+   "q": "Un intervallo specifico o un punto specifico di una sequenza specifica di strati, che viene a costituire lo standard per la definizione e il riconoscimento della suddetta unità stratigrafica prende il nome di:",
+   "opts": [
+    "Stratotipo",
+    "Cronocorrelazione",
+    "Limite",
+    "Litostratigrafia"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ah1ke8",
+   "q": "Per unità magnetostratigrafica si intende:",
+   "opts": [
+    "Una zona di magnetopolarità, denominata in base alla località geografica di identificazione",
+    "Uno strato di rocce con specifiche proprietà magnetiche, diverse per strati sopra e sottostanti",
+    "Un insieme di rocce accomunate da caratteristiche magnetiche aspecifiche",
+    "La documentazione della polarità del campo magnetico terrestre"
+   ],
+   "answ": 1,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bkr5k0",
+   "q": "Quale tra le seguenti opzioni non è una caratteristica del processo stratigrafico:",
+   "opts": [
+    "Mette in relazione la storia temporale, l'origine, la composizione litologica e chimica",
+    "Si contrappone agli studi evoluzionistici condotti sul pianeta e gli esseri che lo popolano",
+    "È strettamente correlata alla paleontologia",
+    "Descrive i corpi rocciosi"
+   ],
+   "answ": 1,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17vcs3m",
+   "q": "Si definiscono unità litologiche:",
+   "opts": [
+    "I fossili utilizzati per la datazione",
+    "Le unità di radiocarbonio",
+    "Strati rocciosi",
+    "Particolari rocce"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16taaqs",
+   "q": "L'insieme delle procedure con cui si può dimostrare la corrispondenza di parti eventualmente separate geograficamente di una o più unità geologiche:",
+   "opts": [
+    "Contenuto fossilifero",
+    "Litologia",
+    "Correlazione stratigrafica",
+    "Correlazione topografica"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2tyhqc",
+   "q": "Come si definisce una successione di strati rocciosi caratterizzata dall'essersi formata durante uno specifico intervallo di tempo geologico:",
+   "opts": [
+    "Litostratigrafia",
+    "Cronostratigrafia",
+    "Magnetostratigrafia",
+    "Biostratigrafia"
+   ],
+   "answ": 1,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uwv2u0",
+   "q": "La presenza di resti fossili nelle rocce sedimentarie fornisce uno strumento per la loro classificazione e correlazione. È il principio su cui si basa:",
+   "opts": [
+    "Biostratigrafia",
+    "Ecologia",
+    "Litostratigrafia",
+    "Magnetostratigrafia"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "146d7tl",
+   "q": "Nella biostratigrafia il mescolamento di entità paleobiologiche temporalmente successive si definisce:",
+   "opts": [
+    "Stratigrafica",
+    "Sedimentaria",
+    "Tafonomica",
+    "Allotropica"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nixqsg",
+   "q": "Le faune continentali vengono ordinate cronologicamente in base al livello evolutivo e le associazioni fossili risultanti costituiscono:",
+   "opts": [
+    "Unità tassonomiche",
+    "Biocroni",
+    "Biosezioni",
+    "Non esiste un tale sistema"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sk1in4",
+   "q": "La sinecologia studia:",
+   "opts": [
+    "Nessuna delle precedenti",
+    "Le relazioni che si stabiliscono tra una popolazione e il resto della comunità di una determinata area",
+    "I rapporti esistenti tra i vari organismi, animali e vegetali, e tra questi e l'ambiente in cui vivono",
+    "Gli organismi fossili e l'ambiente in cui vivevano"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r2spic",
+   "q": "I fossili più utili dal punto di vista stratigrafico, chiamati fossili guida, devono presentare nello stesso momento quali caratteristiche:",
+   "opts": [
+    "Distribuzione temporale limitata",
+    "Ampia distribuzione geografica",
+    "Sono tutte caratteristiche dei fossili guida",
+    "Grande velocità di diffusione e abbondanza e facilità di ritrovamento"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yghnmo",
+   "q": "La dendrocronologia:",
+   "opts": [
+    "Si basa sul concetto secondo cui, in un'area ristretta, rocce uguali presentano età uguali",
+    "Si basa sull'alternanza stagionale dei sedimenti deposti nei laghi periglaciali",
+    "Si basa sul criterio per cui la successione delle rocce dal basso verso l'alto corrisponde alla successione degli eventi geologici",
+    "Si basa sulla misura degli anelli annuali di accrescimento delle piante, fossilizzate o non fossilizzate"
+   ],
+   "answ": 3,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1exxvgs",
+   "q": "Oltre al metodo del radiocarbonio esiste un ulteriore metodo di datazione radiometrico rappresentato da:",
+   "opts": [
+    "Metodo Paleontologico",
+    "Metodo Litologico",
+    "Metodo delle tracce di fissione",
+    "Metodo delle Varve"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j8o3w4",
+   "q": "Quale tra quelli elencati non può essere ritenuto un metodo di datazione relativo:",
+   "opts": [
+    "Metodo Paleontologico",
+    "Metodo litologico",
+    "Metodo stratigrafico",
+    "Metodo del radiocarbonio"
+   ],
+   "answ": 3,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z75qd4",
+   "q": "Il metodo di datazione radiometrico più utilizzato utilizza come isotopo il:",
+   "opts": [
+    "C-14",
+    "C-18",
+    "C-20",
+    "C-15"
+   ],
+   "answ": 0,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gqykl6",
+   "q": "Il metodo di datazione radiometrico:",
+   "opts": [
+    "È un metodo di datazione assoluto",
+    "È un metodo di datazione distruttivo",
+    "Non esiste",
+    "È un metodo di datazione relativo"
+   ],
+   "answ": 0,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cxadzg",
+   "q": "Quale disciplina applicata allo studio della paleoantropologia permette di stimare le dimensioni morfologiche degli Ominidi fossili:",
+   "opts": [
+    "Biostratigrafia",
+    "Paleontologia",
+    "Antropolmetria",
+    "Bioantropologia"
+   ],
+   "answ": 2,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kkopf0",
+   "q": "I caratteri antropometrici fondamentali sono:",
+   "opts": [
+    "Statura",
+    "Entrambi",
+    "Nessuno dei due",
+    "Peso"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rtgbfw",
+   "q": "La sezione dell'antropologia che studia le variazioni dimensionali dell'individuo in rapporto alla sua origine etnica, al sesso, all'età, allo stato fisico, alla condizione socioeconomica, allo stato di nutrizione e alla sua attività fisica prende il nome di:",
+   "opts": [
+    "Antropologia culturale",
+    "Bioantropologia",
+    "Antropometria",
+    "Paleontologia"
+   ],
+   "answ": 2,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xm4a0w",
+   "q": "Questa è una domandina extra... quanto mi vuoi bene da 1 a 10? [ps. questa risposta arriverà direttamente a meee]",
+   "opts": [
+    "10",
+    "12",
+    "42",
+    "Abbastanza"
+   ],
+   "answ": 0,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  }
+ ]
+}

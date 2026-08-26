@@ -1,0 +1,6128 @@
+{
+ "schema": 2,
+ "key": "psicologia",
+ "nome": "Psicologia dell'Apprendimento",
+ "sub": "Scienze dell'Educazione e della Formazione — eCampus",
+ "emoji": "🧠",
+ "domande": [
+  {
+   "id": "n0me0",
+   "q": "L'introspezione è il metodo che permette di:",
+   "opts": [
+    "accedere a contenuti inconsci",
+    "rilevare l'esperienza immediata",
+    "rievocare ricordi passati",
+    "recuperare ricordi lontani"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zck25s",
+   "q": "Il metodo dell'introspezione adottato da Wundt:",
+   "opts": [
+    "supera il concetto filosofico di introspezione",
+    "applica il concetto filosofico di introspezione",
+    "sostituisce il concetto filosofico di introspezione con il metodo sperimentale",
+    "Sistematizza il concetto filosofico di introspezione, grazie al metodo sperimentale"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wlygno",
+   "q": "Il pensiero della Gestalt è caratterizzato da tre dimensioni fondamentali:",
+   "opts": [
+    "atteggiamento fenomenologico; Teoria di campo; Postulato dell'isomorfismo",
+    "atteggiamento filosofico; Teoria di campo; Postulato dell'isomorfismo",
+    "Elementarismo; Teoria di campo; Postulato dell'isomorfismo",
+    "Introspezionismo; Teoria di campo; Postulato dell'isomorfismo"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "58qn8h",
+   "q": "James applica l'introspezione",
+   "opts": [
+    "compensata dal metodo comparativo",
+    "non utilizza l'introspezione",
+    "seguendo il metodo di Wundt",
+    "seguendo il metodo di Titchener"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cmdrrk",
+   "q": "Per Dewey e il Funzionalismo, il comportamento deve essere studiato:",
+   "opts": [
+    "in funzione del significato che ha per l'individuo che lo mette in atto, ma non necessariamente del contesto nel quale si manifesta",
+    "in funzione del significato che ha per l'individuo che lo mette in atto",
+    "in funzione del significato che ha per l'individuo che lo mette in atto e del contesto nel quale si manifesta",
+    "in funzione del contesto nel quale si manifesta"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pah5k",
+   "q": "Tra le regole dell'introspezione di Wundt c'è:",
+   "opts": [
+    "si devono studiare anche le situazioni di variazione dell'intensità, della qualità e della sequenza degli stimoli presentati",
+    "si devono studiare anche situazioni di variazione dell'intensità, ma non della qualità e della sequenza degli stimoli presentati",
+    "si devono studiare le situazioni di variazione dell'intensità, della qualità e della sequenza degli stimoli presentati per poter fare riferimento ad un 'evento medio'",
+    "non si devono studiare le situazioni di variazione dell'intensità, della qualità e della sequenza degli stimoli presentati"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "366xgm",
+   "q": "La metafora utilizzata per analizzare l'organizzazione del processo di apprendimento prevede i seguenti punti:",
+   "opts": [
+    "luogo, senso, impalcature, attori",
+    "luogo, sfondo, strutture, attori",
+    "dove, cosa, come, chi",
+    "luogo, sfondo, impalcature, attori"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zx31i2",
+   "q": "Per il costruttivismo l'apprendimento è:",
+   "opts": [
+    "un processo di progressivo adeguamento delle strutture cognitive alle nuove situazioni che si presentano",
+    "un processo di rapido adeguamento delle strutture cognitive alle nuove situazioni che si presentano",
+    "nessuna delle precedenti",
+    "un processo di adesione delle strutture cognitive alle nuove situazioni che si presentano"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q04kfc",
+   "q": "L'apprendimento può essere definito in modo completo come:",
+   "opts": [
+    "un processo individuale realizzato per via esperienziale o teorica",
+    "un processo basato sull'esperienza",
+    "un processo esperienziale che produce comportamenti stabili",
+    "un processo esperienziale che produce comportamenti stabili, realizzati in modo autonomo"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tn2qgh",
+   "q": "Il fondatore del Funzionalismo è:",
+   "opts": [
+    "Skinner",
+    "Wertheimer",
+    "Dewey",
+    "Wund"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1c13lks",
+   "q": "Un ricercatore presenta un training di potenziamento dell'attenzione a una classe. Somministra test prima e dopo il percorso. Sembra che in questo studio manchi:",
+   "opts": [
+    "la formulazione di un'ipotesi chiara",
+    "l'operazionalizzazione delle variabili",
+    "la presenza di una variabile dipendente e di una variabile indipendente",
+    "un gruppo di controllo"
+   ],
+   "answ": 3,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "11p0aw5",
+   "q": "I questionari devono essere somministrati in condizioni:",
+   "opts": [
+    "costanti",
+    "continue",
+    "costanti e confrontabili",
+    "confrontabili"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wr7wz4",
+   "q": "Se il risultato di un esperimento è significativo, le differenze tra i gruppi (sperimentale e di controllo) sono:",
+   "opts": [
+    "nessuna delle opzioni proposte",
+    "il più possibile ampie",
+    "non devono esserci differenze tra i gruppi",
+    "il più possibile minime"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1eiz8do",
+   "q": "Le domande chiuse di un questionario possono essere:",
+   "opts": [
+    "a scelta multipla o a scala graduata",
+    "dicotomiche, a scelta multipla, a scala graduata",
+    "dicotomiche o a scelta multipla",
+    "dicotomiche"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x8ry8t",
+   "q": "Il termine 'variabile indipendente' indica:",
+   "opts": [
+    "il fattore manipolato dallo sperimentatore",
+    "l'effetto che lo sperimentatore misura",
+    "un effetto non preventivabile che può verificarsi nel corso di un esperimento",
+    "il fattore che cambia in funzione del comportamento del soggetto"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hwm8rk",
+   "q": "I dati comportamentali si rilevano attraverso:",
+   "opts": [
+    "gli indici fisiologici",
+    "l'osservazione",
+    "l'osservazione e i tempi di reazione",
+    "i verbal report"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "flo4dw",
+   "q": "La funzione del gruppo di controllo è di:",
+   "opts": [
+    "Aiutare lo sperimentatore nella somministrazione delle prove",
+    "Rendere possibili ulteriori dimostrazioni della validità delle ipotesi formulate dallo sperimentatore",
+    "Bilanciare i soggetti",
+    "Escludere spiegazioni alternative dei risultati"
+   ],
+   "answ": 3,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nfll8k",
+   "q": "L'osservazione del comportamento può registrare: a) eventi; b) intervalli di tempo; c) presenza/assenza; d) cause/effetti",
+   "opts": [
+    "a, b, c",
+    "a, d",
+    "b, c, d",
+    "a, b"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "p34tju",
+   "q": "Quando in una ricerca vengono presi accorgimenti tali da escludere che i dati raccolti siano viziati dall'intervento di variabili estranee:",
+   "opts": [
+    "validità esterna",
+    "validità di costrutto",
+    "validità ecologica",
+    "validità interna"
+   ],
+   "answ": 3,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qytv2i",
+   "q": "Il metodo osservativo:",
+   "opts": [
+    "opera un controllo delle variabili indipendenti",
+    "indaga relazioni funzionali realmente esistenti nell'evento o nel gruppo",
+    "opera un controllo delle variabili dipendenti",
+    "indaga relazioni causali"
+   ],
+   "answ": 1,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6ptslg",
+   "q": "Quando i risultati di una ricerca possono essere generalizzati ad una più ampia gamma di situazioni rispetto a quella specifica indagata, si parla di:",
+   "opts": [
+    "validità esterna",
+    "validità interna",
+    "validità ecologica",
+    "validità statistica"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1reial8",
+   "q": "La validità di uno strumento di misurazione è funzione della sua efficacia nel:",
+   "opts": [
+    "valutare gli individui rispetto al criterio considerato",
+    "differenziare gli individui rispetto al criterio considerato",
+    "misurare gli individui rispetto al criterio considerato",
+    "rilevare il criterio considerato"
+   ],
+   "answ": 1,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pthn3g",
+   "q": "Tra i passaggi del processo di networked flow ci sono:",
+   "opts": [
+    "persistenza, riduzione delle distanze",
+    "networked flow, revisione",
+    "creazione dell'artefatto, valutazione",
+    "liminalità, associazione"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lstjcx",
+   "q": "Le funzioni esecutive sono funzioni neuro-cognitive che controllano e gestiscono il funzionamento della mente e hanno un ruolo centrale nei processi di attenzione, ragionamento e memoria:",
+   "opts": [
+    "sì, ed evolvono con la crescita",
+    "no",
+    "sì, ma non intervengono nei processi di attenzione e memoria",
+    "sì, e sono innate"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jf7yco",
+   "q": "I fattori biologici innati sono generali, non sono deterministici e sono legati a specifici comportamenti e apprendimenti che compariranno più tardi:",
+   "opts": [
+    "sì, è corretto",
+    "non sono generali",
+    "non sono legati a specifici comportamenti e apprendimenti successivi",
+    "sono deterministici"
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xzfatk",
+   "q": "Tra i nove indicatori empirici dello stato di Flow ci sono:",
+   "opts": [
+    "coscienza di sé e concentrazione totale sul compito",
+    "obiettivi chiari, esperienza autotelica e paradosso del controllo",
+    "Integrazione tra azione e consapevolezza e coscienza di sé",
+    "Feedback inequivocabili, esperienza autotelica e coscienza del tempo"
+   ],
+   "answ": 1,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "icrgaw",
+   "q": "La comprensione della distinzione ontologica tra mente e corpo si rileva da: a) riconoscimento caratteristiche modificabili/non modificabili; b) comprensione necessità di intervenire sul corporeo/mentale con strategie diverse; c) comprensione dipendenza funzionamento organi interni dall'intenzionalità del soggetto.",
+   "opts": [
+    "c e b",
+    "a, b, c",
+    "a e c",
+    "a e b"
+   ],
+   "answ": 3,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rtq9gc",
+   "q": "Le Funzioni Esecutive sono costituite da tre sottocomponenti indipendenti regolate dall'attenzione:",
+   "opts": [
+    "sì, ma non sono regolate dall'attenzione",
+    "no, sono due sottocompenenti: l'inibizione e la flessibilità cognitiva",
+    "sì, l'inibizione, la flessibilità cognitiva e la memoria di lavoro",
+    "sì, l'inibizione, la flessibilità cognitiva e la memoria a lungo termine"
+   ],
+   "answ": 2,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2a4pmo",
+   "q": "Lo stato di consapevolezza di stimoli esterni e interni provati in un dato momento è detto:",
+   "opts": [
+    "coscienza",
+    "sé",
+    "io",
+    "consapevolezza"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yv0afc",
+   "q": "I processi di verbalizzazione possono essere:",
+   "opts": [
+    "simultanei, orientati",
+    "concomitanti, a posteriori",
+    "simultanei, anticipati",
+    "concomitanti, anticipatori"
+   ],
+   "answ": 1,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vycip5",
+   "q": "Il Thinking aloud è una tecnica di verbalizzazione concomitante:",
+   "opts": [
+    "in cui vengono esplicitati i processi che le persone generalmente applicano attraverso una serie di autoistruzioni",
+    "non è una tecnica di verbalizzazione concomitante",
+    "che si applica nel caso di problemi e compiti meno strutturati, per i quali il modo di procedere viene definito analizzando le variabili e le risorse contingenti",
+    "nessuna delle opzioni proposte"
+   ],
+   "answ": 2,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fp8br2",
+   "q": "Gli studi sulla Torre di Hanoi hanno dimostrato il ruolo della verbalizzazione nel favorire:",
+   "opts": [
+    "strategie rapide",
+    "tutte le precedenti opzioni di risposta",
+    "strategie economiche",
+    "alti livelli di qualità delle regole"
+   ],
+   "answ": 1,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z0qtwq",
+   "q": "I resoconti introspettivi riguardano:",
+   "opts": [
+    "anche i processi mentali consapevoli",
+    "soltanto processi mentali consapevoli",
+    "anche i processi mentali inconsci",
+    "soltanto i processi mentali inconsci"
+   ],
+   "answ": 1,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yodr8g",
+   "q": "Gli assunti del thinking aloud sono:",
+   "opts": [
+    "la verbalizzazione è affidabile",
+    "i processi cognitivi sono controllabili e accessibili",
+    "la verbalizzazione non impatta sui ragionamenti in corso",
+    "tutte le opzioni di risposta"
+   ],
+   "answ": 3,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1taausc",
+   "q": "I criteri di affidabilità dei verbal report indicano che:",
+   "opts": [
+    "devono essere concomitanti",
+    "tutte le opzioni proposte",
+    "devono indagare l'interpretazione e l'analisi del processo",
+    "devono richiedere informazioni presenti nella memoria a lungo termine"
+   ],
+   "answ": 0,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14xg6x8",
+   "q": "L'impressione soggettiva, immediata, semplice che corrisponde ad una data intensità dello stimolo fisico è detta:",
+   "opts": [
+    "sensazione",
+    "percezione",
+    "percetto",
+    "soglia sensoriale"
+   ],
+   "answ": 0,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bhvpyp",
+   "q": "La soglia assoluta è:",
+   "opts": [
+    "Il livello minimo di energia fisica universalmente necessaria per l'evocazione di uno stimolo",
+    "Il livello minimo di energia fisica necessaria per l'evocazione di uno stimolo con una probabilità del 75%",
+    "L'ordine di grandezza per il quale la differenza tra due stimoli viene avvertita",
+    "la quantità minima di energia fisica necessaria per produrre un'esperienza sensoriale rilevata nel 50% dei casi dei soggetti"
+   ],
+   "answ": 3,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tgfw0c",
+   "q": "La percezione è:",
+   "opts": [
+    "L'elaborazione attiva e costruttiva dell'informazione",
+    "L'elaborazione cognitiva attiva e costruttiva dell'informazione sensoriale",
+    "L'elaborazione cognitiva dell'informazione sensoriale",
+    "L'elaborazione sensoriale dell'informazione"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14ymo6g",
+   "q": "I processi di elaborazione Top-down:",
+   "opts": [
+    "sono appresi nel corso dell'infanzia",
+    "sono guidati da alti livelli di conoscenza, da aspettative e motivazione",
+    "chiamano in gioco i processi di attenzione",
+    "guidano il riconoscimento dei pattern e delle caratteristiche delle singole componenti degli stimoli"
+   ],
+   "answ": 1,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1oor4e0",
+   "q": "I processi Bottom up:",
+   "opts": [
+    "si basano sul riconoscimento dei pattern e delle caratteristiche delle singole componenti degli stimoli",
+    "si basano sul riconoscimento delle caratteristiche generali degli stimoli, considerati nel loro insieme",
+    "si realizzano quando lo stimolo non permette di acquisire sufficienti informazioni sensoriali",
+    "non colgono la forma più stabile dello stimolo"
+   ],
+   "answ": 0,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12rrs00",
+   "q": "Le costanze percettive riguardano:",
+   "opts": [
+    "proporzioni, forma e luminosità",
+    "grandezza, spazio e luminosità",
+    "grandezza, forma e altezza",
+    "grandezza, forma e luminosità"
+   ],
+   "answ": 3,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bk3vw",
+   "q": "All'interno di un negozio con tanti modelli diversi di scarpe, attraverso quale strategia si potrebbero organizzare gli stimoli in modo più efficace?",
+   "opts": [
+    "Costanza percettiva",
+    "Continuità",
+    "Figura e sfondo",
+    "Somiglianza"
+   ],
+   "answ": 2,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "128hufu",
+   "q": "Le leggi che regolano l'organizzazione figura-sfondo sono:",
+   "opts": [
+    "inclusione, spazio, orientamento, convessità",
+    "inclusione, area relativa, orientamento, convessità",
+    "inclusione, area relativa, orientamento, concavità",
+    "inclusione, area relativa, completamento, convessità"
+   ],
+   "answ": 1,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mkcxzc",
+   "q": "I principi di raggruppamento percettivo della Gestalt agiscono sulla base dei fattori di:",
+   "opts": [
+    "vicinanza, somiglianza, costanza, continuità e simmetria",
+    "vicinanza, somiglianza, buona continuazione, chiusura, contiguità, ragione comune",
+    "prossimità, somiglianza, chiusura, continuità, contrasto cromatico",
+    "vicinanza, somiglianza, buona continuazione, chiusura, contiguità e contrasto cromatico"
+   ],
+   "answ": 3,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nffjn4",
+   "q": "Guardando in rapida sequenza molte immagini di un gattino, alla piccola Maria sembra di vederlo muoversi. Questo è un esempio di:",
+   "opts": [
+    "costanza di forma",
+    "movimento autocinetico",
+    "movimento apparente",
+    "prospettiva di movimento"
+   ],
+   "answ": 2,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "h4cwz8",
+   "q": "L'organizzazione figura-sfondo riguarda:",
+   "opts": [
+    "La visione dei colori",
+    "La percezione visiva e uditiva",
+    "Tutti i sensi",
+    "La percezione visiva"
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sv64zi",
+   "q": "Secondo la Teoria del filtro attenuato:",
+   "opts": [
+    "si possono elaborare informazioni provenienti da più fonti significative contemporaneamente",
+    "si può destinare la propria attenzione solo ad una voce o due per volta, a seconda della tipologia di stimolo che proviene dalla seconda voce",
+    "una piccola porzione di attenzione è destinata a fonti minori nell'ambiente, soprattutto nel caso di stimoli ad elaborazione automatica",
+    "la propria attenzione segue solo ad una voce per volta, qualunque sia lo stimolo che proviene dalla seconda voce"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1capqbs",
+   "q": "L'effetto che fa riferimento al rallentamento dei tempi di risposta nelle condizioni spaziali non corrispondenti, rispetto a quelle corrispondenti, prende il nome di:",
+   "opts": [
+    "effetto Stoop",
+    "effetto Posner",
+    "effetto Simon",
+    "effetto flankers"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18kdll",
+   "q": "Tra i processi attentivi possiamo citare:",
+   "opts": [
+    "shift attentivo, fuoco attentivo",
+    "attenzione mantenuta, attenzione divisa, attenzione retroattiva",
+    "shift attentivo, attenzione divisa, attenzione binoculare",
+    "shift attentivo, shift mantenuto"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kz042t",
+   "q": "L'effetto cocktail party è stato identificato da:",
+   "opts": [
+    "Broadbent",
+    "Cherry",
+    "Treisman",
+    "Posner"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hpaj3c",
+   "q": "L'effetto Stroop spiega:",
+   "opts": [
+    "un processo di elaborazione dei colori",
+    "la capacità di porre attenzione solo a certi aspetti di uno stimolo",
+    "l'aumento dell'attenzione selettiva",
+    "la tendenza all'elaborazione completa delle informazioni"
+   ],
+   "answ": 3,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9mnzrs",
+   "q": "Le tre fasi dell'attenzione sono:",
+   "opts": [
+    "percezione, selezione, gestione",
+    "attivazione, focalizzazione, gestione",
+    "codifica, immagazzinamento, recupero",
+    "attivazione, selezione, organizzazione"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dtw1ho",
+   "q": "La teoria del filtro precoce è stata proposta da:",
+   "opts": [
+    "Posner",
+    "Broadbent",
+    "Deutsch",
+    "Treisman"
+   ],
+   "answ": 1,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1c08jqo",
+   "q": "I tempi di multitasking SMM a 18 mesi e uno stile genitoriale positivo tra i 3-5 anni predicono:",
+   "opts": [
+    "le difficoltà di comportamento nella scuola primaria",
+    "le performance cognitive a 4 anni",
+    "le difficoltà di comportamento a 4 e 6 anni",
+    "le difficoltà di comportamento a 4 e 6 anni e le performance cognitive a 4 anni"
+   ],
+   "answ": 3,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7dk52k",
+   "q": "Le notifiche degli smartphone influiscono su:",
+   "opts": [
+    "la continuità dell'impegno",
+    "la disattenzione",
+    "i sintomi di iperattività",
+    "la disattenzione e i sintomi di iperattività"
+   ],
+   "answ": 3,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1opt4n2",
+   "q": "A 3-4 anni, 'fare attenzione' è compreso:",
+   "opts": [
+    "come regola educativa e come processo cognitivo",
+    "non è ancora compreso",
+    "come processo cognitivo",
+    "come regola educativa, non come processo cognitivo"
+   ],
+   "answ": 3,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10drx30",
+   "q": "I tempi di SMM predicono le performance cognitive a 4 anni:",
+   "opts": [
+    "maggiore il multitasking, maggiori le prestazioni",
+    "maggiore il multitasking, minori le prestazioni",
+    "dipende dai dispositivi utilizzati nel multitasking",
+    "no, non ci sono effetti del multitasking sulle prestazioni"
+   ],
+   "answ": 1,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1v845xc",
+   "q": "Secondo l'ipotesi del time displacement, i media avrebbero un effetto distrattore, con ricadute sulla continuità dell'impegno e sull'efficacia dell'apprendimento:",
+   "opts": [
+    "Sì",
+    "Sì, e anche sui risultati accademici",
+    "No, non hanno effetto sulla continuità dell'impegno",
+    "No, non hanno effetto sull'efficacia dell'apprendimento"
+   ],
+   "answ": 1,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pd5ehw",
+   "q": "'Ieri sono andata a correre nel parco del mio paese con Giulia'. Si tratta di un'affermazione che si riferisce a:",
+   "opts": [
+    "la conoscenza procedurale",
+    "la conoscenza semantica",
+    "la conoscenza paradigmatica",
+    "la conoscenza episodica"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rv8dns",
+   "q": "La memoria a lungo termine si organizza in:",
+   "opts": [
+    "memoria dichiarativa e memoria procedurale",
+    "memoria ecoica e memoria iconica",
+    "memoria episodica e memoria semantica",
+    "memoria procedurale e memoria semantica"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15omk6k",
+   "q": "'Le castagne maturano d'autunno nei boschi'. È una conoscenza di tipo: a) dichiarativo; b) semantico; c) procedurale:",
+   "opts": [
+    "a, b",
+    "c",
+    "b",
+    "a"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m58uls",
+   "q": "Quando si ricorda qualcosa senza averne avuto l'intenzione, si attiva la memoria:",
+   "opts": [
+    "esplicita",
+    "implicita",
+    "fotografica",
+    "ricostruttiva"
+   ],
+   "answ": 1,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "u90igk",
+   "q": "Quali dei seguenti elementi rientrano nella memoria procedurale:",
+   "opts": [
+    "pensiero sintagmatico e management",
+    "plan e interpretazioni",
+    "goal e schemi",
+    "schemi, routine e script"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bs43h4",
+   "q": "Dopo aver incontrato un gruppo di persone, Lucia riesce a ricordare solo il nome dell'ultima persona con cui ha parlato. Questo è un esempio di:",
+   "opts": [
+    "interferenza",
+    "specialità della codifica",
+    "effetto primacy",
+    "effetto recency"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ca4bs2",
+   "q": "Il 'chunking' è un processo:",
+   "opts": [
+    "di raggruppamento di elementi in base a informazioni già note",
+    "di memoria visiva per i dettagli",
+    "utile a comprendere meglio le informazioni",
+    "per favorire la reiterazione delle informazioni"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tv3lux",
+   "q": "In riferimento alla memoria a breve termine, si può affermare che:",
+   "opts": [
+    "ha capacità di immagazzinamento illimitata e potenzialità di rappresentazione completa",
+    "ha capacità di immagazzinamento illimitata e potenzialità di rappresentazione incompleta",
+    "ha capacità di immagazzinamento limitata e potenzialità di rappresentazione completa",
+    "ha capacità di immagazzinamento limitata e potenzialità di rappresentazione incompleta"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cxfw6g",
+   "q": "In riferimento alla memoria sensoriale, si può affermare che:",
+   "opts": [
+    "ha una capacità di rappresentazione completa dell'informazione, ma rapidissimo decadimento",
+    "l'informazione viene conservata meno a lungo nella memoria ecoica rispetto alla memoria iconica",
+    "l'informazione conservata nella memoria iconica è meno precisa rispetto a quella conservata nella memoria ecoica",
+    "l'informazione è conservata per sempre, ma in modo impreciso"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vwavdo",
+   "q": "L'informazione viene conservata attraverso un processo di:",
+   "opts": [
+    "Ritenzione",
+    "rievocazione",
+    "Reiterazione",
+    "Ricodificazione"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hdwhk",
+   "q": "La concezione della memoria che prevede un registro sensoriale, una memoria a breve termine e una a lungo termine è di tipo:",
+   "opts": [
+    "Multisensoriale",
+    "Multistadiale",
+    "Multiprocesso",
+    "Multiprospettica"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1py9o79",
+   "q": "La conoscenza episodica è costituita da proposizioni in cui:",
+   "opts": [
+    "si considerano le coordinate spazio temporali delle esperienze soggettive",
+    "le coordinate spazio temporali non vengono considerate",
+    "si considerano le informazioni a livello generale",
+    "gli episodi si riferiscono a eventi accaduti nei primissimi mesi di vita del bambino"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17h4n55",
+   "q": "Lo script è:",
+   "opts": [
+    "Un bacino di memoria proposizionale",
+    "Un deficit di memoria",
+    "Uno schema mentale sintetico che descrive una sequenza di azioni",
+    "L'unità minima del linguaggio scritto"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9ar9y0",
+   "q": "Al livello più profondo dell'elaborazione mnestica, l'informazione viene analizzata nei termini di:",
+   "opts": [
+    "previsione degli impieghi futuri",
+    "rappresentazione mentale",
+    "significato",
+    "significato sensoriale"
+   ],
+   "answ": 2,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bpihhc",
+   "q": "Rispondere alla domanda: «Quella è Maria?», significa svolgere un compito di:",
+   "opts": [
+    "Riconoscimento",
+    "rievocazione",
+    "reiterazione",
+    "ricostruzione"
+   ],
+   "answ": 0,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1izm3xc",
+   "q": "Chi non riesce a ricordare le informazioni acquisite prima di un trauma cerebrale, ha un disturbo di:",
+   "opts": [
+    "amnesia psicogena",
+    "amnesia anterograda",
+    "degenerazione traumatica della memoria",
+    "amnesia retrograda"
+   ],
+   "answ": 3,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "u5a5o2",
+   "q": "L'interferenza di uno stimolo precedentemente appreso sulla rievocazione di uno stimolo appreso successivamente è chiamata:",
+   "opts": [
+    "Prospettica",
+    "Interattiva",
+    "Proattiva",
+    "Retroattiva"
+   ],
+   "answ": 2,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vk4f8c",
+   "q": "Quale di queste non è una funzione del processo della memoria?",
+   "opts": [
+    "L'interferenza",
+    "Il recupero",
+    "La codifica",
+    "L'immagazzinamento"
+   ],
+   "answ": 0,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nea0y4",
+   "q": "Il modello di categorizzazione di Roch prevede due dimensioni di analisi:",
+   "opts": [
+    "sovraordinata e subordinata",
+    "verticale e orizzontale",
+    "primaria e secondaria",
+    "superficiale e profonda"
+   ],
+   "answ": 1,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gdwmbu",
+   "q": "Il sillogismo è un ragionamento:",
+   "opts": [
+    "controfattuale",
+    "analogico",
+    "deduttivo",
+    "induttivo"
+   ],
+   "answ": 2,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hc47ak",
+   "q": "Le immagini mentali: a) attivano aree cerebrali simili a quelle della percezione visiva, ma con input interni; b) sono bidimensionali; c) sostengono i processi di memorizzazione, pianificazione, presa di decisione e problem solving; d) rappresentano una capacità innata che può essere educata e raffinata in età adulta:",
+   "opts": [
+    "a, c",
+    "a, c, d",
+    "a, b, d",
+    "a, b, c, d"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qzmn6o",
+   "q": "Il ragionamento induttivo segue una linea di pensiero che va:",
+   "opts": [
+    "Dal generale al particolare",
+    "Dalle premesse alle conclusioni",
+    "Dal particolare al generale",
+    "Da un caso particolare ad un altro caso particolare"
+   ],
+   "answ": 2,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4ou9dk",
+   "q": "L'euristica della rappresentatività è usata per:",
+   "opts": [
+    "Determinare la disponibilità di strategie per la soluzione di un problema",
+    "Stimare l'efficacia di strategie per la soluzione di un problema",
+    "Fare stime di probabilità",
+    "Stimare la frequenza relativa degli eventi"
+   ],
+   "answ": 3,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ybyfqc",
+   "q": "La tendenza a cercare dei dati a favore di una ipotesi è detta:",
+   "opts": [
+    "Bias della conferma",
+    "Impetus della falsificazione",
+    "Script della verifica",
+    "Errore di ipotesi"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1shc5fm",
+   "q": "Il ragionamento induttivo:",
+   "opts": [
+    "può portare a conclusioni false",
+    "non permette di definire regolarità",
+    "si basa su processi di pensiero che vanno dal generale al particolare",
+    "si fonda su regolarità e generalizzazione, funzioni che non conducono all'errore"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1zev24",
+   "q": "Per la teoria dei modelli mentali, la risoluzione di un sillogismo prevede quattro fasi:",
+   "opts": [
+    "verifica delle premesse; confronto delle premesse; ricerca di contro esempi; conferma delle conclusioni",
+    "comprensione delle premesse; confronto delle premesse; estrazione delle conclusioni; ricerca di conferme",
+    "comprensione delle premesse; integrazione delle premesse; ipotesi delle conclusioni; ricerca di conferme",
+    "comprensione delle premesse; integrazione delle premesse; estrazione delle conclusioni; ricerca di contro esempi"
+   ],
+   "answ": 3,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "akoaxg",
+   "q": "Un tipo di impostazione è:",
+   "opts": [
+    "l'insight",
+    "la meccanizzazione",
+    "il bias della conferma",
+    "la ridondanza"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19pl0ao",
+   "q": "Quale delle seguenti affermazione è vera?",
+   "opts": [
+    "Le euristiche sono strategie semplici, economiche e approssimative",
+    "Le euristiche sono strategie semplici ed economiche, che non inducono mai ad errore",
+    "A differenza dell'algoritmo, le euristiche non inducono mai ad errore",
+    "A differenza dell'algoritmo, le euristiche applicano regole empiriche di tipo deduttivo"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "111vkq1",
+   "q": "L'insight si verifica più facilmente quando una persona:",
+   "opts": [
+    "è altamente concentrata",
+    "ha flessibilità cognitiva",
+    "è molto motivata al successo",
+    "conosce bene l'ambito del problema"
+   ],
+   "answ": 1,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "a3jcuk",
+   "q": "Quali delle seguenti affermazioni sugli algoritmi è errata?",
+   "opts": [
+    "riguardano il procedimento che permette di ottenere un risultato eseguendo una sequenza di operazioni secondo un ordine dato",
+    "sono un insieme finito di regole che conducono alla soluzione di un problema",
+    "non possono essere applicati ad alcune tipologie di problemi",
+    "possono essere applicati a qualsiasi tipo di problema"
+   ],
+   "answ": 3,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1twug8s",
+   "q": "Carlo è sotto un acquazzone. A un certo punto si rende conto che può utilizzare un grosso manuale che ha nello zaino per ripararsi. Ha superato:",
+   "opts": [
+    "la fissità funzionale",
+    "la meccanizzazione",
+    "un'autoistruzione implicita",
+    "l'assetto mentale"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15lwddg",
+   "q": "Kohler ha definito l'intuito come:",
+   "opts": [
+    "un processo per tentativi ed errori che permette il graduale avvicinamento alla soluzione",
+    "un'euristica specie-specifica degli scimpanzé",
+    "il cogliere all'improvviso la relazione che lega alcuni elementi che fino a quel momento sembravano tra loro scollegati",
+    "una soluzione diretta e tempestiva recuperata velocemente dalla memoria a lungo termine"
+   ],
+   "answ": 2,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x57dit",
+   "q": "L'utilizzo delle analogie consiste nel:",
+   "opts": [
+    "scomporre un problema in più sotto-problemi",
+    "interpretare dei fatti alla luce di contesti simili",
+    "assumere il punto di vista altrui",
+    "considerare il contrario del concetto che si deve analizzare"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cvm740",
+   "q": "Taylor distingue 5 forme di creatività:",
+   "opts": [
+    "espressiva, applicativa, inventiva, innovativa, naturale",
+    "tutte le opzioni proposte",
+    "espressiva, riproduttiva, creativa, innovativa, emergente",
+    "espressiva, produttiva, inventiva, innovativa, emergente"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wam5s",
+   "q": "Nella prima metà del Novecento la creatività era:",
+   "opts": [
+    "assimilata all'iperdotazione mentale",
+    "considerata come un'abilità cognitiva attraverso la quale risolvere problemi",
+    "considerata innata",
+    "considerata come un potenziale intellettivo comune a tutti"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kmhtql",
+   "q": "Secondo Rhodes la creatività può essere studiata dal punto di vista:",
+   "opts": [
+    "dell'analisi del prodotto finale",
+    "dell'analisi del processo ideativo",
+    "dell'analisi della persona creativa e dell'ambiente creativo",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jrnpb0",
+   "q": "Non è vero che il Test ACR:",
+   "opts": [
+    "può essere somministrato a bambini di 6-12 anni di età",
+    "prevede più versioni in base all'età",
+    "nella versione junior prevede solo prove figurali",
+    "prevede due diverse modalità di somministrazione (risposta chiusa/aperta)"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uxk7r8",
+   "q": "La capacità di produrre tante idee che si basa su un flusso di pensiero ricco e vario è detta:",
+   "opts": [
+    "originalità",
+    "flessibilità",
+    "fluidità",
+    "elaborazione"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yobjgk",
+   "q": "Miriana usa un barattolo di conserve e una candela per creare una lampada da tavolo. È un esempio:",
+   "opts": [
+    "dell'operazione mentale riorganizzare",
+    "tutte le precedenti",
+    "dell'operazione mentale collegare",
+    "dell'operazione mentale ampliare"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xtw4ap",
+   "q": "Dovendo definire il 'giornale' in termini di pensiero divergente, si potrebbe dire che:",
+   "opts": [
+    "Lo si compra in edicola",
+    "Lo si legge",
+    "Lo si usa per lavare i vetri",
+    "Lo si compra al mattino"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "eqeomy",
+   "q": "Il pensiero divergente:",
+   "opts": [
+    "si oppone al pensiero creativo",
+    "si riferisce ai comportamenti devianti",
+    "corrisponde all'abilità di generare risposte inusuali",
+    "è una componente del pensiero convergente"
+   ],
+   "answ": 2,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wd9z1c",
+   "q": "I test ACR si fonda sulle operazioni di:",
+   "opts": [
+    "ampliamento, collegamento, riorganizzazione",
+    "ampliamento, contatto, riorganizzazione",
+    "assessment, collegamento, riflessione",
+    "assessment, creazione, ristrutturazione"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dg7t40",
+   "q": "Secondo Guildford, tra i 5 fattori del pensiero divergente ci sono:",
+   "opts": [
+    "originalità, flessibilità, continuità",
+    "fluidità, flessibilità, valutazione",
+    "nessuna delle opzioni proposte",
+    "originalità, elaborazione, quantità"
+   ],
+   "answ": 1,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "33xz14",
+   "q": "L'analogia di proporzione:",
+   "opts": [
+    "non va confusa con l'analogia classica",
+    "non è applicabile in molte manifestazioni del pensiero",
+    "consiste solamente di rapporti tra sistemi concettuali",
+    "combina processi deduttivi e induttivi"
+   ],
+   "answ": 3,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ssw9xg",
+   "q": "Il completamento di analogie classiche è un esempio di:",
+   "opts": [
+    "problema di sistemazione",
+    "problema di trasformazione",
+    "compito",
+    "ragionamento deduttivo e induttivo"
+   ],
+   "answ": 3,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y23q3e",
+   "q": "Secondo il modello del contrasto, l'analogia è una sovrapposizione di attributi:",
+   "opts": [
+    "maggiore è il numero delle proprietà che due entità hanno in comune, maggiore è il grado di analogia",
+    "minore è il numero delle proprietà che due entità hanno in comune, maggiore è il grado di analogia",
+    "maggiore è il numero delle proprietà che due entità hanno in comune, minore è il grado di analogia",
+    "minore è il numero delle proprietà che due entità hanno in comune, minore è il grado di analogia"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rqv2ds",
+   "q": "'Una conoscenza precedente permette di comprendere (proiezione) una nuova realtà'. Si tratta del procedimento di:",
+   "opts": [
+    "analogical problem solving",
+    "analogia di proporzione",
+    "proiezione analogica",
+    "nessuna delle opzioni proposte"
+   ],
+   "answ": 2,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ycgp44",
+   "q": "'Si coglie il rapporto tra i primi due termini e si trasferisce sulla seconda coppia per ricavare quello mancante'. Si tratta del procedimento di:",
+   "opts": [
+    "analogical problem solving",
+    "analogia di proporzione",
+    "nessuna delle opzioni proposte",
+    "proiezione analogica"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17721kk",
+   "q": "Secondo Sternberg, il ragionamento sotteso alle analogie di proporzione prevede sei passaggi:",
+   "opts": [
+    "codifica, associazione, mapping, applicazione, giustificazione, risposta",
+    "codifica, inferenza, mapping, applicazione, giustificazione, confronto",
+    "codifica, inferenza, mapping, svolgimento, giustificazione, risposta",
+    "codifica, inferenza, mapping, applicazione, giustificazione, risposta"
+   ],
+   "answ": 3,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yhhdp6",
+   "q": "Il modello pragmatico:",
+   "opts": [
+    "è applicabile nel caso di analogie di tipo comportamentale, ma non socio-affettivo",
+    "è applicabile nel caso di analogie di tipo socio-affettivo, ma non comportamentale",
+    "permette di concettualizzare anche le analogie di tipo comportamentale e socio-affettivo",
+    "non è applicabile nel caso di analogie di tipo comportamentale e socio-affettivo"
+   ],
+   "answ": 2,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c7sx68",
+   "q": "Il ragionamento per analogia è:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "fondamento delle attività cognitive",
+    "elemento distintivo dell'intelligenza",
+    "un incentivo del pensiero creativo"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7gzf50",
+   "q": " L'analogia può essere valutata secondo:",
+   "opts": [
+    "dipende dall'età dei soggetti",
+    "entrambe le opzioni proposte",
+    "il grado di somiglianza superficiale tra i due termini",
+    "il grado di somiglianza profonda"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16w6xg4",
+   "q": "Secondo il Modello strutturale:",
+   "opts": [
+    "maggiore è il grado di connessione tra i predicati di un dominio, minore è la probabilità che la struttura venga trasferita a un altro dominio",
+    "contano le connessioni che si stabiliscono tra gli elementi dell'analogia",
+    "minore è il grado di connessione tra i predicati di un dominio, maggiore è la probabilità che la struttura venga trasferita a un altro dominio",
+    "contano le caratteristiche intrinseche dei singoli elementi dell'analogia"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wfok9g",
+   "q": "Le teorie implicite:",
+   "opts": [
+    "incidono sul comportamento, gli atteggiamenti e le valutazioni delle persone",
+    "hanno validità ecologica",
+    "tutte le opzioni proposte",
+    "sono conoscenze metacognitive circa una funzione cognitiva, organizzate coerentemente in concetti"
+   ],
+   "answ": 2,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14f4k14",
+   "q": "Quale tra le seguenti è una definizione psicologica di intelligenza largamente riconosciuta?",
+   "opts": [
+    "abilità nel campo delle relazioni sociali",
+    "capacità di comprensione del mondo e di relazione interpersonale",
+    "abilità nel formare categorie e discutere razionalmente",
+    "capacità di comprendere il mondo, pensare razionalmente ed usare le risorse disponibili con efficacia"
+   ],
+   "answ": 3,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tc395s",
+   "q": "Le visioni occidentali dell'intelligenza focalizzano: a) problem-solving, categorizzazione e discussione; b) abilità verbale; c) competenza emotiva; d) competenza sociale:",
+   "opts": [
+    "a, b, d",
+    "a, b, c, d",
+    "a, b",
+    "a, b, c"
+   ],
+   "answ": 0,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dnkp28",
+   "q": "Secondo le teorie implicite, l'intelligenza coinciderebbe con:",
+   "opts": [
+    "capacità di problem solving",
+    "intelligenza pratica",
+    "tutte le opzioni proposte",
+    "intelligenza verbale"
+   ],
+   "answ": 2,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pr6gto",
+   "q": "Rispetto allo studio dell'intelligenza si distinguono le teorie: a) unitarie; b) innatiste; c) multicomponenziali; d) gerarchiche; e) cognitive; f) evoluzionistiche; g) globali-maturative:",
+   "opts": [
+    "a, b, c, d, e, f, g",
+    "a, b, c, f, g",
+    "a, c, d, e, g",
+    "c, d, e, f, g"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1256dgk",
+   "q": "Secondo il modello di Gardner, le abilità nel riconoscere e classificare le specie vegetali e animali caratterizzano l'intelligenza:",
+   "opts": [
+    "corporeo-cinestetica",
+    "logico-matematica",
+    "naturalistica",
+    "musicale"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "funpz8",
+   "q": "Quale autore ha definito l'intelligenza come dell'insieme di capacità creative, analitiche e pratiche per raggiungere i propri obiettivi nella vita, in un determinato contesto socioculturale:",
+   "opts": [
+    "Torrance",
+    "Sternberg",
+    "Guilford",
+    "Gardner"
+   ],
+   "answ": 1,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hrpgek",
+   "q": "L'intelligenza fluida è:",
+   "opts": [
+    "l'accumulo di informazioni, abilità e strategie apprese attraverso l'esperienza",
+    "la capacità di comprendere il mondo, pensare razionalmente e usare efficacemente le risorse in caso di difficoltà",
+    "la capacità di elaborare l'informazione, di ragionare e di memorizzare",
+    "nessuna delle precedenti"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jotscw",
+   "q": "Nelle persone anziane, l'intelligenza cristallizzata declina, mentre quella fluida no:",
+   "opts": [
+    "vero",
+    "Dipende dal tipo di capacità",
+    "Né vero, Né falso",
+    "falso"
+   ],
+   "answ": 3,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "169y95c",
+   "q": "Il QI è il rapporto tra età:",
+   "opts": [
+    "Cronologica e anagrafica",
+    "Cronologica e mentale",
+    "Mentale e cronologica",
+    "Mentale e scolastica"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m86z99",
+   "q": "Il 'fattore g':",
+   "opts": [
+    "è un fattore unico e misurabile, da cui dipende il risultato di qualsiasi manifestazione di intelligenza",
+    "indica la multi-dimensionalità del concetto di intelligenza",
+    "indica la multi-dimensionalità e la misurabilità del concetto di intelligenza",
+    "è un fattore unico e non misurabile da cui dipende il risultato di qualsiasi manifestazione di intelligenza"
+   ],
+   "answ": 0,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19mv26g",
+   "q": "Il concetto di QI è stato introdotto da:",
+   "opts": [
+    "Binet",
+    "Stern",
+    "Stanford",
+    "Terman"
+   ],
+   "answ": 1,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1a5d5yy",
+   "q": "Secondo il modello di Gardner, le abilità nel riconoscimento del significato, del suono e dell'ordine delle parole caratterizzano l'intelligenza:",
+   "opts": [
+    "musicale",
+    "logico-matematica",
+    "linguistica",
+    "intrapersonale"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5umns0",
+   "q": "Secondo il modello di Gardner, le abilità nel percepire forme e riconoscere elementi in diversi contesti caratterizzano l'intelligenza:",
+   "opts": [
+    "corporeo-cinestetica",
+    "naturalistica",
+    "logico-matematica",
+    "spaziale"
+   ],
+   "answ": 3,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4cdnxs",
+   "q": "Secondo il modello di Gardner, le abilità nel stabilire rapporti e formulare regole caratterizzano l'intelligenza:",
+   "opts": [
+    "naturalistica",
+    "linguistica",
+    "logico-matematica",
+    "spaziale"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1iboowd",
+   "q": "Il modello di intelligenza di Carroll prevede 3 strati che culminano con l'abilità di autorealizzazione:",
+   "opts": [
+    "no, il culmine è il fattore g",
+    "sì, e alla base pone le abilità ristrette",
+    "no, culmina riprendendo le intelligenze di Cattell",
+    "sì"
+   ],
+   "answ": 0,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t6hho4",
+   "q": "Il Modello dell'intelligenza a cono di Cornoldi prevede l'interazione tra strutture intellettive di base organizzate gerarchicamente e aspetti legati a fattori esperienziali, motivazionali-culturali, emotivi e metacognitivi:",
+   "opts": [
+    "Sì e assume l'intelligenza come costrutto multicomponenziale",
+    "Sì",
+    "No",
+    "No, le strutture di base non sono gerarchiche"
+   ],
+   "answ": 0,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "55kdxw",
+   "q": "La valutazione delle emozioni varia in base a: a) novità; b) piacevolezza/spiacevolezza intrinseca; c) pertinenza e rilevanza; d) coping; e) fascia evolutiva; f) compatibilità con le norme sociali e l'immagine di sé:",
+   "opts": [
+    "a, b, c, d, f",
+    "a, c, e, f",
+    "b, c, d, e",
+    "a, b, c, d, e, f"
+   ],
+   "answ": 0,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w9eci0",
+   "q": "Le emozioni sono processi che: a) hanno valenza adattiva; b) preparano all’azione e modellano il comportamento; c) permettono di interagire con gli altri; d)culminano nell’attivazione fisiologica; e) mediano la relazione organismo-ambIente",
+   "opts": [
+    "a, b, c, d",
+    "a, b, c, d, e",
+    "a, b",
+    "a, b, e, e"
+   ],
+   "answ": 1,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q6eo19",
+   "q": "Il coping focalizzato sulle emozioni non prevede di:",
+   "opts": [
+    "mantenere una prospettiva positiva",
+    "mettere in atto abilità di regolazione affettiva",
+    "controllare i vissuti emotivi",
+    "cercare il supporto sociale"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "szu9os",
+   "q": "La capacità di resistere e di superare dopo una profonda avversità è detta:",
+   "opts": [
+    "resistenza",
+    "eustress",
+    "coping",
+    "resilienza"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hd0wek",
+   "q": "Secondo Lazarus, la valutazione secondaria riguarda il modo in cui una situazione o un evento vengono valutati rispetto al grado di rilevanza e pertinenza per gli interessi dell'individuo:",
+   "opts": [
+    "falso, non è stato affermato da Lazarus",
+    "falso",
+    "falso, è la valutazione del cambiamento della relazione individuo/ambiente",
+    "vero"
+   ],
+   "answ": 1,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "s7s2zy",
+   "q": "Secondo le teorie dell'appraisal, l'antecedente emotivo:",
+   "opts": [
+    "può essere solo un evento fisico",
+    "deve essere rilevante per l'individuo",
+    "può non essere particolarmente rilevante per l'individuo",
+    "non può essere un ricordo"
+   ],
+   "answ": 1,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sg9q0w",
+   "q": "Rispetto alle emozioni, l'attivazione fisiologica è stata definita dalle diverse teorie come:",
+   "opts": [
+    "con-causa",
+    "risultato",
+    "causa",
+    "causa, concausa, risultato"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rofbsb",
+   "q": "Secondo la Teoria 'Controllo-Valore' i due antecedenti cognitivi delle emozioni si rifanno a:",
+   "opts": [
+    "il costrutto di autodeterminazione (Controllo); l'importanza e il significato sociale dell'evento (Valore)",
+    "il costrutto di autoefficacia e di effectance (Controllo); l'importanza e il significato attribuiti all'evento (Valore)",
+    "il costrutto di autoefficacia e il senso di competenza (Controllo); l'importanza e il significato sociale dell'evento (Valore)",
+    "il costrutto di autoefficacia e il senso di competenza (Controllo); l'importanza e il significato attribuiti all'evento (Valore)"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e64mhs",
+   "q": "Il TEC è:",
+   "opts": [
+    "test of emotion control",
+    "test of emotion comprehension",
+    "training for empowerment and creativity",
+    "test of endorphin calibration"
+   ],
+   "answ": 1,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nu9ceg",
+   "q": "Secondo la Teoria Cognitivo-Attivazionale, l'emozione è generata dalla connessione tra:",
+   "opts": [
+    "una componente fisiologica di arousal indifferenziato e una componente comportamentale",
+    "una componente fisiologica e una componente psicologica di riconoscimento dello stimolo/situazione",
+    "una componente fisiologica di arousal indifferenziato e una componente psicologica, di percezione e riconoscimento dello stimolo/situazione",
+    "una componente fisiologica e una componente psicologica di percezione"
+   ],
+   "answ": 2,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iww8x8",
+   "q": "Le emozioni morali:",
+   "opts": [
+    "sono emozioni scolastiche controllabili",
+    "sono dirette verso gli altri, in particolare la vergogna e il rimpianto",
+    "non sono associate alle norme sociali",
+    "si riferiscono all'abilità e sono dirette verso gli altri"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vofdgw",
+   "q": "Per Harter le emozioni legate alla costruzione del sé sono:",
+   "opts": [
+    "umiliazione, rabbia, senso di colpa, vergogna e imbarazzo",
+    "umiliazione, orgoglio, senso di colpa, vergogna e imbarazzo",
+    "umiliazione, orgoglio, rimpianto, vergogna e imbarazzo",
+    "umiliazione, orgoglio, senso di colpa, ambizione e imbarazzo"
+   ],
+   "answ": 1,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16y5pa7",
+   "q": "Nel contesto scolastico le emozioni sono suscitate in particolare nell'occasione di:",
+   "opts": [
+    "interrogazioni e svolgimento dei compiti",
+    "lezioni, verifiche e ora di ginnastica",
+    "lezioni, verifiche e svolgimento dei compiti",
+    "lezioni e discussioni in classe"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yiekdw",
+   "q": "Le emozioni hanno un effetto sulla quantità e sulla qualità dell'apprendimento:",
+   "opts": [
+    "Sì, inoltre sono correlate, sia quelle positive, sia quelle negative, all'autoregolazione e all'utilizzo di procedimenti analitici",
+    "No, solo sulla qualità dell'apprendimento",
+    "No, solo sulla quantità dell'apprendimento",
+    "Sì, ma emozioni positive e negative sono correlate all'utilizzo di strategie differenti"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f2u83p",
+   "q": " Le emozioni di studenti e docenti sono suscitate dal timore dell'insuccesso e dal desiderio di riuscita, due dimensioni caratterizzate entrambe da: predisposizioni individuali, valutazione cognitiva della probabilità di riuscire o non riuscire e emozioni anticipate.",
+   "opts": [
+    "No, le emozioni anticipate non sono dimensioni caratterizzanti.",
+    "Sì, la valutazione cognitiva della probabilità di riuscire si basa su fatti oggettivi e esperienze passate",
+    "Sì, le predisposizioni individuali rappresentano la tendenza oggettiva ad essere stimolati alla riuscita o avere paura di non riuscire",
+    "Sì, inoltre incidono il contesto sociale e i modelli di reazione agli eventi"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hj23k4",
+   "q": "Secondo la Teoria Comunicativa delle emozioni, le emozioni:",
+   "opts": [
+    "esprimono le aspettative di risultato e comunicano l’avanzamento nel raggiungimento degli obiettivi (in funzione dell’intensità dell’emozione) e il valore che assumono per noi (in funzione della tipologia di emozione).",
+    "esprimono le aspettative di risultato e comunicano l’avanzamento nel raggiungimento degli obiettivi (in funzione della tipologia di emozione) e il valore che assumono per noi (in funzione dell’intensità dell’emozione)",
+    "esprimono le aspettative di risultato (in funzione della tipologia di emozione) e il valore che assumono per noi (in funzione dell’intensità dell’emozione)",
+    "comunicano l’avanzamento nel raggiungimento degli obiettivi (in funzione dell’intensità dell’emozione) e il valore che assumono per noi (in funzione della tipologia di emozione)."
+   ],
+   "answ": 1,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jpm8au",
+   "q": "Il modello gerarchico di Rosemberg (1998) distingue l'affettività in:",
+   "opts": [
+    "stati affettivi e umori",
+    "stati affettivi e emozioni",
+    "stati affettivi e tratti affettivi",
+    "tratti affettivi e umori"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "deuhyw",
+   "q": "L'ansia da valutazione si riferisce a un tratto di personalità caratterizzato da:",
+   "opts": [
+    "aspetti cognitivi, aspetti fisiologici, aspetti comportamentali",
+    "aspetti cognitivi, aspetti affettivi",
+    "aspetti neurologici, aspetti affettivi, aspetti comportamentali",
+    "aspetti cognitivi, aspetti affettivi, aspetti comportamentali"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dp0q1g",
+   "q": "Non è vero che le emozioni piacevoli:",
+   "opts": [
+    "hanno molteplici funzioni",
+    "per garantire la persistenza sul compito, devono essere più frequenti di quelle spiacevoli",
+    "sono il contrario delle emozioni spiacevoli",
+    "possono essere vissute contemporaneamente"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sas24",
+   "q": "Rimé analizza gli effetti del raccontare le proprie emozioni:",
+   "opts": [
+    "solo dei vissuti di colpa e vergogna",
+    "solo delle emozioni negative",
+    "anche a se stessi",
+    "solo delle emozioni positive"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3g4ulz",
+   "q": "Per una reale trasformazione dell'emozione è necessario: a) il riconoscimento delle emozioni, b) la loro comunicazione, c) la condivisione, d) la loro ri-significazione, e) l'attivazione di pattern comportamentali specifici:",
+   "opts": [
+    "a, b, d, e",
+    "a, c, e",
+    "a, c, d, e",
+    "a, b, c, d, e"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zk8u2k",
+   "q": "Il SAM valuta tre dimensioni dello stato emotivo:",
+   "opts": [
+    "valenza, attivazione, controllo",
+    "valore, attivazione, controllo",
+    "valenza, attivazione, regolazione",
+    "valenza, rispondenza, controllo"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vy8kqw",
+   "q": "Il PANAS:",
+   "opts": [
+    "valuta lo stato emotivo generale dell'individuo",
+    "è costituito da 25 termini che descrivono sentimenti ed emozioni",
+    "valuta lo stato dell'individuo nel momento presente",
+    "valuta lo stato dell'individuo in finestre temporali di diversa estensione"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1q8vswf",
+   "q": "Il Modello Interpersonale analizza l'interazione dell'influenza e della prossimità:",
+   "opts": [
+    "falso, riguarda la relazione tra sostegno e partecipazione",
+    "falso, riguarda la relazione tra l'influenza e l'appartenenza",
+    "vero, l'influenza va dall'oppositività alla cooperazione, la prossimità va dalla sottomissione alla dominanza",
+    "vero, l'influenza va dalla sottomissione alla dominanza, la prossimità va dall'oppositività alla cooperazione"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kifi1k",
+   "q": "Rispetto al costrutto di autocompassione non è vero che:",
+   "opts": [
+    "implica il non essere giudicanti",
+    "prevede tre dimensioni bipolari",
+    "implica il riconoscersi parte dell'umanità",
+    "implica l'identificarsi con i propri errori"
+   ],
+   "answ": 3,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "140esv4",
+   "q": "La capacità di regolare il proprio vissuto emotivo attiva l'individuo sul piano:",
+   "opts": [
+    "affettivo e relazionale",
+    "cognitivo, affettivo e sociale-ambientale",
+    "cognitivo e affettivo",
+    "cognitivo, affettivo e comportamentale"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vof6lk",
+   "q": "Nel modello di Gross l'Emotional Labor attiva due livelli di acting:",
+   "opts": [
+    "interno/esterno",
+    "superficiale/profondo",
+    "antecedente/posteriore",
+    "primario/secondario"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vz7t6g",
+   "q": "Il Modello di Gross collega l'elaborazione e il controllo delle emozioni a:",
+   "opts": [
+    "la possibilità di riflettere su di esse e poterle comunicare",
+    "la possibilità di apprendere da esse e poterle comunicare",
+    "la possibilità di riflettere su di esse e poterle esprimere",
+    "la possibilità di riflettere su di esse"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "t5ajq8",
+   "q": "Scegliere la definizione più corretta. In base alla Teoria del focus regolatorio:",
+   "opts": [
+    "nella modalità 'prudente' le persone non rischiano e agiscono per l'obbligo, nella modalità 'audace' osano per ottenere vantaggi anche nell'incertezza",
+    "nella modalità 'prudente' le persone rischiano se obbligate, nella modalità 'audace' osano",
+    "nella modalità 'prudente' le persone agiscono per l'obbligo, nella modalità 'audace' cercano di ottenere vantaggi",
+    "nella modalità 'prudente' le persone non rischiano, nella modalità 'audace' osano solo nell'incertezza"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qi6f3w",
+   "q": "La competenza emotiva consiste nella capacità di:",
+   "opts": [
+    "riconoscere e motivare le emozioni proprie e altrui, di esprimerle e regolarle in funzione del contesto e degli obiettivi",
+    "motivare le emozioni proprie e altrui, di esprimerle e regolarle in funzione degli obiettivi",
+    "riconoscere e motivare le proprie emozioni, di esprimerle e regolarle in funzione del contesto e degli obiettivi",
+    "riconoscere le emozioni proprie e altrui, di esprimerle e regolarle in funzione del contesto"
+   ],
+   "answ": 0,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kl1w01",
+   "q": "L'eudaimonia distingue benessere e felicità, perché solo il soddisfacimento di alcuni desideri promuove il benessere:",
+   "opts": [
+    "Dipende dall'età dei soggetti",
+    "falso",
+    "vero",
+    "dipende dal genere dei soggetti"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c3m0g0",
+   "q": "Secondo la Broaden-and Build Theory, non è vero che le emozioni positive:",
+   "opts": [
+    "costruiscono le risorse di sopravvivenza",
+    "ampliano il repertorio di azioni",
+    "ampliano le potenzialità cognitive",
+    "neutralizzano e alleviano le conseguenze negative a lungo termine delle emozioni negative"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "37wbxu",
+   "q": "Le emozioni positive:",
+   "opts": [
+    "comportano un'attivazione del sistema nervoso autonomo",
+    "sono dinamiche e hanno un valore adattivo specifico",
+    "comportano una specifica tendenza all'azione",
+    "sono un segnale esterno che spinge all'esplorazione dell'ambiente"
+   ],
+   "answ": 1,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p1lu8g",
+   "q": "La felicità:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "è prodotta da circostanze favorevoli",
+    "è un processo necessario per essere motivati, perché la motivazione significa felicità",
+    "è prodotta dal significato che diamo alle cose che facciamo, dall'atteggiamento positivo"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x7gfjg",
+   "q": "Chi non si è occupato di psicologia positiva?",
+   "opts": [
+    "Watson",
+    "Waterman",
+    "Ryff e Singer",
+    "Ryan e Deci"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1s7tddc",
+   "q": "Secondo l'ipotesi di neutralizzazione:",
+   "opts": [
+    "le emozioni positive hanno una funzione di regolazione delle emozioni negative",
+    "le emozioni positive influenzano, ma non modificano gli effetti successivi di emozioni negative",
+    "nessuna delle opzioni proposte",
+    "le emozioni positive compensano le emozioni negative"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xi209o",
+   "q": "Le esperienze di felicità sono:",
+   "opts": [
+    "soggettive e temporali",
+    "soggettive e transitorie",
+    "oggettive, temporali e transitorie",
+    "soggettive, temporali e transitorie"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dagpu8",
+   "q": "La maggior parte delle persone ha un set point per il benessere:",
+   "opts": [
+    "basso",
+    "elevato",
+    "molto elevato",
+    "molto basso"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i5veh0",
+   "q": "La felicità edonica analizza:",
+   "opts": [
+    "il piacere come benessere sociale",
+    "lo sviluppo e la realizzazione delle potenzialità individuali",
+    "il piacere come benessere personale",
+    "lo sviluppo delle potenzialità della natura umana"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k6r1v4",
+   "q": "Qual è la differenza tra gioia e piacere?",
+   "opts": [
+    "la gioia un'emozione e il piacere è una sensazione",
+    "non ci sono differenze",
+    "la gioia è una sensazione temporanea, il piacere è una sensazione duratura",
+    "la gioia una sensazione e il piacere è un'emozione"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i9garu",
+   "q": "Le persone positive:",
+   "opts": [
+    "Sono ottimiste",
+    "Hanno alta autostima",
+    "Amano frequentare altre persone",
+    "Tutte le opzioni proprste"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sc3fxw",
+   "q": "Le emozioni negative:",
+   "opts": [
+    "non forniscono energia psichica per affrontare la situazione in atto",
+    "tutte le opzioni prorposte",
+    "sono dinamiche, ma non adattive, perché non spingono all'azione",
+    "quando sono intense, prolungate e ricorrenti possono incidere sulla salute e il benessere della persona"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vmdnp8",
+   "q": "Non è vero che:",
+   "opts": [
+    "chi subisce gravi incidenti non riesce a tornare al proprio livello di set point del benessere",
+    "il livello di set point di gruppi demografici eterogenei non presenta grandi differenze",
+    "per la maggior parte delle persone il set point per il benessere è relativamente elevato",
+    "Gemelli monozigoti cresciuti in condizioni palesemente differenti presentano livelli di felicità simili"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "eqyt78",
+   "q": "La psicologia positiva valorizza le esperienze:",
+   "opts": [
+    "passate",
+    "passate, presenti e future",
+    "future",
+    "presenti e future, andando oltre quelle passate"
+   ],
+   "answ": 1,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1eirehp",
+   "q": "Il benessere soggettivo:",
+   "opts": [
+    "tende universalmente a essere stabile",
+    "è un costrutto multidimensionale di autorealizzazione",
+    "non coincide con il benessere psicologico",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "akssls",
+   "q": "Il recupero emozionale si riferisce al fatto che:",
+   "opts": [
+    "dopo emozioni positive/negative, le persone non tendono a tornare al proprio livello umorale di base",
+    "dopo emozioni positive/negative, le persone tendono a tornare al proprio livello umorale di base, determinato dall'educazione e dalle relazioni più prossime",
+    "dopo emozioni positive/negative, le persone tendono a tornare al proprio livello umorale di base, predeterminato dal loro genotipo",
+    "l’emozione resta, ma la felicità si attutisce"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gzb9b8",
+   "q": "Il livello di benessere e la qualità della vita sono fattori oggettivi:",
+   "opts": [
+    "dipende dall'età dei soggetti",
+    "Dipende dalle esperienze",
+    "falso",
+    "vero"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "skyzoo",
+   "q": "La psicologia positiva studia:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "gli effetti delle emozioni positive",
+    "gli effetti della motivazione",
+    "il ruolo delle risorse e delle potenzialità dell'uomo"
+   ],
+   "answ": 3,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4yevlk",
+   "q": "In base alla teoria dell'autodeterminazione, non è uno dei bisogni psicologici di base:",
+   "opts": [
+    "competenza",
+    "relazioni sociali",
+    "affetto",
+    "autonomia"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jtdnr4",
+   "q": "Gli incentivi sono:",
+   "opts": [
+    "Stimoli esterni",
+    "Stimoli interni",
+    "Risposte incondizionate",
+    "Meccanismi omeostatici"
+   ],
+   "answ": 0,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sp3w0o",
+   "q": "Alla sommità della gerarchia dei bisogni di Maslow c'è il bisogno di:",
+   "opts": [
+    "Trascendenza",
+    "Autorealizzazione",
+    "Relazione",
+    "Appartenenza"
+   ],
+   "answ": 1,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1icgbc4",
+   "q": "I motivi connessi indirettamente ai bisogni biologici sono detti:",
+   "opts": [
+    "Riflessi",
+    "Condizionati",
+    "Appresi",
+    "Secondari"
+   ],
+   "answ": 3,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19tawgl",
+   "q": "Le pulsioni sono:",
+   "opts": [
+    "Motivazioni endo-apprese",
+    "bisogni secondari",
+    "Deviazioni da uno stato di equilibrio interno",
+    "Indipendenti dall'ambiente"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "131phil",
+   "q": "Nella piramide di Maslow:",
+   "opts": [
+    "i bisogni spirituali sono alla base della piramide",
+    "i bisogni di base sono in cima alla piramide",
+    "i bisogni di sicurezza sono i bisogni di base",
+    "i bisogni fisiologici e di sicurezza sono detti bisogni di carenza"
+   ],
+   "answ": 3,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gkt7bc",
+   "q": "I motivi secondari sono:",
+   "opts": [
+    "Dipendenti da motivi primari",
+    "Appresi",
+    "Conseguenza dei motivi primari",
+    "Innati"
+   ],
+   "answ": 1,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kf7fwg",
+   "q": "Quando si hanno comportamenti autonomi, coinvolti, interessati, si dice che si è spinti da una motivazione:",
+   "opts": [
+    "incondizionata",
+    "intrinseca",
+    "estrinseca",
+    "all'autorealizzazione"
+   ],
+   "answ": 1,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tkuyrs",
+   "q": "Il challenge è:",
+   "opts": [
+    "il coinvolgimento nell'obiettivo del compito e l'immersione nell'azione",
+    "tutte le opzioni proposte",
+    "un bisogno appreso di sentirsi efficaci",
+    "un senso di sfida verso altri"
+   ],
+   "answ": 0,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bcoscw",
+   "q": "L'incongruenza tra le rappresentazioni di sé si supera grazie ai fattori motivanti:",
+   "opts": [
+    "credere di essere, di riuscire e di valere",
+    "credere di potere, di riuscire e di valere",
+    "credere di potere, di sapere e di valere",
+    "credere di potere, di riuscire e di volere"
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xzrix0",
+   "q": "La motivazione di Effectance:",
+   "opts": [
+    "è una motivazione intrinseca precoce",
+    "è una motivazione estrinseca precoce",
+    "è la motivazione specifica a padroneggiare l'ambiente",
+    "è distinta dai vissuti di competenza ed efficacia"
+   ],
+   "answ": 2,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16yo36s",
+   "q": "La percezione alla competenza riguarda:",
+   "opts": [
+    "la sicurezza in se stessi",
+    "l'importanza di essere riconosciuti dagli altri per la propria bravura",
+    "la valutazione della probabilità di portare a termine con successo un certo compito o attività",
+    "la voglia di imparare"
+   ],
+   "answ": 2,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i05m9k",
+   "q": "Non è vero che il senso di autoefficacia:",
+   "opts": [
+    "equivale al senso di competenza",
+    "rispecchia le credenze prima di eseguire l'azione",
+    "sintetizza il livello di abilità percepita, l'importanza della situazione e le aspettative di riuscita",
+    "è un insieme di credenze personali dominio-specifiche"
+   ],
+   "answ": 0,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qcq3es",
+   "q": "La percezione di competenza è:",
+   "opts": [
+    "una motivazione funzionalmente autonoma",
+    "tendenzialmente stabile",
+    "una variabile di personalità",
+    "tutte le opzioni di risposta"
+   ],
+   "answ": 3,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vg1wdg",
+   "q": "La motivazione all'apprendimento:",
+   "opts": [
+    "è appresa",
+    "è indipendente dall'ambiente",
+    "è innata",
+    "si manifesta dall'adolescenza"
+   ],
+   "answ": 2,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ygber8",
+   "q": "Per il modello di Harter, quando l'adulto sostiene i suoi tentativi di padronanza, il bambino sviluppa:",
+   "opts": [
+    "vissuti emotivi legati all'approvazione esterna",
+    "la percezione di un senso di competenza e di controllo interno",
+    "il rinforzo del senso di dipendenza",
+    "l'interiorizzazione di un sistema di controllo esterno"
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15i4iy4",
+   "q": "La percezione di competenza può svilupparsi o inibirsi in funzione:",
+   "opts": [
+    "del comportamento delle figure di riferimento",
+    "del comportamento delle figure di riferimento e del supporto ambientale",
+    "del confronto con i pari e del supporto ambientale",
+    "del livello di fiducia del bambino"
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13p6iwc",
+   "q": "La Teoria dei sé possibili distingue:",
+   "opts": [
+    "il sé attuale, ideale, imperativo",
+    "il sé attuale, ideale, reale",
+    "il sé attuale, reale, imperativo",
+    "il sé odierno, ideale, voluto"
+   ],
+   "answ": 0,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hniq44",
+   "q": "Non è vero che:",
+   "opts": [
+    "le difficoltà sono legate al valore attribuito e alla lettura soggettiva degli eventi",
+    "la motivazione è legata alla percezione di fattibilità",
+    "le difficoltà sono legate all'attesa e alla percezione di successo o fallimento",
+    "il successo motiva di per sé"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10rnf44",
+   "q": "La sindrome demotivazionale disfunzionale è caratterizzata da tre ordine di deficit:",
+   "opts": [
+    "culturale, motivazionale, emotivo",
+    "cognitivo, motivazionale, sociale",
+    "cognitivo, motivazionale, emotivo",
+    "cognitivo, personale, emotivo"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yck33s",
+   "q": "Seligman distingue:",
+   "opts": [
+    "cause controllabili vs. non controllabili",
+    "cause globali vs. specifiche",
+    "tutte le opzioni proposte",
+    "cause stabili vs. instabili"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fcla1",
+   "q": "L'autostima può essere influenzata dall'ambiente attraverso meccanismi di:",
+   "opts": [
+    "external appraisal; contingent self-worth; convinzioni self-defining; convinzioni self-enhancing",
+    "reflected appraisal; relative self-worth; convinzioni self-defining; convinzioni self-enhancing",
+    "reflected appraisal; contingent self-worth; convinzioni self-defining; convinzioni self-enhancing",
+    "reflected appraisal; contingent self-worth; convinzioni self-defining"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nnrri9",
+   "q": "L'autostima si fonda sulle dimensioni di:",
+   "opts": [
+    "self-competence e autoefficacia",
+    "percezione di valore del compito e di sé come discente",
+    "percezione di approvazione esterna e self-liking",
+    "self-competence e self-liking"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10qls08",
+   "q": "La sorpresa:",
+   "opts": [
+    "ha sempre valore negativo",
+    "incrementa la motivazione",
+    "ha sempre valore positivo",
+    "può avere valore sia positivo, sia negativo"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wmeov9",
+   "q": "Le motivazioni possono essere preesistenti e apprese:",
+   "opts": [
+    "vero, le motivazioni preesistenti non si possono modificare o inibire",
+    "vero, le motivazioni preesistenti sono motivi, bisogni, pulsioni, istinti; le motivazioni apprese sono convinzioni, obiettivi, valori",
+    "vero, le motivazioni preesistenti sono convinzioni, obiettivi, valori; le motivazioni apprese sono motivi, bisogni, pulsioni, istinti",
+    "falso, le motivazioni sono sempre apprese"
+   ],
+   "answ": 1,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "isrzet",
+   "q": "Si possono associare tre deficit all'impotenza appresa:",
+   "opts": [
+    "cognitivo, motivazionale, sociale",
+    "cognitivo, comportamentale, emotivo",
+    "prestazionale, motivazionale, emotivo",
+    "cognitivo, motivazionale, emotivo"
+   ],
+   "answ": 3,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1v4nniw",
+   "q": "La Teoria delle attribuzioni di Seligman descrive:",
+   "opts": [
+    "le opinioni che le persone si formano circa i motivi degli insuccessi",
+    "le opinioni che le persone si formano circa i motivi dei loro rapporti affettivi",
+    "le opinioni che le persone si formano circa i motivi dei loro successi/insuccessi",
+    "le opinioni che le persone si formano circa i propri livelli motivazionali"
+   ],
+   "answ": 2,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4yokd4",
+   "q": "Gli obiettivi di performance:",
+   "opts": [
+    "sono più efficaci per la motivazione e l'effettiva realizzazione",
+    "sono strettamente connessi alla prestazione e al livello di capacità",
+    "tutte le opzioni proposte",
+    "dipendono unicamente dall'individuo"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "t48fzs",
+   "q": "Gli obiettivi di risultato:",
+   "opts": [
+    "nessuna delle opzioni proposte",
+    "entrambe le opzioni proposte",
+    "coinvolgono anche gli avversari",
+    "possono non essere realizzati anche se gli obiettivi di performance vengono raggiunti"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xh2f7u",
+   "q": "Il modello Smarter aggiunge le caratteristiche degli obiettivi:",
+   "opts": [
+    "Exiting, recorded",
+    "Empirical, registered",
+    "Empirical, re-directed",
+    "E-xciting e R-egistered"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ahdhrg",
+   "q": "Il modello di Burton, Naylor ed Holliday articola il processo di goal setting nelle seguenti fasi:",
+   "opts": [
+    "impegno, valutazione ostacoli, previsione, monitoraggio, valutazione rischi, subgoaling",
+    "gerarchia, impegno, valutazione ostacoli, pianificazione, monitoraggio, valutazione, subgoaling",
+    "gerarchia, impegno, adattamento, pianificazione, monitoraggio, valutazione, subgoaling",
+    "gerarchia, impegno, valutazione condizioni, pianificazione, monitoraggio, valutazione di sé, incentivi"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "150wokh",
+   "q": "Rispetto agli obiettivi, è vero che:",
+   "opts": [
+    "obiettivi di risultato e di performance possono essere individuati entrambi, preferibilmente a lungo termine",
+    "obiettivi di risultato e di performance possono essere individuati entrambi indifferentemente a breve e lungo termine",
+    "è preferibile individuare obiettivi di risultato nel breve termine e obiettivi di performance a lungo termine",
+    "è preferibile individuare obiettivi di performance nel breve termine e obiettivi di risultato a lungo termine"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hw0po8",
+   "q": "L'acronimo SMART per la corretta formulazione degli obiettivi significa:",
+   "opts": [
+    "specific, misurable, action-oriented, realistic, timely",
+    "simple, misurable, active, realistic, timely",
+    "specific, misurable, action-oriented, right, tought",
+    "specific, multiple, action-oriented, realistic, timely"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18f5inc",
+   "q": "La motivazione all'apprendimento si caratterizza per:",
+   "opts": [
+    "stupore, percezione della bellezza, consapevolezza di sé, sfida",
+    "stupore, percezione della bellezza, consapevolezza di comprensione, sfida",
+    "stupore, percezione del valore, consapevolezza di comprensione, perseveranza",
+    "stupore, percezione del valore, consapevolezza di comprensione, sfida"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sl9334",
+   "q": "La capacità empatica comporta il saper:",
+   "opts": [
+    "cogliere le emozioni dell'altro; condividere ciò che l'altro prova",
+    "cogliere la prospettiva dell'altro; comunicare supporto per ciò che l'altro prova",
+    "cogliere la prospettiva e le emozioni dell'altro; comprendere ciò che l'altro prova",
+    "cogliere la prospettiva e le emozioni dell'altro; comunicare che si comprende ciò che l'altro prova"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18ik50w",
+   "q": "L'interesse individuale è:",
+   "opts": [
+    "propensione personale contingente ad apprendere un certo ambito di contenuti o capacità",
+    "propensione comune contingente ad apprendere un certo ambito di contenuti o capacità",
+    "la propensione personale durevole ad apprendere un certo ambito di contenuti o capacità",
+    "la propensione comune durevole ad apprendere un certo ambito di contenuti o capacità"
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tk9zns",
+   "q": "Gli indicatori non verbali dell'entusiasmo sono:",
+   "opts": [
+    "voce, sguardo, gesti, cinesica, espressioni",
+    "voce, sguardo, gesti, espressioni",
+    "voce, sguardo, gesti, postura, espressioni",
+    "voce, gesti, cinesica, espressioni"
+   ],
+   "answ": 0,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "scw7y8",
+   "q": "Il modello 'aspettativa x valore':",
+   "opts": [
+    "esprime un rapporto moltiplicativo",
+    "tutte le opzioni proposte",
+    "la motivazione è data dal rapporto tra aspettativa di fattibilità e valore attribuito",
+    "è influenzata da aspettative e obiettivi dell'ambiente"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kf3aro",
+   "q": "La passione armoniosa e quella ossessiva si differenziano in base a:",
+   "opts": [
+    "il vissuto soggettivo e la percezione di controllo",
+    "il vissuto emotivo e la percezione di entusiasmo",
+    "il vissuto emotivo e la percezione di competenza",
+    "il vissuto emotivo e la percezione di controllo"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pw6yiw",
+   "q": "Un sostegno è efficace se è:",
+   "opts": [
+    "specifico, credibile, non controllante, contingente, centrato sulla persona",
+    "specifico, sincero, spronante, non controllante, contingente, centrato sulla persona",
+    "specifico, credibile, spronante, non controllante, contingente, centrato sulla prestazione",
+    "specifico, credibile, sincero, spronante, contingente, centrato sulla prestazione"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1enc67g",
+   "q": "La comunicazione orientativa:",
+   "opts": [
+    "punta a sostenere senso di competenza del bambino",
+    "indica le strategie o l'interpretazione della situazione",
+    "tutte le opzioni di risposta",
+    "punta a sostenere l'autonomia del bambino"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bsrd14",
+   "q": "Il self talk aiuta a:",
+   "opts": [
+    "gestire le emozioni",
+    "tutte le opzioni proposte",
+    "orientare le azioni",
+    "attribuire un senso agli avvenimenti"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "o4qmo4",
+   "q": "Il self talk:",
+   "opts": [
+    "è saltuario",
+    "è sempre consapevole",
+    "è un dialogo personale interno",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xnwwj4",
+   "q": "Rispetto al Self-Talk, è vero che:",
+   "opts": [
+    "è una delle principali strategie di auto-motivazione",
+    "bisogna preferire formulazioni in forma positiva",
+    "tutte le opzioni proposte",
+    "i pensieri negativi e le false formulazioni positive si contrastano con alternative, non negandoli"
+   ],
+   "answ": 2,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dgbf40",
+   "q": "Tra le formulazioni disfunzionali del self talk ci sono:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "i pensieri 'devo'",
+    "le formulazioni negative",
+    "le false formulazioni positive"
+   ],
+   "answ": 0,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13d2ono",
+   "q": "L'apprendimento è influenzato da meccanismi sociali:",
+   "opts": [
+    "il conforto affettivo, la relazionalità e l'imitazione",
+    "il conforto affettivo, la relazionalità e la collaborazione",
+    "la collaborazione e l'imitazione",
+    "il conforto affettivo e l'imitazione"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ib0484",
+   "q": "Per un apprendimento ottimale, gli obiettivi sociali e gli obiettivi di apprendimento devono essere congruenti tra loro:",
+   "opts": [
+    "vero, ma gli obiettivi sociali sono subordinati a quelli di apprendimento",
+    "falso, obiettivi sociali e obiettivi di apprendimento sono spesso contrapposti",
+    "vero, e si devono promuovere l'orientamento alla padronanza e la collaborazione",
+    "vero, e si deve promuovere la collaborazione"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jzsln6",
+   "q": "La tecnica del brainstorming prevede:",
+   "opts": [
+    "tutte le alternative proposte",
+    "la possibilità per chiunque di rielaborare le idee avanzate",
+    "la separazione della fase ideativa da quella valutativa",
+    "la produzione di idee diverse, numerose e bizzarre"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lou0io",
+   "q": "Secondo il modello di Wentzel (2000), gli obiettivi sociali dell'apprendimento devono essere considerati in funzione dell'orientamento e dello scopo:",
+   "opts": [
+    "Sì, l'orientamento può essere di appartenenza o di valutazione, lo scopo può essere a sé o agli altri",
+    "Sì, l'orientamento può essere a sé o agli altri, lo scopo può essere di appartenenza o di valutazione",
+    "No, devono essere considerati in funzione delle abilità e dello scopo",
+    "No, devono essere considerati in funzione dell'orientamento e della piacevolezza"
+   ],
+   "answ": 1,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gi6g9k",
+   "q": "Il brainstorming può essere realizzato:",
+   "opts": [
+    "anche mediante computer in forma asincrona",
+    "anche mediante computer in forma sincrona",
+    "esclusivamente in presenza",
+    "anche mediante computer in forma sincrona e asincrona"
+   ],
+   "answ": 3,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y5v6g",
+   "q": "Il Think-Pair-Share:",
+   "opts": [
+    "alterna lavoro a coppie e in grande gruppo",
+    "viene condiviso con il gruppo in tutti i suoi passaggi",
+    "prevede un graduale passaggio alla co-costruzione del sapere",
+    "viene realizzato a coppie"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vftfqk",
+   "q": "I quattro stadi dell'imitazione sono:",
+   "opts": [
+    "attenzione e discriminazione delle caratteristiche critiche; osservazione; riproduzione motoria; motivazione alla ripetizione",
+    "attenzione e discriminazione dei modelli; ritenzione; riproduzione motoria; motivazione alla ripetizione",
+    "attenzione e discriminazione delle caratteristiche critiche; ritenzione; riproduzione motoria; generalizzazione",
+    "attenzione e discriminazione delle caratteristiche critiche; ritenzione; riproduzione motoria; motivazione alla ripetizione"
+   ],
+   "answ": 3,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "crem97",
+   "q": "Non è una tipologia di interdipendenza positiva:",
+   "opts": [
+    "dei risultati",
+    "di identità",
+    "delle risorse",
+    "dei ruoli"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sjwxbg",
+   "q": "Le fasi della gestione dell'apprendimento cooperativo per il formatore sono:",
+   "opts": [
+    "progettare l'attività, gestire il contesto, valutare il gruppo e il singolo",
+    "progettare l'attività, consolidare le precompetenze, valutare il gruppo e il singolo",
+    "progettare l'attività, gestire il contesto, valutare il gruppo",
+    "progettare l'attività, gestire il contesto, valutare il singolo e il processo"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ha73p8",
+   "q": "Nella costituzione dei gruppi cooperativi, occorre considerare:",
+   "opts": [
+    "tipologia di costruzione e ambito disciplinare di riferimento",
+    "durata e ampiezza del gruppo, tipologia di costruzione",
+    "tipologia di costruzione e età dei soggetti",
+    "durata del gruppo e tipologia di costruzione"
+   ],
+   "answ": 1,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2llyqo",
+   "q": "I principi dell'apprendimento cooperativo sono:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "responsabilità individuale",
+    "interdipendenza positiva e interazione costruttiva",
+    "competenze sociali e valutazione di gruppo"
+   ],
+   "answ": 0,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bhuqb0",
+   "q": "Le competenze relazionali di base per l'apprendimento cooperativo sono: conoscersi e fidarsi, risolvere i conflitti, comunicare:",
+   "opts": [
+    "falso",
+    "vero, ad eccezione della comunicazione",
+    "vero, includendo anche l'accettarsi e sostenersi",
+    "vero"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k1v5g0",
+   "q": "Non è una tipologia di interdipendenza:",
+   "opts": [
+    "interdipendenza negativa",
+    "nessuna delle opzioni proposte",
+    "interdipendenza positiva",
+    "individualismo"
+   ],
+   "answ": 3,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ke7y4s",
+   "q": "Nell'apprendimento cooperativo si valutano:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "il piano dei contenuti e dei processi",
+    "il piano dei contenuti e delle relazioni",
+    "il piano dei processi e delle relazioni"
+   ],
+   "answ": 1,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1enxvd4",
+   "q": "Nell'apprendimento cooperativo la valutazione è responsabilità:",
+   "opts": [
+    "del docente/formatore e dei formandi",
+    "del docente/formatore",
+    "dei formandi",
+    "ogni gruppo è valutato dagli altri"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zntyov",
+   "q": "Nella valutazione dell'apprendimento cooperativo si possono usare schede di rilevazione, checklist, osservazione informale:",
+   "opts": [
+    "falso",
+    "vero",
+    "vero, ad eccezione delle checklist",
+    "vero, ad eccezione dell'osservazione"
+   ],
+   "answ": 1,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1igyr9w",
+   "q": "Il contatto oculare:",
+   "opts": [
+    "è ricercato in tutte le culture",
+    "è essenziale per la comunicazione",
+    "varia molto in base alla cultura di riferimento",
+    "ha sempre valenza positiva"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ek7pls",
+   "q": "La voce è una sostanza fonica che comprende riflessi, caratterizzatori vocali, vocalizzazioni, caratteristiche extralinguistiche e paralinguistiche:",
+   "opts": [
+    "falso",
+    "vero",
+    "non comprende i riflessi",
+    "non comprende le vocalizzazioni"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cgpbzt",
+   "q": "Fanno parte dei gesti:",
+   "opts": [
+    "pantomime e ripercussioni",
+    "emblemi e imitazioni",
+    "tutti le opzioni proposte",
+    "emblemi e pantomime"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hv1ljc",
+   "q": "I gesti sono:",
+   "opts": [
+    "sono l'insieme delle azioni di contatto in un atto comunicativo",
+    "azioni motorie coordinate e circoscritte che generano un significato",
+    "un sistema di organizzazione dello spazio interpersonale nella comunicazione",
+    "un sistema di organizzazione del tempo nella comunicazione"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z3rc5w",
+   "q": "Qualità paralinguistiche della voce, espressioni facciali, gesti, sguardo, prossimità, aptica e postura sono processi e fenomeni che costituiscono l'insieme della CNV",
+   "opts": [
+    "vero",
+    "falso",
+    "vero tranne la voce",
+    "vero tranne lo sguardo"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "keif8c",
+   "q": "La zona personale prevede distanze di:",
+   "opts": [
+    "1-4 m",
+    "> 4 m",
+    "0,5-1 m",
+    "0-0,5 m"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1d3bnas",
+   "q": "La zona pubblica prevede distanze di:",
+   "opts": [
+    "0,5-1 m",
+    "1-4 m",
+    "0-0,5 m",
+    "> 4 m"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3xgs1g",
+   "q": "La zona sociale prevede distanze di:",
+   "opts": [
+    "1-4 m",
+    "0-0,5 m",
+    "0,5-1 m",
+    "> 4 m"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nqhtt4",
+   "q": "La zona intima prevede distanze di:",
+   "opts": [
+    "0-0,5 m",
+    "1-4 m",
+    "> 4 m",
+    "0,5-1 m"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xi78xs",
+   "q": "Il sorriso indica disponibilità a cooperare ed è un promotore dell'affinità relazionale con funzione:",
+   "opts": [
+    "emotiva",
+    "cognitiva",
+    "sociale",
+    "emotiva e sociale"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nhtb8o",
+   "q": "Il contesto è l’insieme delle condizioni, delle opportunità, delle restrizioni e dei vincoli spaziali, temporali, relazionali, istituzionali e culturali che genera un messaggio di senso",
+   "opts": [
+    "genera un messaggio di senso insieme all'intenzione",
+    "vero",
+    "falso",
+    "genera un messaggio di senso insieme al testo"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ib3slk",
+   "q": "Il silenzio:",
+   "opts": [
+    "è assenza di comunicazione",
+    "è una comunicazione strategica ambigua",
+    "le regole del silenzio sono trasversali alle diverse culture",
+    "è una comunicazione strategica chiara"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k63c2k",
+   "q": "Non è vero che il contesto:",
+   "opts": [
+    "è individuale",
+    "dipende dalle persone e dalla loro memoria",
+    "è costituito dalla persona che agisce nel e in relazione con un determinato ambiente",
+    "implica sviluppo"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vpb9ha",
+   "q": "Intenzione significa:",
+   "opts": [
+    "direzionalità e soggettività",
+    "direzionalità e volontarietà",
+    "tutte le opzioni proposte",
+    "autonomia e volontarietà"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ytv808",
+   "q": "L'intenzione-in-azione è:",
+   "opts": [
+    "la capacità di intervenire in modo intenzionale nell'imprevisto",
+    "la progettazione di un'azione",
+    "il monitoraggio dell'azione nel suo corso",
+    "lo scopo iniziale di un'azione"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k1wnrl",
+   "q": "L'intenzione antecedente è:",
+   "opts": [
+    "la previsione degli esiti di un'azione",
+    "la progettazione di un'azione",
+    "lo scopo iniziale di un'azione",
+    "la capacità di intervenire in modo intenzionale nell'imprevisto"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uurn84",
+   "q": "Il principio di cooperazione stabilisce che coloro che conversano cercano di fare in modo che:",
+   "opts": [
+    "gli interlocutori siano soddisfatti",
+    "Non si perda tempo",
+    "Si riesca a comunicare",
+    "Non sorgano conflitti"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vdcr0",
+   "q": "Tommaso è stato dichiarato colpevole di omicidio. Di conseguenza viene incarcerato per i prossimi dieci anni. Secondo Austin, si tratta di un atto:",
+   "opts": [
+    "locutorio",
+    "comunicativo",
+    "illocutorio",
+    "perlocutorio"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6tcv91",
+   "q": "In base alla massima della qualità, il parlante deve:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "fornire contributi pertinenti, intervenire quando necessario",
+    "fornire un contributo vero, dicendo solo cose comprovate",
+    "evitare di essere ambiguo, oscuro o prolisso"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gle1m0",
+   "q": "Il contesto implicito è dato da:",
+   "opts": [
+    "il mondo di riferimenti che il parlante condivide con l'interlocutore",
+    "tutte le opzioni proposte",
+    "parole, gesti, espressioni ed elementi della CNV",
+    "il mondo di riferimenti del parlante"
+   ],
+   "answ": 0,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1537dw5",
+   "q": "Le funzioni base della comunicazione sono:",
+   "opts": [
+    "funzione proposizionale, culturale, linguistica",
+    "funzione proposizionale, relazionale, emotiva",
+    "funzione proposizionale, relazionale, espressiva",
+    "funzione dichiarativa, linguistica, espressiva"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mmwf1c",
+   "q": "Il processo di intenzionalizzazione consiste nel:",
+   "opts": [
+    "comunicare un messaggio",
+    "manifestare un'intenzione",
+    "condividere un obiettivo comunicativo",
+    "interpretare un messaggio"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19nyupw",
+   "q": "Secondo Grice, l'intenzionalità comunicativa consiste nel:",
+   "opts": [
+    "voler entrare in relazione con l'interlocutore",
+    "voler aumentare le informazioni possedute dal destinatario",
+    "voler rendere consapevole il destinatario di qualcosa",
+    "voler accompagnare il processo di decodifica del destinatario"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jhobj8",
+   "q": "Le strategie comunicative:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "sono stabili",
+    "implicano un processo di calibrazione affettiva e cognitiva del messaggio",
+    "sono generalizzabili"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pnuvo8",
+   "q": "In assenza di intenzionalità reciproca non si ha:",
+   "opts": [
+    "informazione",
+    "contenuto",
+    "relazione",
+    "comunicazione"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lntkyo",
+   "q": "I parametri delle caratteristiche paralinguistiche sono:",
+   "opts": [
+    "Altezza, intensità, ritmo",
+    "Tono, durata, accento",
+    "Tono, intensità, tempo",
+    "tono, durata, ritmo"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3ftom4",
+   "q": "Lo sguardo dura in media:",
+   "opts": [
+    "5 secondi",
+    "3 secondi",
+    "2.5 secondi",
+    "1,5 secondi"
+   ],
+   "answ": 1,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "va5iek",
+   "q": "Mara ha l'intenzione comunicativa di manifestare la sua rabbia al proprio capo per la paga molto bassa. Secondo Austin vuole compiere:",
+   "opts": [
+    "un atto perlocutorio",
+    "un atto locutorio",
+    "un atto fatico",
+    "un atto illocutorio"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "llr2zk",
+   "q": "Si parla di 'uso conversazionale' di un termine quando:",
+   "opts": [
+    "il bambino ha acquisito l'uso di un termine in tutti i contesti conversazionali",
+    "il bambino riconosce il contesto nel quale viene utilizzato un termine e ne comprende il significato",
+    "il bambino riconosce il contesto nel quale viene utilizzato un termine pur non comprendendone il significato",
+    "il bambino comprende il significato di un termine, ma non distingue ancora il contesto nel quale viene utilizzato"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "oi1mmq",
+   "q": "La comunicazione funzionale è: a) accettante; b) stimolante; c) fondata su motivazioni estrinseche; d) incoraggiante; e) non incerta o imprevista; f) non differenziata:",
+   "opts": [
+    "b, c, e",
+    "a, b, c, d, e, f",
+    "a, b, d",
+    "d, e, f"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qaxa64",
+   "q": "Le implicature sono: a) inferenze che aiutano a determinare il significato di un enunciato; b) distinte in convenzionali e conversazionali; c) scalari se contravvengono il principio di qualità:",
+   "opts": [
+    "b, c",
+    "A, b, c",
+    "A, b",
+    "A, c"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "120nve5",
+   "q": "Tra i principi della comunità di apprendimento ricordiamo:",
+   "opts": [
+    "collaborazione e motivazione",
+    "cultura e ordine",
+    "azione e riflessione",
+    "contenuti e valutazione"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wp8y5g",
+   "q": "All'interno delle comunità di pratiche, l'apprendimento:",
+   "opts": [
+    "è distribuito tra le persone e gli artefatti",
+    "è situato e contribuisce alla formazione dell'identità",
+    "tutte le opzioni proposte",
+    "è un atto sociale, guidato dalle esigenze della comunità"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1o8hh4k",
+   "q": "I luoghi 'interni' dell'apprendimento:",
+   "opts": [
+    "permettono di acquisire competenze e capacità che motivano valorialmente all'apprendimento",
+    "permettono di acquisire competenze o capacità rilevanti nella quotidianità e nelle relazioni",
+    "permettono di acquisire competenze o capacità intellettuali",
+    "permettono di acquisire competenze o capacità rilevanti nella cultura di appartenenza"
+   ],
+   "answ": 0,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1b81x9p",
+   "q": "Il modello del setting di Antonietti prevede:",
+   "opts": [
+    "spazio di azione, progetto strutturale, atteggiamento, senso",
+    "spazio di azione, progetto strutturale, atteggiamento, valore",
+    "spazio di azione, impalcature, atteggiamento, senso",
+    "spazio di azione, progetto strutturale, azioni, senso"
+   ],
+   "answ": 0,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "151nykx",
+   "q": "L'apprendistato cognitivo richiede tre principali operazioni mentali:",
+   "opts": [
+    "selezione, riflessione, esplorazione",
+    "articolazione, riflessione, esplorazione",
+    "articolazione, riflessione, confronto",
+    "articolazione, organizzazione, esplorazione"
+   ],
+   "answ": 1,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12hxdjk",
+   "q": "Nel modello di setting di Antonietti, lo 'schema organico e coerente rispetto agli obiettivi e alle modalità sottese agli elementi concreti' è detto:",
+   "opts": [
+    "sfondo",
+    "atteggiamento",
+    "progetto strutturale",
+    "spazio di azione"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10b4ffw",
+   "q": "Nel modello sistematico di Bronfenbrenner, l'insieme degli schemi di attività, dei ruoli e delle relazioni interpersonali all'interno del contesto immediato del soggetto costituisce:",
+   "opts": [
+    "l'Esosistema",
+    "il Mesosistema",
+    "il Microsistema",
+    "il Macrosistema"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fb8zas",
+   "q": "Le fasi dell'apprendistato cognitivo sono:",
+   "opts": [
+    "modellamento, rinforzo, fading, scaffolding",
+    "modellamento, coaching, fading, supervisione",
+    "modellamento, coaching, fading, scaffolding",
+    "modellamento, coaching, metacognizione, scaffolding"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cw7wls",
+   "q": "Nel modello sistematico di Bronfenbrenner, l'interconnessione dei microsistemi che comprende anche situazioni non attualmente presenti, ma influenti, costituisce:",
+   "opts": [
+    "il Macrosistema",
+    "il Microsistema",
+    "il Mesosistema",
+    "l'Esosistema"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uz1jwk",
+   "q": "Non è vero che il setting:",
+   "opts": [
+    "è costituito dalla persona che agisce nel e in relazione con un determinato ambiente",
+    "dipende dalle persone e dalla loro memoria",
+    "è individuale",
+    "implica sviluppo"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1oynsoy",
+   "q": "Nel modello sistematico di Bronfenbrenner, le situazioni ambientali in cui si verificano eventi che determinano o sono a loro volta determinati da ciò che accade nella situazione ambientale dell'individuo, ma non lo vedono coinvolto attivamente, costituiscono:",
+   "opts": [
+    "il Microsistema",
+    "l'Esosistema",
+    "il Mesosistema",
+    "il Macrosistema"
+   ],
+   "answ": 1,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "aiu6yw",
+   "q": "Nel modello sistematico di Bronfenbrenner, gli aspetti comuni ai sottosistemi di una cultura che ne influenzano i cambiamenti a cascata, costituiscono:",
+   "opts": [
+    "il Microsistema",
+    "il Macrosistema",
+    "l'Esosistema",
+    "il Mesosistema"
+   ],
+   "answ": 1,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "puh7j8",
+   "q": "Nel modello sistematico di Bronfenbrenner, la possibilità di cambiamento è funzione di:",
+   "opts": [
+    "partecipazione a situazioni ambientali culturalmente eterogenee",
+    "coinvolgimento in attività responsabili, centrate su un compito e condivise con persone più esperte",
+    "entrambe le opzioni proposte",
+    "nessuna delle opzioni proposte"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dyuxk",
+   "q": "Nel modello sistematico di Bronfenbrenner, «attività molari» sono:",
+   "opts": [
+    "indicatori dell'evoluzione personale dell'individuo e degli influssi che questi ha subìto dall'ambiente",
+    "attività che hanno un significato e uno scopo, che sono significative per il soggetto",
+    "tutte le opzioni proposte",
+    "la manifestazione principale e più immediata dell'apprendimento"
+   ],
+   "answ": 2,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1h32krk",
+   "q": "I luoghi 'esterni' dell'apprendimento:",
+   "opts": [
+    "permettono di acquisire competenze o capacità rilevanti nella quotidianità e nelle relazioni",
+    "permettono di acquisire competenze o capacità pratiche",
+    "permettono di acquisire competenze e capacità che motivano valorialmente all'apprendimento",
+    "permettono di acquisire competenze o capacità rilevanti nella cultura di appartenenza"
+   ],
+   "answ": 0,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14g32yn",
+   "q": "Lo sfondo:",
+   "opts": [
+    "è predisposto dal formatore, ma deve essere approvato dal formando",
+    "è definito dal formando",
+    "è predisposto dal formatore, ma si realizza pienamente nell'interpretazione del formando",
+    "è predisposto dal formatore"
+   ],
+   "answ": 2,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iprj6k",
+   "q": "Il patto formativo non definisce:",
+   "opts": [
+    "le regole del setting",
+    "nessuna delle opzioni proposte",
+    "i presupposti (teorici, culturali, ecc.)",
+    "le modalità e i tempi di lavoro"
+   ],
+   "answ": 1,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "68009g",
+   "q": "Il nome del modello CASCO significa:",
+   "opts": [
+    "Contesto, Ampliamento repertorio strategico, Sperimentazione, Competenze sociali e personali, Osservazione",
+    "Contesto, Associazione, Sperimentazione, Confronto, Osservazione",
+    "Capacità, Associazione, Sperimentazione, Competenze sociali e personali, Osservazione",
+    "Capacità, Anticipazione, Strategia, Competenze sociali e personali, Obiezioni"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lsdgjk",
+   "q": "L'ultimo obiettivo del Modello CASCO è l'osservazione, intesa come:",
+   "opts": [
+    "osservazione e ascolto attivo di sé e del mondo",
+    "osservazione di sé e del mondo",
+    "osservazione dei risultati",
+    "osservazione dei comportamenti"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hs0f3s",
+   "q": "Rispetto alle epistemologie personali, la dimensione della 'natura della conoscenza', comprende credenze:",
+   "opts": [
+    "sulle fonti e le giustificazioni della conoscenza",
+    "relative al grado di certezza e di semplicità della conoscenza",
+    "relative al grado di certezza e di giustificabilità della conoscenza",
+    "relative al grado di semplicità e le fonti della conoscenza"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gcx664",
+   "q": "Le dimensioni delle epistemologie personali riguardano:",
+   "opts": [
+    "la natura della conoscenza e gli effetti del processo del conoscere",
+    "la natura della conoscenza e il processo del conoscere",
+    "la natura e la valutazione della conoscenza",
+    "le tipologie della conoscenza e il processo del conoscere"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "35zftg",
+   "q": "Secondo Schommer, le dimensioni delle epistemologie personali comprendono:",
+   "opts": [
+    "nessuna delle opzioni proposte",
+    "controllo e velocità di acquisizione",
+    "grado di certezza e organizzazione",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 3,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9eprzc",
+   "q": "Rispetto alle epistemologie personali, la dimensione del 'processo del conoscere', comprende credenze:",
+   "opts": [
+    "sulle fonti e le giustificazioni della conoscenza",
+    "relative al grado di semplicità e le fonti della conoscenza",
+    "relative al grado di certezza e di semplicità della conoscenza",
+    "relative al grado di certezza e di giustificabilità della conoscenza"
+   ],
+   "answ": 0,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wv0clg",
+   "q": "Non è vero che le epistemologie personali:",
+   "opts": [
+    "quelle rispetto alla velocità dell'apprendimento, la costruzione del sapere e le caratteristiche degli studenti di successo risentono delle differenze culturali",
+    "sono stabili rispetto ai diversi domini specifici",
+    "sono influenzate dall'ambiente di apprendimento",
+    "sono influenzate dalla struttura del materiale"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ugxocw",
+   "q": "Le epistemologie personali:",
+   "opts": [
+    "sono intuizioni socialmente condivise circa la natura della conoscenza e dell'apprendimento",
+    "non incidono sulla definizione degli obiettivi, né forniscono standard per la valutazione",
+    "sono visioni consapevoli",
+    "riguardano ciò che un individuo ha appreso in ambito scolastico su che cosa significa imparare a studiare"
+   ],
+   "answ": 0,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ldrhm8",
+   "q": "Secondo Magolda, l'affermazione che la conoscenza evolve ed è la capacità individuale di valutare un contesto per definire una propria posizione, caratterizza la visione:",
+   "opts": [
+    "visione assoluta",
+    "visione transizionale",
+    "visione indipendente",
+    "visione contestuale"
+   ],
+   "answ": 3,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m90jo4",
+   "q": "Secondo Magolda, la messa in discussione dell'idea dell'autorità come unica fonte del sapere e la valorizzazione delle opinioni individuali caratterizzano la visione:",
+   "opts": [
+    "visione assoluta",
+    "visione indipendente",
+    "visione contestuale",
+    "visione transizionale"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qfbu9w",
+   "q": "Secondo Magolda, la graduale accettazione dell'incertezza del sapere caratterizza la visione:",
+   "opts": [
+    "visione indipendente",
+    "visione assoluta",
+    "visione transizionale",
+    "visione contestuale"
+   ],
+   "answ": 2,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pypxyo",
+   "q": "Secondo Magolda, l'affermare che la conoscenza è certa e le autorità sono onniscienti caratterizza la visione:",
+   "opts": [
+    "visione assoluta",
+    "visione indipendente",
+    "visione transizionale",
+    "visione contestuale"
+   ],
+   "answ": 0,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x0akug",
+   "q": "Le visioni dell'apprendimento di Magolda sono:",
+   "opts": [
+    "assoluta, transizionale, indipendente, contestuale",
+    "assoluta, transizionale, indipendente, contestuale",
+    "assoluta, transizionale, indipendente, sociale",
+    "assoluta, transizionale, interdipendente, contestuale"
+   ],
+   "answ": 0,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z3lykp",
+   "q": "La Prospettiva fenomenografico-soggettiva di Säljö distingue:",
+   "opts": [
+    "4 categorie su 2 livelli distinti in base al riferimento alle azioni",
+    "5 categorie su 2 livelli distinti in base al riferimento alle azioni",
+    "5 categorie su 2 livelli distinti in base al riferimento al significato",
+    "3 categorie su 2 livelli distinti in base al riferimento al significato"
+   ],
+   "answ": 2,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "arijf8",
+   "q": "Lo studio delle concezioni dell'apprendimento è stato intrapreso con due principali approcci, la cui definizione più completa è:",
+   "opts": [
+    "Approccio Fenomenografico – intersoggettivo e Approccio Culturale – soggettivo",
+    "Approccio Fenomenografico – soggettivo e Approccio Culturale – intersoggettivo",
+    "Approccio Analitico e Approccio Olistico",
+    "Approccio Fenomenografico e Approccio Culturale"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r0119s",
+   "q": "La prospettiva di Bruner prevede quattro visioni:",
+   "opts": [
+    "imitazione, acquisizione di conoscenza proposizionale, scambio oggettivo, gestione della conoscenza obiettiva",
+    "imitazione, acquisizione di conoscenza procedurale, scambio intersoggettivo, gestione della conoscenza obiettiva",
+    "imitazione, acquisizione di conoscenza proposizionale, scambio intersoggettivo, gestione della conoscenza soggettiva",
+    "imitazione, acquisizione di conoscenza proposizionale, scambio intersoggettivo, gestione della conoscenza obiettiva"
+   ],
+   "answ": 3,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nfw6os",
+   "q": "Il QAPCOL rileva:",
+   "opts": [
+    "le conoscenze metacognitive sul metodo di studio",
+    "le concezioni dell'apprendimento",
+    "le epistemologie personali",
+    "gli stili di pensiero"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rpj6es",
+   "q": "Apprendere è capacità di riprodurre e collegare un contenuto memorizzato. Nel modello di Säljö, questa posizione rispecchia la categoria:",
+   "opts": [
+    "Applicazione di fatti e procedure tramite usi pratici",
+    "Crescita della conoscenza",
+    "Memorizzazione",
+    "Processo interpretativo nella comprensione della realtà"
+   ],
+   "answ": 2,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "efd7sc",
+   "q": "Si apprende con modalità recettiva e la responsabilità dell'apprendimento è esterna all'individuo. Nel modello di Säljö, questa posizione rispecchia la categoria:",
+   "opts": [
+    "Crescita della conoscenza",
+    "Memorizzazione",
+    "Applicazione di fatti e procedure tramite usi pratici",
+    "Processo interpretativo nella comprensione della realtà"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14ns9o8",
+   "q": "Uno dei due principali contributi allo studio delle concezioni dell’apprendimento è dato dall'approccio:",
+   "opts": [
+    "Approccio Culturale – soggettivo",
+    "Approccio Fenomenografico – intersoggettivo",
+    "nessuna delle opzioni proposte",
+    "Approccio Fenomenografico – soggettivo"
+   ],
+   "answ": 3,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16qjghc",
+   "q": "Le dimensioni strutturali delle concezioni dell'apprendimento sono:",
+   "opts": [
+    "convinzioni, emozioni attivate, controllo metacognitivo",
+    "convinzioni, emozioni attivate, conoscenza metacognitiva",
+    "convinzioni, pensieri attivati, controllo metacognitivo",
+    "convinzioni, motivazioni, controllo metacognitivo"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j6m6mc",
+   "q": "L'apprendimento è cambiamento della persona e del suo modo di ragionare. Nel modello di Säljö, questa posizione rispecchia la categoria:",
+   "opts": [
+    "Memorizzazione",
+    "Processo interpretativo nella comprensione della realtà",
+    "Astrazione di significato",
+    "Crescita della conoscenza"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1b2dml5",
+   "q": "La prospettiva fenomenografico-soggettiva di Säljö contrappone le visioni:",
+   "opts": [
+    "di I /II grado",
+    "quantitativa/qualitativa",
+    "semplice/strutturata",
+    "superficiale/profonda"
+   ],
+   "answ": 1,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1aldo9s",
+   "q": "L'apprendimento è una corresponsabilità discente/docente, funzionale all'applicazione e all'adattamento dei contenuti. Nel modello di Säljö, questa posizione rispecchia la categoria:",
+   "opts": [
+    "Processo interpretativo nella comprensione della realtà",
+    "Astrazione di significato",
+    "Crescita della conoscenza",
+    "Applicazione di fatti e procedure tramite usi pratici"
+   ],
+   "answ": 3,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fluz39",
+   "q": "Il Conflitto Cognitivo insorge:",
+   "opts": [
+    "per l'inadeguatezza dei ragionamenti nello spiegare la realtà osservata",
+    "per l'inadeguatezza delle conoscenze nello spiegare la realtà osservata",
+    "per l'inadeguatezza del soggetto nel comprendere la realtà osservata",
+    "per l'inadeguatezza del modello nello spiegare la realtà osservata"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "165d14x",
+   "q": "I modelli mentali concettuali si distinguono in:",
+   "opts": [
+    "relazionali, spaziali, temporali, cinetici, culturali",
+    "monadici, relazionali, metalinguistici, sistemici",
+    "relazionali, spaziali, temporali, cinetici, dinamici",
+    "monadici, relazionali, metalinguistici, insiemistici"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "k0fze4",
+   "q": "Il modello mentale è:",
+   "opts": [
+    "un'organizzazione cognitiva strutturata",
+    "nessuna delle opzioni proposte",
+    "entrambe le opzioni proposte",
+    "un'interpretazione coerente della realtà"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xu8rm8",
+   "q": "Il modello mentale non è:",
+   "opts": [
+    "un'entità solida e resistente che viene continuamente modificata",
+    "un'entità solida e resistente cui ci si affida per spiegare il mondo",
+    "un insieme integrato di elementi tra loro altamente coesi",
+    "un'entità solida e resistente che viene abbandonata o modificata a fatica"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "stkqnl",
+   "q": "I modelli mentali fisici si distinguono in:",
+   "opts": [
+    "monadici, relazionali, metalinguistici, insiemistici",
+    "relazionali, spaziali, temporali, cinetici, dinamici",
+    "relazionali, spaziali, temporali, cinetici, culturali",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 1,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ybq50k",
+   "q": "I modelli mentali sono assimilabili a:",
+   "opts": [
+    "opinioni",
+    "credenze",
+    "rappresentazioni concettuali",
+    "convinzioni"
+   ],
+   "answ": 2,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7l4ntp",
+   "q": "Rispetto agli aspetti sintattici, i modelli mentali:",
+   "opts": [
+    "le loro componenti sono interconnesse semplicemente associate",
+    "omogenei al loro interno",
+    "tutte le opzioni proposte",
+    "sono finiti e discreti"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qudtu0",
+   "q": "Il cambiamento concettuale rappresenta:",
+   "opts": [
+    "la fase di passaggio da processi mentali di ordine inferiore a processi di ordine superiore",
+    "la fase di passaggio da un modello mentale di ordine inferiore a uno di ordine superiore",
+    "la fase di passaggio da conoscenze di ordine inferiore a conoscenze di ordine superiore",
+    "il cambiamento di posizione su un dato argomento"
+   ],
+   "answ": 1,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1owjyqg",
+   "q": "Secondo il modello dell'apprendimento dell'associazione, il docente provvede a:",
+   "opts": [
+    "segmentare e sequenziare i contenuti in sotto-unità",
+    "cogliere la totalità e le strutture dei contenuti di studio",
+    "presentare casi paradigmatici",
+    "accertare le competenze iniziali ed evidenziarne eventuali inadeguatezze"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ti3qec",
+   "q": "La rilevazione dei modelli dell'apprendimento è finalizzata a: a) rilevare i modelli impliciti dei formandi; b) rendere gli studenti consapevoli dei propri modelli; c) sostenere i docenti nell'approccio alle novità didattiche o nella sperimentazione; d) definire una valutazione psicodiagnostica degli studenti:",
+   "opts": [
+    "a + b",
+    "a + b + c",
+    "b + d",
+    "a + d"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7kuqmi",
+   "q": "Nel modello costruttivista, il discente deve:",
+   "opts": [
+    "elaborare una struttura cognitiva coerente che superi quella precedente",
+    "cogliere i collegamenti tra varie unità",
+    "spiegare i legami sussistenti tra ogni unità informativa e quelle adiacenti",
+    "verificare l'applicabilità del principio a casi analoghi"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j99clk",
+   "q": "I modelli dell'apprendimento possono essere analizzati in funzione:",
+   "opts": [
+    "nessuna delle opzioni proposte",
+    "delle operazioni che attivano e presuppongono",
+    "dei contenuti dai quali partono",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 3,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9d1f5k",
+   "q": "Rispetto all'apprendimento, il termine 'modello' si riferisce a:",
+   "opts": [
+    "Metodologie, procedure e tecniche",
+    "Scuole di pensiero e orientamenti",
+    "Tutte le opzioni proposte",
+    "Teorie e modelli teorici"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ku2cjo",
+   "q": "Nel modello della scoperta, il discente deve:",
+   "opts": [
+    "elaborare una struttura cognitiva coerente che superi quella precedente",
+    "spiegare i legami sussistenti tra ogni unità informativa e quelle adiacenti",
+    "verificare l'applicabilità del principio a casi analoghi",
+    "cogliere i collegamenti tra varie unità"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gn2xxo",
+   "q": "Il modello dell'attività considera il discente:",
+   "opts": [
+    "pieno, attivo",
+    "pieno, passivo",
+    "vuoto, attivo",
+    "vuoto, passivo"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yek7dm",
+   "q": "Nel modello del campo, l'apprendimento è un processo di:",
+   "opts": [
+    "in cui cogliere vettori/forze, relazioni, strutture globali sulla base di principi innati e universali",
+    "problem solving e motivazione alla ricerca di soluzioni",
+    "di rinforzo/punizione per cementare le catene associative",
+    "ristrutturazione"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1b6rtvg",
+   "q": "Nel modello del campo, il docente deve:",
+   "opts": [
+    "trovare/esplicitare i legami tra le unità",
+    "individuare rapporti e linee di forza",
+    "fare domande e invitare all'assunzione di più prospettive",
+    "sollecitare ipotesi e guidare alla formazione di nuove strutture"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "toj7nc",
+   "q": "Il modello del processo di insegnamento e apprendimento di Antonietti si fonda sui seguenti assi:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "vuoto-pieno e interno/esterno",
+    "vuoto-pieno e attivo-passivo",
+    "attivo-passivo e interno/esterno"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lvujgq",
+   "q": "Non è vero che le mappe concettuali:",
+   "opts": [
+    "rendono evidente l'esistenza di lacune o misconcezioni",
+    "permettono il passaggio da obiettivi di prestazione a quelli di comprensione",
+    "favoriscono l'organizzazione e la strutturazione delle conoscenze",
+    "sono più efficaci se realizzate individualmente"
+   ],
+   "answ": 3,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gjg49g",
+   "q": "I benefici dell'apprendimento per scoperta sono di ordine:",
+   "opts": [
+    "motivazionale, di performance, cognitivo",
+    "motivazionale, sociale, metodologico",
+    "motivazionale, cognitivo, organizzativo",
+    "motivazionale, cognitivo, metodologico"
+   ],
+   "answ": 3,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ivrn30",
+   "q": "Non è vero che le mappe concettuali:",
+   "opts": [
+    "sono un valido strumento di valutazione",
+    "facilitano la memoria di lavoro",
+    "integrano il codice verbale e quello visivo",
+    "facilitano discenti con DSA"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "clmx2w",
+   "q": "Nel modello dell'associazione, l'apprendimento è un processo di:",
+   "opts": [
+    "di rinforzo/punizione per cementare le catene associative",
+    "problem solving e motivazione alla ricerca di soluzioni",
+    "ristrutturazione",
+    "in cui cogliere vettori/forze, relazioni, strutture globali sulla base di principi innati e universali"
+   ],
+   "answ": 0,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dh8fwk",
+   "q": "Rinforzo e rinforzatore si riferiscono:",
+   "opts": [
+    "alla legge dell'effetto",
+    "al condizionamento classico",
+    "al condizionamento operante",
+    "agli approcci cognitivo-sociali all'apprendimento"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1n7k7e8",
+   "q": "La competenza è caratterizzata da:",
+   "opts": [
+    "organizzazione, analisi, flessibilità, contestualizzazione",
+    "organizzazione, articolazione, flessibilità, collegamento",
+    "organizzazione, articolazione, adattamento, contestualizzazione",
+    "organizzazione, articolazione, flessibilità, contestualizzazione"
+   ],
+   "answ": 3,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "job8gh",
+   "q": "L'apprendimento attivo:",
+   "opts": [
+    "comporta solamente un'attività mentale",
+    "comporta solamente un'attività motorio-comportamentale",
+    "comporta anche un'attività mentale",
+    "comporta un'attività solamente motoria"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16t0azs",
+   "q": "Quando un comportamento viene rinforzato ogni volta che si verifica, si sta applicando un programma di rinforzo:",
+   "opts": [
+    "a rapporto",
+    "continuo",
+    "casuale",
+    "variabile"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e2x7k6",
+   "q": "Quale delle seguenti affermazioni è vera?",
+   "opts": [
+    "solo i rinforzatori positivi aumentano la probabilità di avere una risposta",
+    "sia i rinforzatori positivi sia quelli negativi aumentano la probabilità di ottenere una risposta",
+    "solo i rinforzatori negativi aumentano la probabilità di avere una risposta",
+    "sia i rinforzatori positivi sia quelli negativi diminuiscono la probabilità di avere una risposta"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dw2b50",
+   "q": "Secondo Skinner, il rinforzo è il processo che conduce il ratto a continuare a premere la leva che eroga cibo. Il rinforzatore è invece:",
+   "opts": [
+    "la leva",
+    "l'erogatore del cibo",
+    "il cibo",
+    "il ratto"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bgcns9",
+   "q": "La legge dell'effetto:",
+   "opts": [
+    "sostiene che le risposte che causano conseguenze soddisfacenti hanno una maggiore probabilità di essere ripetute",
+    "tutte le precedenti",
+    "fa riferimento al comportamento di un gatto in una gabbia",
+    "è stata formulata da Thorndike"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1scnxn0",
+   "q": "La generalizzazione indica:",
+   "opts": [
+    "L'applicabilità del condizionamento all'apprendimento umano",
+    "L'applicabilità del condizionamento all'apprendimento di processi complessi",
+    "La tendenza del condizionamento ad estendersi a stimoli simili",
+    "Il mantenimento del condizionamento quando la risposta appropriata non è più rinforzata"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bbixpp",
+   "q": "L'esperimento del piccolo Albert fu svolto da:",
+   "opts": [
+    "Pavlov",
+    "Thorndike",
+    "Skinner",
+    "Watson"
+   ],
+   "answ": 3,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1fx7x5f",
+   "q": "Nel condizionamento classico:",
+   "opts": [
+    "risposta condizionata e incondizionata sono identiche",
+    "risposta condizionata e incondizionata sono diverse",
+    "il condizionamento è maggiore quando lo stimolo condizionato è presentato appena dopo lo stimolo incondizionato",
+    "il condizionamento è maggiore quando lo stimolo condizionato è presentato appena prima dello stimolo incondizionato"
+   ],
+   "answ": 3,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qrq60t",
+   "q": "Le ricompense come il cibo o l'acqua sono rinforzatori:",
+   "opts": [
+    "secondari",
+    "neutri",
+    "primari",
+    "negativi"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ewdufw",
+   "q": "Negli esperimenti di Pavlov, qual era lo stimolo incondizionato?",
+   "opts": [
+    "Il suono del campanello",
+    "Il cane",
+    "Il cibo",
+    "La salivazione"
+   ],
+   "answ": 2,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kk8hnw",
+   "q": "Nell'apprendimento per argomentazione, i contenuti sono:",
+   "opts": [
+    "creati dal discente",
+    "secondari",
+    "dati dal docente",
+    "trovati dal discente"
+   ],
+   "answ": 0,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mtgxj0",
+   "q": "Secondo Candy, le dimensioni dell'apprendimento auto-diretto sono:",
+   "opts": [
+    "autonomia personale, autogestione dell'apprendimento, realizzazione indipendente dell'apprendimento, autovalutazione",
+    "autonomia personale, autogestione dell'apprendimento, controllo, motivazione",
+    "autonomia personale, gestione condivisa dell'apprendimento, controllo, realizzazione indipendente dell'apprendimento",
+    "autonomia personale, autogestione dell'apprendimento, controllo, realizzazione indipendente dell'apprendimento"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mn8tr4",
+   "q": "I modelli dell'apprendimento possono attivare operazioni di:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "Scaffolding",
+    "Imitazione",
+    "Autoregolazione"
+   ],
+   "answ": 0,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lm0zi8",
+   "q": "Nell'apprendimento basato sui problemi, i contenuti sono:",
+   "opts": [
+    "dati dal docente",
+    "secondari",
+    "creati dal discente",
+    "trovati dal discente"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hfdo5w",
+   "q": "Lo Scaffolding può essere:",
+   "opts": [
+    "teorico, operativo, strategico, metacognitivo",
+    "concettuale, procedurale, strategico, metacognitivo",
+    "concettuale, procedurale, relazionale, riflessivo",
+    "concettuale, procedurale, euristico, metacognitivo"
+   ],
+   "answ": 1,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1b0li1c",
+   "q": "I contenuti di riferimento nell'apprendimento possono essere forniti:",
+   "opts": [
+    "dall'ambiente",
+    "dal formatore/docente",
+    "dal lavoro del discente",
+    "dal docente o dal discente"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1m2t754",
+   "q": "Il Mastery learning si rifà a un modello:",
+   "opts": [
+    "basato sulla relazione",
+    "basato sui contenuti",
+    "basato sui comportamenti",
+    "basato sulle operazioni"
+   ],
+   "answ": 1,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qrsjgw",
+   "q": "L'apprendimento basato sui problemi, si rifà a un modello:",
+   "opts": [
+    "basato sulla relazione",
+    "basato sulle operazioni",
+    "basato sui contenuti",
+    "basato sui comportamenti"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hv8sec",
+   "q": "L'apprendimento per discussione, si rifà a un modello:",
+   "opts": [
+    "basato sulle operazioni",
+    "basato sui comportamenti",
+    "basato sulla relazione",
+    "basato sui contenuti"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gklxks",
+   "q": "L'autoregolazione si basa su un modello dell'apprendimento:",
+   "opts": [
+    "basato sui comportamenti",
+    "basato sulla relazione",
+    "basato sui contenuti",
+    "basato sulle operazioni"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j507c",
+   "q": "Il processo personale orientato nel tempo e nello spazio, sempre diretto ad un interlocutore preciso, costituito da una serie di affermazioni valutative, è detto:",
+   "opts": [
+    "critica",
+    "argomentazione",
+    "autovalutazione",
+    "discussione"
+   ],
+   "answ": 1,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gscc18",
+   "q": "Lo scaffolding si basa su un modello dell'apprendimento:",
+   "opts": [
+    "basato sui comportamenti",
+    "basato sui contenuti",
+    "basato sulla relazione",
+    "basato sulle operazioni"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4hcaoi",
+   "q": "L'imitazione comporta le capacità di:",
+   "opts": [
+    "elaborare una rappresentazione mentale che attiva processi inter-modali di traduzione dei modelli visivi in modelli motori e la capacità di coordinamento motorio",
+    "elaborare una rappresentazione mentale che attiva processi inter-modali di traduzione dei modelli visivi in modelli motori e la capacità di attuarli",
+    "elaborare una rappresentazione mentale che attiva processi inter-modali di traduzione dei modelli visivi in modelli motori e la capacità di valutarne la correttezza",
+    "elaborare una rappresentazione mentale che attiva processi inter-modali di traduzione dei modelli visivi in modelli motori e la capacità di mindreading"
+   ],
+   "answ": 3,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "192b41o",
+   "q": "Il pensiero narrativo è vincolato alla realtà:",
+   "opts": [
+    "Dipende dal tipo di argomento",
+    "vero",
+    "dipende dall'età del narrante",
+    "falso"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "itsvqc",
+   "q": "Il pensiero narrativo media tra l'esperienza e colui che la narra:",
+   "opts": [
+    "vero",
+    "falso",
+    "dipende dall'età del narrante",
+    "Dipende dal tipo di argomento"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rc59w4",
+   "q": "Il pensiero narrativo è un punto di vista sulla realtà esperita e ricreata:",
+   "opts": [
+    "Dipende dal tipo di argomento",
+    "vero",
+    "falso",
+    "dipende dall'età del narrante"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1r83h5x",
+   "q": "Secondo Bruner, il pensiero narrativo è:",
+   "opts": [
+    "Sequenziale, particolare, concreto",
+    "Sequenziale, particolare, creativo",
+    "Sequenziale, generale, concreto",
+    "Particolare, concreo, visivo"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "z75vpd",
+   "q": "Le narrazioni sul sé possono essere:",
+   "opts": [
+    "chiuse/aperte",
+    "primarie/secondarie",
+    "fisse/aperte",
+    "orizzontali/verticali"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12qip6w",
+   "q": "Secondo la classificazione funzionale di Mayer, le immagini possono avere una funzione:",
+   "opts": [
+    "decorativa, rappresentativa, organizzativa, sintetica",
+    "decorativa, rappresentativa, cognitiva, esplicativa",
+    "nessuna delle opzioni proposte",
+    "decorativa, rappresentativa, organizzativa, esplicativa"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xji12o",
+   "q": "Gli assunti di Mayer affermano che:",
+   "opts": [
+    "l'elaborazione di esperienze/informazioni è un processo cognitivo di riproduzione fedele di elementi provenienti dall'esterno",
+    "le informazioni/esperienze di tipo visivo/uditivo sono elaborate da canali di elaborazione distinti",
+    "i canali per l'elaborazione delle informazioni non sono limitati quanto a capacità di elaborazione di informazioni in entrata",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jgxnvg",
+   "q": "Nella categorizzazione funzionale delle immagini di Mayer, l'illustrazione rappresentativa di primo livello:",
+   "opts": [
+    "rappresenta parti o scene del testo, sostituendo il testo stesso",
+    "non ha nessun rapporto con il testo",
+    "rappresenta parti o scene del testo",
+    "ha un rapporto lontano e non diretto con testo"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ep9cc9",
+   "q": "Secondo il Principio della contiguità spaziale:",
+   "opts": [
+    "Si impara meglio quando parole e immagini corrispondenti sono presentate simultaneamente",
+    "Si impara meglio da un'animazione unita a una narrazione, che da un'animazione unita a testo riportato sullo schermo",
+    "Gli effetti del design incidono maggiormente nel caso in cui non ci siano preconoscenze sull'argomento trattato o i discenti abbiano alte abilità visuo-spaziali",
+    "Si impara meglio quando parole e immagini sono presentate vicine tra loro sulla pagina o sullo schermo"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hqg5kg",
+   "q": "Secondo il Principio della ridondanza:",
+   "opts": [
+    "Si impara meglio da un'animazione unita a una narrazione, che da un'animazione unita a testo riportato sullo schermo",
+    "Si impara meglio da parole e immagini, che dalle sole parole",
+    "Si impara meglio dall'unione di animazione e narrazione piuttosto che da animazione, narrazione e testo insieme",
+    "Si impara meglio quando parole e immagini corrispondenti sono presentate simultaneamente"
+   ],
+   "answ": 2,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "si8u78",
+   "q": "Secondo il Principio della modalità:",
+   "opts": [
+    "Si impara meglio dall'unione di animazione e narrazione piuttosto che da animazione, narrazione e testo insieme",
+    "Si impara meglio da un'animazione unita a una narrazione, che da un'animazione unita a testo riportato sullo schermo",
+    "Si impara meglio quando parole, immagini o suoni 'estranei' sono esclusi dalla presentazione",
+    "Si impara meglio da parole e immagini, che dalle sole parole"
+   ],
+   "answ": 1,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ky9se4",
+   "q": "Quali dei seguenti elementi rientrano nel pensiero narrativo:",
+   "opts": [
+    "pensiero sintagmatico e procedure d'azione",
+    "plan e goal",
+    "management e script",
+    "dimensione interpretativa ed episodica"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y0tw5w",
+   "q": "Nella categorizzazione funzionale delle immagini di Mayer, l'illustrazione rappresentativa di secondo livello:",
+   "opts": [
+    "rappresenta parti o scene del testo",
+    "spiega un processo o un'evoluzione",
+    "rappresenta parti o scene del testo, sostituendo il testo stesso",
+    "rappresenta la relazione tra più elementi"
+   ],
+   "answ": 2,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kfgtao",
+   "q": "Il PEGI classifica i videogiochi in base:",
+   "opts": [
+    "alle fasce di età e ai device di gioco",
+    "alle fasce di età e alla difficoltà",
+    "alla difficoltà e ai contenuti critici",
+    "alle fasce di età e ai contenuti critici"
+   ],
+   "answ": 3,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qj56rc",
+   "q": "L'utilizzo didattico dei videogiochi:",
+   "opts": [
+    "si realizza nella fase di consolidamento degli apprendimenti",
+    "può attraversare tutte le fasi del processo di apprendimento",
+    "è realizzabile solo nella formazione superiore",
+    "serve come attivatore e spunto iniziale"
+   ],
+   "answ": 0,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "eamgtg",
+   "q": "Il PEGI valuta:",
+   "opts": [
+    "le abilità necessarie per giocare",
+    "la diffusione del gioco",
+    "l'adeguatezza del contenuto del gioco per i minori",
+    "il livello di difficoltà dei giochi"
+   ],
+   "answ": 2,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1224tgc",
+   "q": "La sigla PEGI indica:",
+   "opts": [
+    "PRO EUROPEAN GAMES INTERACTION",
+    "PRO EUROPEAN GAMES INFORMATION",
+    "PAN ENVIRONMENT GAMES INFORMATION",
+    "PAN EUROPEAN GAMES INFORMATION"
+   ],
+   "answ": 3,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "klv84w",
+   "q": "Con i videogiochi si possono realizzare diverse forme di apprendimento: a) learning by doing; b) apprendimento per argomentazione; c) apprendimento per obiettivi; d) apprendimento collaborativo e costruttivista; e) apprendimento per prove ed errori; f) apprendimento per concetti",
+   "opts": [
+    "a, c, d, e",
+    "a, b, c, d, e, f",
+    "b, c, e, f",
+    "a, c, d, f"
+   ],
+   "answ": 0,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ksg1kg",
+   "q": "Le dimensioni costitutive dei Serious Games sono:",
+   "opts": [
+    "simulazione, apprendimento, gioco",
+    "apprendimento, serietà, gioco",
+    "curiosità, motivazione, emozioni positive",
+    "motivazione, divertimento, sfida"
+   ],
+   "answ": 0,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rcpnwc",
+   "q": "I punti di forza dell'E-Learning sono:",
+   "opts": [
+    "motivazione e curiosità",
+    "motivazione, flessibilità e autoregolazione",
+    "frammentarietà, interazione educativa e learning objects",
+    "emozioni positive e motivazione"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jq0c9k",
+   "q": "L'intuizione:",
+   "opts": [
+    "isola gli elementi dal contesto",
+    "prescinde dall'incidenza di variabili contestuali e disposizionali",
+    "favorisce l'elaborazione seriale delle informazioni",
+    "ha un carattere olistico"
+   ],
+   "answ": 3,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lccan4",
+   "q": "L'intuizione è una forma di pensiero che:",
+   "opts": [
+    "è alternativa all'analisi",
+    "precede lo sviluppo di modi articolati di ragionamento che prescinderanno dall'intuizione stessa",
+    "dipende dall'argomentazione analitica",
+    "precede lo sviluppo di modi articolati di ragionamento sempre vincolati all'intuizione stessa"
+   ],
+   "answ": 1,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1393qi0",
+   "q": "L'intuizione è un atto mentale:",
+   "opts": [
+    "pienamente consapevole dei motivi che hanno portato a una data conclusione",
+    "pienamente consapevole dei processi attivati",
+    "rapido e diretto",
+    "indipendente dallo stile di pensiero dell'individuo"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14z9peg",
+   "q": "L'apprendimento strategico dipende da:",
+   "opts": [
+    "l'ampiezza del repertorio strategico",
+    "il livello di abilità nell'esecuzione",
+    "la capacità di utilizzare le strategie in modo adeguato rispetto agli obiettivi",
+    "tutte le opzioni di risposta indicate"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12ukgzs",
+   "q": "Secondo Sternberg i processi di acquisizione delle conoscenze comprendono le operazioni di:",
+   "opts": [
+    "codifica selettiva, elaborazione selettiva, combinazione selettiva",
+    "codifica selettiva, confronto selettivo, applicazione selettiva",
+    "codifica selettiva, confronto selettivo, combinazione selettiva",
+    "analisi selettiva, confronto selettivo, combinazione selettiva"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wc564x",
+   "q": "Secondo Sternberg i processi di combinazione selettiva consistono nel:",
+   "opts": [
+    "integrare le informazioni nuove tra quelle già possedute",
+    "attivare una strategia di identificazione delle informazioni rilevanti rispetto agli obiettivi",
+    "integrare le informazioni acquisite in un sistema strutturato",
+    "analisi e organizzazione delle informazioni in entrata rispetto a quelle possedute"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13lvsgh",
+   "q": "Modello interattivo e multicomponenziale di Borkowski:",
+   "opts": [
+    "integra l'analisi cognitiva a variabili quali gli stati personali e motivazionali e il livello di autostima",
+    "riporta il discorso metacognitivo a termini puramente cognitivi",
+    "sposta il discorso metacognitivo su termini esclusivamente motivazionali",
+    "integra l'analisi cognitiva a variabili emotive"
+   ],
+   "answ": 0,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "86kz8s",
+   "q": "Il modello di Kitchener (1983) è articolato in:",
+   "opts": [
+    "operazioni cognitive di base; monitoraggio; riflessioni sulla natura dei compiti",
+    "piano cognitivo; piano metacognitivo; piano epistemico",
+    "operazioni cognitive di base; monitoraggio; verifica del valore di verità delle soluzioni",
+    "tutte le opzioni"
+   ],
+   "answ": 3,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8al9ok",
+   "q": "Le strategie possono essere distinte in base a:",
+   "opts": [
+    "il livello di specificità, la conoscenza, l'obiettivo di applicazione",
+    "il livello di abilità richiesto, la conoscenza, l'obiettivo di applicazione",
+    "il livello di specificità, la conoscenza, le modalità di applicazione",
+    "il livello di specificità, il carico cognitivo, l'obiettivo di applicazione"
+   ],
+   "answ": 0,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "108fi85",
+   "q": "Secondo Sternberg i processi di codifica selettiva consistono nel:",
+   "opts": [
+    "analisi e organizzazione delle informazioni in entrata rispetto a quelle possedute",
+    "attivare una strategia di identificazione delle informazioni",
+    "integrare le informazioni acquisite in un sistema strutturato",
+    "attivare una strategia di identificazione delle informazioni rilevanti rispetto agli obiettivi"
+   ],
+   "answ": 3,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4svv1c",
+   "q": "Bruner definisce le strategie “sequenze di decisioni relative all’acquisizione, al mantenimento e all’utilizzazione dell’informazione al fine di conseguire determinati scopi”:",
+   "opts": [
+    "falso",
+    "vero, ma non rispetto al mantenimento",
+    "falso è la definizione di stile cognitivo",
+    "vero"
+   ],
+   "answ": 3,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "borh4c",
+   "q": "La conoscenza strategica generale riguarda la relazione reciproca tra:",
+   "opts": [
+    "capacità di applicazione di strategie adeguate e conoscenze generali",
+    "impegno profuso e ampiezza del repertorio di conoscenze strategiche",
+    "impegno profuso e utilizzo di strategie adeguate",
+    "impegno profuso, raggiungimento di risultati e utilizzo di strategie adeguate"
+   ],
+   "answ": 3,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "27b4sh",
+   "q": "Si definiscono conoscenze tacite:",
+   "opts": [
+    "competenze operative che si possono spiegare a parole o in termini teorici",
+    "abilità che si acquisiscono partendo da una comprensione teorica",
+    "conoscenze che definiscono priorità e rilevanza degli ambiti di applicazione",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jlrry0",
+   "q": "Il pensiero post-formale:",
+   "opts": [
+    "è relativo, globale, accetta contraddizioni",
+    "è relativo, integrante, accetta contraddizioni",
+    "ha maggior grado di astrattezza e assolutezza di quello formale",
+    "ha uguale grado di astrattezza e assolutezza di quello formale"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ip6ay4",
+   "q": "Le skill sono:",
+   "opts": [
+    "Più generali degli stili",
+    "Meno generali delle abilità",
+    "Più generali delle risorse di base",
+    "come le tattiche"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bjy6jc",
+   "q": "Secondo Bandura, l'apprendimento è l'esito dell'interazione dinamica tra variabili:",
+   "opts": [
+    "personali, strategiche, ambientali",
+    "personali, comportamentali, ambientali",
+    "personali, comportamentali, familiari",
+    "personali, sociali, ambientali"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ueto1r",
+   "q": "Le stime tendono frequentemente all'ottimismo cognitivo soprattutto nel caso di:",
+   "opts": [
+    "compiti abituali o familiari",
+    "familiarità con i materiali",
+    "compiti nuovi o situazioni non chiare",
+    "buona conoscenza di strategie"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sxiqit",
+   "q": "I precursori della metacognizione nella prima infanzia sono:",
+   "opts": [
+    "il gioco simbolico, il pointing e la teoria della mente",
+    "il gioco simbolico, lo sviluppo del linguaggio e la teoria della mente",
+    "il gioco simbolico, il pensiero narrativo e la teoria della mente",
+    "il pensiero narrativo, la comprensione delle emozioni e la teoria della mente"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qthh2k",
+   "q": "I presupposti teorici della metacognizione sono ascrivibili, tra gli altri, al pensiero di:",
+   "opts": [
+    "Piaget e HIP",
+    "Bruner",
+    "Tolman",
+    "Flavell"
+   ],
+   "answ": 0,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "s1bqxo",
+   "q": "I processi di controllo metacognitivo possono essere:",
+   "opts": [
+    "aperti/chiusi",
+    "autoregolati/eteroregolati",
+    "attivi/passivi",
+    "superiori/inferiori"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kc9vh4",
+   "q": "Rispetto alle funzioni di controllo metacognitivo, è vero che:",
+   "opts": [
+    "vengono regolate in relazione alla quantità di risorse cognitive a disposizione, ma non all'età",
+    "vengono regolate in relazione all'età e alla quantità di risorse cognitive a disposizione",
+    "permettono di realizzare il transfer degli apprendimenti generali",
+    "dipendono dall'apprendimento e dalla trasmissione culturale, ma non dallo sviluppo delle aree cerebrali delle funzioni esecutive"
+   ],
+   "answ": 1,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hyyniw",
+   "q": "Flavell ha distinto le conoscenze metacognitive in:",
+   "opts": [
+    "mete cognitive, atti metacognitivi, esperienze metacognitive",
+    "mete metacognitive, atti metacognitivi, esperienze metacognitive",
+    "mete cognitive, atti metacognitivi, esperienze cognitive",
+    "mete cognitive, atti cognitivi, esperienze metacognitive"
+   ],
+   "answ": 0,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "47m76l",
+   "q": "Le conoscenze metacognitive possono avere origine:",
+   "opts": [
+    "intraindividuale, interindividuale, sociale",
+    "soggettiva, oggettiva, universale",
+    "intraindividuale, interindividuale, universale",
+    "informale, formale, sociale"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6bidno",
+   "q": "I presupposti teorici della metacognizione sono ascrivibili, tra gli altri, al pensiero di:",
+   "opts": [
+    "Vygotskij",
+    "Psicologia culturale",
+    "Comportamentismo",
+    "Gestalt"
+   ],
+   "answ": 0,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "wfq0ak",
+   "q": "Differenziare la preparazione di un esame orale e scritto è indice di una conoscenza metacognitiva:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "delle caratteristiche del compito",
+    "delle condizioni di lavoro",
+    "delle strategie"
+   ],
+   "answ": 0,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xja2k8",
+   "q": "Le conoscenze metacognitive comprendono:",
+   "opts": [
+    "conoscenze sulle caratteristiche della persona",
+    "tutte le opzioni proposte",
+    "conoscenza delle strategie e delle condizioni di lavoro",
+    "conoscenza delle caratteristiche del compito"
+   ],
+   "answ": 1,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nrhqnw",
+   "q": "La capacità di monitorare e valutare la propria prestazione è una:",
+   "opts": [
+    "capacità strategica",
+    "abilità",
+    "conoscenza metacognitiva",
+    "funzione di controllo metacognitivo"
+   ],
+   "answ": 3,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "que40x",
+   "q": "Lo studente esperto si riconosce perché non dice di aver imparato quando:",
+   "opts": [
+    "riconosce e incamera le informazioni",
+    "recupera le conoscenze facilmente",
+    "elabora le conoscenze in modi differenti",
+    "sviluppa delle competenze a partire da conoscenze organizzate e flessibili"
+   ],
+   "answ": 0,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kb83oo",
+   "q": "La relazione tra cognizione e metacognizione è:",
+   "opts": [
+    "incrementale",
+    "inversamente proporzionale",
+    "sempre diretta",
+    "non sempre diretta"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "u99sug",
+   "q": "Lo sviluppo interindividuale della consapevolezza metacognitiva si sviluppa nei seguenti passaggi:",
+   "opts": [
+    "consapevolezza di ciò che si conosce, consapevolezza della fonte della propria conoscenza, consapevolezza di procedure nella ricostruzione di conoscenze, consapevolezza del cambiamento delle proprie strutture concettuali",
+    "consapevolezza di ciò che si conosce, consapevolezza del perché di un'idea, consapevolezza di procedure nella verifica di conoscenze, consapevolezza del cambiamento delle proprie strutture concettuali",
+    "consapevolezza di ciò che si conosce, consapevolezza del perché di un'idea, consapevolezza di procedure nella ricostruzione di conoscenze, consapevolezza del cambiamento delle proprie strutture concettuali",
+    "consapevolezza di ciò che si conosce, consapevolezza del perché di un'idea, consapevolezza di procedure nella ricostruzione di conoscenze, consapevolezza dell'affidabilità delle proprie strutture concettuali"
+   ],
+   "answ": 2,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xrt5h8",
+   "q": "il PQ4R è:",
+   "opts": [
+    "un modello motivazionale",
+    "un metodo di studio",
+    "un principio di percezione",
+    "un test per la valutazione dei vissuti emotigeni"
+   ],
+   "answ": 1,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6yf5gm",
+   "q": "Nel modello di Boekaerts, ciò che il discente pensa sia lo scopo delle attività che deve compiere, la sua capacità di elaborare piani, controllarne la messa in pratica e verificarne i risultati, rientrano nella componente:",
+   "opts": [
+    "motivazionale degli obiettivi",
+    "cognitiva degli obiettivi",
+    "cognitiva strategica",
+    "cognitiva conoscitiva"
+   ],
+   "answ": 1,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gamkv4",
+   "q": "Nel modello di Boekaerts, l'autoregolazione prevede le componenti:",
+   "opts": [
+    "conoscitiva, strategica, autoregolativa",
+    "conoscitiva, strategica, motivazionale",
+    "conoscitiva, regolativa, degli obiettivi",
+    "conoscitiva, strategica, degli obiettivi"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5c3fds",
+   "q": "Secondo Boekaerts, l'autoregolazione:",
+   "opts": [
+    "va analizzata sul piano motivazionale",
+    "è assimilabile a forme di autocontrollo",
+    "è assimilabile alla metacognizione",
+    "comporta una dimensione cognitiva e motivazionale"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lqyu00",
+   "q": "Secondo Zimmerman i processi di self-regulation:",
+   "opts": [
+    "tutte le opzioni proposte",
+    "hanno l'obiettivo di costruire consapevolezza dell'utilità dei processi di autoregolazione",
+    "sono organizzati in 4 cicli: comportamento, ambiente, persona, risultati",
+    "sono ciclici, perché le esperienze precedenti permettono di adattare quelle nuove"
+   ],
+   "answ": 3,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qhkqw",
+   "q": "L'acronimo MURDER significa:",
+   "opts": [
+    "Mood, Understand, Rename, Elaborate, Review",
+    "Mood, Understand, Recall, Elaborate, Review",
+    "Mood, Understand, Recall, Elaborate, Repeat",
+    "Mood, Understand, Relate, Elaborate, Review"
+   ],
+   "answ": 1,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7yudut",
+   "q": "Uno studente efficace è caratterizzato da:",
+   "opts": [
+    "obiettivi di padronanza e attribuzione orientata all'abilità",
+    "obiettivi di padronanza e visione entitaria dell'intelligenza",
+    "obiettivi di padronanza e attribuzione orientata all'impegno",
+    "obiettivi di padronanza e alti livelli di fiducia nell'intelligenza"
+   ],
+   "answ": 2,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1614yy0",
+   "q": "Lo stile comprensione-operazione di Pask contrappone le tendenze:",
+   "opts": [
+    "olistico-operazione vs. seriale- comprensione",
+    "nessuna delle opzioni proposte",
+    "olistico-comprensione vs. seriale-operazione",
+    "olistico-seriale vs. comprensione-operazione"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1h08mtp",
+   "q": "Lo stile di apprendimento analitico:",
+   "opts": [
+    "è orientato a compiti relativi a materie scolastiche",
+    "evita i compiti poco stimolanti",
+    "si contrappone alle modalità di lavoro dell'ambiente scolastico tradizionale",
+    "percepisce l'informazione come parte di un tutto"
+   ],
+   "answ": 0,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "m689aw",
+   "q": "Nel modello di Kolb, gli assi danno origine agli stili:",
+   "opts": [
+    "divergente/convergente",
+    "entrambe le opzioni proposte",
+    "accomodatore/assimilatore",
+    "nessuna delle opzioni proposte"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1u23pzr",
+   "q": "Gli stili di pensiero sono:",
+   "opts": [
+    "strategie sistematicamente adottate",
+    "aspetti della personalità",
+    "strategie preferenzialmente adottate",
+    "abilità specifiche dell'individuo"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "t5sdn0",
+   "q": "Gli stili di apprendimento sono:",
+   "opts": [
+    "modelli che distinguono le concezioni ingenue di apprendimento",
+    "nessuna delle opzioni proposte",
+    "modelli strutturati che considerano anche variabili quali obiettivi, motivazioni, attese",
+    "organizzati lungo un continuum rispetto al quale si valuta la tendenza ad avvicinarsi ad una polarità più che all'altra"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i6cmsk",
+   "q": "Lo stile di pensiero è la modalità costante di elaborazione delle informazioni da parte dell'individuo:",
+   "opts": [
+    "vero",
+    "falso",
+    "vero, è innato",
+    "falso, dipende anche dal contesto di riferimento"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tg6eb4",
+   "q": "I criteri di analisi dello stile Adattatore-Innovatore di Kirton sono:",
+   "opts": [
+    "novità, economia, efficacia",
+    "novità, economia, autorità",
+    "originalità, efficacia, ruoli e autorità",
+    "originalità, efficacia, autonomia"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "m1asvw",
+   "q": "Lo stile cognitivo destro/sinistro contrappone rispettivamente le tendenze ad utilizzare strategie:",
+   "opts": [
+    "realistiche/fantasiose",
+    "globali-sintetiche vs. analitiche",
+    "sequenziali/simultanee",
+    "frettolose/costanti"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mhnhlc",
+   "q": "Nello stile riflessivo/impulsivo di Kagan:",
+   "opts": [
+    "la riflessività è funzionale ad una elaborazione globale",
+    "l'impulsività è funzionale ad una elaborazione analitica",
+    "lo stile impulsivo coincide con il tratto di personalità impulsiva",
+    "lo stile impulsivo non coincide con il tratto di personalità impulsiva"
+   ],
+   "answ": 3,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "mctito",
+   "q": "Lo stile di pensiero sinistro:",
+   "opts": [
+    "è verbale",
+    "è sequenziale",
+    "è sistematico",
+    "tutte le opzioni proposte"
+   ],
+   "answ": 3,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "182mdls",
+   "q": "Lo stile assimilatore-esploratore di Kaufmann distingue tra:",
+   "opts": [
+    "adozione di categorie definite vs. generali",
+    "Non è una categorizzazione di Kaufmann",
+    "applicazione di schemi mentali tradizionali vs. adattamento dei propri schemi",
+    "applicazione di strategie di pensiero familiari vs. ricerca di nuove procedure di problem-solving"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kq2hbs",
+   "q": "Lo stile associazione-bisociazione di Jabri distingue tra:",
+   "opts": [
+    "Non è una categorizzazione di Jabri",
+    "applicazione di schemi mentali tradizionali vs. adattamento dei propri schemi",
+    "applicazione di strategie di pensiero familiari vs. ricerca di nuove procedure di problem-solving",
+    "adozione di categorie definite vs. generali"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ttbqjd",
+   "q": "Quale tra le seguenti è una categorizzazione di stile di pensiero proposta in letteratura?",
+   "opts": [
+    "adattatore/assimilatore",
+    "adattatore/innovatore",
+    "esploratore/innovatore",
+    "visualizzatore/puntualizzatore"
+   ],
+   "answ": 1,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rsujqk",
+   "q": "La distinzione di pensiero destro e pensiero sinistro è stata proposta da:",
+   "opts": [
+    "Marton",
+    "Schmeck",
+    "Pask",
+    "Torrance"
+   ],
+   "answ": 3,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6mkf2w",
+   "q": "La dissonanza di stile riflette:",
+   "opts": [
+    "la tendenza all'utilizzo di strategie differenti in persone differenti",
+    "una contrapposizione di opinioni",
+    "la tendenza all'utilizzo di strategie differenti nel rapporto docente/discente",
+    "la tendenza all'utilizzo di strategie differenti da parte della persona"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1889zxk",
+   "q": "Stile e abilità:",
+   "opts": [
+    "sono costrutti interdipendenti",
+    "lo stile predice il livello di abilità",
+    "sono aspetti dello stesso costrutto",
+    "sono costrutti indipendenti"
+   ],
+   "answ": 3,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5y9ccx",
+   "q": "Il modello degli stili di Antonietti distingue le fasi di:",
+   "opts": [
+    "rappresentazione, processo, pensiero",
+    "rappresentazione, memoria, atteggiamento",
+    "percezione, memoria, pensiero",
+    "rappresentazione, processo, atteggiamento"
+   ],
+   "answ": 3,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kkb5bg",
+   "q": "La rilevazione degli stili di pensiero può avere valenza:",
+   "opts": [
+    "orientativa, formativa e diagnostica",
+    "formativa, ma non diagnostica",
+    "orientativa e formativa",
+    "orientativa e diagnostica"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kqx2fc",
+   "q": "La rilevazione degli stili di pensiero «a freddo»:",
+   "opts": [
+    "entrambe le opzioni di risposta",
+    "agisce sul piano del controllo metacognitivo",
+    "agisce sul piano delle conoscenze metacognitive",
+    "nessuna delle opzioni di risposta"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xckvjc",
+   "q": "L'assessment degli stili può essere fatto attraverso questionari, verbal report, osservazione, attività:",
+   "opts": [
+    "vero",
+    "falso",
+    "dipende dall'età dei formandi",
+    "dipende dal modello di stile che si assume"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "a39bcm",
+   "q": "Nel Modello dell'autogoverno mentale di Sternberg, rispetto alle funzioni dello stile cognitivo si distinguono:",
+   "opts": [
+    "stile conservatore e progressista",
+    "Stile legislativo, esecutivo e giudiziario",
+    "stile interno e esterno",
+    "Stile globale e locale"
+   ],
+   "answ": 1,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nxvx6g",
+   "q": "Nel Modello dell'autogoverno mentale di Sternberg, rispetto allo scopo dello stile cognitivo si distinguono:",
+   "opts": [
+    "Stile legislativo, esecutivo e giudiziario",
+    "stile interno e esterno",
+    "stile conservatore e progressista",
+    "Stile globale e locale"
+   ],
+   "answ": 1,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4v3ons",
+   "q": "Nel modello degli stili di Miller, il processo di memoria prevede le seguenti fasi:",
+   "opts": [
+    "recezione e immagazzinamento, organizzazione, recupero",
+    "recezione, immagazzinamento, recupero",
+    "recezione, immagazzinamento, organizzazione",
+    "recezione, immagazzinamento, recupero"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lyzmz4",
+   "q": "Il modello degli stili di Miller distingue i processi di:",
+   "opts": [
+    "percezione, memoria, atteggiamento",
+    "percezione, memoria, pensiero",
+    "percezione, elaborazione, ragionamento",
+    "percezione, memoria, processo"
+   ],
+   "answ": 1,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  }
+ ],
+ "docente": "Cantoia Manuela Eliane Anna"
+}

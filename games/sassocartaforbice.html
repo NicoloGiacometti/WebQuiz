@@ -1,0 +1,367 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sasso Carta Forbice 🐾</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+  min-height: 100vh;
+  font-family: 'Nunito', sans-serif;
+  background: linear-gradient(160deg, #fff8f0 0%, #fce4ec 60%, #f3e5f5 100%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  overflow: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  width: 500px; height: 500px;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(255,182,193,0.25), transparent 70%);
+  top: -150px; right: -150px;
+  pointer-events: none;
+}
+
+.container {
+  width: 100%; max-width: 420px;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 18px;
+}
+
+.title {
+  font-size: 1.6rem; font-weight: 900;
+  color: #c2185b;
+  text-align: center;
+}
+.subtitle {
+  font-size: 0.8rem; font-weight: 700;
+  color: #e91e8c; opacity: 0.7;
+  margin-top: -12px;
+}
+
+/* Score */
+.scoreboard {
+  display: flex; gap: 0;
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 4px 20px rgba(194,24,91,0.12);
+  overflow: hidden;
+  width: 100%;
+}
+.score-col {
+  flex: 1; padding: 14px 10px;
+  text-align: center;
+  border-right: 1px solid rgba(194,24,91,0.08);
+}
+.score-col:last-child { border-right: none; }
+.score-val {
+  font-size: 1.8rem; font-weight: 900;
+  color: #c2185b; line-height: 1;
+}
+.score-lbl {
+  font-size: 0.65rem; font-weight: 700;
+  text-transform: uppercase; letter-spacing: 0.8px;
+  color: #e91e8c; opacity: 0.6;
+  margin-top: 3px;
+}
+
+/* Arena */
+.arena {
+  width: 100%;
+  background: white;
+  border-radius: 28px;
+  padding: 24px 20px;
+  box-shadow: 0 6px 30px rgba(194,24,91,0.10);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+  min-height: 280px;
+  justify-content: center;
+}
+
+/* CAT */
+.cat-wrap {
+  position: relative;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 6px;
+}
+
+.cat {
+  font-size: 5rem;
+  line-height: 1;
+  transition: transform 0.2s;
+  display: inline-block;
+  animation: catIdle 3s ease-in-out infinite;
+  user-select: none;
+}
+
+@keyframes catIdle {
+  0%,100% { transform: translateY(0) rotate(-2deg); }
+  50%      { transform: translateY(-6px) rotate(2deg); }
+}
+
+.cat.thinking {
+  animation: catThink 0.4s ease infinite alternate;
+}
+@keyframes catThink {
+  from { transform: rotate(-8deg) scale(0.95); }
+  to   { transform: rotate(8deg) scale(1.05); }
+}
+
+.cat.win   { animation: catWin 0.6s ease; }
+@keyframes catWin {
+  0%   { transform: scale(1) rotate(0); }
+  25%  { transform: scale(1.2) rotate(-15deg); }
+  50%  { transform: scale(1.2) rotate(15deg); }
+  75%  { transform: scale(1.15) rotate(-10deg); }
+  100% { transform: scale(1) rotate(0); }
+}
+
+.cat.lose { animation: catLose 0.5s ease; }
+@keyframes catLose {
+  0%,100% { transform: translateX(0); }
+  25%  { transform: translateX(-8px); }
+  75%  { transform: translateX(8px); }
+}
+
+/* Cat paw display */
+.cat-paw {
+  font-size: 2.8rem;
+  min-height: 50px;
+  display: flex; align-items: center; justify-content: center;
+  transition: all 0.3s;
+}
+
+.cat-label {
+  font-size: 0.75rem; font-weight: 700;
+  color: #c2185b; opacity: 0.6;
+  text-transform: uppercase; letter-spacing: 0.8px;
+}
+
+/* VS divider */
+.vs {
+  font-size: 1rem; font-weight: 900;
+  color: #f48fb1;
+  background: #fff0f5;
+  border-radius: 50%;
+  width: 36px; height: 36px;
+  display: flex; align-items: center; justify-content: center;
+  box-shadow: 0 2px 8px rgba(194,24,91,0.12);
+}
+
+/* Result */
+.result-msg {
+  font-size: 1.2rem; font-weight: 900;
+  min-height: 32px;
+  text-align: center;
+  transition: all 0.3s;
+}
+.result-msg.win  { color: #2e7d32; }
+.result-msg.lose { color: #c62828; }
+.result-msg.draw { color: #f57f17; }
+
+/* Choices */
+.choices {
+  display: flex; gap: 12px; width: 100%;
+}
+
+.choice-btn {
+  flex: 1;
+  display: flex; flex-direction: column;
+  align-items: center; gap: 4px;
+  padding: 14px 8px;
+  background: white;
+  border: 2px solid rgba(194,24,91,0.12);
+  border-radius: 20px;
+  cursor: pointer;
+  font-family: 'Nunito', sans-serif;
+  transition: all 0.18s;
+  box-shadow: 0 3px 12px rgba(194,24,91,0.07);
+}
+.choice-btn:hover {
+  border-color: #f48fb1;
+  background: #fff0f5;
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(194,24,91,0.15);
+}
+.choice-btn:active { transform: translateY(0); }
+
+.choice-btn.selected {
+  border-color: #c2185b;
+  background: #fce4ec;
+  box-shadow: 0 4px 16px rgba(194,24,91,0.25);
+}
+
+.choice-emoji { font-size: 2.2rem; }
+.choice-name  {
+  font-size: 0.7rem; font-weight: 800;
+  color: #c2185b; text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+/* Round history */
+.history {
+  display: flex; gap: 6px; flex-wrap: wrap;
+  justify-content: center; min-height: 28px;
+}
+.history-dot {
+  width: 22px; height: 22px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.7rem; font-weight: 900;
+  animation: dotPop 0.3s cubic-bezier(.22,1,.36,1);
+}
+@keyframes dotPop {
+  from { transform: scale(0); }
+  to   { transform: scale(1); }
+}
+.history-dot.w { background: #c8e6c9; color: #2e7d32; }
+.history-dot.l { background: #ffcdd2; color: #c62828; }
+.history-dot.d { background: #fff9c4; color: #f57f17; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="title">🐾 Sasso Carta Forbice</div>
+  <div class="subtitle">sfida il gattino!</div>
+
+  <div class="scoreboard">
+    <div class="score-col">
+      <div class="score-val" id="s-win">0</div>
+      <div class="score-lbl">Tu 🏆</div>
+    </div>
+    <div class="score-col">
+      <div class="score-val" id="s-draw">0</div>
+      <div class="score-lbl">Pari 🤝</div>
+    </div>
+    <div class="score-col">
+      <div class="score-val" id="s-lose">0</div>
+      <div class="score-lbl">Gatto 😸</div>
+    </div>
+  </div>
+
+  <div class="arena">
+    <div class="cat-wrap">
+      <div class="cat-label">Il gatto sceglie…</div>
+      <div class="cat-paw" id="cat-paw">🐾</div>
+      <div class="cat" id="cat">🐱</div>
+    </div>
+
+    <div class="vs">VS</div>
+
+    <div class="result-msg" id="result-msg">Scegli una mossa!</div>
+  </div>
+
+  <div class="choices">
+    <button class="choice-btn" onclick="play('rock')">
+      <span class="choice-emoji">🪨</span>
+      <span class="choice-name">Sasso</span>
+    </button>
+    <button class="choice-btn" onclick="play('paper')">
+      <span class="choice-emoji">📄</span>
+      <span class="choice-name">Carta</span>
+    </button>
+    <button class="choice-btn" onclick="play('scissors')">
+      <span class="choice-emoji">✂️</span>
+      <span class="choice-name">Forbice</span>
+    </button>
+  </div>
+
+  <div class="history" id="history"></div>
+
+</div>
+<script>
+const MOVES = ['rock','paper','scissors'];
+const EMOJI = { rock:'🪨', paper:'📄', scissors:'✂️' };
+// Cat paws interpretations
+const CAT_PAW = {
+  rock:     '🐾',   // paw closed
+  paper:    '🫳',   // paw open
+  scissors: '✌️',   // two claws
+};
+const CAT_FACE = {
+  idle: '🐱',
+  think: '🤔',
+  win:  '😸',
+  lose: '🙀',
+  draw: '😺',
+};
+
+const BEATS = { rock:'scissors', paper:'rock', scissors:'paper' };
+
+let wins=0, losses=0, draws=0, locked=false;
+
+function play(playerMove) {
+  if (locked) return;
+  locked = true;
+
+  // Highlight selected
+  document.querySelectorAll('.choice-btn').forEach(b => b.classList.remove('selected'));
+  const btns = document.querySelectorAll('.choice-btn');
+  ['rock','paper','scissors'].forEach((m,i) => { if(m===playerMove) btns[i].classList.add('selected'); });
+
+  // Cat thinking
+  const cat = document.getElementById('cat');
+  const paw = document.getElementById('cat-paw');
+  const msg = document.getElementById('result-msg');
+  cat.className = 'cat thinking';
+  cat.textContent = CAT_FACE.think;
+  paw.textContent = '❓';
+  msg.className = 'result-msg';
+  msg.textContent = 'Il gatto sta pensando…';
+
+  setTimeout(() => {
+    const catMove = MOVES[Math.floor(Math.random() * 3)];
+    paw.textContent = CAT_PAW[catMove];
+
+    let outcome, catFace, msgText, dotClass;
+    if (BEATS[playerMove] === catMove) {
+      outcome = 'win'; catFace = 'lose';
+      msgText = '🎉 Hai vinto!';
+      dotClass = 'w'; wins++;
+      document.getElementById('s-win').textContent = wins;
+    } else if (BEATS[catMove] === playerMove) {
+      outcome = 'lose'; catFace = 'win';
+      msgText = '😿 Ha vinto il gatto!';
+      dotClass = 'l'; losses++;
+      document.getElementById('s-lose').textContent = losses;
+    } else {
+      outcome = 'draw'; catFace = 'draw';
+      msgText = '🤝 Pari!';
+      dotClass = 'd'; draws++;
+      document.getElementById('s-draw').textContent = draws;
+    }
+
+    cat.className = `cat ${outcome === 'win' ? 'lose' : outcome === 'lose' ? 'win' : ''}`;
+    cat.textContent = CAT_FACE[catFace];
+    msg.className = `result-msg ${outcome}`;
+    msg.textContent = msgText;
+
+    // History dot
+    const dot = document.createElement('div');
+    dot.className = `history-dot ${dotClass}`;
+    dot.textContent = dotClass === 'w' ? 'W' : dotClass === 'l' ? 'L' : '=';
+    document.getElementById('history').appendChild(dot);
+
+    // Re-enable after a moment
+    setTimeout(() => {
+      cat.className = 'cat';
+      cat.textContent = CAT_FACE.idle;
+      document.querySelectorAll('.choice-btn').forEach(b => b.classList.remove('selected'));
+      locked = false;
+    }, 1200);
+  }, 900);
+}
+</script>
+</body>
+</html>
