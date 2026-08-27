@@ -1,0 +1,4336 @@
+{
+ "schema": 2,
+ "key": "didatticaspeciale",
+ "nome": "Didattica e Pedagogia Speciale",
+ "sub": "Scienze dell'Educazione e della Formazione",
+ "emoji": "🧩",
+ "docente": "Simone Maria Grazia",
+ "domande": [
+  {
+   "id": "kpoico",
+   "q": "La specificità del discorso didattico deriva dalla sua imprescindibile esigenza di assumere l’apprendimento in correlazione:",
+   "opts": [
+    "all’indottrinamento",
+    "alla scienza",
+    "alla pedagogia",
+    "all’insegnamento"
+   ],
+   "answ": 3,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vnu0ek",
+   "q": "La didattica è una scienza che si colloca all’interno del più ampio settore delle scienze:",
+   "opts": [
+    "antropologiche",
+    "pedagogiche",
+    "filosofiche",
+    "sociologiche"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16xuaes",
+   "q": "Interrogarsi sull’apprendimento significa ricercare il senso del processo per il quale l’uomo costruisce il suo:",
+   "opts": [
+    "comportamento",
+    "ambiente",
+    "ciclo vitale",
+    "adattamento"
+   ],
+   "answ": 0,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "acmuzc",
+   "q": "Nella scuola, il compito dell’insegnamento è sempre:",
+   "opts": [
+    "la valutazione",
+    "l’educazione",
+    "l’osservazione",
+    "la differenziazione"
+   ],
+   "answ": 1,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "18eqq13",
+   "q": "Istruzione e insegnamento:",
+   "opts": [
+    "riguardano soltanto la scuola",
+    "riguardano soltanto gli altri ambienti educativi",
+    "non riguardano soltanto la scuola",
+    "sono la stessa cosa"
+   ],
+   "answ": 2,
+   "lez": 2,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bnhhip",
+   "q": "L’educazione pone necessariamente le sue basi nella:",
+   "opts": [
+    "filosofia",
+    "memoria",
+    "tradizione",
+    "scuola"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1u2st0",
+   "q": "“Azione che promuove lo sviluppo umano a più livelli”. La definizione si riferisce al termine:",
+   "opts": [
+    "socializzazione",
+    "inculturazione",
+    "pedagogia",
+    "educazione"
+   ],
+   "answ": 3,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ki85p8",
+   "q": "Circa il concetto di educazione, le definizioni possibili sono:",
+   "opts": [
+    "due",
+    "poche",
+    "molte",
+    "tre"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ivfoc8",
+   "q": "La pedagogia è un ragionare sui fatti che hanno a che fare con:",
+   "opts": [
+    "l’educazione",
+    "il sociale",
+    "il quotidiano",
+    "l’ambiente scolastico"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8o8k1g",
+   "q": "Il percorso formativo della persona è costantemente:",
+   "opts": [
+    "in divenire",
+    "in sé definito",
+    "problematico",
+    "in crisi"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vd2krk",
+   "q": "Il processo formativo verte soprattutto su scelte:",
+   "opts": [
+    "relazionali",
+    "interiori",
+    "sociali",
+    "economiche"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kpl4b4",
+   "q": "Il processo formativo, al giorno d’oggi, segue linee evolutive sempre meno:",
+   "opts": [
+    "sviluppate",
+    "sostenibili",
+    "lineari",
+    "specifiche"
+   ],
+   "answ": 2,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qfim1o",
+   "q": "La formazione è sviluppo del soggetto nella sua:",
+   "opts": [
+    "umanità",
+    "scuola",
+    "fratellanza",
+    "vita quotidiana"
+   ],
+   "answ": 0,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cbun80",
+   "q": "L’educazione può definirsi come una esperienza:",
+   "opts": [
+    "circoscritta",
+    "diffusa",
+    "eccezionale",
+    "episodica"
+   ],
+   "answ": 1,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cvlx4c",
+   "q": "Educazione e formazione, nel linguaggio comune, vengono talvolta usati senza una chiara:",
+   "opts": [
+    "titolazione",
+    "definizione",
+    "formulazione",
+    "differenziazione"
+   ],
+   "answ": 3,
+   "lez": 3,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1esig40",
+   "q": "Parlare di integralità significa porre l’accento sulla totalità delle esigenze:",
+   "opts": [
+    "di sviluppo della persona",
+    "individualizzanti della persona",
+    "contingenti della persona",
+    "socializzanti della persona"
+   ],
+   "answ": 0,
+   "lez": 4,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c6dkto",
+   "q": "Del passato bisogna:",
+   "opts": [
+    "fare una commemorazione",
+    "fare una utilizzazione saggia",
+    "sbarazzarsi",
+    "lamentarsi"
+   ],
+   "answ": 1,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "n6rgsw",
+   "q": "L’educazione costituisce l’insieme degli strumenti necessari per garantire la trasmissione della:",
+   "opts": [
+    "scuola",
+    "cultura",
+    "formazione",
+    "società"
+   ],
+   "answ": 1,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hri8r0",
+   "q": "E’ piuttosto riduttivo considerare l’intervento educativo soltanto come:",
+   "opts": [
+    "formazione",
+    "elevazione",
+    "costruzione",
+    "socializzazione"
+   ],
+   "answ": 3,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jmags",
+   "q": "Secondo Leang, i fenomeni di assimilazione alla propria o all’altrui cultura non sono, di per sé:",
+   "opts": [
+    "reali",
+    "educativi",
+    "possibili",
+    "ammessi"
+   ],
+   "answ": 1,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pdy5u4",
+   "q": "L’educazione è per un verso volta alla conservazione e per un altro verso al:",
+   "opts": [
+    "rinnovamento",
+    "esclusione",
+    "radicamento",
+    "avvicinamento"
+   ],
+   "answ": 0,
+   "lez": 5,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i5h2th",
+   "q": "Tra i tratti essenziali dell’apprendimento, NON rientra:",
+   "opts": [
+    "accrescimento della esperienza personale",
+    "acquisizione delle informazioni",
+    "valutazione delle proprie competenze funzionali",
+    "fruizione personale del dato conoscitivo"
+   ],
+   "answ": 2,
+   "lez": 6,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1euo130",
+   "q": "Le occasioni di interazione tra soggetto ed ambiente devono risultare sempre ricche:",
+   "opts": [
+    "di persone",
+    "di guadagno economico",
+    "di fantasia",
+    "di stimolazioni"
+   ],
+   "answ": 3,
+   "lez": 7,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1op6pwc",
+   "q": "L’autonomia della scuola deve oggi farsi carico delle istanze pedagogiche della:",
+   "opts": [
+    "differenza",
+    "uniformità",
+    "unità",
+    "specificità"
+   ],
+   "answ": 0,
+   "lez": 8,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5z05ma",
+   "q": "Itard contribuì allo sviluppo di un primo approccio, alla persona con disabilità, di tipo:",
+   "opts": [
+    "globale",
+    "critico",
+    "riabilitativo",
+    "terapeutico"
+   ],
+   "answ": 0,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dkyijc",
+   "q": "Che appellativo venne riconosciuto a Victor?",
+   "opts": [
+    "“giovane indigeno”",
+    "“ragazzo plusdotato”",
+    "“ragazzo di Itard”",
+    "“ragazzo selvaggio”"
+   ],
+   "answ": 3,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12ezhw0",
+   "q": "La pedagogia speciale è parte della:",
+   "opts": [
+    "formazione",
+    "pedagogia clinica",
+    "didattica",
+    "pedagogia generale"
+   ],
+   "answ": 3,
+   "lez": 9,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e5yf21",
+   "q": "G. Bollea ha fondato:",
+   "opts": [
+    "la neuropsichiatria infantile",
+    "la pedagogia speciale",
+    "la didattica speciale",
+    "la neuropsichiatria generale"
+   ],
+   "answ": 0,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vq85z0",
+   "q": "G. Bollea sosteneva che, se si vuole aiutare un minore in difficoltà, bisogna prima di tutto aiutare:",
+   "opts": [
+    "esperienza",
+    "la sua mente",
+    "la sua famiglia",
+    "la sua scuola"
+   ],
+   "answ": 2,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1c05q8w",
+   "q": "La pedagogia speciale, a livello accademico, nasce in Italia nel:",
+   "opts": [
+    "1977",
+    "1964",
+    "1864",
+    "1971"
+   ],
+   "answ": 1,
+   "lez": 10,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1gbea98",
+   "q": "Secondo la pedagogia emendativa, il soggetto considerato “anormale” va:",
+   "opts": [
+    "corretto",
+    "ripreso",
+    "ignorato",
+    "compreso"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c69h6g",
+   "q": "Le scuole speciali in Italia:",
+   "opts": [
+    "sono ancora attive",
+    "sono attive soltanto in alcuni contesti",
+    "sono state abolite",
+    "non sono mai esistite"
+   ],
+   "answ": 2,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pzcbe0",
+   "q": "Gli apprendimenti e le pratiche didattiche, ispirati dalla pedagogia speciale, possono generare nelle classi delle azioni di tipo:",
+   "opts": [
+    "inclusivo",
+    "esclusivo",
+    "differenziale",
+    "selettivo"
+   ],
+   "answ": 0,
+   "lez": 11,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mqiio",
+   "q": "Quando disadattamento e devianza si manifestano all’interno della scuola, vanno trattati:",
+   "opts": [
+    "affettivamente",
+    "psichiatricamente",
+    "pedagogicamente",
+    "energicamente"
+   ],
+   "answ": 2,
+   "lez": 12,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fxrrfc",
+   "q": "La pedagogia interculturale si sforza di riconoscere il valore delle:",
+   "opts": [
+    "identità",
+    "somiglianze",
+    "disuguaglianze",
+    "differenze"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "138l1iw",
+   "q": "Con la globalizzazione della comunicazione e delle conoscenze, non si può più far riferimento a parametri:",
+   "opts": [
+    "monoculturali",
+    "generali",
+    "pluriculturali",
+    "indefiniti"
+   ],
+   "answ": 0,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w77lxs",
+   "q": "La differenza ha sul piano sociale toni e forme molto:",
+   "opts": [
+    "opposti",
+    "identici",
+    "simili",
+    "variegati"
+   ],
+   "answ": 3,
+   "lez": 13,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xti1b8",
+   "q": "La disabilità può essere di tipo:",
+   "opts": [
+    "medio o lieve",
+    "transitorio o permanente",
+    "definito o permanente",
+    "grave o gravissima"
+   ],
+   "answ": 1,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "el0cf9",
+   "q": "La parola deficit identifica una mancanza:",
+   "opts": [
+    "oggettiva e soggettiva",
+    "soggettiva e congenita",
+    "oggettiva e non verificabile",
+    "oggettiva e verificabile"
+   ],
+   "answ": 3,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12kgyvo",
+   "q": "La pedagogia speciale in Italia ha una storia lunga circa:",
+   "opts": [
+    "cento anni",
+    "sessanta anni",
+    "quaranta anni",
+    "trenta anni"
+   ],
+   "answ": 2,
+   "lez": 14,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6su7m4",
+   "q": "La legge n. 517/1977 stabilisce la garanzia dell’apprendimento anche per gli alunni:",
+   "opts": [
+    "indigenti",
+    "delle scuole speciali",
+    "stranieri",
+    "portatori di disabilità"
+   ],
+   "answ": 3,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14gnr1",
+   "q": "L’educazione e l’istruzione divengono una chiave di accesso essenziale, per le persone con disabilità, nel raggiungere una cittadinanza:",
+   "opts": [
+    "attiva",
+    "funzionale",
+    "parziale",
+    "speciale"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ssa7ql",
+   "q": "L’inclusione, per potersi realizzare, richiede azioni:",
+   "opts": [
+    "sovversive",
+    "cicliche",
+    "di sistema",
+    "settoriali"
+   ],
+   "answ": 3,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w1gc40",
+   "q": "Affrontare il tema dell’inclusione richiede sempre uno sguardo:",
+   "opts": [
+    "ampio",
+    "selettivo",
+    "comprensivo",
+    "settoriale"
+   ],
+   "answ": 0,
+   "lez": 15,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uiqvp4",
+   "q": "Secondo R. Caldin, se oggi dovessimo indicare che cosa è manchevole nell’integrazione/ inclusione in Italia, essa sarebbe relativa all’area:",
+   "opts": [
+    "dell’inclusione",
+    "della socializzazione",
+    "della medicalizzazione",
+    "della garanzia dell’apprendimento"
+   ],
+   "answ": 3,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1o309qo",
+   "q": "La legge n. 517 è stata emanata nel:",
+   "opts": [
+    "1877",
+    "1957",
+    "1927",
+    "1977"
+   ],
+   "answ": 3,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ptuka8",
+   "q": "Nel sistema educativo italiano, la possibilità per gli studenti portatori di disabilità di usufruire di tirocini e stage è:",
+   "opts": [
+    "ampia",
+    "limitata",
+    "ricca",
+    "illimitata"
+   ],
+   "answ": 1,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yrxyko",
+   "q": "La legislazione italiana circa la disabilità è tra le più avanzate:",
+   "opts": [
+    "in Italia",
+    "nel mondo",
+    "in Europa",
+    "in Occidente"
+   ],
+   "answ": 2,
+   "lez": 16,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ppyd5c",
+   "q": "La disuguaglianza è conseguenza tragica della incapacità di accogliere la diversità come:",
+   "opts": [
+    "valore",
+    "principio",
+    "opzione",
+    "criterio"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "117cjy0",
+   "q": "La diversità è dovuta ad una molteplicità di:",
+   "opts": [
+    "variabili",
+    "persone",
+    "problemi",
+    "risorse"
+   ],
+   "answ": 0,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "t5tk74",
+   "q": "Il più delle volte la diversità viene vista come:",
+   "opts": [
+    "una risorsa",
+    "un ostacolo",
+    "un fattore di contesto",
+    "un bene comune"
+   ],
+   "answ": 1,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x8a4m8",
+   "q": "La logica della identificazione tende alla:",
+   "opts": [
+    "originalità",
+    "conclusione",
+    "stereotipia",
+    "omologazione"
+   ],
+   "answ": 3,
+   "lez": 17,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y6tl2c",
+   "q": "In educazione è improduttivo:",
+   "opts": [
+    "armonizzare",
+    "interpretare",
+    "polarizzare",
+    "costruire"
+   ],
+   "answ": 2,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1x6c3nk",
+   "q": "I problemi del vantaggio e dello svantaggio socio economico:",
+   "opts": [
+    "sono soltanto in parte di pertinenza della pedagogia speciale",
+    "potrebbero divenire in futuro di pertinenza della pedagogia speciale",
+    "non sono di pertinenza della pedagogia speciale",
+    "sono di pertinenza della pedagogia speciale"
+   ],
+   "answ": 3,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1042xak",
+   "q": "Il problema della diversità in pedagogia si affronta:",
+   "opts": [
+    "valorizzando le potenzialità presenti",
+    "mettendo in dubbio le potenzialità presenti",
+    "ignorando il deficit",
+    "definendo il deficit"
+   ],
+   "answ": 0,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tcy5lk",
+   "q": "L’approccio pedagogico alla diversità ha portato alla considerazione di ciò che v’è nell’altro-diverso di:",
+   "opts": [
+    "critico",
+    "negativo",
+    "positivo",
+    "incompiuto"
+   ],
+   "answ": 2,
+   "lez": 18,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ixvfjw",
+   "q": "I bisogni educativi presenti in classe oggi sono tra di loro:",
+   "opts": [
+    "eterogenei",
+    "indefiniti",
+    "simili",
+    "contraddittori"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hx2l3s",
+   "q": "Il concetto di “speciale normalità” si può attribuire a:",
+   "opts": [
+    "D. Ianes",
+    "L. De Anna",
+    "L. d’Alonzo",
+    "L. Cottini"
+   ],
+   "answ": 0,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uqzspm",
+   "q": "Per garantire, ai soggetti portatori di disabilità, una vantaggiosa vita scolastica:",
+   "opts": [
+    "si deve ignorare la loro diversità",
+    "è possibile ignorare la loro diversità",
+    "è obbligatorio ignorare la loro diversità",
+    "non si deve ignorare la loro diversità"
+   ],
+   "answ": 3,
+   "lez": 19,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9xk2g4",
+   "q": "I desideri appaiono collegati:",
+   "opts": [
+    "alle identità",
+    "ai vissuti",
+    "alle necessità",
+    "ai bisogni"
+   ],
+   "answ": 1,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ymsczt",
+   "q": "In tutte le interazioni comunicative in primo piano vi è:",
+   "opts": [
+    "l’identità di chi parla e di chi ascolta",
+    "le ragioni di chi parla e di chi ascolta",
+    "il ruolo di chi parla e di chi ascolta",
+    "la figura di chi parla e di chi ascolta"
+   ],
+   "answ": 0,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "186ouzc",
+   "q": "Nei contesti didattici è importante capire:",
+   "opts": [
+    "quando si comunica",
+    "dove si comunica",
+    "perché si comunica",
+    "quanto si comunica"
+   ],
+   "answ": 2,
+   "lez": 20,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1efvtb4",
+   "q": "La comunicazione si motiva e si struttura nel rapporto:",
+   "opts": [
+    "Io-noi",
+    "Io-altro",
+    "Io-voi",
+    "Io-me stesso"
+   ],
+   "answ": 1,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1iwddq0",
+   "q": "Ogni nostra visione delle cose ha bisogno, da parte degli altri, di:",
+   "opts": [
+    "conferma",
+    "smentita",
+    "dibattito",
+    "chiarimento"
+   ],
+   "answ": 0,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1a68nlk",
+   "q": "La competenza comunicativa si sviluppa:",
+   "opts": [
+    "sin da neonati",
+    "nell’età adulta",
+    "nella giovinezza",
+    "nella fanciullezza"
+   ],
+   "answ": 0,
+   "lez": 21,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "s4ro6g",
+   "q": "Il clima organizzativo:",
+   "opts": [
+    "è di ostacolo alla vita di una organizzazione",
+    "non influenza nessun aspetto della vita di una organizzazione",
+    "influenza tutti gli aspetti della vita di un’organizzazione",
+    "influenza soltanto alcuni aspetti della vita di una organizzazione"
+   ],
+   "answ": 2,
+   "lez": 22,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wgbfpg",
+   "q": "Secondo Rivoltella, la fruizione delle tecnologie multimediali all’interno del setting didattico viene scandita dalle attività di:",
+   "opts": [
+    "rappresentazione, ideazione, condivisione e costruzione",
+    "rappresentazione, implementazione, condivisione e costruzione",
+    "rielaborazione, comunicazione, condivisione e costruzione",
+    "rappresentazione, comunicazione, condivisione e costruzione"
+   ],
+   "answ": 3,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "flhbnp",
+   "q": "I nuovi media suggeriscono all’agire didattico nuovi compiti che sono in tutto:",
+   "opts": [
+    "2",
+    "3",
+    "4",
+    "6"
+   ],
+   "answ": 1,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9iltzk",
+   "q": "La lettura ipertestuale rende l’apprendimento:",
+   "opts": [
+    "attivo e dinamico",
+    "sequenziale e lineare",
+    "sociale e di gruppo",
+    "divertente e ludico"
+   ],
+   "answ": 0,
+   "lez": 23,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g4xmg0",
+   "q": "Il più importante prerequisito per intraprendere un intervento di CAA è la effettiva presenza di:",
+   "opts": [
+    "remote opportunità di comunicazione",
+    "concrete opportunità di comunicazione",
+    "vicinanza empatica del pattern comunicativo",
+    "disturbi della sfera comunicativa"
+   ],
+   "answ": 3,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14zyk1b",
+   "q": "La comunicazione aumentativa alternativa NON è costituita da:",
+   "opts": [
+    "parole",
+    "gesti",
+    "immagini",
+    "link"
+   ],
+   "answ": 3,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ja9knc",
+   "q": "“E’ una misura di sostegno alla relazione, alla comprensione e al pensiero”. Si tratta:",
+   "opts": [
+    "della comunicazione didattica",
+    "della figura dell’insegnante di sostegno",
+    "della comunicazione aumentativa alternativa",
+    "della comunicazione multimediale"
+   ],
+   "answ": 2,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "iuwht4",
+   "q": "L’insegnamento del programma PECS prevede un percorso articolato in:",
+   "opts": [
+    "6 fasi",
+    "3 fasi",
+    "4 fasi",
+    "2 fasi"
+   ],
+   "answ": 0,
+   "lez": 24,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "127i8lc",
+   "q": "Fino alla fine degli anni Settanta del secolo scorso, la convinzione generale era che l'allievo in situazione di disabilità dovesse essere inserito in gruppi di coetanei:",
+   "opts": [
+    "normodotati",
+    "con deficit intellettivi",
+    "con deficit sensoriali",
+    "con deficit simili"
+   ],
+   "answ": 3,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "et7uu8",
+   "q": "La costituzione delle classi differenziali, parallele a quelle comuni, fu giustificata da un intervento, sul deficit, di tipo prettamente:",
+   "opts": [
+    "tecnico-sanitario",
+    "pedagogico",
+    "educativo",
+    "differenziale"
+   ],
+   "answ": 0,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7f0mno",
+   "q": "La legge n. 118 del 30 marzo 1971, all’art.28, riconobbe agli allievi in situazione di disabilità il diritto all’educazione:",
+   "opts": [
+    "in classe comune",
+    "negli istituti per portatori di disabilità",
+    "in ambito familiare",
+    "in classe differenziale"
+   ],
+   "answ": 0,
+   "lez": 25,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1v56dkg",
+   "q": "La necessità di individualizzare gli interventi sottende, al suo interno, una logica:",
+   "opts": [
+    "individualistica",
+    "comune",
+    "personalistica",
+    "efficientistica"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tno7hs",
+   "q": "Favorirono la creazione di un ambiente scolastico inclusivo. Si sta parlando delle classi:",
+   "opts": [
+    "aperte",
+    "scoperte",
+    "speciali",
+    "differenziali"
+   ],
+   "answ": 0,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t948s8",
+   "q": "La legge che introduce la figura dell’insegnante di sostegno è la legge:",
+   "opts": [
+    "n. 1859 del 1962",
+    "n. 104 del 1992",
+    "n. 118 del 1971",
+    "n. 517 del 1977"
+   ],
+   "answ": 3,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lckokq",
+   "q": "La legge n. 517 del 1977 parla dello svantaggio socioculturale:",
+   "opts": [
+    "soltanto all’inizio",
+    "in nessuna sua parte",
+    "in molte sue parti",
+    "in alcune sue parti"
+   ],
+   "answ": 1,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jd074o",
+   "q": "Si insiste sulla parola “integrazione” a partire dalla legge:",
+   "opts": [
+    "n. 1859 del 1962",
+    "n. 118 del 1971",
+    "n. 517 del 1977",
+    "n. 104 del 1992"
+   ],
+   "answ": 2,
+   "lez": 26,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pxqezg",
+   "q": "Per quanto riguarda l'integrazione scolastica, la legge n. 194/1992 ha fissato le basi, per l’allievo portatore di disabilità, di un progetto al tempo stesso:",
+   "opts": [
+    "contestualizzati e individualizzato",
+    "globale e individualizzato",
+    "individualizzato e circoscritto",
+    "comprensivo e contestualizzato"
+   ],
+   "answ": 1,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "m3vaq8",
+   "q": "La dichiarazione di Salamanca venne stilata nell’anno:",
+   "opts": [
+    "1962",
+    "1971",
+    "1994",
+    "1992"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g61v7s",
+   "q": "La legge n. 104/1992 si è occupata dei bisogni educativi speciali:",
+   "opts": [
+    "si",
+    "soltanto nelle sue conclusioni",
+    "no",
+    "solo in parte"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2lnurt",
+   "q": "A partire dalla legge n. 104/1992 un ruolo sempre più attivo viene attribuito:",
+   "opts": [
+    "alla scuola",
+    "agli specialisti di area medica",
+    "alla famiglia",
+    "al gruppo dei pari"
+   ],
+   "answ": 2,
+   "lez": 27,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pwbny8",
+   "q": "La legge che sancisce l’ingresso della parola integrazione all’interno del lessico, non soltanto scolastico, è la:",
+   "opts": [
+    "n. 104 del 1992",
+    "n. 1859 del 1962",
+    "n. 517 del 1977",
+    "n. 118 del 1971"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vrno7g",
+   "q": "A seguito dell’abolizione delle classi differenziali, l’inserimento dei portatori di disabilità nelle classi normali venne da alcuni definito come:",
+   "opts": [
+    "selvaggio",
+    "comune",
+    "speciale",
+    "integrato"
+   ],
+   "answ": 0,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "scvdwo",
+   "q": "La legge n. 118 del 1971 sancì che l'istruzione dell'obbligo per i soggetti portatori di disabilità doveva avvenire nelle classi normali:",
+   "opts": [
+    "della scuola paritaria",
+    "della scuola pubblica",
+    "della scuola speciale",
+    "della scuola privata"
+   ],
+   "answ": 1,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1we33lw",
+   "q": "2. “A questa legge si riconosce l’aver introdotto la parola “inserimento”, per sancire il processo di accoglienza, all’interno delle mura scolastiche, degli allievi con disabilità”. Si tratta della legge:",
+   "opts": [
+    "n. 517 del 1977",
+    "n. 104 del 1992",
+    "n. 118 del 1971",
+    "n. 1859 del 1962"
+   ],
+   "answ": 2,
+   "lez": 28,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nemf3e",
+   "q": "La prospettiva inclusiva scaturisce da un cammino iniziato:",
+   "opts": [
+    "negli anni Sessanta del secolo scorso",
+    "negli anni Quaranta del secolo scorso",
+    "negli anni Cinquanta del secolo scorso",
+    "negli anni Settanta del secolo scorso"
+   ],
+   "answ": 3,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ylq82q",
+   "q": "La Convenzione ONU sui diritti delle persone con disabilità introduce il concetto di:",
+   "opts": [
+    "accoglienza",
+    "integrazione",
+    "inclusione",
+    "inserimento"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jifg70",
+   "q": "Per favorire il diritto allo studio occorre che la scuola elabori risposte:",
+   "opts": [
+    "esaustive e autosufficienti",
+    "semplici e complesse",
+    "individualizzate e personalizzate",
+    "articolate e plurime"
+   ],
+   "answ": 2,
+   "lez": 29,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r79iaw",
+   "q": "d’Alonzo (2017) sottolinea come la scuola italiana non riesca a dare risposta di valore:",
+   "opts": [
+    "ad alcuni suoi alunni",
+    "a tutti i suoi alunni",
+    "alle famiglie degli alunni",
+    "a molti suoi alunni"
+   ],
+   "answ": 3,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14anolk",
+   "q": "Attualmente, i gruppi classe appaiono sempre meno disposti:",
+   "opts": [
+    "dei presidi socio-sanitari",
+    "soltanto degli allievi portatori di disabilità",
+    "all’ascolto",
+    "soltanto degli allievi senza problematiche"
+   ],
+   "answ": 2,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qgi534",
+   "q": "Una scuola inclusiva pianifica avendo presente la necessità di dare risposte in primo luogo:",
+   "opts": [
+    "a tutti i suoi allievi",
+    "al corpo docenti",
+    "al dirigente scolastico",
+    "ai portatori di BES"
+   ],
+   "answ": 0,
+   "lez": 31,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "179ncjk",
+   "q": "Le strategie di gestione della classe risultano ormai:",
+   "opts": [
+    "difficili da definire",
+    "assodate e validate dalla ricerca",
+    "affidate all’estro di ciascun docente",
+    "desuete"
+   ],
+   "answ": 1,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1i95zo",
+   "q": "In una scuola inclusiva il soggetto in difficoltà non deve avere la percezione di essere:",
+   "opts": [
+    "un corpo estraneo",
+    "integrato",
+    "uguale agli altri",
+    "incluso"
+   ],
+   "answ": 0,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "138qn1o",
+   "q": "La didattica speciale per una scuola inclusiva inizia necessariamente dal concetto di gestione:",
+   "opts": [
+    "del corpo docenti",
+    "della classe",
+    "dei metodi",
+    "degli allievi portatori di disabilità"
+   ],
+   "answ": 1,
+   "lez": 32,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1cxr03c",
+   "q": "Nella disabilità intellettiva, la compressione delle abilità psichiche si manifesta durante il periodo:",
+   "opts": [
+    "diagnostico",
+    "scolastico",
+    "clinico",
+    "evolutivo"
+   ],
+   "answ": 3,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1pnjl4h",
+   "q": "5. I domini interessati dalla disabilità intellettiva sono in tutto:",
+   "opts": [
+    "tre",
+    "quattro",
+    "cinque",
+    "due"
+   ],
+   "answ": 0,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qnce6k",
+   "q": "Le aree di deficit delle funzioni intellettive sono in tutto:",
+   "opts": [
+    "quattro",
+    "tre",
+    "sei",
+    "due"
+   ],
+   "answ": 1,
+   "lez": 33,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rc4als",
+   "q": "I disturbi dello spettro autistico rientrano nell’ambito dei:",
+   "opts": [
+    "disturbi pervasivi dello sviluppo",
+    "disturbi invalidanti dello sviluppo",
+    "disturbi clinici dello sviluppo",
+    "disturbi sistemici dello sviluppo"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4g0z2o",
+   "q": "La compromissione, sempre presente nei disturbi dello spettro autistico, è quella relativa:",
+   "opts": [
+    "alla competenza motoria",
+    "all’interazione sociale",
+    "alla competenza logico-matematica",
+    "all’intelligenza spaziale"
+   ],
+   "answ": 1,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g9wlbw",
+   "q": "La classe dell’allievo con disturbi dello spettro autistico può divenire un contesto inclusivo se si adatta facilmente:",
+   "opts": [
+    "alle sue peculiari modalità di funzionamento",
+    "alle sue peculiari crisi comportamentali",
+    "alle sue difficoltà di apprendimento",
+    "alle sue peculiari modalità aggressive"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1datl2k",
+   "q": "La presenza ed il ruolo dei compagni, per l’allievo con disturbi dello spettro autistico, rappresentano:",
+   "opts": [
+    "una risorsa",
+    "un elemento ininfluente",
+    "un fattore di criticità",
+    "un elemento di disturbo"
+   ],
+   "answ": 0,
+   "lez": 34,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l9jbm4",
+   "q": "La sfera cognitiva, nella disabilità sensoriale, in genere:",
+   "opts": [
+    "è sempre parzialmente compromessa",
+    "è irrilevante",
+    "è compromessa",
+    "non è compromessa"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jozvdn",
+   "q": "I vari livelli di ipoacusia e le loro differenze comportano, per chi ne è affetto, diverse esperienze:",
+   "opts": [
+    "della scuola",
+    "del mondo",
+    "di se stesso",
+    "degli altri"
+   ],
+   "answ": 1,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2d65jq",
+   "q": "La pluridisabilità sensoriale prevede la presenza simultanea di:",
+   "opts": [
+    "disabilità visiva e uditiva",
+    "disabilità motoria e cognitiva",
+    "disabilità tattile e visiva",
+    "disabilità sensoriale e intellettiva"
+   ],
+   "answ": 0,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19h1858",
+   "q": "Le disabilità sensoriali implicano una serie di difficoltà nella sfera:",
+   "opts": [
+    "cognitiva e sociale",
+    "motoria e linguistica",
+    "intellettiva e dell’autonomia personale",
+    "sociale e dell’autonomia personale"
+   ],
+   "answ": 3,
+   "lez": 35,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3e4u0",
+   "q": "Il soggetto sordo percepisce la propria differenza come una propria:",
+   "opts": [
+    "peculiarità",
+    "prerogativa",
+    "carenza",
+    "originalità"
+   ],
+   "answ": 2,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "16e2cjc",
+   "q": "L'esposizione ad una lingua dei segni, per il soggetto sordo, produce vantaggi:",
+   "opts": [
+    "improbabili",
+    "probabili",
+    "irrilevanti",
+    "indubbi"
+   ],
+   "answ": 3,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8mgx24",
+   "q": "Il soggetto sordo presenta una carenza di dati informativi:",
+   "opts": [
+    "sulla scuola",
+    "sul mondo",
+    "sulla sua disabilità",
+    "su se stesso"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y1rgh8",
+   "q": "Il soggetto sordo, in ambito didattico, presenta difficoltà nella lingua:",
+   "opts": [
+    "parlata ma non scritta",
+    "scritta e parlata",
+    "scritta ma non parlata",
+    "dei segni"
+   ],
+   "answ": 1,
+   "lez": 36,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4on8qx",
+   "q": "La distanza ottimale nella conversazione con l'allievo sordo non deve mai essere oltre:",
+   "opts": [
+    "due metri",
+    "un metro e mezzo",
+    "30 centimetri",
+    "un metro"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19kaplw",
+   "q": "Per utilizzare la lingua italiana dei segni (LIS) occorre ricorrere:",
+   "opts": [
+    "alla sensibilità dei compagni",
+    "ad un mediatore linguistico",
+    "all’insegnante curriculare",
+    "all’insegnante di sostegno"
+   ],
+   "answ": 1,
+   "lez": 37,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1sca87g",
+   "q": "In assenza della vista, gli altri sensi cooperano tra di loro per sopperire a tale mancanza mediante un processo note come:",
+   "opts": [
+    "corrispondenza",
+    "vicarianza",
+    "assonanza",
+    "dissonanza"
+   ],
+   "answ": 1,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vo7xow",
+   "q": "Nell’ambito della stessa disabilità visiva, molto differente può essere la percezione della realtà a seconda se si sia:",
+   "opts": [
+    "non vedente o ipovedente",
+    "non vedente o disabile intellettivo",
+    "ipovedente o disabile intellettivo",
+    "vedente o ipovedente"
+   ],
+   "answ": 0,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rmrp5g",
+   "q": "Il disabile visivo, circa l’apprendimento, necessita di:",
+   "opts": [
+    "stimoli visivi",
+    "tempi più lunghi",
+    "stimoli uditivi",
+    "tempi più brevi"
+   ],
+   "answ": 1,
+   "lez": 38,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rs476s",
+   "q": "Le strategie didattiche più favorevoli ad un alunno con disabilità visiva fanno riferimento a una prospettiva di tipo:",
+   "opts": [
+    "visivo",
+    "cognitivo",
+    "esperienziale",
+    "concettuale"
+   ],
+   "answ": 2,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17psf6w",
+   "q": "Nell’intervento didattico a favore dello studente con disabilità visiva, occorre anche ponderare il ruolo dei meccanismi:",
+   "opts": [
+    "di vicarianza",
+    "espliciti",
+    "impliciti",
+    "di difesa"
+   ],
+   "answ": 3,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3yzgtk",
+   "q": "Tra gli obiettivi dell’intervento didattico a favore dello studente con disabilità visiva, vi è anche l’acquisizione di una buona competenza:",
+   "opts": [
+    "psicologica",
+    "relazionale",
+    "linguistica",
+    "personale"
+   ],
+   "answ": 1,
+   "lez": 39,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1l6d9oe",
+   "q": "La sfida della pedagogia speciale, in materia di progettazione didattica, è di riuscire a coniugare la didattica curricolare alle esigenze dettate:",
+   "opts": [
+    "dall’apprendimento",
+    "dall’inclusione",
+    "dall’istruzione",
+    "dall’insegnamento"
+   ],
+   "answ": 1,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "74q7ek",
+   "q": "La progettazione dell'insegnamento è l'analisi della situazione da cui prende avvio l’azione:",
+   "opts": [
+    "didattica",
+    "scolastica",
+    "di sostegno",
+    "valutativa"
+   ],
+   "answ": 0,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10vgo8w",
+   "q": "In ottica inclusiva, il curricolo comune va adattato per accogliere le esigenze:",
+   "opts": [
+    "della dirigenza scolastica",
+    "degli allievi portatori di disabilità",
+    "degli insegnanti curricolari",
+    "di ciascuno studente"
+   ],
+   "answ": 3,
+   "lez": 40,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "80lqzc",
+   "q": "L’adattamento degli obiettivi didattici e dei materiali di apprendimento è parte integrante:",
+   "opts": [
+    "soltanto del PEI",
+    "del PDP ma non del PEI",
+    "del PEI ma non del PDP",
+    "del PEI (piano educativo individualizzato) e del PDP (Piano didattico personalizzato)"
+   ],
+   "answ": 3,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tt7nyo",
+   "q": "Quale, tra le seguenti, NON è una strategia di adattamento didattico:",
+   "opts": [
+    "relazione",
+    "facilitazione",
+    "sostituzione",
+    "semplificazione"
+   ],
+   "answ": 0,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "a9r6a9",
+   "q": "Nella classe inclusiva le strategie di adattamento:",
+   "opts": [
+    "sono utili soprattutto ai docenti",
+    "sono destinate soltanto agli allievi con bisogni educativi speciali",
+    "tornano utili a tutti gli allievi",
+    "tornano utili soprattutto alla dirigenza scolastica"
+   ],
+   "answ": 2,
+   "lez": 41,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1umteto",
+   "q": "Una delle seguenti NON è una strategia di adattamento didattico:",
+   "opts": [
+    "partecipazione alla cultura del compito",
+    "sostituzione",
+    "inversione",
+    "facilitazione"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "29umvo",
+   "q": "La strategia didattica della facilitazione prevede:",
+   "opts": [
+    "l’offerta di attività libere",
+    "la riduzione del contenuto dell’attività",
+    "una aggiunta di informazioni per svolgere l’attività",
+    "un esonero dallo svolgimento dell’attività"
+   ],
+   "answ": 2,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qckzho",
+   "q": "Nella strategia didattica della sostituzione, si vanno a sostituire:",
+   "opts": [
+    "i metodi",
+    "i materiali",
+    "le consegne",
+    "gli obiettivi"
+   ],
+   "answ": 1,
+   "lez": 42,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "sctvek",
+   "q": "Nel caso di ipoacusia, il banco va posto di fronte:",
+   "opts": [
+    "alla finestra",
+    "alla foresta",
+    "alla cattedra",
+    "ai compagni"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "13jmarw",
+   "q": "In presenza di deficit uditivo, la compromissione dell’udito si può compensare con:",
+   "opts": [
+    "appositi strumenti",
+    "la voce",
+    "la vista",
+    "il tatto"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "664ngt",
+   "q": "In presenza di deficit visivo si possono utilizzare:",
+   "opts": [
+    "mappe",
+    "schemi",
+    "audiolibri",
+    "riassunti"
+   ],
+   "answ": 2,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kzzxn4",
+   "q": "Per quanto riguarda la comprensione del testo per un allievo ipovedente, si può utilizzare del materiale di lettura:",
+   "opts": [
+    "in Braille",
+    "LIS",
+    "alternativo",
+    "speciale"
+   ],
+   "answ": 0,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "exsmyd",
+   "q": "In caso di disabilità sensoriale, a carico della vista e dell’udito, il PEI suggerisce:",
+   "opts": [
+    "scomposizione dei nuclei fondanti della disciplina",
+    "sostituzioni o semplificazioni",
+    "partecipazione alla cultura del compito",
+    "semplificazioni o facilitazioni"
+   ],
+   "answ": 3,
+   "lez": 43,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bvg114",
+   "q": "Nell’ambito dei disturbi generalizzati dello sviluppo, la strategia didattica della facilitazione prevede il ricorso al mediatore:",
+   "opts": [
+    "globale",
+    "verbale",
+    "testuale",
+    "iconico"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "301nva",
+   "q": "In caso di disturbi di attenzione, concentrazione e iperattività, i materiali didattici vanno presentati con:",
+   "opts": [
+    "rapidità e tempestività",
+    "appositi strumenti",
+    "semplicità e ordine",
+    "complessità e disposizione"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10l3ltd",
+   "q": "Le strategie di facilitazione nei disturbi oppostivi provocatori e comorbilità con ADHD si possono strutturare mediante la modalità:",
+   "opts": [
+    "di e learning",
+    "scritta",
+    "di visual learning",
+    "on line"
+   ],
+   "answ": 2,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "9hxiz8",
+   "q": "Un esempio di sostituzione, nell’ambito dei disturbi dello spettro autistico, è:",
+   "opts": [
+    "la scomposizione dei nuclei fondanti della disciplina",
+    "la partecipazione alla cultura del compito",
+    "la facilitazione",
+    "la comunicazione aumentativa alternativa"
+   ],
+   "answ": 3,
+   "lez": 44,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "gef51k",
+   "q": "La LIM può essere parte del generale processo di semplificazione delle attività didattiche, specialmente per quanto riguarda la semplificazione:",
+   "opts": [
+    "dell’espressione grafico-pittorica",
+    "dell’espressione corporea",
+    "della sostituzione",
+    "della complessità concettuale"
+   ],
+   "answ": 3,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dteci0",
+   "q": "Lo schermo della LIM diviene per gli alunni spazio condiviso:",
+   "opts": [
+    "di calcolo e concettualizzazione automoma",
+    "di concettualizzazione e azione indiretta",
+    "di elaborazione e azione pregressa",
+    "di elaborazione e azione diretta"
+   ],
+   "answ": 3,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "y63ulo",
+   "q": "La LIM scardina la centralità:",
+   "opts": [
+    "della voce umana",
+    "dell’insegnante",
+    "del testo scritto",
+    "dell’allievo"
+   ],
+   "answ": 2,
+   "lez": 45,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "w0okuk",
+   "q": "Secondo l’approccio dell’Universal Design for Learning, “quello che è necessario per qualcuno, finisce per diventare utile:",
+   "opts": [
+    "“per alcuni”",
+    "“per la maggioranza”",
+    "“per nessuno”",
+    "“per tutti”"
+   ],
+   "answ": 3,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "it5a5s",
+   "q": "L’approccio dell’Universal Design for Learning si fonda sulla consapevolezza che gli allievi hanno:",
+   "opts": [
+    "abilità uguali e stili di apprendimento differenti",
+    "abilità e stili di apprendimento differenti",
+    "disabilità differenti",
+    "livelli di giudizio differenti"
+   ],
+   "answ": 1,
+   "lez": 46,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4bm300",
+   "q": "Secondo l’Universal Design for Learning, includere significa promuovere:",
+   "opts": [
+    "tutti i portatori di disabilità",
+    "tutti gli allievi",
+    "la creatività",
+    "tutte le intelligenze"
+   ],
+   "answ": 3,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "m9ff40",
+   "q": "Secondo il criterio della tolleranza dell’errore, la proposta didattica è tanto più efficace quanto più è pensata per:",
+   "opts": [
+    "facilitare l’espressione corporea",
+    "limitare l’insuccesso",
+    "contenere gli errori",
+    "favorire la semplificazione"
+   ],
+   "answ": 1,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ol8n5s",
+   "q": "I principi dell’Universal Design for Learning sono in tutto:",
+   "opts": [
+    "quattro",
+    "tre",
+    "sei",
+    "due"
+   ],
+   "answ": 1,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1mlwf9s",
+   "q": "Le linee Guida elaborare dal CAST circa l’Universal Design for Learning risalgono al:",
+   "opts": [
+    "2011",
+    "2016",
+    "1999",
+    "2021"
+   ],
+   "answ": 0,
+   "lez": 47,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ym0bzs",
+   "q": "La possibilità di attività coinvolgenti e motivanti per lo studente si può attuare mediante:",
+   "opts": [
+    "lavori individuali",
+    "verifiche individuali",
+    "lavori di gruppo",
+    "verifiche di gruppo"
+   ],
+   "answ": 2,
+   "lez": 48,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zmx2ro",
+   "q": "Secondo il principio “fornire molteplici mezzi per manifestare impegno”, l’apprendimento in classe è un processo di:",
+   "opts": [
+    "costruzione di significato",
+    "costruzione di gruppi di lavoro",
+    "implementazione",
+    "valutazione"
+   ],
+   "answ": 1,
+   "lez": 48,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5bzzng",
+   "q": "La direttiva del 27 dicembre 2012 pone alla scuola, per la prima volta, il problema:",
+   "opts": [
+    "dei bisogni educativi speciali dei suoi allievi anche senza certificazione o diagnosi",
+    "delle criticità comportamentali dei propri allievi",
+    "della collegialità",
+    "delle scarse competenze dei suoi allievi"
+   ],
+   "answ": 0,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jdrtbk",
+   "q": "La persona con svantaggio socio-economico linguistico culturale, senza alcuna diagnosi:",
+   "opts": [
+    "potrebbe rientrare nei BES",
+    "rientra nei BES",
+    "non rientra nei BES",
+    ") è esclusa categoricamente dai BES"
+   ],
+   "answ": 1,
+   "lez": 49,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "17vmuuo",
+   "q": "Come sostiene d’Alonzo, la scuola italiana possiede risorse e una notevole tradizione, sul piano inclusivo:",
+   "opts": [
+    "che nessun paese al mondo possiede",
+    "inferiore quantitativamente rispetto agli altri paesi",
+    "ambigue rispetto agli altri paesi",
+    "antiquate rispetto agli altri paesi"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "78q7ip",
+   "q": "La direttiva del 27 dicembre 2012 ha evidenziato che l'area dello svantaggio scolastico:",
+   "opts": [
+    "è molto più ampia di quella riferibile soltanto alla presenza di deficit certificato",
+    "si circoscrive alla presenza di deficit certificato",
+    "è molto più ristretta di quella riferibile soltanto alla presenza di deficit certificato",
+    "è molto più specifica di quella riferibile soltanto alla presenza di deficit certificato"
+   ],
+   "answ": 0,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "w8g4fc",
+   "q": "Se si desidera rispondere ai bisogni educativi speciali è necessario attivarsi per sviluppare le risorse:",
+   "opts": [
+    "della strumentazione disponibile",
+    "dei docenti",
+    "delle scuole",
+    "degli studenti che ne sono portatori"
+   ],
+   "answ": 3,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "58ackw",
+   "q": "Nei BES, l’interesse principale dei docenti va rivolto:",
+   "opts": [
+    "alle difficoltà presenti",
+    "alle difficoltà latenti",
+    "alle potenzialità di ciascun studente",
+    "alle criticità dell’ambiente"
+   ],
+   "answ": 2,
+   "lez": 50,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uwaphw",
+   "q": "La dislessia è un disturbo specifico:",
+   "opts": [
+    "dell’ortografia",
+    "della lettura",
+    "del calcolo",
+    "della scrittura"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1as421q",
+   "q": "La diagnosi dei DSA e' effettuata:",
+   "opts": [
+    "da persone di fiducia della famiglia dell’allievo",
+    "dagli specialisti di ambito sanitario",
+    "dall’insegnante di sostegno",
+    "dagli insegnanti curriculari"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "mb7pao",
+   "q": "I disturbi specifici dell’apprendimento (DSA) sono stati riconosciuti e definiti:",
+   "opts": [
+    "dalla legge n. 170 dell’8 ottobre 2010",
+    "dalla legge n. 104 del 1992",
+    "dalla legge n. 517 del 1977",
+    "dalla legge n. 1859 del 1962"
+   ],
+   "answ": 0,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pwyc2a",
+   "q": "Nella disortografia, è compromessa la correttezza:",
+   "opts": [
+    "della lettura",
+    "della scrittura",
+    "del calcolo",
+    "del ragionamento"
+   ],
+   "answ": 1,
+   "lez": 51,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xaxmn0",
+   "q": "Gli allievi con dislessia hanno difficoltà:",
+   "opts": [
+    "nella comprensione del testo",
+    "nel calcolo rapido",
+    "del ragionamento",
+    "nella scrittura"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1aduw54",
+   "q": "Nella scuola, gli allievi che presentano disturbi specifici dell’apprendimento:",
+   "opts": [
+    "sono in continua crescita",
+    "sono in diminuzione",
+    "sono rimasti numericamente invariati negli anni",
+    "sono la maggioranza"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "64dftk",
+   "q": "Le strategie ritenute efficaci per la comprensione del testo degli allievi con DSA si distinguono in:",
+   "opts": [
+    "strategie singole e strategie multiple",
+    "strategie singole e strategie multidisciplinari",
+    "strategie statiche e strategie dinamiche",
+    "strategie semplici e strategie complesse"
+   ],
+   "answ": 0,
+   "lez": 52,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yv8yhg",
+   "q": "Le misure dispensative sono interventi che consentono all’alunno con DSA di:",
+   "opts": [
+    "non svolgere alcune prestazioni",
+    "rimandare alcune prestazioni",
+    "riflettere su alcune prestazioni",
+    "svolgere alcune prestazioni"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "x7fzms",
+   "q": "Per l’alunno con DSA, gli strumenti compensativi:",
+   "opts": [
+    "sostituiscono o facilitano la prestazione richiesta",
+    "sostituiscono ma non facilitano la prestazione richiesta",
+    "consentono non svolgere la prestazione",
+    "facilitano ma non sostituiscono la prestazione richiesta"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "10ff6ww",
+   "q": "Gli strumenti compensativi e le misure dispensative, a favore degli studenti con DSA, trovano la loro ragion d’essere:",
+   "opts": [
+    "nei principi di individualizzazione e personalizzazione didattica",
+    "nella pratica della collegialità",
+    "nel momento della verifica e della valutazione",
+    "nel PEI (piano educativo individualizzato)"
+   ],
+   "answ": 0,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1k3xu39",
+   "q": "S. Pinnelli (2015) suddivide gli strumenti compensativi a seconda che siano:",
+   "opts": [
+    "a tecnologia multimediale o ipertestuale",
+    "a tecnologia analogica o digitale",
+    "a tecnologia personale o sociale",
+    "a bassa o alta tecnologia"
+   ],
+   "answ": 3,
+   "lez": 53,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tfi6pw",
+   "q": "Il disturbo da deficit di attenzione e iperattività (ADHD) è un disturbo:",
+   "opts": [
+    "della sfera sensoriale",
+    "della sfera motoria",
+    "dell’autostima",
+    "dell’autocontrollo"
+   ],
+   "answ": 3,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nhy4u0",
+   "q": "Diversi autori sostengono che il deficit principale della sindrome da deficit di attenzione e iperattività (ADHD) sia rappresentato da difficoltà che si manifestano:",
+   "opts": [
+    "nelle situazioni scolastiche ma non in quelle lavorative e sociali",
+    "nelle situazioni lavorative e scolastiche ma non in quelle sociali",
+    "nelle situazioni sociali ma non in quelle scolastiche e lavorative",
+    "sia nelle situazioni scolastiche e lavorative che in quelle sociali"
+   ],
+   "answ": 3,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t9vxio",
+   "q": "Secondo alcuni autori, la caratteristica distintiva del disturbo da deficit di attenzione e iperattività (ADHD) è:",
+   "opts": [
+    "l’asocialità",
+    "la metodicità",
+    "la dinamicità",
+    "l’impulsività"
+   ],
+   "answ": 3,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jay64",
+   "q": "Il disturbo da deficit di attenzione e iperattività (ADHD) insorge:",
+   "opts": [
+    "in epoca perinatale",
+    "in età evolutiva",
+    "nell’età adulta",
+    "in epoca prenatale"
+   ],
+   "answ": 1,
+   "lez": 54,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tcy0vi",
+   "q": "L’ipermedialità, secondo Pinnelli, favorisce l’apprendimento degli allievi con sindrome di attenzione e iperattività (ADHD):",
+   "opts": [
+    "no",
+    "probabilmente",
+    "si",
+    "in parte"
+   ],
+   "answ": 2,
+   "lez": 55,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6tqsjk",
+   "q": "Rispetto alla fruizione della televisione da parte dell’alunno con deficit di attenzione e iperattività (ADHD), la differenza fondamentale è data:",
+   "opts": [
+    "dalla comprensione di ciò che guarda",
+    "dalla presenza di altri spettatori",
+    "dalla dimensione dello schermo",
+    "dalla tipologia del programma trasmesso"
+   ],
+   "answ": 0,
+   "lez": 55,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tzg1g0",
+   "q": "Gli allevi con sindrome da deficit di attenzione e iperattività (ADHD) hanno, tra gli altri aspetti, un deficit:",
+   "opts": [
+    "dell’aggressività",
+    "motivazionale",
+    "sociale",
+    "dell’autostima"
+   ],
+   "answ": 1,
+   "lez": 55,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "15d1la0",
+   "q": "Un recente impiego della tecnologia nel campo del disturbo da ADHD viene dall'utilizzo dei sistemi di:",
+   "opts": [
+    "Biofeedback (BF) e Neurofeedback (NF)",
+    "simulazione didattica",
+    "autoregolazione cognitiva",
+    "intelligenza artificiale"
+   ],
+   "answ": 0,
+   "lez": 56,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1a1sfc4",
+   "q": "Le aree privilegiate di intervento attraverso le TIC (tecnologie dell’informazione e della comunicazione) sugli alunni con ADHD riguardano compiti:",
+   "opts": [
+    ") strategici, organizzativi, di memoria e di autoregolazione",
+    "attentivi, organizzativi, di memoria e di autoregolazione",
+    "attentivi, rievocativi, di memoria e di autobiografia",
+    "attentivi, organizzativi, di memoria e di autodeterminazione"
+   ],
+   "answ": 1,
+   "lez": 56,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1dmmdag",
+   "q": "2. È quel “complesso costrutto dell'attività cognitiva che si riferisce a delle abilità specifiche ben coordinate che, una volta apprese, permettono al soggetto di controllare il proprio comportamento senza la necessità di un supervisore esterno”. Stiamo parlando di:",
+   "opts": [
+    "strategia cognitiva",
+    "funzione cognitiva",
+    "autoregolazione cognitiva",
+    "autonomia cognitiva"
+   ],
+   "answ": 2,
+   "lez": 56,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7zq77s",
+   "q": "Una difficoltà di funzionamento della persona genera:",
+   "opts": [
+    "una disabilità sensoriale",
+    "un disturbo specifico dell’apprendimento",
+    "un bisogno educativo speciale",
+    "una disabilità intellettiva"
+   ],
+   "answ": 2,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nccjyd",
+   "q": "L’affermazione seguente “un bisogno educativo speciale può scaturire da moltissime combinazioni di fattori sfavorevoli per l’alunno”:",
+   "opts": [
+    "corrisponde parzialmente a verità",
+    "corrisponde a verità",
+    "potrebbe corrispondere a verità",
+    "non corrisponde a verità"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "qfrlno",
+   "q": "Nel modello di funzionamento della persona dell’OMS agli estremi superiori e inferiori si trovano:",
+   "opts": [
+    "i fattori contestuali e le condizioni scolastiche",
+    "le condizioni fisiche e i fattori contestuali",
+    "le condizioni fisiche e i fattori mentali",
+    "le condizioni familiari e i fattori ereditari"
+   ],
+   "answ": 1,
+   "lez": 57,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wwyb8s",
+   "q": "Lo scopo generale della classificazione ICF è di fornire un linguaggio standard e unificato circa:",
+   "opts": [
+    "la disabilità motoria",
+    "il funzionamento della persona",
+    "un bisogno educativo speciale",
+    "i disturbi specifici dell’apprendimento"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1uviqv8",
+   "q": "La seguente definizione “insiemi pratici e significativi di funzioni fisiologiche, strutture anatomiche, azioni, compiti, o aree di vita correlate” nell’ICF si riferisce ai:",
+   "opts": [
+    "fattori contestuali",
+    "domini",
+    "fattori ambientali",
+    "funzioni cognitive"
+   ],
+   "answ": 1,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nribkw",
+   "q": "I domini nell’ICF sono descritti in due elenchi principali:",
+   "opts": [
+    "Funzioni e Strutture Comunicative; Attività e Partecipazione",
+    "Funzioni e Strutture Corporee; Attività e Relazione",
+    "Funzioni e Strutture Mentali; Attività e Socializzazione",
+    "Funzioni e Strutture Corporee; Attività e Partecipazione"
+   ],
+   "answ": 3,
+   "lez": 58,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ux0sn4",
+   "q": "La sigla PEI sta per:",
+   "opts": [
+    "progettazione educativa incorporata",
+    "piano riabilitativo individualizzato",
+    "piano educativo individualizzato",
+    "piano educativo istituzionalizzato"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "730sok",
+   "q": "Il PEI è elaborato è approvato:",
+   "opts": [
+    "dal collegio dei docenti",
+    "dal team degli insegnanti di sostegno",
+    "dal GLO (Gruppo di lavoro operativo per l’inclusione)",
+    "dagli specialisti della patologia"
+   ],
+   "answ": 2,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vpzqok",
+   "q": "Le sezioni del PEI più significative per la valorizzazione della prospettiva bio-psico-sociale sono quelle dedicate:",
+   "opts": [
+    "al contesto",
+    "alle strutture mentali",
+    "ai fattori personali",
+    "alle strutture corporee"
+   ],
+   "answ": 0,
+   "lez": 59,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14759uk",
+   "q": "Guardare al PEI in prospettiva bio-psico-sociale significa leggere i bisogni educativi speciali in ottica di :",
+   "opts": [
+    "disabilità",
+    "deficit",
+    "malattia",
+    "salute"
+   ],
+   "answ": 3,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "kdlsew",
+   "q": "La sigla ICF-CY identifica la Classificazione Internazionale del Funzionamento, della Disabilità e della Salute (ICF) nella sua versione specifica per:",
+   "opts": [
+    "l’età adulta",
+    "i bisogni educativi speciali",
+    "l’infanzia e l’adolescenza",
+    "la disabilità intellettiva"
+   ],
+   "answ": 2,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "avjhnc",
+   "q": "Pensare al PEI in prospettiva bio-psico-sociale significa considerare l’allievo secondo una prospettiva:",
+   "opts": [
+    "globale",
+    "settoriale",
+    "sistematica",
+    "critica"
+   ],
+   "answ": 0,
+   "lez": 60,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "l08ne0",
+   "q": "Rispetto ad un’azione, compito o funzione, quello che l’alunno è in grado di fare senza alcuna influenza di fattori contestuali, ambientali o personali, si definisce:",
+   "opts": [
+    "abilità",
+    "prestazione",
+    "performance",
+    "capacità"
+   ],
+   "answ": 3,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1clvhrk",
+   "q": "Nella componente delle “Funzioni mentali” di ICF troviamo due domini:",
+   "opts": [
+    "funzioni mentali centrali e funzioni mentali periferiche",
+    "funzioni mentali normali e funzioni mentali speciali",
+    "funzioni mentali globali e funzioni mentali specifiche",
+    "funzioni mentali semplici e funzioni mentali complesse"
+   ],
+   "answ": 2,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "itqexo",
+   "q": "Tra le quattro dimensioni fondamentali del nuovo PEI non è presente:",
+   "opts": [
+    "la dimensione della relazione, dell’interazione e della socializzazione",
+    "la dimensione della valutazione scolastica",
+    "la dimensione dell’autonomia e dell’orientamento",
+    "la dimensione della comunicazione e del linguaggio"
+   ],
+   "answ": 1,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g00vlt",
+   "q": "Il modello di PEI voluto dal dm 182/2020 invita a strutturarlo secondo il seguente numero di dimensioni fondamentali:",
+   "opts": [
+    "quattro",
+    "cinque",
+    "due",
+    "tre"
+   ],
+   "answ": 0,
+   "lez": 61,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q7x8f8",
+   "q": "La certificazione delle competenze dell’allievo portatore di disabilità è prevista al termine:",
+   "opts": [
+    "della classe quinta della Scuola Primaria e della classe terza della Scuola Secondaria di primo grado",
+    "della classe terza della Scuola Secondaria di primo grado ma non della classe quinta della Scuola Primaria",
+    "non è prevista",
+    "della classe quinta della Scuola Primaria ma non della classe terza della Scuola Secondaria di primo grado"
+   ],
+   "answ": 0,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "f7at6c",
+   "q": "Le sezioni in cui è suddiviso il nuovo PEI sono in tutto:",
+   "opts": [
+    "nove",
+    "sette",
+    "dodici",
+    "quattro"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8yig8w",
+   "q": "Circa gli interventi, per la scuola dell’infanzia bisogna precisare che i campi di esperienza si sviluppano ed intrecciano in:",
+   "opts": [
+    "percorsi didattici e non in percorsi educativi",
+    "percorsi propedeutici e non in percorsi didattici",
+    "percorsi educativi e non in percorsi didattici",
+    "percorsi educativi e non in percorsi ludici"
+   ],
+   "answ": 2,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "nbq5r8",
+   "q": "Il progetto individuale è redatto:",
+   "opts": [
+    "dalla famiglia",
+    "dalla scuola",
+    "dalla ASL",
+    "dall’ente locale"
+   ],
+   "answ": 3,
+   "lez": 62,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "195j2ds",
+   "q": "La prospettiva bio-psico-sociale alla base di ICF identifica, nei fattori contestuali, due grandi ambiti, che interagiscono tra di loro:",
+   "opts": [
+    "fattori personali e fattori sociali",
+    "fattori intrinseci e fattori estrinseci",
+    "fattori ambientali e fattori personali",
+    "fattori statici e fattori dinamici"
+   ],
+   "answ": 2,
+   "lez": 63,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6rthx1",
+   "q": "In ambito scolastico possiamo osservare a volte fattori contestuali che hanno:",
+   "opts": [
+    "soltanto la valenza di facilitatore",
+    "nessuna valenza",
+    "entrambe le valenze di facilitatore o di barriera",
+    "soltanto la valenza di barriera"
+   ],
+   "answ": 2,
+   "lez": 63,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lz1hcw",
+   "q": "Il ruolo dei fattori contestuali nell’influenzare il funzionamento e la partecipazione dello studente:",
+   "opts": [
+    "non è stato ancora approfondito",
+    "è irrilevante",
+    "è ambiguo",
+    "è innegabile"
+   ],
+   "answ": 3,
+   "lez": 63,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "lyvjao",
+   "q": "Introdurre la dizione “piano educativo individualizzato-progetto di vita” significa aver compreso che occorre:",
+   "opts": [
+    "ricordare che l’esistenza del soggetto portatore di disabilità non va oltre l’età della scolarizzazione",
+    "pensare l’esistenza del soggetto portatore di disabilità oltre l’età della scolarizzazione",
+    ") tenere a mente che il soggetto portatore di disabilità non può fare a meno dell’aiuto degli altri",
+    "pianificare rigorosamente l’esistenza del soggetto portatore di disabilità"
+   ],
+   "answ": 1,
+   "lez": 64,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jzmcig",
+   "q": "Il raggiungimento di una buona qualità della vita adulta si predispone a partire:",
+   "opts": [
+    "dall’età della scuola secondaria di secondo grado",
+    "dall’età della scuola secondaria di primo grado",
+    "dall’età della scuola primaria",
+    "dalla prime fasi dello sviluppo"
+   ],
+   "answ": 3,
+   "lez": 64,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1g9g4m0",
+   "q": "Lepri osserva che l’idea che le persone con disabilità (in particolare intellettiva) possano “diventare grandi” è :",
+   "opts": [
+    "ancora ampiamente di minoranza",
+    "ormai ampiamente di maggioranza",
+    "tutta da verificare",
+    "sbagliata"
+   ],
+   "answ": 0,
+   "lez": 64,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dr8ztc",
+   "q": "Il bambino che appartiene al circuito della marginalità e del disagio sociale soffre, a scuola:",
+   "opts": [
+    "di scarsa fiducia da parte del docente di sostegno",
+    "di scarsa integrazione nella classe",
+    "di nessuna situazione in particolare",
+    "di scarsa accettazione da parte dei docenti"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "roeyu2",
+   "q": "Il soggetto marginale, rispetto alla sua sfera interiore, ha un dialogo:",
+   "opts": [
+    "assiduo",
+    "proficuo",
+    "scarso",
+    "quotidiano"
+   ],
+   "answ": 2,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1p770l0",
+   "q": "Il soggetto marginale è principalmente povero di:",
+   "opts": [
+    "titoli di studio",
+    "relazioni umani efficaci",
+    "risorse economiche fisse",
+    "una unità abitativa di proprietà"
+   ],
+   "answ": 1,
+   "lez": 65,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8dzgh8",
+   "q": "Secondo Pines, il desiderio di un figlio, nelle situazioni di marginalità e di deprivazione, può rappresentare, in realtà, quello di prendersi cura:",
+   "opts": [
+    "di un neonato",
+    "delle proprie parti “bambine”",
+    "dell’immagine di sé",
+    "di una nuova famiglia"
+   ],
+   "answ": 1,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "d4rzog",
+   "q": "La mancata accettazione dell’esperienza della gravidanza nelle giovani madri disagiate compromette:",
+   "opts": [
+    "la frequenza scolastica",
+    "la situazione economica",
+    "il rapporto con la famiglia di origine",
+    "il rapporto madre-figlio"
+   ],
+   "answ": 3,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "5wk51w",
+   "q": "Uno dei maggiori problemi del ritrovarsi incinte in età adolescenziale riguarda probabilmente:",
+   "opts": [
+    "la situazione economica legata a questo stato",
+    "l’elaborazione del progetto di vita",
+    "l’elaborazione emotiva di questo stato",
+    "le tensioni di coppia"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "vvbgh4",
+   "q": "La condizione di fondo del ritrovarsi incinte in età precoce, e in un contesto di disagio e marginalità sociale, è rappresentata da un sostanziale rifiuto:",
+   "opts": [
+    "del momento del parto",
+    "delle regole",
+    "della gravidanza",
+    "della presenza della famiglia di origine"
+   ],
+   "answ": 2,
+   "lez": 66,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1871dog",
+   "q": "È stato osservato che più si è svantaggiati e più ci si allontana dalla disponibilità:",
+   "opts": [
+    "al cambiamento",
+    "al dialogo con gli altri",
+    "a frequentare percorsi scolastici",
+    "ad accettarsi"
+   ],
+   "answ": 0,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "6672tg",
+   "q": "Lo stereotipo, di per sé, NON:",
+   "opts": [
+    "è un elemento negativo",
+    "esiste",
+    "è un elemento positivo",
+    "è un elemento importante"
+   ],
+   "answ": 0,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "157m75o",
+   "q": "Occorre aiutare l’identità personale dell’adulto marginale a divenire disponibile ad accogliere:",
+   "opts": [
+    "la realtà",
+    "il passato",
+    "la novità",
+    "il presente"
+   ],
+   "answ": 2,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e49tyk",
+   "q": "A volte il formatore del soggetto marginale può essere inconsapevolmente vittima di:",
+   "opts": [
+    "se stesso",
+    "pregiudizio",
+    "emarginazione sociale",
+    "episodi di bullismo"
+   ],
+   "answ": 1,
+   "lez": 67,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "q1i0uc",
+   "q": "Nell’intervento formativo rivolto al soggetto marginale occorre ridurre la diffidenza verso la situazione:",
+   "opts": [
+    "economica",
+    "familiare",
+    "di apprendimento",
+    "personale"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "v3z034",
+   "q": "La marginalità sociale è una forza che inibisce, tra gli altri aspetti, anche la:",
+   "opts": [
+    "comunicazione",
+    "stereotipia",
+    "diagnosi",
+    "scolarizzazione"
+   ],
+   "answ": 0,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1bs15o9",
+   "q": "I messaggi comunicativi, rivolti al soggetto marginale, NON devono essere:",
+   "opts": [
+    "ridondanti",
+    "chiari",
+    "complessi",
+    "semplici"
+   ],
+   "answ": 2,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "fg0yb0",
+   "q": "Nei percorsi di formazione il soggetto in condizione di marginalità sociale spesso avverte uno scollamento tra gli argomenti proposti e:",
+   "opts": [
+    "la loro utilità nella pratica quotidiana",
+    "il loro significato",
+    "la loro utilità a livello cognitivo",
+    "la scuola"
+   ],
+   "answ": 0,
+   "lez": 68,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "v3m9q4",
+   "q": "Paradossalmente, più si è svantaggiati e più ci si allontana dalla disponibilità ad affrontare:",
+   "opts": [
+    "nuovi cammini ed orizzonti",
+    "i problemi personali",
+    "nuovi cammini e persone",
+    "nuovi percorsi familiari"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ifqlgo",
+   "q": "L’adulto in condizioni di disagio ha bisogno di progetti impegnativi, oltre:",
+   "opts": [
+    "ogni sua previsione",
+    "la sua volontà",
+    "la scuola",
+    "la soglia minima"
+   ],
+   "answ": 3,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1em2hf8",
+   "q": "“Non c’è nulla di più ingiusto che fare parti uguali tra disuguali”. Lo ha affermato",
+   "opts": [
+    "Don Lorenzo Milani",
+    "Nicola Paparella",
+    "Jerome Bruner",
+    "Bartolo Longo"
+   ],
+   "answ": 0,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kyfq5g",
+   "q": "Il tentativo di “puntare in alto” nella formazione degli adulti marginali trova ulteriori ostacoli:",
+   "opts": [
+    "nei loro parenti",
+    "nei loro docenti",
+    "in alcune loro rigidità",
+    "in alcune loro prerogative"
+   ],
+   "answ": 2,
+   "lez": 69,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "arr09",
+   "q": "Ha parlato di “pensiero narrativo”. Si tratta di:",
+   "opts": [
+    "M. Montessori",
+    "Bartolo Longo",
+    "J. Bruner",
+    "J. Piaget"
+   ],
+   "answ": 2,
+   "lez": 70,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12s3edw",
+   "q": "Per P. Ricoeur, si esiste nella misura in cui si è capaci di:",
+   "opts": [
+    "ribellarsi",
+    "raccontare",
+    "parlare",
+    "esprimersi"
+   ],
+   "answ": 1,
+   "lez": 70,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14jllyc",
+   "q": "Per favorire riscatto ed emancipazione del soggetto marginale, può essere utile offrirgli:",
+   "opts": [
+    "incentivi economici",
+    "racconti fantastici cui ispirarsi",
+    "modelli speciali cui ispirarsi",
+    "modelli identitari cui ispirarsi"
+   ],
+   "answ": 3,
+   "lez": 70,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "g3w7fy",
+   "q": "I soggetti (adulti e bambini) marginali sono in grado di manifestare, nonostante tutto, aree di competenza:",
+   "opts": [
+    "inaspettate",
+    "deficitarie",
+    "incongruenti",
+    "note"
+   ],
+   "answ": 0,
+   "lez": 71,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "n56qoo",
+   "q": "“Speciale capacità di far fronte agli eventi traumatici, di opporsi alle avversità, di superarle ed a volte persino di uscirne rafforzati, manifestando adattamento, flessibilità e capacità di contrastare le avversità, piegandole a proprio vantaggio”. Stiamo parlando di:",
+   "opts": [
+    "fortuna",
+    "resilienza",
+    "impegno",
+    "progetto di vita"
+   ],
+   "answ": 1,
+   "lez": 71,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1j5s0gs",
+   "q": "Per ottenere resilienza, nel gruppo in formazione il soggetto marginale:",
+   "opts": [
+    "va posto accanto al formatore",
+    "va esentato dai compiti",
+    "va posto al centro",
+    "non deve rientrare"
+   ],
+   "answ": 2,
+   "lez": 71,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "ltd8xo",
+   "q": "La finalità dell’intervento formativo, destinato a soggetti adulti marginali è di:",
+   "opts": [
+    "incrementare il loro bagaglio lessicale",
+    "incrementare il loro bagaglio esperienziale",
+    "renderli conformi alla convivenza civile",
+    "renderli conformi alla normalità"
+   ],
+   "answ": 1,
+   "lez": 72,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1um3s8s",
+   "q": "Un fronte sul quale lavorare, per assicurare empowerment al soggetto in condizione di marginalità, è il sostegno:",
+   "opts": [
+    "alla motivazione",
+    "al reddito",
+    "al linguaggio",
+    "al suo sistema familiare"
+   ],
+   "answ": 0,
+   "lez": 72,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wgwdg2",
+   "q": "Il soggetto marginale, mediante le nuove conoscenze acquisite in un percorso formativo, va ad arricchire:",
+   "opts": [
+    "il suo contesto di vita",
+    "le pratiche formative",
+    "l’istituzione che rappresenta",
+    "il gruppo dei formatori"
+   ],
+   "answ": 0,
+   "lez": 72,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "i1rwoo",
+   "q": "Dal punto di vista educativo, lo stato di madre sola disagiata può penalizzare anche l’esercizio della funzione:",
+   "opts": [
+    "genitoriale",
+    "simbolica",
+    "riproduttiva",
+    "esecutiva"
+   ],
+   "answ": 0,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1rejkaa",
+   "q": "Sulla categoria delle madri sole disagiate si concentrano una serie di:",
+   "opts": [
+    "eventi fortuiti",
+    "figli",
+    "partner",
+    "disagi"
+   ],
+   "answ": 3,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7f8x3s",
+   "q": "Le giovani madri sole disagiate risultano povere soprattutto di:",
+   "opts": [
+    "validi sussidi economici",
+    "validi titoli di studio",
+    "valide soluzioni abitative",
+    "validi riferimenti affettivi"
+   ],
+   "answ": 3,
+   "lez": 73,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ks5wyc",
+   "q": "Come osserva F. Bimbi, le madri sole nubili, in passato, erano soggette ad una forte:",
+   "opts": [
+    "disapprovazione sociale",
+    "depressione",
+    "considerazione sociale",
+    "empatia da parte dei familiari"
+   ],
+   "answ": 0,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "j8fsxs",
+   "q": "I legami sentimentali di una giovane madre sola disagiata sono in genere caratterizzati:",
+   "opts": [
+    "dalla presenza di violenza",
+    "dal supporto della propria madre",
+    "dall’assenza di un partner stabile",
+    "dalla presenza di un partner stabile"
+   ],
+   "answ": 2,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1f6cruj",
+   "q": "Le giovani madri sole disagiate rappresentano un fenomeno sociale non ancora adeguatamente analizzato anche dal punto di vista:",
+   "opts": [
+    "pedagogico",
+    "psicologico",
+    "sociale",
+    "psichiatrico"
+   ],
+   "answ": 0,
+   "lez": 74,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "c3az4",
+   "q": "Una importante risorsa per la vita della madre sola disagiata è rappresentata:",
+   "opts": [
+    "dalla parentela più prossima",
+    "dai figli maggiorenni",
+    "dalla rete amicale",
+    "da alcuni sussidi economici"
+   ],
+   "answ": 0,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1qmktu4",
+   "q": "La rete parentale della giovane madre sola disagiata può essere al tempo stesso:",
+   "opts": [
+    "affidabile e inaffidabile",
+    "utile e inutile",
+    "risorsa e fonte di problematicità",
+    "ampia e ristretta"
+   ],
+   "answ": 2,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "120dc14",
+   "q": "Come evidenzia Giullari, le condizioni per imbastire un processo di reciprocità nel sostegno, per la giovane madre sola disagiata, è alquanto:",
+   "opts": [
+    "possibile",
+    "immediato",
+    "facile",
+    "improbabile"
+   ],
+   "answ": 3,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "19w6uo",
+   "q": "Occorre impedire che si formi, nella giovane madre sola disagiata, una cultura della dipendenza come parte integrante della loro:",
+   "opts": [
+    "identità",
+    "specificità",
+    "famiglia",
+    "professionalità"
+   ],
+   "answ": 0,
+   "lez": 75,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zawlds",
+   "q": "Una ricerca internazionale ha messo il luce come le giovani madri sole siano esposte a periodi di dipendenza dall’assistenza pubblica:",
+   "opts": [
+    "alternativi",
+    "brevi",
+    "più lunghi della media",
+    "sporadici"
+   ],
+   "answ": 2,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bherds",
+   "q": "Le forme di aiuto per le madri sole disagiate possono generare:",
+   "opts": [
+    "soddisfazione",
+    "autonomia",
+    "dipendenza",
+    "indipendenza"
+   ],
+   "answ": 2,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cx2g8k",
+   "q": "Le due principali forme di aiuto per le madri sole disagiate sono rappresentate da:",
+   "opts": [
+    "assistenza sociale pubblica e assistenza sociale privata",
+    "sostegno della famiglia d’origine e lavoro autonomo",
+    "assistenza sociale pubblica e aiuti da parte di amici",
+    "assistenza sociale pubblica e sostegno della famiglia d’origine"
+   ],
+   "answ": 3,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8cj9qc",
+   "q": "Come avvertono E. Ruspini e F. Bimbi, la povertà femminile è sempre intrecciata ad un percorso di:",
+   "opts": [
+    "incoerenza",
+    "devianza",
+    "attaccamento",
+    "dipendenza"
+   ],
+   "answ": 3,
+   "lez": 76,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vk3d3x",
+   "q": "Per favorire il destino di una giovane madre sola disagiata possono influire:",
+   "opts": [
+    "condizioni soggettive e condizioni oggettive",
+    "condizioni familiari e variabili contestuali",
+    "condizioni etniche e variabili ambientali",
+    "condizioni fisiche e variabili contestuali"
+   ],
+   "answ": 1,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "yad45m",
+   "q": "Bolton, Laner e Kane affermano che i bambini di una madre sola adolescente sono esposti al rischio di:",
+   "opts": [
+    "malformazioni",
+    "difficoltà comportamentali",
+    "devianza",
+    "maltrattamento"
+   ],
+   "answ": 3,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1opgh4w",
+   "q": "La trasmissione di madre in figlia della condizione di giovane madre sola disagiata è:",
+   "opts": [
+    "difendibile",
+    "non dimostrata dal punto di vista scientifico",
+    "è vera",
+    "dimostrata dal punto di vista scientifico"
+   ],
+   "answ": 1,
+   "lez": 77,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1wycqw8",
+   "q": "Il bambino in condizione di disagio sociale vive l’esperienza scolastica con forte:",
+   "opts": [
+    "distacco emotivo",
+    "entusiasmo",
+    "coinvolgimento emotivo",
+    "trasporto"
+   ],
+   "answ": 0,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1svwvek",
+   "q": "Crosnoe e Copper affermano che i bambini in stato di marginalità sociale, economicamente svantaggiati, a scuola ottengono:",
+   "opts": [
+    "punteggi più bassi rispetto agli altri compagni",
+    "più considerazione da parte dei compagni",
+    "punteggi più alti rispetto agli altri compagni",
+    "più considerazione da parte dei docenti"
+   ],
+   "answ": 0,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1hofj5s",
+   "q": "La scuola frequentata dal bambino in condizione di marginalità sociale può essere il luogo in cui intercettare i suoi primi segnali:",
+   "opts": [
+    "di comunicazione",
+    "di disagio",
+    "di insofferenza",
+    "di apprendimento"
+   ],
+   "answ": 1,
+   "lez": 78,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1e6g6lh",
+   "q": "Il focus del disagio infantile oggi può essere legato al concetto di povertà:",
+   "opts": [
+    "educativa",
+    "economica",
+    "familiare",
+    "sociale"
+   ],
+   "answ": 0,
+   "lez": 79,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "amst3u",
+   "q": "Il fenomeno della povertà educativa non può lasciare indifferente lo sguardo:",
+   "opts": [
+    "dei genitori",
+    "delle scienze sociologiche",
+    "delle scienze economiche",
+    "delle scienze pedagogiche"
+   ],
+   "answ": 3,
+   "lez": 79,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "jffe74",
+   "q": "Nei contesti del disagio sociale, avere un solo genitore rappresenta un:",
+   "opts": [
+    "ulteriore fattore di criticità",
+    "fattore ininfluente",
+    "grande punto di forza",
+    "ulteriore fattore di sostegno"
+   ],
+   "answ": 0,
+   "lez": 79,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1odrvcw",
+   "q": "La finalità dell’intervento educativo, destinato ai portatori di disagio sociale, punta allo sviluppo in loro di:",
+   "opts": [
+    "resilienza",
+    "differenza",
+    "resistenza",
+    "emozione"
+   ],
+   "answ": 0,
+   "lez": 80,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "122t97s",
+   "q": "Bisogna aiutare il soggetto in condizione di disagio sociale a prendere consapevolezza dei propri bisogni e anche delle proprie:",
+   "opts": [
+    "capacità",
+    "criticità",
+    "lacune",
+    "debolezze"
+   ],
+   "answ": 0,
+   "lez": 80,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1s4i8fg",
+   "q": "La complessità che caratterizza il disagio sociale richiede una condivisione ampia della responsabilità:",
+   "opts": [
+    "familiare",
+    "personale",
+    "educativa",
+    "giuridica"
+   ],
+   "answ": 2,
+   "lez": 80,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vfi24k",
+   "q": "Il passaggio dagli istituti alla comunità si è reso necessario per rendere il modello assistenziale dei portatori di disagio sociale meno:",
+   "opts": [
+    "spersonalizzante",
+    "lungo",
+    "personalizzato",
+    "complesso"
+   ],
+   "answ": 0,
+   "lez": 81,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1vh6iww",
+   "q": "Il progetto educativo individualizzato viene realizzato in comunità:",
+   "opts": [
+    "soltanto per i bambini stranieri",
+    "per ciascun ospite",
+    "soltanto per coloro che presentano disabilità certificata",
+    "soltanto per qualche ospite con particolari problematiche"
+   ],
+   "answ": 1,
+   "lez": 81,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "14fva18",
+   "q": "L’èquipe dei professionisti operanti in struttura predispone, per ciascun ospite un progetto educativo:",
+   "opts": [
+    "individualizzato",
+    "unico",
+    "standardizzato",
+    "globale"
+   ],
+   "answ": 0,
+   "lez": 81,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1w7wn8o",
+   "q": "Rispetto alle madri inserite nelle comunità di accoglienza, l’intervento educativo intende migliorare le loro capacità:",
+   "opts": [
+    "genitoriali",
+    "soggettive",
+    "ambientali",
+    "contestuali"
+   ],
+   "answ": 0,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "117cmv0",
+   "q": "Il problema, da parte dell’utenza, della mancata accettazione del percorso comunitario, specie in fase iniziale, è piuttosto:",
+   "opts": [
+    "raro",
+    "saltuario",
+    "normale",
+    "frequente"
+   ],
+   "answ": 3,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xgtyfk",
+   "q": "Come ha affermato M. Zappa, “chiudere davvero gli istituti” significa soprattutto lavorare sul territorio per costruire, a favore delle famiglie, una politica:",
+   "opts": [
+    "di responsabilità condivisa",
+    "di animazione sociale",
+    "di partecipazione globale",
+    "di negoziazione"
+   ],
+   "answ": 0,
+   "lez": 82,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kj0pw4",
+   "q": "Il bambino si manifesta nel mondo e struttura una propria identità mediante:",
+   "opts": [
+    "il corpo e il movimento",
+    "il ruolo degli educatori",
+    "il ruolo degli insegnanti",
+    "il corpo e la sua vivacità"
+   ],
+   "answ": 0,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ooodpy",
+   "q": "Alle funzioni motorie (corpo e movimento) sono collegate quelle:",
+   "opts": [
+    "ambientali",
+    "fisiologiche",
+    "psichiche",
+    "organiche"
+   ],
+   "answ": 2,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8mt3og",
+   "q": "Quale dei seguenti NON è un obiettivo educativo contemplato nel progetto educativo individualizzato di un bambino ospite di una comunità educativa di accoglienza:",
+   "opts": [
+    "Incremento delle capacità relazionali",
+    "Miglioramento del carattere",
+    "Raggiungimento del successo scolastico",
+    "Acquisizione delle routine quotidiane"
+   ],
+   "answ": 1,
+   "lez": 83,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "uwwn00",
+   "q": "Il modello di convivenza nella comunità di accoglienza ha come riferimento:",
+   "opts": [
+    "l’ambiente familiare",
+    "l’ambiente esterno",
+    "il contesto assistenziale",
+    "il contesto scolastico"
+   ],
+   "answ": 0,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "4qck08",
+   "q": "La maternità deve essere una condizione:",
+   "opts": [
+    "assegnata",
+    "critica",
+    "fortemente ricercata",
+    "fortemente voluta"
+   ],
+   "answ": 3,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "dar2k0",
+   "q": "L’intervento educativo, rispetto alla dimensione assistenziale:",
+   "opts": [
+    "è successivo",
+    "è ripetitivo",
+    "è precedente",
+    "deve andare oltre"
+   ],
+   "answ": 3,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "117cmv0-2",
+   "q": "Il problema, da parte dell’utenza, della mancata accettazione del percorso comunitario, specie in fase iniziale, è piuttosto:",
+   "opts": [
+    "normale",
+    "saltuario",
+    "frequente",
+    "raro"
+   ],
+   "answ": 2,
+   "lez": 84,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jhzsfm",
+   "q": "Il progetto educativo individualizzato in comunità educativa di accoglienza serve per tenere attiva:",
+   "opts": [
+    "la dimensione progettuale degli interventi da realizzare",
+    "la dimensione simbolica degli interventi da realizzare",
+    "la dimensione organizzativa degli interventi da realizzare",
+    "la dimensione valutativa degli interventi da realizzare"
+   ],
+   "answ": 0,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "x43pcc",
+   "q": "La costruzione di un progetto educativo individualizzato in comunità educativa di accoglienza non può prescindere da un coinvolgimento:",
+   "opts": [
+    "dell’assistente sociale",
+    "del soggetto per il quale viene realizzato",
+    "dell’ambiente comunitario ospitante",
+    "del consulente legale dell’utente"
+   ],
+   "answ": 1,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "bipoyw",
+   "q": "La struttura di un progetto educativo individualizzato realizzato in comunità educativa di accoglienza rimane:",
+   "opts": [
+    "flessibile",
+    "coesa",
+    "conclusa",
+    "articolata"
+   ],
+   "answ": 0,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "pr9ra0",
+   "q": "Da una comunità educativa di accoglienza occorre essere dimessi:",
+   "opts": [
+    "nei primi due mesi",
+    "immutati rispetto alla fase di ingresso",
+    "mutati rispetto alla fase di ingresso",
+    "nel più breve tempo possibile"
+   ],
+   "answ": 2,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "swfi4u",
+   "q": "Il progetto educativo individualizzato in comunità educativa di accoglienza è previsto:",
+   "opts": [
+    "Soltanto per i maggiorenni",
+    "Per tutti gli utenti accolti",
+    "Soltanto per le madri",
+    "Soltanto per i bambini"
+   ],
+   "answ": 1,
+   "lez": 85,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1jgflqc",
+   "q": "Progettare, in ambito educativo, significa riuscire ad anticipare:",
+   "opts": [
+    "la risposta dell’utenza",
+    "un indicatore di valutazione",
+    "un risultato atteso",
+    "la domanda dell’utenza"
+   ],
+   "answ": 2,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "tah190",
+   "q": "“Identifica la missione educativa della struttura e descrive la sua natura sistemica”. Ci stiamo riferendo al:",
+   "opts": [
+    "progetto educativo individualizzato",
+    "progetto educativo complessivo",
+    "progetto educativo contingente",
+    "progetto educativo di comunità"
+   ],
+   "answ": 3,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "rjgrbs",
+   "q": "Il verbo “progettare” deriva dal latino proiectum, traducibile con:",
+   "opts": [
+    "“progettando”",
+    "“mettersi alle spalle”",
+    "“gettare indietro”",
+    "“gettare in avanti”"
+   ],
+   "answ": 3,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "zdx34w",
+   "q": "Attraverso una adeguata progettazione educativa, la struttura educativa di accoglienza definisce la sua speciale:",
+   "opts": [
+    "personalità",
+    "identità",
+    "sostanza",
+    "forma"
+   ],
+   "answ": 1,
+   "lez": 86,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1nh28sh",
+   "q": "Per praticare davvero percorsi di deistituzionalizzazione delle risposte di accoglienza in comunità educativa sono fondamentali:",
+   "opts": [
+    "relazione e corresponsabilità",
+    "valutazione e azione",
+    "relazione e comprensione",
+    "corresponsabilità e azione"
+   ],
+   "answ": 0,
+   "lez": 87,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1anmwmo",
+   "q": "Nella pratica professionale quotidiana dell’educatore, non è più ammissibile una assenza, seppur parziale, di:",
+   "opts": [
+    "progettualità",
+    "controllo",
+    "imprenditorialità",
+    "serenità"
+   ],
+   "answ": 0,
+   "lez": 87,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1y1yta4",
+   "q": "La comunità educativa di accoglienza esprime e rivendica una forte identità:",
+   "opts": [
+    "terapeutica",
+    "pedagogica",
+    "istituzionale",
+    "riabilitativa"
+   ],
+   "answ": 1,
+   "lez": 88,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hwjbdl",
+   "q": "I professionisti operanti nelle comunità educative di accoglienza devono primariamente essere disposti:",
+   "opts": [
+    "alla valutazione",
+    "a raccontare",
+    "alla conversazione",
+    "all’ascolto"
+   ],
+   "answ": 3,
+   "lez": 88,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "r2j7j6",
+   "q": "Nella comunità educativa di accoglienza, per gli assisti, il benessere diventa una prospettiva esistenziale:",
+   "opts": [
+    "scontata",
+    "già raggiunta in passato",
+    "da raggiungere",
+    "irrilevante"
+   ],
+   "answ": 2,
+   "lez": 88,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1frmuv4",
+   "q": "La comunità educativa mamma-bambino nasce dall’esigenza di non privare il piccolo della presenza di una madre:",
+   "opts": [
+    "valida",
+    "molto adeguata",
+    "sola",
+    "seppur parzialmente adeguata"
+   ],
+   "answ": 3,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "740yzt",
+   "q": "La teoria dell’attaccamento ha sottolineato come il legame con la madre sia il contesto privilegiato per lo sviluppo:",
+   "opts": [
+    "sociale",
+    "infantile",
+    "umano",
+    "globale"
+   ],
+   "answ": 1,
+   "lez": 89,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "hnl678",
+   "q": "Le figure professionali presenti nell’organigramma di una comunità educativa mamma-bambino sono generalmente:",
+   "opts": [
+    "psicologo, pedagogista, assistente sociale",
+    "il team degli educatori professionali",
+    "coordinatore, psicologo, assistente sociale, avvocato",
+    "coordinatore, pedagogista, psicologo, assistente sociale, educatore"
+   ],
+   "answ": 3,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1lj8zk8",
+   "q": "La normativa vigente prevede che le comunità educative abbiano a disposizione un massimo di:",
+   "opts": [
+    "25 posti",
+    "7 posti",
+    "20 posti",
+    "10-12 posti"
+   ],
+   "answ": 3,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t44irk",
+   "q": "La permanenza in struttura educativa mamma-bambino è strettamente connessa al tempo necessario al raggiungimenti degli obiettivi previsti:",
+   "opts": [
+    "dal servizio sociale territoriale",
+    "dal coordinatore",
+    "dal comune di residenza",
+    "dal progetto educativo individualizzato"
+   ],
+   "answ": 3,
+   "lez": 90,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "amvnr8",
+   "q": "Anche per il piccolo ospite della comunità, come per la sua mamma, va predisposto e perseguito un:",
+   "opts": [
+    "progetto educativo individualizzato",
+    "piano di verifica",
+    "progetto educativo di comunità",
+    "piano di lavoro"
+   ],
+   "answ": 0,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "v31t48",
+   "q": "Si auspica che la permanenza del bambino in una comunità educativa sia il più possibile:",
+   "opts": [
+    "affollata",
+    "breve",
+    "vivace",
+    "sinergica"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "3ozz78",
+   "q": "I bambini che nascono in comunità rappresentano ad oggi un fenomeno sociale:",
+   "opts": [
+    "sconosciuto dal punto di vista scientifico",
+    "scarsamente indagato dal punto di vista scientifico",
+    "ampiamente conosciuto dal punto di vista scientifico",
+    "scarsamente accettato dal punto di vista scientifico"
+   ],
+   "answ": 1,
+   "lez": 91,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "626d8c",
+   "q": "Gli allievi di origine straniera, portatori di disabilità, sono caratterizzati da doppia:",
+   "opts": [
+    "potenzialità",
+    "difformità",
+    "socialità",
+    "differenza"
+   ],
+   "answ": 3,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "2z1qt",
+   "q": "L’attenzione pedagogica sugli allievi di origine straniera, portatori di disabilità, finora è stata:",
+   "opts": [
+    "misurata",
+    "scarsa",
+    "continua",
+    "consistente"
+   ],
+   "answ": 1,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "7oz35m",
+   "q": "La disabilità è una variabile anche di tipo:",
+   "opts": [
+    "speciale",
+    "linguistico",
+    "eccezionale",
+    "culturale"
+   ],
+   "answ": 3,
+   "lez": 92,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xtnwcs",
+   "q": "Silva sostiene che una scuola in grado di accogliere le diversità degli alunni deve necessariamente essere attenta anche alle loro:",
+   "opts": [
+    "famiglie",
+    "razze",
+    "leggende",
+    "etnie"
+   ],
+   "answ": 0,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1s8618c",
+   "q": "Dainese sottolinea che, nel nostro Paese, le pratiche rivolte a garantire una funzionale collaborazione con le famiglie di origine immigrata, con figli portatori di disabilità:",
+   "opts": [
+    "non risultano ancora del tutto consolidate",
+    "risultano consistenti",
+    "risultato attualmente bloccate",
+    "risultano del tutto consolidate"
+   ],
+   "answ": 0,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "cbtk4o",
+   "q": "La famiglia dell’allievo di origine immigrata, portatore di disabilità, collabora attivamente con la scuola se si percepisce come:",
+   "opts": [
+    "risorsa",
+    "indipendente",
+    "autonoma",
+    "propria"
+   ],
+   "answ": 0,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1t6e1f4",
+   "q": "Il principale ostacolo, per un proficuo rapporto scuola-famiglia dell’allievo di origine immigrata, portatore di disabilità, è rappresentato dal gap:",
+   "opts": [
+    "potenziale",
+    "linguistico",
+    "grammaticale",
+    "sociale"
+   ],
+   "answ": 1,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "e79zow",
+   "q": "Recenti ricerche attestano che le famiglie di origine immigrata sono caratterizzate da una condizione di:",
+   "opts": [
+    "deprivazione",
+    "solitudine",
+    "maleducazione",
+    "arretratezza"
+   ],
+   "answ": 1,
+   "lez": 93,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "8ipga3",
+   "q": "La presa in carico dell’allievo portatore di disabilità è di pertinenza:",
+   "opts": [
+    "dell’intera comunità scolastica",
+    "degli educatori socio sanitari",
+    "esclusiva del docente di sostegno",
+    "degli insegnanti curricolari"
+   ],
+   "answ": 0,
+   "lez": 94,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1xmfkr4",
+   "q": "La famiglia dell’allievo straniero portatore di disabilità collabora attivamente con la scuola se si percepisce come:",
+   "opts": [
+    "propria",
+    "autonoma",
+    "risorsa",
+    "indipendente"
+   ],
+   "answ": 2,
+   "lez": 94,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1438di6",
+   "q": "Secondo Ianes, la figura dell’insegnante di sostegno oggi richiede una forte:",
+   "opts": [
+    "esperienza sul campo",
+    "retribuzione economica",
+    "specializzazione universitaria",
+    "dose di pazienza"
+   ],
+   "answ": 2,
+   "lez": 94,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1ft2b5c",
+   "q": "Nel caso dell’allievo di origine immigrata, portatore di disabilità, è consigliabile rivedere diagnosi, piano educativo individualizzato, profilo di funzionamento tenendo conto:",
+   "opts": [
+    "del carattere dell’allievo",
+    "delle indicazioni degli operatori socio sanitari",
+    "della storia del percorso migratorio dell’allievo",
+    "della capacità di risposta dell’allievo"
+   ],
+   "answ": 2,
+   "lez": 95,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1tbqpgs",
+   "q": "Nella pratica didattica e osservativa, l’insegnante può essere soggetto a:",
+   "opts": [
+    "stereotipi",
+    "nervosismo",
+    "vari tipi di problematiche",
+    "incomprensioni"
+   ],
+   "answ": 0,
+   "lez": 95,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1kgogns",
+   "q": "L’osservazione scolastica dell’alunno con disabilità, proveniente da altra cultura, è funzionale anche alla realizzazione di una buona:",
+   "opts": [
+    "osservazione finale",
+    "progettazione educativa individualizzata",
+    "diagnosi funzionale",
+    "valutazione finale"
+   ],
+   "answ": 1,
+   "lez": 95,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "xe35d8",
+   "q": "In alcune situazioni, la modalità di lavoro individualizzata può escludere l’allievo di altra origine culturale, portatore di disabilità:",
+   "opts": [
+    "dall’autovalutazione delle sue competenze",
+    "dalla considerazione dei docenti",
+    "dalla vita della classe",
+    "dalla sua cultura di origine"
+   ],
+   "answ": 2,
+   "lez": 96,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "1yv5c8p",
+   "q": "La presenza di differenze e di diversità nella scuola è problema a carico:",
+   "opts": [
+    "della classe interessata",
+    "dell’allievo che ne risulta portatore",
+    "del docente di sostegno",
+    "dell’intera comunità scolastica"
+   ],
+   "answ": 3,
+   "lez": 96,
+   "seen": 0,
+   "error": 0
+  },
+  {
+   "id": "12yh0os",
+   "q": "Il tratto che più caratterizza una comunità scolastica è la sua dimensione:",
+   "opts": [
+    "valutativa",
+    "inclusiva",
+    "architettonica",
+    "strumentale"
+   ],
+   "answ": 1,
+   "lez": 96,
+   "seen": 0,
+   "error": 0
+  }
+ ]
+}

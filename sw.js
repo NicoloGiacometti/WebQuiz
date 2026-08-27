@@ -8,7 +8,7 @@
    Quando modifichi index.html o i file delle domande, alza
    CACHE_VERSION: il vecchio contenuto viene buttato.
 ══════════════════════════════════════════════════════════════ */
-var CACHE_VERSION = 'quiz-v6';
+var CACHE_VERSION = 'quiz-v7';
 
 var PRECACHE = [
   './',
@@ -20,6 +20,7 @@ var PRECACHE = [
   './data/psicologia.json',
   './data/storiapedagogia.json',
   './data/fondamenti-pedagogici.json',
+  './data/didattica-speciale.json',
   './games/memory.html',
   './games/bubblepop.html',
   './games/acquario.html',

@@ -24,6 +24,12 @@
    "file": "fondamenti-pedagogici.json",
    "nome": "Fondamenti Pedagogici 0-3",
    "emoji": "🧸"
+  },
+  {
+   "key": "didatticaspeciale",
+   "file": "didattica-speciale.json",
+   "nome": "Didattica e Pedagogia Speciale",
+   "emoji": "🧩"
   }
  ],
  "schema": 2
