@@ -535,7 +535,7 @@
    ],
    "answ": 1,
    "lez": 14,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -703,7 +703,7 @@
    ],
    "answ": 0,
    "lez": 17,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -787,7 +787,7 @@
    ],
    "answ": 2,
    "lez": 18,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1067,7 +1067,7 @@
    ],
    "answ": 0,
    "lez": 25,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1193,8 +1193,8 @@
    ],
    "answ": 2,
    "lez": 27,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "pwbny8",
@@ -1417,7 +1417,7 @@
    ],
    "answ": 1,
    "lez": 33,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1627,7 +1627,7 @@
    ],
    "answ": 1,
    "lez": 38,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1907,8 +1907,8 @@
    ],
    "answ": 3,
    "lez": 44,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "301nva",
@@ -2159,7 +2159,7 @@
    ],
    "answ": 0,
    "lez": 50,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2369,7 +2369,7 @@
    ],
    "answ": 3,
    "lez": 54,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2761,8 +2761,8 @@
    ],
    "answ": 3,
    "lez": 62,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "195j2ds",
@@ -2957,8 +2957,8 @@
    ],
    "answ": 0,
    "lez": 67,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "6672tg",
@@ -4049,8 +4049,8 @@
    ],
    "answ": 3,
    "lez": 90,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "amvnr8",
@@ -4329,7 +4329,7 @@
    ],
    "answ": 1,
    "lez": 96,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   }
  ]
