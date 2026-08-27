@@ -1,0 +1,36 @@
+{
+ "versione": 1,
+ "materie": [
+  {
+   "key": "antropologia",
+   "file": "antropologia.json",
+   "nome": "Antropologia",
+   "emoji": "📖"
+  },
+  {
+   "key": "psicologia",
+   "file": "psicologia.json",
+   "nome": "Psicologia dell'Apprendimento",
+   "emoji": "🧠"
+  },
+  {
+   "key": "storiapedagogia",
+   "file": "storiapedagogia.json",
+   "nome": "Storia della Pedagogia",
+   "emoji": "📚"
+  },
+  {
+   "key": "fondamentipedagogici",
+   "file": "fondamenti-pedagogici.json",
+   "nome": "Fondamenti Pedagogici 0-3",
+   "emoji": "🧸"
+  },
+  {
+   "key": "didatticaspeciale",
+   "file": "didattica-speciale.json",
+   "nome": "Didattica e Pedagogia Speciale",
+   "emoji": "🧩"
+  }
+ ],
+ "schema": 2
+}
