@@ -256,7 +256,7 @@
    "answ": 1,
    "lez": 5,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "hri8r0",
@@ -269,8 +269,8 @@
    ],
    "answ": 3,
    "lez": 5,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "jmags",
@@ -283,8 +283,8 @@
    ],
    "answ": 1,
    "lez": 5,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1pdy5u4",
