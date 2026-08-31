@@ -3531,8 +3531,8 @@
    ],
    "answ": 0,
    "lez": 79,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "amst3u",
@@ -3545,7 +3545,7 @@
    ],
    "answ": 3,
    "lez": 79,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3559,7 +3559,7 @@
    ],
    "answ": 0,
    "lez": 79,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
