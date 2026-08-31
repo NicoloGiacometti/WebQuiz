@@ -396,7 +396,7 @@
    "answ": 0,
    "lez": 10,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "vq85z0",
@@ -423,7 +423,7 @@
    ],
    "answ": 1,
    "lez": 10,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
