@@ -116,7 +116,7 @@
    "answ": 2,
    "lez": 3,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "ivfoc8",
@@ -227,8 +227,8 @@
    ],
    "answ": 0,
    "lez": 4,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "c6dkto",
