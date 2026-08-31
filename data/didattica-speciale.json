@@ -3797,8 +3797,8 @@
    ],
    "answ": 0,
    "lez": 85,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "x43pcc",
@@ -3812,7 +3812,7 @@
    "answ": 1,
    "lez": 85,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "bipoyw",
@@ -3839,8 +3839,8 @@
    ],
    "answ": 2,
    "lez": 85,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "swfi4u",
