@@ -1809,8 +1809,8 @@
    ],
    "answ": 2,
    "lez": 42,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1qckzho",
@@ -1823,7 +1823,7 @@
    ],
    "answ": 1,
    "lez": 42,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
