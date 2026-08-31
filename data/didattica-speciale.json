@@ -493,8 +493,8 @@
    ],
    "answ": 3,
    "lez": 13,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "138l1iw",
@@ -577,7 +577,7 @@
    ],
    "answ": 3,
    "lez": 15,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -647,7 +647,7 @@
    ],
    "answ": 3,
    "lez": 16,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -885,7 +885,7 @@
    ],
    "answ": 1,
    "lez": 21,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -969,7 +969,7 @@
    ],
    "answ": 0,
    "lez": 23,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -997,7 +997,7 @@
    ],
    "answ": 3,
    "lez": 24,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1039,7 +1039,7 @@
    ],
    "answ": 3,
    "lez": 25,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1305,8 +1305,8 @@
    ],
    "answ": 3,
    "lez": 31,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "14anolk",
@@ -1585,8 +1585,8 @@
    ],
    "answ": 1,
    "lez": 36,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "4on8qx",
@@ -1599,8 +1599,8 @@
    ],
    "answ": 1,
    "lez": 37,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "19kaplw",
@@ -1641,7 +1641,7 @@
    ],
    "answ": 0,
    "lez": 38,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1683,8 +1683,8 @@
    ],
    "answ": 3,
    "lez": 39,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "3yzgtk",
@@ -1739,7 +1739,7 @@
    ],
    "answ": 3,
    "lez": 40,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2061,8 +2061,8 @@
    ],
    "answ": 1,
    "lez": 47,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1mlwf9s",
@@ -2103,7 +2103,7 @@
    ],
    "answ": 1,
    "lez": 48,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2173,8 +2173,8 @@
    ],
    "answ": 3,
    "lez": 50,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "58ackw",
@@ -2383,7 +2383,7 @@
    ],
    "answ": 3,
    "lez": 54,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2453,7 +2453,7 @@
    ],
    "answ": 0,
    "lez": 56,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2579,7 +2579,7 @@
    ],
    "answ": 2,
    "lez": 59,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2649,7 +2649,7 @@
    ],
    "answ": 0,
    "lez": 60,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2845,7 +2845,7 @@
    ],
    "answ": 0,
    "lez": 64,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3027,7 +3027,7 @@
    ],
    "answ": 0,
    "lez": 68,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3055,7 +3055,7 @@
    ],
    "answ": 0,
    "lez": 68,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3083,7 +3083,7 @@
    ],
    "answ": 3,
    "lez": 69,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
