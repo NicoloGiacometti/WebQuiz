@@ -4021,7 +4021,7 @@
    ],
    "answ": 3,
    "lez": 90,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -4035,7 +4035,7 @@
    ],
    "answ": 3,
    "lez": 90,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -4050,7 +4050,7 @@
    "answ": 3,
    "lez": 90,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "amvnr8",
