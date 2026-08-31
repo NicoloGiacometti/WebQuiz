@@ -87,7 +87,7 @@
    ],
    "answ": 2,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -101,7 +101,7 @@
    ],
    "answ": 3,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -129,8 +129,8 @@
    ],
    "answ": 0,
    "lez": 3,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "8o8k1g",
@@ -143,7 +143,7 @@
    ],
    "answ": 0,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -157,7 +157,7 @@
    ],
    "answ": 1,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -172,7 +172,7 @@
    "answ": 2,
    "lez": 3,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1qfim1o",
@@ -199,8 +199,8 @@
    ],
    "answ": 1,
    "lez": 3,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1cvlx4c",
@@ -213,7 +213,7 @@
    ],
    "answ": 3,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
