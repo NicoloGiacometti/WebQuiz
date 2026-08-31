@@ -3447,7 +3447,7 @@
    ],
    "answ": 1,
    "lez": 77,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3461,8 +3461,8 @@
    ],
    "answ": 3,
    "lez": 77,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1opgh4w",
@@ -3475,8 +3475,8 @@
    ],
    "answ": 1,
    "lez": 77,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1wycqw8",
