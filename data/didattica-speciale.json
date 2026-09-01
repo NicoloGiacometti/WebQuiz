@@ -1432,7 +1432,7 @@
    "answ": 0,
    "lez": 34,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "4g0z2o",
@@ -1445,7 +1445,7 @@
    ],
    "answ": 1,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
