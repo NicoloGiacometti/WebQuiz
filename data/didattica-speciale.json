@@ -1865,8 +1865,8 @@
    ],
    "answ": 2,
    "lez": 43,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1kzzxn4",
@@ -1880,7 +1880,7 @@
    "answ": 0,
    "lez": 43,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "exsmyd",
@@ -1894,7 +1894,7 @@
    "answ": 3,
    "lez": 43,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "bvg114",
