@@ -983,8 +983,8 @@
    ],
    "answ": 3,
    "lez": 24,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "14zyk1b",
@@ -1012,7 +1012,7 @@
    "answ": 2,
    "lez": 24,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "iuwht4",
@@ -1026,7 +1026,7 @@
    "answ": 0,
    "lez": 24,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "127i8lc",
