@@ -1488,7 +1488,7 @@
    "answ": 3,
    "lez": 35,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "jozvdn",
@@ -1502,7 +1502,7 @@
    "answ": 1,
    "lez": 35,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "2d65jq",
@@ -1516,7 +1516,7 @@
    "answ": 0,
    "lez": 35,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "19h1858",
@@ -1529,8 +1529,8 @@
    ],
    "answ": 3,
    "lez": 35,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "3e4u0",
