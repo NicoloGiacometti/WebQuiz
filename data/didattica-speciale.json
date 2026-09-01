@@ -802,7 +802,7 @@
    "answ": 0,
    "lez": 19,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1hx2l3s",
@@ -844,7 +844,7 @@
    "answ": 1,
    "lez": 20,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "1ymsczt",
@@ -857,8 +857,8 @@
    ],
    "answ": 0,
    "lez": 20,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "186ouzc",
