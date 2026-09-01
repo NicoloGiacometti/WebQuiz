@@ -1712,7 +1712,7 @@
    "answ": 1,
    "lez": 40,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "74q7ek",
@@ -1725,8 +1725,8 @@
    ],
    "answ": 0,
    "lez": 40,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "10vgo8w",
