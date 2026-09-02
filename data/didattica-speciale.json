@@ -2859,8 +2859,8 @@
    ],
    "answ": 1,
    "lez": 65,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "roeyu2",
@@ -2874,7 +2874,7 @@
    "answ": 2,
    "lez": 65,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1p770l0",
@@ -2887,7 +2887,7 @@
    ],
    "answ": 1,
    "lez": 65,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
