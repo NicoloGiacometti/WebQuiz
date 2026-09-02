@@ -3069,7 +3069,7 @@
    ],
    "answ": 0,
    "lez": 69,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3112,7 +3112,7 @@
    "answ": 2,
    "lez": 69,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "arr09",
