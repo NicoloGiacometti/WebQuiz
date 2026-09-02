@@ -2958,7 +2958,7 @@
    "answ": 0,
    "lez": 67,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "6672tg",
@@ -2971,7 +2971,7 @@
    ],
    "answ": 0,
    "lez": 67,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2986,7 +2986,7 @@
    "answ": 2,
    "lez": 67,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1e49tyk",
@@ -2999,7 +2999,7 @@
    ],
    "answ": 1,
    "lez": 67,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
