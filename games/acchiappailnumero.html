@@ -1,0 +1,440 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Acchiappa il numero 🔢</title>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  min-height: 100vh;
+  font-family: 'Nunito', sans-serif;
+  background: #fdf0f5;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  position: relative;
+  overflow-x: hidden;
+}
+
+body::before, body::after {
+  content: '';
+  position: fixed;
+  border-radius: 50%;
+  filter: blur(60px);
+  pointer-events: none;
+  z-index: 0;
+}
+body::before {
+  width: 400px; height: 400px;
+  background: rgba(255, 182, 213, 0.35);
+  top: -100px; left: -100px;
+}
+body::after {
+  width: 350px; height: 350px;
+  background: rgba(178, 235, 242, 0.30);
+  bottom: -80px; right: -80px;
+}
+
+.container {
+  position: relative; z-index: 1;
+  width: 100%;
+  max-width: 520px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.header { text-align: center; }
+
+.title {
+  font-size: 2rem;
+  font-weight: 900;
+  color: #d63384;
+  letter-spacing: -0.5px;
+  text-shadow: 0 2px 0 rgba(214, 51, 132, 0.15);
+}
+
+.subtitle {
+  font-size: 0.85rem;
+  color: #c76b9a;
+  margin-top: 2px;
+  font-weight: 600;
+}
+
+/* Difficulty selector */
+.difficulty { display: flex; gap: 8px; }
+
+.diff-btn {
+  padding: 7px 18px;
+  border-radius: 99px;
+  border: 2px solid rgba(214,51,132,0.20);
+  background: white;
+  font-family: 'Nunito', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 800;
+  color: #c76b9a;
+  cursor: pointer;
+  transition: all 0.18s;
+}
+.diff-btn:hover { border-color: #f472b6; color: #d63384; }
+.diff-btn.active {
+  background: linear-gradient(135deg, #f472b6, #d63384);
+  color: white;
+  border-color: transparent;
+  box-shadow: 0 4px 12px rgba(214,51,132,0.30);
+}
+
+/* Stats bar */
+.stats { display: flex; gap: 12px; width: 100%; }
+
+.stat-pill {
+  flex: 1;
+  background: white;
+  border-radius: 99px;
+  padding: 10px 16px;
+  text-align: center;
+  box-shadow: 0 4px 16px rgba(214, 51, 132, 0.10), 0 1px 3px rgba(0,0,0,0.06);
+  border: 1.5px solid rgba(214, 51, 132, 0.10);
+}
+
+.stat-val {
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: #d63384;
+  line-height: 1;
+}
+
+.stat-lbl {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  color: #c76b9a;
+  margin-top: 2px;
+}
+
+/* Board */
+.board {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1;
+  background: white;
+  border-radius: 28px;
+  box-shadow: 0 6px 30px rgba(214,51,132,0.10);
+  border: 1.5px solid rgba(214,51,132,0.12);
+  overflow: hidden;
+}
+
+.num {
+  position: absolute;
+  width: 52px; height: 52px;
+  margin: -26px 0 0 -26px;
+  border-radius: 50%;
+  border: 1.5px solid rgba(214,51,132,0.18);
+  background: linear-gradient(135deg, #fff0f7 0%, #fce4f0 100%);
+  box-shadow: 0 4px 16px rgba(214,51,132,0.14), 0 1px 3px rgba(0,0,0,0.06);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: #d63384;
+  cursor: pointer;
+  user-select: none;
+  transition: transform 0.18s cubic-bezier(.22,1,.36,1), background 0.18s, box-shadow 0.18s;
+  animation: popIn 0.35s cubic-bezier(.22,1,.36,1) backwards;
+}
+
+@keyframes popIn {
+  from { opacity: 0; transform: scale(0.4); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.num:hover { transform: scale(1.08); background: #fff0f7; }
+
+.num.next {
+  border-color: rgba(214,51,132,0.45);
+  box-shadow: 0 0 0 4px rgba(244,114,182,0.18), 0 4px 16px rgba(214,51,132,0.18);
+}
+
+.num.done {
+  background: linear-gradient(135deg, #e8f8e8 0%, #d4f0d4 100%);
+  border-color: rgba(72, 199, 116, 0.30);
+  box-shadow: 0 4px 20px rgba(72, 199, 116, 0.25);
+  color: #3a9d5d;
+  cursor: default;
+  pointer-events: none;
+  animation: matchPop 0.4s cubic-bezier(.22,1,.36,1);
+}
+
+@keyframes matchPop {
+  0%   { transform: scale(1); }
+  50%  { transform: scale(1.18); }
+  100% { transform: scale(1); }
+}
+
+.num.wrong { animation: shake 0.35s ease; }
+
+@keyframes shake {
+  0%,100% { transform: translateX(0); }
+  25%  { transform: translateX(-7px); }
+  75%  { transform: translateX(7px); }
+}
+
+/* Overlay (start + win) */
+.overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(255,255,255,0.94);
+  backdrop-filter: blur(3px);
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  text-align: center;
+  padding: 28px;
+  z-index: 5;
+}
+.overlay.show { display: flex; animation: floatUp 0.4s cubic-bezier(.22,1,.36,1); }
+
+@keyframes floatUp {
+  from { opacity:0; transform: translateY(20px); }
+  to   { opacity:1; transform: translateY(0); }
+}
+
+.ov-emoji { font-size: 3.5rem; animation: bounce 0.6s ease infinite alternate; }
+@keyframes bounce { from { transform: translateY(0); } to { transform: translateY(-8px); } }
+
+.ov-title { font-size: 1.6rem; font-weight: 900; color: #d63384; }
+.ov-sub { font-size: 0.9rem; color: #c76b9a; font-weight: 600; max-width: 300px; text-wrap: pretty; }
+
+.ov-record {
+  font-size: 0.75rem; font-weight: 800;
+  color: #3a9d5d;
+  background: #e8f8e8;
+  border-radius: 99px;
+  padding: 5px 14px;
+}
+
+.btn-restart {
+  background: linear-gradient(135deg, #f472b6, #d63384);
+  color: white;
+  border: none;
+  border-radius: 99px;
+  padding: 12px 32px;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1rem;
+  font-weight: 800;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(214,51,132,0.35);
+  transition: transform 0.18s, box-shadow 0.18s;
+}
+.btn-restart:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(214,51,132,0.40); }
+.btn-restart:active { transform: translateY(0); }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <div class="header">
+    <div class="title">🔢 Acchiappa il numero</div>
+    <div class="subtitle">Tocca i numeri in ordine crescente!</div>
+  </div>
+
+  <div class="difficulty">
+    <button class="diff-btn active" onclick="setDiff(12)" id="diff-12">12 numeri</button>
+    <button class="diff-btn" onclick="setDiff(20)" id="diff-20">20 numeri</button>
+  </div>
+
+  <div class="stats">
+    <div class="stat-pill">
+      <div class="stat-val" id="next">1</div>
+      <div class="stat-lbl">Prossimo</div>
+    </div>
+    <div class="stat-pill">
+      <div class="stat-val" id="errors">0</div>
+      <div class="stat-lbl">Errori</div>
+    </div>
+    <div class="stat-pill">
+      <div class="stat-val" id="timer">0.0</div>
+      <div class="stat-lbl">Tempo</div>
+    </div>
+  </div>
+
+  <div class="board" id="board">
+    <div class="overlay show" id="start">
+      <div class="ov-emoji">🔢</div>
+      <div class="ov-title">Pronto?</div>
+      <div class="ov-sub">Tocca i numeri dal più piccolo al più grande. Il cronometro parte al primo tocco.</div>
+      <div class="ov-record" id="rec-start" style="display:none"></div>
+      <button class="btn-restart" onclick="startGame()">Inizia ✨</button>
+    </div>
+    <div class="overlay" id="win">
+      <div class="ov-emoji">🎉</div>
+      <div class="ov-title">Completato!</div>
+      <div class="ov-sub" id="win-sub"></div>
+      <div class="ov-record" id="rec-win" style="display:none"></div>
+      <button class="btn-restart" onclick="startGame()">Gioca ancora ✨</button>
+    </div>
+  </div>
+
+</div>
+
+<script>
+var total = 12;
+var next = 1, errors = 0, startTime = 0, timerID = null, running = false;
+
+function key() { return 'acchiappa-best-' + total; }
+
+var DEFAULT_BEST = 20; // record di partenza da battere
+
+function getBest() {
+  try { var v = localStorage.getItem(key()); return v ? parseFloat(v) : DEFAULT_BEST; }
+  catch (e) { return DEFAULT_BEST; }
+}
+function setBest(v) {
+  try { localStorage.setItem(key(), String(v)); } catch (e) {}
+}
+
+function showStartRecord() {
+  var b = getBest(), el = document.getElementById('rec-start');
+  el.textContent = '🏆 Record: ' + b.toFixed(1) + 's';
+  el.style.display = '';
+}
+
+function setDiff(n) {
+  total = n;
+  document.querySelectorAll('.diff-btn').forEach(function (b) { b.classList.remove('active'); });
+  document.getElementById('diff-' + n).classList.add('active');
+  startGame();
+}
+
+function shuffle(a) {
+  var b = a.slice();
+  for (var i = b.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var t = b[i]; b[i] = b[j]; b[j] = t;
+  }
+  return b;
+}
+
+/* Posiziona i numeri su una griglia con jitter: niente sovrapposizioni,
+   ma la disposizione resta irregolare a ogni partita. */
+function layout(count) {
+  var cols = Math.ceil(Math.sqrt(count * 1.15));
+  var rows = Math.ceil(count / cols);
+  var cells = [];
+  for (var r = 0; r < rows; r++) {
+    for (var c = 0; c < cols; c++) cells.push([c, r]);
+  }
+  cells = shuffle(cells).slice(0, count);
+  var pad = 9; // % di margine dal bordo
+  return cells.map(function (cell) {
+    var cw = (100 - pad * 2) / cols, ch = (100 - pad * 2) / rows;
+    var jx = (Math.random() - 0.5) * cw * 0.45;
+    var jy = (Math.random() - 0.5) * ch * 0.45;
+    return {
+      x: pad + cw * (cell[0] + 0.5) + jx,
+      y: pad + ch * (cell[1] + 0.5) + jy
+    };
+  });
+}
+
+function tick() {
+  var el = ((Date.now() - startTime) / 1000);
+  document.getElementById('timer').textContent = el.toFixed(1);
+}
+
+function startGame() {
+  clearInterval(timerID);
+  next = 1; errors = 0; running = false;
+  document.getElementById('next').textContent = '1';
+  document.getElementById('errors').textContent = '0';
+  document.getElementById('timer').textContent = '0.0';
+  document.getElementById('win').classList.remove('show');
+  document.getElementById('start').classList.remove('show');
+
+  var board = document.getElementById('board');
+  board.querySelectorAll('.num').forEach(function (n) { n.remove(); });
+
+  var pos = layout(total);
+  for (var i = 1; i <= total; i++) {
+    var el = document.createElement('div');
+    el.className = 'num' + (i === 1 ? ' next' : '');
+    el.textContent = i;
+    el.dataset.n = i;
+    el.style.left = pos[i - 1].x + '%';
+    el.style.top = pos[i - 1].y + '%';
+    el.style.animationDelay = (i * 0.025) + 's';
+    el.addEventListener('click', onTap);
+    board.appendChild(el);
+  }
+}
+
+function onTap(e) {
+  var el = e.currentTarget;
+  var n = parseInt(el.dataset.n, 10);
+
+  if (!running) {
+    running = true;
+    startTime = Date.now();
+    timerID = setInterval(tick, 100);
+  }
+
+  if (n !== next) {
+    errors++;
+    document.getElementById('errors').textContent = errors;
+    el.classList.remove('wrong');
+    void el.offsetWidth;
+    el.classList.add('wrong');
+    return;
+  }
+
+  el.classList.remove('next');
+  el.classList.add('done');
+  next++;
+  document.getElementById('next').textContent = next > total ? '✓' : next;
+
+  var nx = document.querySelector('.num[data-n="' + next + '"]');
+  if (nx) nx.classList.add('next');
+
+  if (next > total) finish();
+}
+
+function finish() {
+  clearInterval(timerID);
+  running = false;
+  var secs = (Date.now() - startTime) / 1000;
+  /* Penalità: mezzo secondo per errore */
+  var score = secs + errors * 0.5;
+  document.getElementById('timer').textContent = secs.toFixed(1);
+
+  document.getElementById('win-sub').textContent =
+    total + ' numeri in ' + secs.toFixed(1) + 's' +
+    (errors ? ' · ' + errors + (errors === 1 ? ' errore' : ' errori') + ' (+' + (errors * 0.5).toFixed(1) + 's)' : ' · nessun errore!');
+
+  var best = getBest();
+  var rec = document.getElementById('rec-win');
+  if (score < best) {
+    setBest(score);
+    rec.textContent = '🏆 Nuovo record: ' + score.toFixed(1) + 's';
+  } else {
+    rec.textContent = '🏆 Record: ' + best.toFixed(1) + 's (il tuo: ' + score.toFixed(1) + 's)';
+  }
+  rec.style.display = '';
+
+  setTimeout(function () { document.getElementById('win').classList.add('show'); }, 400);
+}
+
+showStartRecord();
+</script>
+</body>
+</html>

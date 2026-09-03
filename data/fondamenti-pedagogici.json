@@ -638,7 +638,7 @@
    "id": "19nsdn5",
    "q": "Marcello Peretti scriveva: «il bambino non è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
    "opts": [
-    "«il bambino non è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
+    "",
     "«il bambino è presenza umana con colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
     "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
     "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\""
@@ -779,14 +779,14 @@
    "q": "Quando nasce il \"Fondo per il contrasto della povertà educativa minorile\"",
    "opts": [
     "2018",
-    "2016",
+    "2106",
     "2015",
     "2017"
    ],
    "answ": 1,
    "lez": 17,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "1gk2awi",
@@ -799,8 +799,8 @@
    ],
    "answ": 2,
    "lez": 17,
-   "seen": 1,
-   "error": 1
+   "seen": 0,
+   "error": 0
   },
   {
    "id": "4bdkk",
@@ -2198,7 +2198,7 @@
    ],
    "answ": 3,
    "lez": 51,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2317,7 +2317,7 @@
    "id": "yocb00",
    "q": "La multimedialità è ormai",
    "opts": [
-    "il  comportamento emergente tra adolescenti e giovani, in limato uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
+    "",
     "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
     "il comportamento non emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
     "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media non si integra ed entra a far parte sempre di più del quotidiano delle famiglie"
@@ -2325,7 +2325,7 @@
    "answ": 1,
    "lez": 56,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "13a3l4c",
@@ -2436,7 +2436,7 @@
    ],
    "answ": 3,
    "lez": 60,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
