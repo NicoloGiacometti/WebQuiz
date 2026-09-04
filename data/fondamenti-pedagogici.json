@@ -17,7 +17,7 @@
    ],
    "answ": 1,
    "lez": 1,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
@@ -31,7 +31,7 @@
    ],
    "answ": 3,
    "lez": 1,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
@@ -43,10 +43,10 @@
     "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Winnicott, , Klein, Anna Freud.",
     "rimanda alla teoria dell’attaccamento con significative intersezioni ai temi del gioco, creatività, processi di riparazione, la relazione educativa gli autori di questo sfondo teorico sono: Winnicott, Dolto, Klein"
    ],
-   "answ": 1,
+   "answ": 0,
    "lez": 1,
-   "seen": 1,
-   "error": 1
+   "seen": 0,
+   "error": 0
   },
   {
    "id": "qx1zk6",
@@ -59,7 +59,7 @@
    ],
    "answ": 0,
    "lez": 1,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
@@ -73,7 +73,7 @@
    ],
    "answ": 1,
    "lez": 1,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
@@ -638,7 +638,7 @@
    "id": "19nsdn5",
    "q": "Marcello Peretti scriveva: «il bambino non è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
    "opts": [
-    "",
+    "«il bambino non è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
     "«il bambino è presenza umana con colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
     "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità, e alla violenza; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\"",
     "«il bambino è presenza umana senza colpa, senza peccato, senza malvagità […], lo spirito dell’infanzia è assolutamente contrario alla brutalità; non conosce la seduzione del denaro, l’avidità del possesso, il rancore, il calcolo vendicatore, la follia dell’omicidio. Esso è invito a quel tipo di relazioni in cui dominano l’affidamento personale, la confidenza, la fiducia, il bisogno della protezione, il godimento dell’altro in quanto riscontro di ansie e riscontro a vitali attese\""
@@ -2317,7 +2317,7 @@
    "id": "yocb00",
    "q": "La multimedialità è ormai",
    "opts": [
-    "",
+    "il  comportamento emergente tra adolescenti e giovani, in limato uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
     "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
     "il comportamento non emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media si integra ed entra a far parte sempre di più del quotidiano delle famiglie",
     "il comportamento emergente tra adolescenti e giovani, l’uso di vecchi e nuovi media non si integra ed entra a far parte sempre di più del quotidiano delle famiglie"
