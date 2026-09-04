@@ -129,8 +129,8 @@
    ],
    "answ": 0,
    "lez": 3,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1g26ujk",
@@ -143,8 +143,8 @@
    ],
    "answ": 3,
    "lez": 3,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "oazp8h",
@@ -157,7 +157,7 @@
    ],
    "answ": 0,
    "lez": 3,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -184,8 +184,8 @@
    ],
    "answ": 1,
    "lez": 4,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "fxb7pc",
