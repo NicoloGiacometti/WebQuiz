@@ -505,7 +505,7 @@
    ],
    "answ": 0,
    "lez": 11,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -519,8 +519,8 @@
    ],
    "answ": 3,
    "lez": 11,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1fnwczw",
@@ -533,7 +533,7 @@
    ],
    "answ": 1,
    "lez": 11,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
