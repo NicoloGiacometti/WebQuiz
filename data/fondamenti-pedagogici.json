@@ -562,7 +562,7 @@
    "answ": 2,
    "lez": 12,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "1pu79fc",
@@ -576,7 +576,7 @@
    "answ": 3,
    "lez": 12,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "u5rj69",
@@ -587,7 +587,7 @@
     "L’adulto è annullato da ogni sua autorevolezza educativa e non si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, ma ricerca in cambio dello stesso bambino che l’innocenza che lo rigenera.",
     "L’adulto è annullato da ogni sua autorevolezza educativa e si situa sullo stesso piano del bambino, non solo per mettere a quest’ultimo di crescere, ma ricerca in cambio dello stesso bambino che l’innocenza che lo rigenera."
    ],
-   "answ": 2,
+   "answ": 0,
    "lez": 12,
    "seen": 1,
    "error": 1
