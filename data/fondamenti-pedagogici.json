@@ -646,11 +646,11 @@
    "answ": 2,
    "lez": 14,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "15555zo",
-   "q": "Cosa mostra la modellistica sociologica? mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più quattro principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto",
+   "q": "Cosa mostra la modellistica sociologica?",
    "opts": [
     "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più quattro principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto.",
     "Mostra che, per pensare l’infanzia, gli adulti utilizzano per lo più cinque principali rappresentazioni, con molteplici varianti e qualche ibridazione: l’infanzia come mancanza, l’infanzia come condizione d’innocenza, l’infanzia come tema da analizzare attraverso la scienza e l’infanzia che considera il bambino come soggetto.",
@@ -660,7 +660,7 @@
    "answ": 0,
    "lez": 14,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "sz4tgw",
@@ -688,7 +688,7 @@
    "answ": 2,
    "lez": 14,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1jsxn4y",
