@@ -422,7 +422,7 @@
    "answ": 1,
    "lez": 9,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "w3rcx3",
@@ -447,7 +447,7 @@
     "-La proiezione -La rimozione-negazione -Introiezione",
     "-La negazione -La rimozione -Introiezione"
    ],
-   "answ": 0,
+   "answ": 2,
    "lez": 9,
    "seen": 1,
    "error": 1
