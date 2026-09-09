@@ -1531,7 +1531,7 @@
   },
   {
    "id": "16czp7d",
-   "q": "Vygotskij afferma che:: una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento.",
+   "q": "Vygotskij afferma che:",
    "opts": [
     "non è una specificità dell’essere umano quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere il proprio comportamento.",
     "una specificità dell’essere umano è quella di creare degli stimoli artificiali in grado di determinare le sue reazioni, che vengono utilizzati come veri e propri mezzi per dirigere le proprie relazioni.",
@@ -1622,7 +1622,7 @@
     "non potrebbe sorgere mai dall’attenzione residua",
     "potrebbe sorgere dall’attenzione naturale"
    ],
-   "answ": 3,
+   "answ": 0,
    "lez": 38,
    "seen": 1,
    "error": 1
@@ -1652,7 +1652,7 @@
    ],
    "answ": 3,
    "lez": 39,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
@@ -1664,10 +1664,10 @@
     "rendere trasparente la propria coscienza al fine di rendere abitabile del pensiero del bambino",
     "non rendere trasparente la propria coscienza al fine di rendere accettabile e abitabile del pensiero del bambino"
    ],
-   "answ": 2,
+   "answ": 0,
    "lez": 39,
-   "seen": 1,
-   "error": 1
+   "seen": 0,
+   "error": 0
   },
   {
    "id": "1k6ky7s",
@@ -1680,7 +1680,7 @@
    ],
    "answ": 3,
    "lez": 39,
-   "seen": 1,
+   "seen": 0,
    "error": 0
   },
   {
