@@ -1415,7 +1415,7 @@
    ],
    "answ": 0,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1429,8 +1429,8 @@
    ],
    "answ": 0,
    "lez": 34,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "famvu0",
@@ -1457,7 +1457,7 @@
    ],
    "answ": 3,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1484,7 +1484,7 @@
    ],
    "answ": 1,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
