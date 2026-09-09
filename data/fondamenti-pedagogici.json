@@ -1247,7 +1247,7 @@
    ],
    "answ": 2,
    "lez": 31,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1261,8 +1261,8 @@
    ],
    "answ": 3,
    "lez": 31,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "nxni98",
@@ -1275,7 +1275,7 @@
    ],
    "answ": 2,
    "lez": 31,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1289,8 +1289,8 @@
    ],
    "answ": 1,
    "lez": 32,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "nx877c",
@@ -1303,8 +1303,8 @@
    ],
    "answ": 0,
    "lez": 32,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "kxake4",
@@ -1317,7 +1317,7 @@
    ],
    "answ": 2,
    "lez": 32,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1331,7 +1331,7 @@
    ],
    "answ": 0,
    "lez": 32,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1345,8 +1345,8 @@
    ],
    "answ": 0,
    "lez": 32,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1pwi91c",
@@ -1359,8 +1359,8 @@
    ],
    "answ": 2,
    "lez": 32,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1y3tatw",
