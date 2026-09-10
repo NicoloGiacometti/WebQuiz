@@ -2408,7 +2408,7 @@
    ],
    "answ": 2,
    "lez": 60,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2422,7 +2422,7 @@
    ],
    "answ": 0,
    "lez": 60,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2437,7 +2437,7 @@
    "answ": 3,
    "lez": 60,
    "seen": 1,
-   "error": 0
+   "error": 1
   },
   {
    "id": "ufxw3m",
