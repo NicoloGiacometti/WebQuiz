@@ -1960,7 +1960,7 @@
    ],
    "answ": 2,
    "lez": 47,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1974,7 +1974,7 @@
    ],
    "answ": 0,
    "lez": 47,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1988,8 +1988,8 @@
    ],
    "answ": 3,
    "lez": 47,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "jf57hg",
