@@ -2240,7 +2240,7 @@
    ],
    "answ": 2,
    "lez": 52,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2254,7 +2254,7 @@
    ],
    "answ": 1,
    "lez": 52,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2268,8 +2268,8 @@
    ],
    "answ": 0,
    "lez": 52,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "x4hejp",
