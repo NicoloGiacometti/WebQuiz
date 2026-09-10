@@ -2534,7 +2534,7 @@
    ],
    "answ": 2,
    "lez": 62,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2548,7 +2548,7 @@
    ],
    "answ": 2,
    "lez": 62,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2562,8 +2562,8 @@
    ],
    "answ": 2,
    "lez": 62,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "7z6syw",
