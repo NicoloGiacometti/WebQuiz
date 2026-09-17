@@ -185,8 +185,8 @@
    ],
    "answ": 0,
    "lez": 3,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "cbun80",
@@ -465,7 +465,7 @@
    ],
    "answ": 0,
    "lez": 11,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -899,7 +899,7 @@
    ],
    "answ": 0,
    "lez": 21,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1207,7 +1207,7 @@
    ],
    "answ": 0,
    "lez": 28,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1249,8 +1249,8 @@
    ],
    "answ": 2,
    "lez": 28,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1nemf3e",
@@ -1347,7 +1347,7 @@
    ],
    "answ": 1,
    "lez": 32,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1389,7 +1389,7 @@
    ],
    "answ": 3,
    "lez": 33,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1403,8 +1403,8 @@
    ],
    "answ": 0,
    "lez": 33,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "qnce6k",
@@ -1445,7 +1445,7 @@
    ],
    "answ": 1,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1585,7 +1585,7 @@
    ],
    "answ": 1,
    "lez": 36,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1753,7 +1753,7 @@
    ],
    "answ": 3,
    "lez": 41,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1879,7 +1879,7 @@
    ],
    "answ": 0,
    "lez": 43,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2061,8 +2061,8 @@
    ],
    "answ": 1,
    "lez": 47,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1mlwf9s",
@@ -2103,8 +2103,8 @@
    ],
    "answ": 1,
    "lez": 48,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "5bzzng",
@@ -2173,7 +2173,7 @@
    ],
    "answ": 3,
    "lez": 50,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2411,8 +2411,8 @@
    ],
    "answ": 2,
    "lez": 55,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "6tqsjk",
@@ -2537,8 +2537,8 @@
    ],
    "answ": 1,
    "lez": 58,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "1uviqv8",
@@ -3237,7 +3237,7 @@
    ],
    "answ": 0,
    "lez": 72,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3321,7 +3321,7 @@
    ],
    "answ": 0,
    "lez": 74,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3405,7 +3405,7 @@
    ],
    "answ": 2,
    "lez": 76,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
