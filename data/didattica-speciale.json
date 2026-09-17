@@ -116,7 +116,7 @@
    "answ": 2,
    "lez": 3,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "ivfoc8",
@@ -2342,7 +2342,7 @@
    "answ": 3,
    "lez": 53,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "tfi6pw",
@@ -2636,7 +2636,7 @@
    "answ": 2,
    "lez": 60,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "avjhnc",
@@ -4134,7 +4134,7 @@
    "answ": 3,
    "lez": 92,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "xtnwcs",
