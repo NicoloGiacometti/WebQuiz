@@ -340,7 +340,7 @@
    "answ": 0,
    "lez": 8,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "5z05ma",
@@ -396,7 +396,7 @@
    "answ": 0,
    "lez": 10,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "vq85z0",
@@ -451,7 +451,7 @@
    ],
    "answ": 2,
    "lez": 11,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -479,7 +479,7 @@
    ],
    "answ": 2,
    "lez": 12,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -606,7 +606,7 @@
    "answ": 2,
    "lez": 15,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1w1gc40",
@@ -1487,7 +1487,7 @@
    ],
    "answ": 3,
    "lez": 35,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1740,7 +1740,7 @@
    "answ": 3,
    "lez": 40,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "80lqzc",
@@ -1781,7 +1781,7 @@
    ],
    "answ": 2,
    "lez": 41,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1823,7 +1823,7 @@
    ],
    "answ": 1,
    "lez": 42,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1893,7 +1893,7 @@
    ],
    "answ": 3,
    "lez": 43,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1991,7 +1991,7 @@
    ],
    "answ": 2,
    "lez": 45,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2467,7 +2467,7 @@
    ],
    "answ": 1,
    "lez": 56,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2524,7 +2524,7 @@
    "answ": 1,
    "lez": 57,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1wwyb8s",
@@ -2677,7 +2677,7 @@
    ],
    "answ": 2,
    "lez": 61,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3140,7 +3140,7 @@
    "answ": 1,
    "lez": 70,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "14jllyc",
@@ -3293,7 +3293,7 @@
    ],
    "answ": 0,
    "lez": 74,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3573,7 +3573,7 @@
    ],
    "answ": 0,
    "lez": 80,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3728,7 +3728,7 @@
    "answ": 1,
    "lez": 83,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "uwwn00",
@@ -3783,7 +3783,7 @@
    ],
    "answ": 2,
    "lez": 84,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -3951,7 +3951,7 @@
    ],
    "answ": 1,
    "lez": 88,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -4049,7 +4049,7 @@
    ],
    "answ": 3,
    "lez": 90,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
