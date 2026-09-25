@@ -185,7 +185,7 @@
    "answ": 1,
    "lez": 4,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "fxb7pc",
@@ -393,8 +393,8 @@
    ],
    "answ": 0,
    "lez": 8,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "pjcfv4",
@@ -435,7 +435,7 @@
    ],
    "answ": 2,
    "lez": 9,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -491,7 +491,7 @@
    ],
    "answ": 2,
    "lez": 10,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -533,7 +533,7 @@
    ],
    "answ": 1,
    "lez": 11,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -911,8 +911,8 @@
    ],
    "answ": 3,
    "lez": 21,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "12vt808",
@@ -1163,7 +1163,7 @@
    ],
    "answ": 3,
    "lez": 28,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1247,7 +1247,7 @@
    ],
    "answ": 2,
    "lez": 31,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1276,7 +1276,7 @@
    "answ": 2,
    "lez": 31,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1hwkch0",
@@ -1484,7 +1484,7 @@
    ],
    "answ": 1,
    "lez": 34,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1540,7 +1540,7 @@
    ],
    "answ": 2,
    "lez": 36,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1596,8 +1596,8 @@
    ],
    "answ": 2,
    "lez": 37,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "y6zvkd",
@@ -1694,7 +1694,7 @@
    ],
    "answ": 0,
    "lez": 40,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1750,7 +1750,7 @@
    ],
    "answ": 0,
    "lez": 42,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1863,7 +1863,7 @@
    "answ": 1,
    "lez": 45,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "17s7tzt",
@@ -1890,7 +1890,7 @@
    ],
    "answ": 1,
    "lez": 45,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -1918,8 +1918,8 @@
    ],
    "answ": 3,
    "lez": 46,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "hgakhw",
@@ -2016,8 +2016,8 @@
    ],
    "answ": 1,
    "lez": 48,
-   "seen": 0,
-   "error": 0
+   "seen": 1,
+   "error": 1
   },
   {
    "id": "140gf3m",
@@ -2198,7 +2198,7 @@
    ],
    "answ": 3,
    "lez": 51,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2226,7 +2226,7 @@
    ],
    "answ": 3,
    "lez": 51,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2618,7 +2618,7 @@
    ],
    "answ": 1,
    "lez": 64,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
@@ -2646,7 +2646,7 @@
    ],
    "answ": 1,
    "lez": 65,
-   "seen": 0,
+   "seen": 1,
    "error": 0
   },
   {
