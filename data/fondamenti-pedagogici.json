@@ -172,7 +172,7 @@
    "answ": 0,
    "lez": 3,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "whgbc4",
@@ -842,7 +842,7 @@
    "answ": 2,
    "lez": 19,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1n6gop8",
@@ -2787,7 +2787,7 @@
    "answ": 0,
    "lez": 94,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "yqmqc",
