@@ -354,7 +354,7 @@
    "answ": 0,
    "lez": 9,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "dkyijc",
@@ -956,7 +956,7 @@
    "answ": 1,
    "lez": 23,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "9iltzk",
@@ -3882,7 +3882,7 @@
    "answ": 3,
    "lez": 86,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "rjgrbs",
