@@ -1208,7 +1208,7 @@
    "answ": 0,
    "lez": 28,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1vrno7g",
@@ -2062,7 +2062,7 @@
    "answ": 1,
    "lez": 47,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1mlwf9s",
@@ -2678,7 +2678,7 @@
    "answ": 2,
    "lez": 61,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "itqexo",
@@ -4288,7 +4288,7 @@
    "answ": 1,
    "lez": 95,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "xe35d8",
