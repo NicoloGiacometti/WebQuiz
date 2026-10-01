@@ -130,7 +130,7 @@
    "answ": 0,
    "lez": 3,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "8o8k1g",
@@ -424,7 +424,7 @@
    "answ": 1,
    "lez": 10,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1gbea98",
@@ -536,7 +536,7 @@
    "answ": 1,
    "lez": 14,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "el0cf9",
@@ -578,7 +578,7 @@
    "answ": 3,
    "lez": 15,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "14gnr1",
@@ -1530,7 +1530,7 @@
    "answ": 3,
    "lez": 35,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "3e4u0",
@@ -1712,7 +1712,7 @@
    "answ": 1,
    "lez": 40,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "74q7ek",
@@ -2524,7 +2524,7 @@
    "answ": 1,
    "lez": 57,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1wwyb8s",
@@ -3924,7 +3924,7 @@
    "answ": 0,
    "lez": 87,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "1anmwmo",
@@ -4288,7 +4288,7 @@
    "answ": 1,
    "lez": 95,
    "seen": 1,
-   "error": 1
+   "error": 0
   },
   {
    "id": "xe35d8",
